@@ -6,16 +6,16 @@ export default function Header() {
   const [navbar, setNavbar] = useState(false);
 
   return (
-    <nav className="w-full bg-gray-300 shadow">
+    <nav className="w-full bg-gray-700 shadow">
       <div className="justify-between px-4 mx-auto lg:max-w-7xl md:items-center md:flex md:px-8">
         <div>
           <div className="flex items-center justify-between py-3 md:py-5 md:block">
-            <a href="javascript:void(0)">
-              <h1 className="text-4xl text-gray-900 font-bold">LOGO</h1>
-            </a>
+            <Link to="/">
+              <h1 className="text-3xl text-white font-bold">WATCHBALL</h1>
+            </Link>
             <div className="md:hidden">
               <button
-                className="p-2 text-gray-700 rounded-md outline-none focus:border-gray-400 focus:border"
+                className="p-2 text-white rounded-md outline-none focus:border-gray-400 focus:border"
                 onClick={() => setNavbar(!navbar)}
               >
                 {navbar ? (
@@ -38,7 +38,7 @@ export default function Header() {
                     fill="none"
                     viewBox="0 0 24 24"
                     stroke="currentColor"
-                    strokeWidth={2}
+                    strokeWidth={3}
                   >
                     <path
                       strokeLinecap="round"
@@ -58,26 +58,17 @@ export default function Header() {
             }`}
           >
             <ul className="items-center justify-center space-y-8 md:flex md:space-x-6 md:space-y-0">
-              <li className="text-gray-500 hover:text-blue-600">
-                <Link to="/">
-                    Home
-                </Link>
-                <a href="javascript:void(0)"></a>
+              <li className="text-white hover:text-gray-500 transition-colors">
+                <Link to="/">Inicio</Link>
               </li>
-              <li className="text-gray-500 hover:text-blue-600">
-                <Link to="/">
-                        Home
-                    </Link>
+              <li className="text-white hover:text-gray-500 transition-colors">
+                <Link to="/main">Animes</Link>
               </li>
-              <li className="text-gray-500 hover:text-blue-600">
-              <Link to="/">
-                    Home
-                </Link>
+              <li className="text-white hover:text-gray-500 transition-colors">
+                <Link to="/">Filmes</Link>
               </li>
-              <li className="text-gray-500 hover:text-blue-600">
-              <Link to="/">
-                    Home
-                </Link>
+              <li className="text-white hover:text-gray-500 transition-colors">
+                <Link to="/">Home</Link>
               </li>
             </ul>
           </div>
