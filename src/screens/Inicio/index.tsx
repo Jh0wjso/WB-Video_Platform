@@ -4,7 +4,9 @@ import { Swiper, SwiperSlide } from "swiper/react";
 import "swiper/css";
 import "swiper/css/navigation";
 import { Navigation } from "swiper";
-import "./styles.css"
+
+import HeroesCarousel from "../../components/HeroesCarousel";
+import "./styles.css";
 
 
 export default function Inicio() {
@@ -38,6 +40,9 @@ export default function Inicio() {
           />
         </SwiperSlide>
       </Swiper>
+      <div className="carouselAnimes flex flex-col">
+        <HeroesCarousel />
+      </div>
     </section>
   );
 }
