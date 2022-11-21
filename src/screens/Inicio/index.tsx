@@ -4,8 +4,8 @@ import { Swiper, SwiperSlide } from "swiper/react";
 import "swiper/css";
 import "swiper/css/navigation";
 import { Navigation } from "swiper";
+import "./styles.css"
 
-import Carousel from 'better-react-carousel';
 
 export default function Inicio() {
   return (
@@ -38,55 +38,6 @@ export default function Inicio() {
           />
         </SwiperSlide>
       </Swiper>
-      <div className="container flex flex-col items-center mt-9">
-        <div className="border-b-2 rounded w-full">
-          <h1 className="text-4xl ml-3 md:ml-9">Dragon Ball Heroes</h1>
-        </div>
-        <div className="mt-3 mb-5">
-          <Carousel cols={5} rows={1} gap={10} loop>
-            <Carousel.Item>
-              <img width="100%" className="rounded" src="https://picsum.photos/300/400?random=1" />
-              <p className="text-center">Ep XX: Nome do Episodio</p>
-            </Carousel.Item>
-            <Carousel.Item>
-              <img width="100%" className="rounded" src="https://picsum.photos/300/400?random=2" />
-              <p className="text-center">Ep XX: Nome do Episodio</p>
-            </Carousel.Item>
-            <Carousel.Item>
-              <img width="100%" className="rounded" src="https://picsum.photos/300/400?random=3" />
-              <p className="text-center">Ep XX: Nome do Episodio</p>
-            </Carousel.Item>
-            <Carousel.Item>
-                <img width="100%" className="rounded" src="https://picsum.photos/300/400?random=4" />
-                <p className="text-center">Ep XX: Nome do Episodio</p>
-            </Carousel.Item>
-            <Carousel.Item>
-                <img width="100%" className="rounded" src="https://picsum.photos/300/400?random=5" />
-                <p className="text-center">Ep XX: Nome do Episodio</p>
-            </Carousel.Item>
-            <Carousel.Item>
-                <img width="100%" className="rounded" src="https://picsum.photos/300/400?random=6" />
-                <p className="text-center">Ep XX: Nome do Episodio</p>
-            </Carousel.Item>
-            <Carousel.Item>
-                <img width="100%" className="rounded" src="https://picsum.photos/300/400?random=7" />
-                <p className="text-center">Ep XX: Nome do Episodio</p>
-            </Carousel.Item>
-            <Carousel.Item>
-                <img width="100%" className="rounded" src="https://picsum.photos/300/400?random=8" />
-                <p className="text-center">Ep XX: Nome do Episodio</p>
-            </Carousel.Item>
-            <Carousel.Item>
-                <img width="100%" className="rounded" src="https://picsum.photos/300/400?random=9" />
-                <p className="text-center">Ep XX: Nome do Episodio</p>
-            </Carousel.Item>
-            <Carousel.Item>
-                <img width="100%" className="rounded" src="https://picsum.photos/300/400?random=1" />
-                <p className="text-center">Ep XX: Nome do Episodio</p>
-            </Carousel.Item>
-          </Carousel>
-        </div>
-      </div>
     </section>
   );
 }
