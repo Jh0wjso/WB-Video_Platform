@@ -42,31 +42,47 @@ export default function Inicio() {
         <div className="border-b-2 rounded w-full">
           <h1 className="text-4xl ml-3 md:ml-9">Dragon Ball Heroes</h1>
         </div>
-        <div className="mt-3">
-          <Carousel cols={4} rows={1} gap={10} loop>
+        <div className="mt-3 mb-5">
+          <Carousel cols={5} rows={1} gap={10} loop>
             <Carousel.Item>
-              <img width="100%" className="rounded" src="https://picsum.photos/800/600?random=1" />
+              <img width="100%" className="rounded" src="https://picsum.photos/300/400?random=1" />
+              <p className="text-center">Ep XX: Nome do Episodio</p>
             </Carousel.Item>
             <Carousel.Item>
-              <img width="100%" className="rounded" src="https://picsum.photos/800/600?random=2" />
+              <img width="100%" className="rounded" src="https://picsum.photos/300/400?random=2" />
+              <p className="text-center">Ep XX: Nome do Episodio</p>
             </Carousel.Item>
             <Carousel.Item>
-              <img width="100%" className="rounded" src="https://picsum.photos/800/600?random=3" />
+              <img width="100%" className="rounded" src="https://picsum.photos/300/400?random=3" />
+              <p className="text-center">Ep XX: Nome do Episodio</p>
             </Carousel.Item>
             <Carousel.Item>
-                <img width="100%" className="rounded" src="https://picsum.photos/800/600?random=4" />
+                <img width="100%" className="rounded" src="https://picsum.photos/300/400?random=4" />
+                <p className="text-center">Ep XX: Nome do Episodio</p>
             </Carousel.Item>
             <Carousel.Item>
-                <img width="100%" className="rounded" src="https://picsum.photos/800/600?random=5" />
+                <img width="100%" className="rounded" src="https://picsum.photos/300/400?random=5" />
+                <p className="text-center">Ep XX: Nome do Episodio</p>
             </Carousel.Item>
             <Carousel.Item>
-                <img width="100%" className="rounded" src="https://picsum.photos/800/600?random=6" />
+                <img width="100%" className="rounded" src="https://picsum.photos/300/400?random=6" />
+                <p className="text-center">Ep XX: Nome do Episodio</p>
             </Carousel.Item>
             <Carousel.Item>
-                <img width="100%" className="rounded" src="https://picsum.photos/800/600?random=7" />
+                <img width="100%" className="rounded" src="https://picsum.photos/300/400?random=7" />
+                <p className="text-center">Ep XX: Nome do Episodio</p>
             </Carousel.Item>
             <Carousel.Item>
-                <img width="100%" className="rounded" src="https://picsum.photos/800/600?random=8" />
+                <img width="100%" className="rounded" src="https://picsum.photos/300/400?random=8" />
+                <p className="text-center">Ep XX: Nome do Episodio</p>
+            </Carousel.Item>
+            <Carousel.Item>
+                <img width="100%" className="rounded" src="https://picsum.photos/300/400?random=9" />
+                <p className="text-center">Ep XX: Nome do Episodio</p>
+            </Carousel.Item>
+            <Carousel.Item>
+                <img width="100%" className="rounded" src="https://picsum.photos/300/400?random=1" />
+                <p className="text-center">Ep XX: Nome do Episodio</p>
             </Carousel.Item>
           </Carousel>
         </div>

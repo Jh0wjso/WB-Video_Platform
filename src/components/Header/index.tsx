@@ -62,13 +62,13 @@ export default function Header() {
                 <Link to="/">Inicio</Link>
               </li>
               <li className="text-white hover:text-gray-500 transition-colors">
-                <Link to="/main">Animes</Link>
+                <Link to="/animes">Animes</Link>
               </li>
               <li className="text-white hover:text-gray-500 transition-colors">
-                <Link to="/">Filmes</Link>
+                <Link to="/filmes">Filmes</Link>
               </li>
               <li className="text-white hover:text-gray-500 transition-colors">
-                <Link to="/">Home</Link>
+                <Link to="/noticias">Noticias</Link>
               </li>
             </ul>
           </div>
