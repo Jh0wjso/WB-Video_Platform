@@ -6,6 +6,7 @@ import "swiper/css/navigation";
 import { Navigation } from "swiper";
 
 import HeroesCarousel from "../../components/HeroesCarousel";
+import DragonBallCarousel from "../../components/DragonBallCarousel";
 import "./styles.css";
 
 
@@ -16,7 +17,7 @@ export default function Inicio() {
         navigation={true}
         modules={[Navigation]}
         loop
-        className="mySwiper container"
+        className="mySwiper container flex-none md:block"
       >
         <SwiperSlide>
           <img
@@ -42,6 +43,7 @@ export default function Inicio() {
       </Swiper>
       <div className="carouselAnimes flex flex-col">
         <HeroesCarousel />
+        <DragonBallCarousel />
       </div>
     </section>
   );
