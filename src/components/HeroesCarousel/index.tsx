@@ -1,97 +1,89 @@
 import Carousel from "better-react-carousel";
 import { Link } from "react-router-dom";
 
+import Db from "../../images/Db.jpg";
+
 export default function HeroesCarousel() {
   return (
-    <div className="container flex flex-col items-center mt-9">
-      <div className="border-b-2 rounded w-full flex justify-between items-center">
-        <h1 className="text-4xl ml-3 md:ml-9">Dragon Ball Heroes</h1>
+    <div className="container flex flex-col items-center mt-9 w-screen">
+      <div className="container border-b-2 flex flex-row justify-between items-center w-screen mb-2">
+        <h1 className="text-2xl md:text-4xl ml-4">Dragon Ball Heroes</h1>
         <Link
-          className="mr-3 md:mr-9 text-gray-700chrome bg-gray-500 rounded py-1 px-2 transition-colors hover:bg-gray-700"
+          className="mr-4 md:mr-10 text-white chrome bg-gray-700 rounded px-1 md:px-2 transition-colors hover:bg-gray-400 hover:text-gray-700"
           to="/Heroes"
         >
           Ver Mais
         </Link>
       </div>
-      <div className="mt-3 mb-5">
+      <div className="carouselDb mt-3 mb-5 container">
         <Carousel cols={5} rows={1} gap={10} loop>
           <Carousel.Item>
             <img
-              width="100%"
-              className="rounded"
-              src="https://picsum.photos/300/400?random=1"
+              className="rounded imgDB"
+              src={Db}
             />
             <p className="text-center">Ep XX: Nome do Episodio</p>
           </Carousel.Item>
           <Carousel.Item>
             <img
-              width="100%"
-              className="rounded"
-              src="https://picsum.photos/300/400?random=2"
+              className="rounded imgDB"
+              src={Db}
             />
             <p className="text-center">Ep XX: Nome do Episodio</p>
           </Carousel.Item>
           <Carousel.Item>
             <img
-              width="100%"
-              className="rounded"
-              src="https://picsum.photos/300/400?random=3"
+              className="rounded imgDB"
+              src={Db}
             />
             <p className="text-center">Ep XX: Nome do Episodio</p>
           </Carousel.Item>
           <Carousel.Item>
             <img
-              width="100%"
-              className="rounded"
-              src="https://picsum.photos/300/400?random=4"
+              className="rounded imgDB"
+              src={Db}
             />
             <p className="text-center">Ep XX: Nome do Episodio</p>
           </Carousel.Item>
           <Carousel.Item>
             <img
-              width="100%"
-              className="rounded"
-              src="https://picsum.photos/300/400?random=5"
+              className="rounded imgDB"
+              src={Db}
             />
             <p className="text-center">Ep XX: Nome do Episodio</p>
           </Carousel.Item>
           <Carousel.Item>
             <img
-              width="100%"
-              className="rounded"
-              src="https://picsum.photos/300/400?random=6"
+              className="rounded imgDB"
+              src={Db}
             />
             <p className="text-center">Ep XX: Nome do Episodio</p>
           </Carousel.Item>
           <Carousel.Item>
             <img
-              width="100%"
-              className="rounded"
-              src="https://picsum.photos/300/400?random=7"
+              className="rounded imgDB"
+              src={Db}
             />
             <p className="text-center">Ep XX: Nome do Episodio</p>
           </Carousel.Item>
           <Carousel.Item>
             <img
-              width="100%"
-              className="rounded"
-              src="https://picsum.photos/300/400?random=8"
+              className="rounded imgDB"
+              src={Db}
             />
             <p className="text-center">Ep XX: Nome do Episodio</p>
           </Carousel.Item>
           <Carousel.Item>
             <img
-              width="100%"
-              className="rounded"
-              src="https://picsum.photos/300/400?random=9"
+              className="rounded imgDB"
+              src={Db}
             />
             <p className="text-center">Ep XX: Nome do Episodio</p>
           </Carousel.Item>
           <Carousel.Item>
             <img
-              width="100%"
-              className="rounded"
-              src="https://picsum.photos/300/400?random=1"
+              className="rounded imgDB"
+              src={Db}
             />
             <p className="text-center">Ep XX: Nome do Episodio</p>
           </Carousel.Item>

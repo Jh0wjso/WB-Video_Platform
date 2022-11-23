@@ -17,7 +17,7 @@ export default function Inicio() {
         navigation={true}
         modules={[Navigation]}
         loop
-        className="mySwiper container flex-none md:block"
+        className="mySwiper container"
       >
         <SwiperSlide>
           <img
@@ -41,7 +41,7 @@ export default function Inicio() {
           />
         </SwiperSlide>
       </Swiper>
-      <div className="carouselAnimes flex flex-col">
+      <div className="carouselAnimes container flex flex-col">
         <HeroesCarousel />
         <DragonBallCarousel />
       </div>
