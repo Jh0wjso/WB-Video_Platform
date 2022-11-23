@@ -14,7 +14,8 @@ export default function Inicio() {
   return (
     <section className="flex flex-col mt-7 items-center">
       <Swiper
-        navigation={true}
+        navigation={false}
+        autoplay={true}
         modules={[Navigation]}
         loop
         className="mySwiper container"
