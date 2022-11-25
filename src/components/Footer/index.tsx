@@ -1,0 +1,56 @@
+import React from "react";
+
+import { Link } from "react-router-dom";
+
+export default function Footer() {
+  return (
+    <footer className="p-4 flex flex-col items-center bg-gray-700 rounded-lg shadow md:px-6 md:py-8">
+      <div className="container sm:flex sm:items-center sm:justify-between">
+        <Link
+          to="/"
+          className="flex items-center mb-4 sm:mb-0"
+        >
+          <img
+            src="https://flowbite.com/docs/images/logo.svg"
+            className="mr-3 h-8"
+            alt="Flowbite Logo"
+          />
+          <span className="self-center text-2xl font-semibold whitespace-nowrap dark:text-white">
+            WatchBall
+          </span>
+        </Link>
+        <ul className="flex flex-wrap items-center mb-6 text-sm sm:mb-0">
+          <li>
+            <Link to="/" className="mr-4 hover:text-gray-500 md:mr-6 ">
+              About
+            </Link>
+          </li>
+          <li>
+            <Link to="/" className="mr-4 hover:text-gray-500 md:mr-6">
+              Privacy Policy
+            </Link>
+          </li>
+          <li>
+            <Link to="#" className="mr-4 hover:text-gray-500 md:mr-6 ">
+              Licensing
+            </Link>
+          </li>
+          <li>
+            <Link to="/" className="hover:text-gray-500">
+              Contact
+            </Link>
+          </li>
+        </ul>
+      </div>
+      <div className="container">
+        <hr className="my-6 sm:mx-auto lg:my-8" />
+        <span className="block text-sm sm:text-center dark:text-gray-400">
+          © 2022{" "}
+          <Link to="/" className="hover:underline hover:text-gray-500">
+            WatchBall
+          </Link>
+        </span>
+      </div>
+    </footer>
+  );
+}
