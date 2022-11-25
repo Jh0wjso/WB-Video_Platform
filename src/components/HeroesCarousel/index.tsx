@@ -65,7 +65,7 @@ export default function HeroesCarousel() {
         <div className="flex flex-row justify-start">
           <div className="p-2 rounded flex flex-col items-center">
             <Link to="/">
-              <img className="rounded imgDB mx-7" src={Db} />
+              <img className="rounded imgDB" src={Db} />
               <p className="text-center hover:text-gray-500 hover:underline">Ep XX: Nome do Episodio</p>
             </Link>
           </div>

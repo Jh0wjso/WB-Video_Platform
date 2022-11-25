@@ -7,7 +7,7 @@ export default function DragonBallCarousel() {
   return (
     <div className="container flex flex-col items-center mt-9 w-screen">
       <div className="container border-b-2 flex flex-row justify-between items-center w-screen mb-2">
-        <h1 className="text-2xl md:text-4xl ml-4">Dragon Ball Heroes</h1>
+        <h1 className="text-2xl md:text-4xl ml-4">Dragon Ball Super</h1>
         <Link
           className="mr-4 md:mr-10 text-white chrome bg-gray-700 rounded md:py-1 px-1 md:px-2 transition-colors hover:bg-gray-400 hover:text-gray-700"
           to="/Heroes"
@@ -64,7 +64,7 @@ export default function DragonBallCarousel() {
         <div className="flex flex-row justify-start">
           <div className="flex flex-col items-center">
             <Link to="/">
-              <img className="rounded imgDB mx-7" src={Db} />
+              <img className="rounded imgDB" src={Db} />
               <p className="text-center hover:text-gray-500 hover:underline">Ep XX: Nome do Episodio</p>
             </Link>
           </div>

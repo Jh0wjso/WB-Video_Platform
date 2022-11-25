@@ -10,7 +10,7 @@ export default function Footer() {
       <div className="container sm:flex sm:items-center sm:justify-between">
         <Link
           to="/"
-          className="flex items-center mb-4 sm:mb-0"
+          className="flex items-center mx-3 mb-2 sm:mb-0"
         >
           <img src={Ball} width={35} className="mr-2" />
           <span className="self-center text-2xl font-semibold whitespace-nowrap dark:text-white">
