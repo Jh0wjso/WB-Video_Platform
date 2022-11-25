@@ -1,0 +1,24 @@
+.nameSerie{
+    width: max-content;
+}
+
+.carouselDb{
+    display: block;
+}
+
+.dbEps{
+    display: none;
+}
+
+.imgDB{
+    width: 15rem;
+}
+
+@media screen and (min-width: 1284px){
+    .carouselDb{
+        display: none;
+    }
+    .dbEps{
+        display: block;
+    }
+}

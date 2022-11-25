@@ -2,6 +2,7 @@ import Carousel from "better-react-carousel";
 import { Link } from "react-router-dom";
 
 import Db from "../../images/Db.jpg";
+import "./styles.css"
 
 export default function HeroesCarousel() {
   return (
@@ -18,76 +19,81 @@ export default function HeroesCarousel() {
       <div className="carouselDb mt-3 mb-5 container">
         <Carousel cols={5} rows={1} gap={10} loop>
           <Carousel.Item>
-            <img
-              className="rounded imgDB"
-              src={Db}
-            />
+            <img className="rounded imgDB" src={Db} />
             <p className="text-center">Ep XX: Nome do Episodio</p>
           </Carousel.Item>
           <Carousel.Item>
-            <img
-              className="rounded imgDB"
-              src={Db}
-            />
+            <img className="rounded imgDB" src={Db} />
             <p className="text-center">Ep XX: Nome do Episodio</p>
           </Carousel.Item>
           <Carousel.Item>
-            <img
-              className="rounded imgDB"
-              src={Db}
-            />
+            <img className="rounded imgDB" src={Db} />
             <p className="text-center">Ep XX: Nome do Episodio</p>
           </Carousel.Item>
           <Carousel.Item>
-            <img
-              className="rounded imgDB"
-              src={Db}
-            />
+            <img className="rounded imgDB" src={Db} />
             <p className="text-center">Ep XX: Nome do Episodio</p>
           </Carousel.Item>
           <Carousel.Item>
-            <img
-              className="rounded imgDB"
-              src={Db}
-            />
+            <img className="rounded imgDB" src={Db} />
             <p className="text-center">Ep XX: Nome do Episodio</p>
           </Carousel.Item>
           <Carousel.Item>
-            <img
-              className="rounded imgDB"
-              src={Db}
-            />
+            <img className="rounded imgDB" src={Db} />
             <p className="text-center">Ep XX: Nome do Episodio</p>
           </Carousel.Item>
           <Carousel.Item>
-            <img
-              className="rounded imgDB"
-              src={Db}
-            />
+            <img className="rounded imgDB" src={Db} />
             <p className="text-center">Ep XX: Nome do Episodio</p>
           </Carousel.Item>
           <Carousel.Item>
-            <img
-              className="rounded imgDB"
-              src={Db}
-            />
+            <img className="rounded imgDB" src={Db} />
             <p className="text-center">Ep XX: Nome do Episodio</p>
           </Carousel.Item>
           <Carousel.Item>
-            <img
-              className="rounded imgDB"
-              src={Db}
-            />
+            <img className="rounded imgDB" src={Db} />
             <p className="text-center">Ep XX: Nome do Episodio</p>
           </Carousel.Item>
           <Carousel.Item>
-            <img
-              className="rounded imgDB"
-              src={Db}
-            />
+            <img className="rounded imgDB" src={Db} />
             <p className="text-center">Ep XX: Nome do Episodio</p>
           </Carousel.Item>
         </Carousel>
+      </div>
+
+      <div className="dbEps mt-3 mb-5 container">
+        <div className="flex flex-row justify-center">
+          <div className="flex flex-col items-center">
+            <Link to="/">
+              <img className="rounded imgDB mx-7" src={Db} />
+              <p className="text-center">Ep XX: Nome do Episodio</p>
+            </Link>
+          </div>
+          <div className="flex flex-col items-center">
+            <Link to="/">
+              <img className="rounded imgDB mx-7" src={Db} />
+              <p className="text-center">Ep XX: Nome do Episodio</p>
+            </Link>
+          </div>
+          <div className="flex flex-col items-center">
+            <Link to="/">
+              <img className="rounded imgDB mx-7" src={Db} />
+              <p className="text-center">Ep XX: Nome do Episodio</p>
+            </Link>
+          </div>
+          <div className="flex flex-col items-center">
+            <Link to="/">
+              <img className="rounded imgDB mx-7" src={Db} />
+              <p className="text-center">Ep XX: Nome do Episodio</p>
+            </Link>
+          </div>
+          <div className="flex flex-col items-center">
+            <Link to="/">
+              <img className="rounded imgDB mx-7" src={Db} />
+              <p className="text-center">Ep XX: Nome do Episodio</p>
+            </Link>
+          </div>
+        </div>
       </div>
     </div>
   );
