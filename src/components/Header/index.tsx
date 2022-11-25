@@ -2,6 +2,8 @@ import React, { useState } from "react";
 import { Link } from "react-router-dom";
 import "./styles.css";
 
+import Ball from "../../images/Dragonball.png";
+
 export default function Header() {
   const [navbar, setNavbar] = useState(false);
 
@@ -10,7 +12,8 @@ export default function Header() {
       <div className="justify-between px-4 mx-auto lg:max-w-7xl md:items-center md:flex md:px-8">
         <div>
           <div className="flex items-center justify-between py-3 md:py-5 md:block">
-            <Link to="/">
+            <Link to="/" className="flex flex-row">
+              <img src={Ball} width={35} className="mr-2" />
               <h1 className="text-3xl text-white font-bold">WATCHBALL</h1>
             </Link>
             <div className="md:hidden">

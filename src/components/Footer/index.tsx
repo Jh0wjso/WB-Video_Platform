@@ -2,6 +2,8 @@ import React from "react";
 
 import { Link } from "react-router-dom";
 
+import Ball from "../../images/Dragonball.png";
+
 export default function Footer() {
   return (
     <footer className="p-4 flex flex-col items-center bg-gray-700 rounded-lg shadow md:px-6 md:py-8">
@@ -10,11 +12,7 @@ export default function Footer() {
           to="/"
           className="flex items-center mb-4 sm:mb-0"
         >
-          <img
-            src="https://flowbite.com/docs/images/logo.svg"
-            className="mr-3 h-8"
-            alt="Flowbite Logo"
-          />
+          <img src={Ball} width={35} className="mr-2" />
           <span className="self-center text-2xl font-semibold whitespace-nowrap dark:text-white">
             WatchBall
           </span>
