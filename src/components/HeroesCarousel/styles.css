@@ -12,6 +12,7 @@
 
 .imgDB{
     width: 15rem;
+    height: 100%;
 }
 
 @media screen and (min-width: 1284px){

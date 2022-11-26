@@ -60,35 +60,35 @@ export default function DragonBallCarousel() {
         </Carousel>
       </div>
 
-      <div className="dbEps mt-3 mb-5 container">
+      <div className="dbEps mt-3 mb-16 container">
         <div className="flex flex-row justify-start">
           <div className="flex flex-col items-center">
             <Link to="/">
-              <img className="rounded imgDB" src={Db} />
+              <img className="rounded imgDB mx-3" src={Db} />
               <p className="text-center hover:text-gray-500 hover:underline">Ep XX: Nome do Episodio</p>
             </Link>
           </div>
           <div className="flex flex-col items-center">
             <Link to="/">
-              <img className="rounded imgDB mx-7" src={Db} />
+              <img className="rounded imgDB mx-3" src={Db} />
               <p className="text-center hover:text-gray-500 hover:underline">Ep XX: Nome do Episodio</p>
             </Link>
           </div>
           <div className="flex flex-col items-center">
             <Link to="/">
-              <img className="rounded imgDB mx-7" src={Db} />
+              <img className="rounded imgDB mx-3" src={Db} />
               <p className="text-center hover:text-gray-500 hover:underline">Ep XX: Nome do Episodio</p>
             </Link>
           </div>
           <div className="flex flex-col items-center">
             <Link to="/">
-              <img className="rounded imgDB mx-7" src={Db} />
+              <img className="rounded imgDB mx-3" src={Db} />
               <p className="text-center hover:text-gray-500 hover:underline">Ep XX: Nome do Episodio</p>
             </Link>
           </div>
           <div className="flex flex-col items-center">
             <Link to="/">
-              <img className="rounded imgDB mx-7" src={Db} />
+              <img className="rounded imgDB mx-3" src={Db} />
               <p className="text-center hover:text-gray-500 hover:underline">Ep XX: Nome do Episodio</p>
             </Link>
           </div>
