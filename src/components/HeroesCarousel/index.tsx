@@ -2,7 +2,7 @@ import Carousel from "better-react-carousel";
 import { Link } from "react-router-dom";
 
 import Db from "../../images/Db.jpg";
-import "./styles.css"
+import "./styles.css";
 
 export default function HeroesCarousel() {
   return (
@@ -66,31 +66,41 @@ export default function HeroesCarousel() {
           <div className="flex flex-col items-center">
             <Link to="/">
               <img className="rounded imgDB mx-3" src={Db} />
-              <p className="text-center hover:text-gray-500 hover:underline">Ep XX: Nome do Episodio</p>
+              <p className="text-center hover:text-gray-500 hover:underline">
+                Ep XX: Nome do Episodio
+              </p>
             </Link>
           </div>
           <div className="flex flex-col items-center">
             <Link to="/">
               <img className="rounded imgDB mx-3" width={1000} src={Db} />
-              <p className="text-center hover:text-gray-500 hover:underline">Ep XX: Nome do Episodio</p>
+              <p className="text-center hover:text-gray-500 hover:underline">
+                Ep XX: Nome do Episodio
+              </p>
             </Link>
           </div>
           <div className="flex flex-col items-center">
             <Link to="/">
               <img className="rounded imgDB mx-3" width={1000} src={Db} />
-              <p className="text-center hover:text-gray-500 hover:underline">Ep XX: Nome do Episodio</p>
+              <p className="text-center hover:text-gray-500 hover:underline">
+                Ep XX: Nome do Episodio
+              </p>
             </Link>
           </div>
           <div className="flex flex-col items-center">
             <Link to="/">
               <img className="rounded imgDB mx-3" width={1000} src={Db} />
-              <p className="text-center hover:text-gray-500 hover:underline">Ep XX: Nome do Episodio</p>
+              <p className="text-center hover:text-gray-500 hover:underline">
+                Ep XX: Nome do Episodio
+              </p>
             </Link>
           </div>
           <div className="flex flex-col items-center">
             <Link to="/">
               <img className="rounded imgDB mx-3" width={1000} src={Db} />
-              <p className="text-center hover:text-gray-500 hover:underline">Ep XX: Nome do Episodio</p>
+              <p className="text-center hover:text-gray-500 hover:underline">
+                Ep XX: Nome do Episodio
+              </p>
             </Link>
           </div>
         </div>

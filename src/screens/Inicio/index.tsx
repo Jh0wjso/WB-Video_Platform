@@ -12,7 +12,7 @@ import "./styles.css";
 
 export default function Inicio() {
   return (
-    <section className="flex flex-col mt-7 items-center">
+    <section className="flex flex-col mt-7 items-center justify-center">
       <Swiper
         navigation={false}
         autoplay={true}

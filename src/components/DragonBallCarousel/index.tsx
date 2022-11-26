@@ -5,7 +5,7 @@ import Db from "../../images/Db.jpg";
 
 export default function DragonBallCarousel() {
   return (
-    <div className="container flex flex-col items-center mt-9 w-screen">
+    <div className="container flex flex-col items-center my-9 w-screen">
       <div className="container border-b-2 flex flex-row justify-between items-center w-screen mb-2">
         <h1 className="text-2xl md:text-4xl ml-4">Dragon Ball Super</h1>
         <Link
@@ -60,36 +60,46 @@ export default function DragonBallCarousel() {
         </Carousel>
       </div>
 
-      <div className="dbEps mt-3 mb-16 container">
+      <div className="dbEps mt-3 mb-5">
         <div className="flex flex-row justify-start">
           <div className="flex flex-col items-center">
             <Link to="/">
               <img className="rounded imgDB mx-3" src={Db} />
-              <p className="text-center hover:text-gray-500 hover:underline">Ep XX: Nome do Episodio</p>
+              <p className="text-center hover:text-gray-500 hover:underline">
+                Ep XX: Nome do Episodio
+              </p>
             </Link>
           </div>
           <div className="flex flex-col items-center">
             <Link to="/">
-              <img className="rounded imgDB mx-3" src={Db} />
-              <p className="text-center hover:text-gray-500 hover:underline">Ep XX: Nome do Episodio</p>
+              <img className="rounded imgDB mx-3" width={1000} src={Db} />
+              <p className="text-center hover:text-gray-500 hover:underline">
+                Ep XX: Nome do Episodio
+              </p>
             </Link>
           </div>
           <div className="flex flex-col items-center">
             <Link to="/">
-              <img className="rounded imgDB mx-3" src={Db} />
-              <p className="text-center hover:text-gray-500 hover:underline">Ep XX: Nome do Episodio</p>
+              <img className="rounded imgDB mx-3" width={1000} src={Db} />
+              <p className="text-center hover:text-gray-500 hover:underline">
+                Ep XX: Nome do Episodio
+              </p>
             </Link>
           </div>
           <div className="flex flex-col items-center">
             <Link to="/">
-              <img className="rounded imgDB mx-3" src={Db} />
-              <p className="text-center hover:text-gray-500 hover:underline">Ep XX: Nome do Episodio</p>
+              <img className="rounded imgDB mx-3" width={1000} src={Db} />
+              <p className="text-center hover:text-gray-500 hover:underline">
+                Ep XX: Nome do Episodio
+              </p>
             </Link>
           </div>
           <div className="flex flex-col items-center">
             <Link to="/">
-              <img className="rounded imgDB mx-3" src={Db} />
-              <p className="text-center hover:text-gray-500 hover:underline">Ep XX: Nome do Episodio</p>
+              <img className="rounded imgDB mx-3" width={1000} src={Db} />
+              <p className="text-center hover:text-gray-500 hover:underline">
+                Ep XX: Nome do Episodio
+              </p>
             </Link>
           </div>
         </div>
