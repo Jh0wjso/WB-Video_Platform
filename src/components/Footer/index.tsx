@@ -6,7 +6,7 @@ import Ball from "../../images/Dragonball.png";
 
 export default function Footer() {
   return (
-    <footer className="p-4 flex flex-col items-center bg-gray-700 rounded-lg shadow md:px-6 md:py-8">
+    <footer className="p-4 flex flex-col items-center bg-gray-700 shadow md:px-6 md:py-8">
       <div className="container sm:flex sm:items-center sm:justify-between">
         <Link
           to="/"
