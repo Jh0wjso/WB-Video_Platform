@@ -20,22 +20,22 @@ export default function Footer() {
         <ul className="flex flex-wrap items-center mb-6 text-sm sm:mb-0">
           <li>
             <Link to="/" className="mr-4 hover:text-gray-500 md:mr-6 ">
-              About
+              Inicio
             </Link>
           </li>
           <li>
             <Link to="/" className="mr-4 hover:text-gray-500 md:mr-6">
-              Privacy Policy
+              Animes
             </Link>
           </li>
           <li>
             <Link to="#" className="mr-4 hover:text-gray-500 md:mr-6 ">
-              Licensing
+              Filmes
             </Link>
           </li>
           <li>
             <Link to="/" className="hover:text-gray-500">
-              Contact
+              Notícias
             </Link>
           </li>
         </ul>
