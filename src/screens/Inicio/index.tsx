@@ -8,6 +8,8 @@ import SwiperCore, { Autoplay } from 'swiper';
 
 import HeroesCarousel from "../../components/HeroesCarousel";
 import DragonBallCarousel from "../../components/DragonBallCarousel";
+import MoviesCarousel from "../../components/MoviesCarousel";
+
 import "./styles.css";
 
 const HomeComponent = () => {
@@ -53,6 +55,7 @@ export default function Inicio() {
       <div className="carouselAnimes container flex flex-col">
         <HeroesCarousel />
         <DragonBallCarousel />
+        <MoviesCarousel />
       </div>
     </section>
   );
