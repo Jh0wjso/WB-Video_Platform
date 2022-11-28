@@ -6,6 +6,7 @@ import { Swiper, SwiperSlide } from "swiper/react";
 import "swiper/css";
 import "swiper/css/navigation";
 import SwiperCore, { Autoplay } from "swiper";
+import { FaRegNewspaper } from 'react-icons/fa';
 
 import HeroesCarousel from "../../components/HeroesCarousel";
 import DragonBallCarousel from "../../components/DragonBallCarousel";
@@ -27,7 +28,7 @@ export default function Inicio() {
         onSwiper={(swiper) => console.log(swiper)}
         pagination={{ clickable: true }}
         autoplay={{
-          delay: 1000,
+          delay: 2000,
         }}
         className="mySwiper container"
       >
@@ -57,6 +58,16 @@ export default function Inicio() {
         <HeroesCarousel />
         <DragonBallCarousel />
         <MoviesCarousel />
+      </div>
+      <div className="my-10 container">
+        <h1 className="font-bold text-5xl">Noticias Semanais Dragon Ball</h1>
+        <h2 className="ml-14 text-xl">Saiba tudo sobre o mundo de Dragon Ball aqui: </h2>
+        <div className="w-full bg-gray-700 justify-between flex flex-row items-center p-7 rounded mt-5">
+          <FaRegNewspaper size={150} className="mr-5" />
+          <div>
+            <p>Saiba tudo sobre Dragon Ball </p>
+          </div>
+        </div>
       </div>
     </section>
   );
