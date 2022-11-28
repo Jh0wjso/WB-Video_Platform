@@ -18,43 +18,43 @@ export default function DragonBallCarousel() {
       <div className="carouselDb mt-3 mb-5 container">
         <Carousel cols={5} rows={1} gap={10} loop>
           <Carousel.Item>
-            <img className="rounded imgDB" src={Db} />
+            <img className="rounded imgDB hover:opacity-50" src={Db} />
             <p className="text-center">Ep XX: Nome do Episodio</p>
           </Carousel.Item>
           <Carousel.Item>
-            <img className="rounded imgDB" src={Db} />
+            <img className="rounded imgDB hover:opacity-50" src={Db} />
             <p className="text-center">Ep XX: Nome do Episodio</p>
           </Carousel.Item>
           <Carousel.Item>
-            <img className="rounded imgDB" src={Db} />
+            <img className="rounded imgDB hover:opacity-50" src={Db} />
             <p className="text-center">Ep XX: Nome do Episodio</p>
           </Carousel.Item>
           <Carousel.Item>
-            <img className="rounded imgDB" src={Db} />
+            <img className="rounded imgDB hover:opacity-50" src={Db} />
             <p className="text-center">Ep XX: Nome do Episodio</p>
           </Carousel.Item>
           <Carousel.Item>
-            <img className="rounded imgDB" src={Db} />
+            <img className="rounded imgDB hover:opacity-50" src={Db} />
             <p className="text-center">Ep XX: Nome do Episodio</p>
           </Carousel.Item>
           <Carousel.Item>
-            <img className="rounded imgDB" src={Db} />
+            <img className="rounded imgDB hover:opacity-50" src={Db} />
             <p className="text-center">Ep XX: Nome do Episodio</p>
           </Carousel.Item>
           <Carousel.Item>
-            <img className="rounded imgDB" src={Db} />
+            <img className="rounded imgDB hover:opacity-50" src={Db} />
             <p className="text-center">Ep XX: Nome do Episodio</p>
           </Carousel.Item>
           <Carousel.Item>
-            <img className="rounded imgDB" src={Db} />
+            <img className="rounded imgDB hover:opacity-50" src={Db} />
             <p className="text-center">Ep XX: Nome do Episodio</p>
           </Carousel.Item>
           <Carousel.Item>
-            <img className="rounded imgDB" src={Db} />
+            <img className="rounded imgDB hover:opacity-50" src={Db} />
             <p className="text-center">Ep XX: Nome do Episodio</p>
           </Carousel.Item>
           <Carousel.Item>
-            <img className="rounded imgDB" src={Db} />
+            <img className="rounded imgDB hover:opacity-50" src={Db} />
             <p className="text-center">Ep XX: Nome do Episodio</p>
           </Carousel.Item>
         </Carousel>
@@ -64,7 +64,7 @@ export default function DragonBallCarousel() {
         <div className="flex flex-row justify-start">
           <div className="flex flex-col items-center">
             <Link to="/">
-              <img className="rounded imgDB mx-3" src={Db} />
+              <img className="rounded imgDB mx-3 hover:opacity-50" src={Db} />
               <p className="text-center hover:text-gray-500 hover:underline">
                 Ep XX: Nome do Episodio
               </p>
@@ -72,7 +72,7 @@ export default function DragonBallCarousel() {
           </div>
           <div className="flex flex-col items-center">
             <Link to="/">
-              <img className="rounded imgDB mx-3" width={1000} src={Db} />
+              <img className="rounded imgDB mx-3 hover:opacity-50" width={1000} src={Db} />
               <p className="text-center hover:text-gray-500 hover:underline">
                 Ep XX: Nome do Episodio
               </p>
@@ -80,7 +80,7 @@ export default function DragonBallCarousel() {
           </div>
           <div className="flex flex-col items-center">
             <Link to="/">
-              <img className="rounded imgDB mx-3" width={1000} src={Db} />
+              <img className="rounded imgDB mx-3 hover:opacity-50" width={1000} src={Db} />
               <p className="text-center hover:text-gray-500 hover:underline">
                 Ep XX: Nome do Episodio
               </p>
@@ -88,7 +88,7 @@ export default function DragonBallCarousel() {
           </div>
           <div className="flex flex-col items-center">
             <Link to="/">
-              <img className="rounded imgDB mx-3" width={1000} src={Db} />
+              <img className="rounded imgDB mx-3 hover:opacity-50" width={1000} src={Db} />
               <p className="text-center hover:text-gray-500 hover:underline">
                 Ep XX: Nome do Episodio
               </p>
@@ -96,7 +96,7 @@ export default function DragonBallCarousel() {
           </div>
           <div className="flex flex-col items-center">
             <Link to="/">
-              <img className="rounded imgDB mx-3" width={1000} src={Db} />
+              <img className="rounded imgDB mx-3 hover:opacity-50" width={1000} src={Db} />
               <p className="text-center hover:text-gray-500 hover:underline">
                 Ep XX: Nome do Episodio
               </p>
