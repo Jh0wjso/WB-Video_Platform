@@ -1,10 +1,11 @@
 import React from "react";
 
-import {  Pagination } from 'swiper';
+import { Link } from "react-router-dom";
+import { Pagination } from "swiper";
 import { Swiper, SwiperSlide } from "swiper/react";
 import "swiper/css";
 import "swiper/css/navigation";
-import SwiperCore, { Autoplay } from 'swiper';
+import SwiperCore, { Autoplay } from "swiper";
 
 import HeroesCarousel from "../../components/HeroesCarousel";
 import DragonBallCarousel from "../../components/DragonBallCarousel";
@@ -14,19 +15,19 @@ import "./styles.css";
 
 const HomeComponent = () => {
   SwiperCore.use([Autoplay]);
-}
+};
 
 export default function Inicio() {
   return (
     <section className="flex flex-col mt-7 items-center justify-center">
       <Swiper
-        modules={[Pagination,Autoplay]}
+        modules={[Pagination, Autoplay]}
         slidesPerView={1}
-        onSlideChange={() => console.log('slide change')}
+        onSlideChange={() => console.log("slide change")}
         onSwiper={(swiper) => console.log(swiper)}
         pagination={{ clickable: true }}
         autoplay={{
-          delay: 1000
+          delay: 1000,
         }}
         className="mySwiper container"
       >
@@ -52,7 +53,7 @@ export default function Inicio() {
           />
         </SwiperSlide>
       </Swiper>
-      <div className="carouselAnimes container flex flex-col">
+      <div className="flex flex-col">
         <HeroesCarousel />
         <DragonBallCarousel />
         <MoviesCarousel />
