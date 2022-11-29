@@ -6,7 +6,7 @@ import { Swiper, SwiperSlide } from "swiper/react";
 import "swiper/css";
 import "swiper/css/navigation";
 import SwiperCore, { Autoplay } from "swiper";
-import { FaRegNewspaper } from 'react-icons/fa';
+import { FaRegNewspaper } from "react-icons/fa";
 
 import HeroesCarousel from "../../components/HeroesCarousel";
 import DragonBallCarousel from "../../components/DragonBallCarousel";
@@ -59,13 +59,20 @@ export default function Inicio() {
         <DragonBallCarousel />
         <MoviesCarousel />
       </div>
-      <div className="my-10 container">
+      <div className="my-10 container text-center">
         <h1 className="font-bold text-5xl">Noticias Semanais Dragon Ball</h1>
-        <h2 className="ml-14 text-xl">Saiba tudo sobre o mundo de Dragon Ball aqui: </h2>
-        <div className="w-full bg-gray-700 justify-between flex flex-row items-center p-7 rounded mt-5">
-          <FaRegNewspaper size={150} className="mr-5" />
-          <div>
-            <p>Saiba tudo sobre Dragon Ball </p>
+        <h2 className="text-xl">
+          Saiba tudo sobre o mundo de Dragon Ball aqui:{" "}
+        </h2>
+        <div className="w-full bg-gray-700 p-7 rounded mt-5">
+          <div className="justify-between flex flex-row items-center">
+            <FaRegNewspaper size={200} className="mr-5" />
+            <p className="font-bold text-2xl text-right">Todas as notícias do mundo de Dragon Ball aqui...</p>
+          </div>
+          <div className="flex justify-end">
+            <Link to="/news" className="bg-gray-800 p-3 rounded hover:bg-gray-600 transition-colors font-bold">
+              Clique aqui
+            </Link>
           </div>
         </div>
       </div>
