@@ -6,18 +6,18 @@ import Ball from "../../images/Dragonball.png";
 
 export default function Footer() {
   return (
-    <footer className="p-4 flex flex-col items-center bg-gray-700 shadow md:px-6 md:py-8">
-      <div className="container sm:flex sm:items-center sm:justify-between">
+    <footer className="p-4 flex flex-col justify-center items-center bg-gray-700 shadow md:px-6 md:py-8">
+      <div className="container sm:flex flex-col md:flex-row sm:items-center sm:justify-between">
         <Link
           to="/"
           className="flex items-center mx-3 mb-2 sm:mb-0"
         >
           <img src={Ball} width={35} className="mr-2" />
-          <span className="self-center text-2xl font-semibold whitespace-nowrap dark:text-white">
+          <span className="self-center text-center text-2xl font-semibold whitespace-nowrap dark:text-white">
             WatchBall
           </span>
         </Link>
-        <ul className="flex flex-wrap items-center mb-6 text-sm sm:mb-0">
+        <ul className="flex text-center flex-wrap items-center mb-6 text-sm sm:mb-0">
           <li>
             <Link to="/" className="mr-4 hover:text-gray-500 md:mr-6 ">
               Inicio
