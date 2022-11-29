@@ -19,43 +19,43 @@ export default function HeroesCarousel() {
       <div className="carouselDb mt-3 mb-5 container">
         <Carousel cols={5} rows={1} gap={10} loop>
           <Carousel.Item>
-            <img className="rounded imgDB hover:opacity-50" src={Db} />
+            <img className="rounded hover:opacity-50" src={Db} />
             <p className="text-center">Ep XX: Nome do Episodio</p>
           </Carousel.Item>
           <Carousel.Item>
-            <img className="rounded imgDB hover:opacity-50" src={Db} />
+            <img className="rounded hover:opacity-50" src={Db} />
             <p className="text-center">Ep XX: Nome do Episodio</p>
           </Carousel.Item>
           <Carousel.Item>
-            <img className="rounded imgDB hover:opacity-50" src={Db} />
+            <img className="rounded hover:opacity-50" src={Db} />
             <p className="text-center">Ep XX: Nome do Episodio</p>
           </Carousel.Item>
           <Carousel.Item>
-            <img className="rounded imgDB hover:opacity-50" src={Db} />
+            <img className="rounded hover:opacity-50" src={Db} />
             <p className="text-center">Ep XX: Nome do Episodio</p>
           </Carousel.Item>
           <Carousel.Item>
-            <img className="rounded imgDB hover:opacity-50" src={Db} />
+            <img className="rounded hover:opacity-50" src={Db} />
             <p className="text-center">Ep XX: Nome do Episodio</p>
           </Carousel.Item>
           <Carousel.Item>
-            <img className="rounded imgDB hover:opacity-50" src={Db} />
+            <img className="rounded hover:opacity-50" src={Db} />
             <p className="text-center">Ep XX: Nome do Episodio</p>
           </Carousel.Item>
           <Carousel.Item>
-            <img className="rounded imgDB hover:opacity-50" src={Db} />
+            <img className="rounded hover:opacity-50" src={Db} />
             <p className="text-center">Ep XX: Nome do Episodio</p>
           </Carousel.Item>
           <Carousel.Item>
-            <img className="rounded imgDB hover:opacity-50" src={Db} />
+            <img className="rounded hover:opacity-50" src={Db} />
             <p className="text-center">Ep XX: Nome do Episodio</p>
           </Carousel.Item>
           <Carousel.Item>
-            <img className="rounded imgDB hover:opacity-50" src={Db} />
+            <img className="rounded hover:opacity-50" src={Db} />
             <p className="text-center">Ep XX: Nome do Episodio</p>
           </Carousel.Item>
           <Carousel.Item>
-            <img className="rounded imgDB hover:opacity-50" src={Db} />
+            <img className="rounded hover:opacity-50" src={Db} />
             <p className="text-center">Ep XX: Nome do Episodio</p>
           </Carousel.Item>
         </Carousel>
