@@ -1,0 +1,25 @@
+
+.homeContent{
+    width: max-content;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+@media screen and (max-width: 1700px){
+    .homeContent{
+        width: 90%;
+    }
+}
+
+@media screen and (min-width: 1545px){
+    .homeContent{
+        width: 90%;
+    }
+}
+
+@media screen and (max-width: 1454px){
+    .homeContent{
+        width: 100%;
+    }
+}
