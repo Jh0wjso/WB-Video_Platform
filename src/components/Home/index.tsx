@@ -37,7 +37,7 @@ export default function Home() {
             <p className="font-bold text-2xl text-right">Todas as notícias do mundo de Dragon Ball aqui...</p>
           </div>
           <div className="flex justify-end">
-            <Link to="/news" className="bg-gray-800 p-3 rounded hover:bg-gray-600 transition-colors font-bold">
+            <Link to="/news" className="bg-orange-600 p-3 rounded hover:bg-orange-400 transition-colors font-bold">
               Clique aqui
             </Link>
           </div>
