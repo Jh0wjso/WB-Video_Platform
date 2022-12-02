@@ -1,13 +1,12 @@
-import React from "react";
-
 import { Link } from "react-router-dom";
 
 import Ball from "../../images/Dragonball.png";
+import "./styles.css";
 
 export default function Footer() {
   return (
     <footer className="p-4 flex flex-col justify-center items-center bg-gray-700 shadow md:px-6 md:py-8">
-      <div className="container sm:flex flex-col md:flex-row sm:items-center sm:justify-between">
+      <div className="footerContent container md:flex items-center md:flex-row md:items-center justify-center md:justify-between">
         <Link
           to="/"
           className="flex items-center mx-3 mb-2 sm:mb-0"
@@ -42,7 +41,7 @@ export default function Footer() {
       </div>
       <div className="container">
         <hr className="my-6 sm:mx-auto lg:my-8" />
-        <span className="block text-sm sm:text-center dark:text-gray-400">
+        <span className="block text-sm text-center dark:text-gray-400">
           © 2022{" "}
           <Link to="/" className="hover:underline hover:text-gray-500">
             WatchBall
