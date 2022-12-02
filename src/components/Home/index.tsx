@@ -32,9 +32,9 @@ export default function Home() {
           Saiba tudo sobre o mundo de Dragon Ball aqui:{" "}
         </h2>
         <div className="bg-gray-700 p-7 rounded mt-5">
-          <div className="justify-between flex flex-row items-center">
-            <FaRegNewspaper size={200} className="mr-5" />
-            <p className="font-bold text-2xl text-right">Todas as notícias do mundo de Dragon Ball aqui...</p>
+          <div className="justify-center flex flex-col md:flex-row items-center md:justify-between">
+            <FaRegNewspaper size={200} className="justify-start" />
+            <p className="font-bold text-2xl mb-8 w-[50%]">Todas as notícias do mundo de Dragon Ball aqui...</p>
           </div>
           <div className="flex justify-end">
             <Link to="/news" className="bg-orange-600 p-3 rounded hover:bg-orange-400 transition-colors font-bold">
