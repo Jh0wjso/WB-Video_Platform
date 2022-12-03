@@ -8,7 +8,7 @@ export default function HeroesCarousel() {
   return (
     <div className="container flex flex-col items-center mt-9 w-screen">
       <div className="container border-b-2 flex flex-row justify-between items-center w-screen mb-2">
-        <h1 className="text-2xl md:text-4xl ml-4">Dragon Ball Heroes</h1>
+        <h1 className="text-2xl md:text-4xl ml-4">Heroes</h1>
         <Link
           className="mr-4 md:mr-10 text-white chrome bg-gray-700 rounded md:py-1 px-1 md:px-2 transition-colors hover:bg-gray-400 hover:text-gray-700"
           to="/Heroes"
