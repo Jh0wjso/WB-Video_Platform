@@ -14,7 +14,7 @@ export default function Header() {
           <div className="flex items-center justify-between py-3 md:py-5 md:block">
             <Link to="/" className="flex flex-row">
               <img src={Ball} width={35} className="mr-2" />
-              <h1 className="text-3xl text-white font-bold">WATCHBALL</h1>
+              <h1 className="text-2xl md:text-3xl text-white font-bold">WATCHBALL</h1>
             </Link>
             <div className="md:hidden">
               <button
