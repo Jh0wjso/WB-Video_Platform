@@ -6,7 +6,7 @@ import "./styles.css";
 
 export default function Animes() {
   return (
-    <div className="min-h-scree text-white text-xl md:text-base flex flex-col items-center justify-center">
+    <div className="min-h-screen text-white text-xl md:text-base flex flex-col items-center justify-center">
       <div className="md:my-14 cardsContainer items-center justify-between flex md:flex-row flex-col">
         <div className="cardAnime text-center flex flex-col items-center h-full p-4 m-5 bg-[transparent] border rounded">
           <img src={Db} width={250} className="mb-5 rounded-lg " />
