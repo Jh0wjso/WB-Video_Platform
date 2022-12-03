@@ -23,12 +23,12 @@ export default function Footer() {
             </Link>
           </li>
           <li>
-            <Link to="/" className="mr-4 hover:text-gray-500 md:mr-6">
+            <Link to="/animes" className="mr-4 hover:text-gray-500 md:mr-6">
               Animes
             </Link>
           </li>
           <li>
-            <Link to="#" className="mr-4 hover:text-gray-500 md:mr-6 ">
+            <Link to="/filmes" className="mr-4 hover:text-gray-500 md:mr-6 ">
               Filmes
             </Link>
           </li>
