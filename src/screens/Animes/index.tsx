@@ -10,7 +10,7 @@ export default function Animes() {
       <div className="md:my-14 cardsContainer items-center justify-between flex md:flex-row flex-col">
         <div className="cardAnime text-center flex flex-col items-center h-full p-4 m-5 bg-[transparent] border rounded">
           <img src={Db} width={250} className="mb-5 rounded-lg " />
-          <p className="font-bold uppercase">Dragon Ball Z Kai</p>
+          <p className="font-bold">Dragon Ball</p>
           <div className="btnContent w-[80%] text-xl md:text-sm my-1 items-center">
             <Link
               to="/"
@@ -28,7 +28,7 @@ export default function Animes() {
         </div>
         <div className="cardAnime text-center flex flex-col items-center h-full p-4 m-5 bg-[transparent] border rounded">
           <img src={Db} width={250} className="mb-5 rounded-lg " />
-          <p className="font-bold uppercase">Dragon Ball Z Kai</p>
+          <p className="font-bold">Dragon Ball Z</p>
           <div className="btnContent w-[80%] text-xl md:text-sm my-1 items-center">
             <Link
               to="/"
@@ -47,7 +47,7 @@ export default function Animes() {
 
         <div className="cardAnime text-center flex flex-col items-center h-full p-4 m-5 bg-[transparent] border rounded">
           <img src={Db} width={250} className="mb-5 rounded-lg " />
-          <p className="font-bold uppercase">Dragon Ball Z Kai</p>
+          <p className="font-bold">Dragon Ball Z Kai</p>
           <div className="btnContent w-[80%] text-xl md:text-sm my-1 items-center">
             <Link
               to="/"
@@ -65,7 +65,7 @@ export default function Animes() {
         </div>
         <div className="cardAnime text-center flex flex-col items-center h-full p-4 m-5 bg-[transparent] border rounded">
           <img src={Db} width={250} className="mb-5 rounded-lg " />
-          <p className="font-bold uppercase">Dragon Ball Z Kai</p>
+          <p className="font-bold">Dragon Ball Super</p>
           <div className="btnContent w-[80%] text-xl md:text-sm my-1 items-center">
             <Link
               to="/"
@@ -85,7 +85,7 @@ export default function Animes() {
       <div className="md:mb-14 cardsContainer items-center justify-between flex md:flex-row flex-col">
         <div className="cardAnime text-center flex flex-col items-center h-full p-4 m-5 bg-[transparent] border rounded">
           <img src={Db} width={250} className="mb-5 rounded-lg " />
-          <p className="font-bold uppercase">Dragon Ball Z Kai</p>
+          <p className="font-bold">Dragon Ball GT</p>
           <div className="btnContent w-[80%] text-xl md:text-sm my-1 items-center">
             <Link
               to="/"
@@ -103,7 +103,7 @@ export default function Animes() {
         </div>
         <div className="cardAnime text-center flex flex-col items-center h-full p-4 m-5 bg-[transparent] border rounded">
           <img src={Db} width={250} className="mb-5 rounded-lg " />
-          <p className="font-bold uppercase">Dragon Ball Z Kai</p>
+          <p className="font-bold">Heores</p>
           <div className="btnContent w-[80%] text-xl md:text-sm my-1 items-center">
             <Link
               to="/"
@@ -122,7 +122,7 @@ export default function Animes() {
 
         <div className="cardAnime text-center flex flex-col items-center h-full p-4 m-5 bg-[transparent] border rounded">
           <img src={Db} width={250} className="mb-5 rounded-lg " />
-          <p className="font-bold uppercase">Dragon Ball Z Kai</p>
+          <p className="font-bold">Dragon Ball OVAs</p>
           <div className="btnContent w-[80%] text-xl md:text-sm my-1 items-center">
             <Link
               to="/"
@@ -140,7 +140,7 @@ export default function Animes() {
         </div>
         <div className="cardAnime text-center flex flex-col items-center h-full p-4 m-5 bg-[transparent] border rounded">
           <img src={Db} width={250} className="mb-5 rounded-lg " />
-          <p className="font-bold uppercase">Dragon Ball Z Kai</p>
+          <p className="font-bold">Especiais</p>
           <div className="btnContent w-[80%] text-xl md:text-sm my-1 items-center">
             <Link
               to="/"
