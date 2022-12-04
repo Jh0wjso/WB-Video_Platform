@@ -7,10 +7,13 @@ import "./styles.css";
 export default function Movies() {
   return (
     <div className="min-h-screen text-white text-xl md:text-base flex flex-col items-center justify-center">
+      <section>
+
+      </section>
       <div className="md:my-14 cardsContainer items-center justify-between flex md:flex-row flex-col">
         <div className="cardAnime text-center flex flex-col items-center h-full p-4 m-5 bg-[transparent] border rounded">
           <img src={Db} width={250} className="mb-5 rounded-lg " />
-          <p className="font-bold uppercase">A Lenda de Shenlong</p>
+          <p className="font-bold">A Lenda de Shenlong</p>
           <div className="btnContent w-[80%] text-xl md:text-sm my-1 items-center">
             <Link
               to="/"
@@ -28,7 +31,7 @@ export default function Movies() {
         </div>
         <div className="cardAnime text-center flex flex-col items-center h-full p-4 m-5 bg-[transparent] border rounded">
           <img src={Db} width={250} className="mb-5 rounded-lg " />
-          <p className="font-bold uppercase">O Castelo do Diabo</p>
+          <p className="font-bold">O Castelo do Diabo</p>
           <div className="btnContent w-[80%] text-xl md:text-sm my-1 items-center">
             <Link
               to="/"
@@ -47,7 +50,7 @@ export default function Movies() {
 
         <div className="cardAnime text-center flex flex-col items-center h-full p-4 m-5 bg-[transparent] border rounded">
           <img src={Db} width={250} className="mb-5 rounded-lg " />
-          <p className="font-bold uppercase">Uma Aventura Mística</p>
+          <p className="font-bold">Uma Aventura Mística</p>
           <div className="btnContent w-[80%] text-xl md:text-sm my-1 items-center">
             <Link
               to="/"
@@ -65,7 +68,7 @@ export default function Movies() {
         </div>
         <div className="cardAnime text-center flex flex-col items-center h-full p-4 m-5 bg-[transparent] border rounded">
           <img src={Db} width={250} className="mb-5 rounded-lg " />
-          <p className="font-bold uppercase">Devolva-me Gohan</p>
+          <p className="font-bold">Devolva-me Gohan</p>
           <div className="btnContent w-[80%] text-xl md:text-sm my-1 items-center">
             <Link
               to="/"
@@ -85,7 +88,7 @@ export default function Movies() {
       <div className="md:mb-14 cardsContainer items-center justify-between flex md:flex-row flex-col">
         <div className="cardAnime text-center flex flex-col items-center h-full p-4 m-5 bg-[transparent] border rounded">
           <img src={Db} width={250} className="mb-5 rounded-lg " />
-          <p className="font-bold uppercase">O Homem Mais Forte do Mundo</p>
+          <p className="font-bold">O Homem Mais Forte do Mundo</p>
           <div className="btnContent w-[80%] text-xl md:text-sm my-1 items-center">
             <Link
               to="/"
@@ -103,7 +106,7 @@ export default function Movies() {
         </div>
         <div className="cardAnime text-center flex flex-col items-center h-full p-4 m-5 bg-[transparent] border rounded">
           <img src={Db} width={250} className="mb-5 rounded-lg " />
-          <p className="font-bold uppercase">A Árvore do Poder</p>
+          <p className="font-bold">A Árvore do Poder</p>
           <div className="btnContent w-[80%] text-xl md:text-sm my-1 items-center">
             <Link
               to="/"
@@ -122,7 +125,7 @@ export default function Movies() {
 
         <div className="cardAnime text-center flex flex-col items-center h-full p-4 m-5 bg-[transparent] border rounded">
           <img src={Db} width={250} className="mb-5 rounded-lg " />
-          <p className="font-bold uppercase">Goku o Super Sayajin</p>
+          <p className="font-bold">Goku o Super Sayajin</p>
           <div className="btnContent w-[80%] text-xl md:text-sm my-1 items-center">
             <Link
               to="/"
@@ -140,7 +143,7 @@ export default function Movies() {
         </div>
         <div className="cardAnime text-center flex flex-col items-center h-full p-4 m-5 bg-[transparent] border rounded">
           <img src={Db} width={250} className="mb-5 rounded-lg " />
-          <p className="font-bold uppercase">Uma vingança para Freeza</p>
+          <p className="font-bold">Uma vingança para Freeza</p>
           <div className="btnContent w-[80%] text-xl md:text-sm my-1 items-center">
             <Link
               to="/"
@@ -160,7 +163,7 @@ export default function Movies() {
       <div className="md:mb-14 cardsContainer items-center justify-between flex md:flex-row flex-col">
         <div className="cardAnime text-center flex flex-col items-center h-full p-4 m-5 bg-[transparent] border rounded">
           <img src={Db} width={250} className="mb-5 rounded-lg " />
-          <p className="font-bold uppercase">O Retorno de Cooler</p>
+          <p className="font-bold">O Retorno de Cooler</p>
           <div className="btnContent w-[80%] text-xl md:text-sm my-1 items-center">
             <Link
               to="/"
@@ -178,7 +181,7 @@ export default function Movies() {
         </div>
         <div className="cardAnime text-center flex flex-col items-center h-full p-4 m-5 bg-[transparent] border rounded">
           <img src={Db} width={250} className="mb-5 rounded-lg " />
-          <p className="font-bold uppercase">Super Android 13</p>
+          <p className="font-bold">Super Android 13</p>
           <div className="btnContent w-[80%] text-xl md:text-sm my-1 items-center">
             <Link
               to="/"
@@ -197,7 +200,7 @@ export default function Movies() {
 
         <div className="cardAnime text-center flex flex-col items-center h-full p-4 m-5 bg-[transparent] border rounded">
           <img src={Db} width={250} className="mb-5 rounded-lg " />
-          <p className="font-bold uppercase">O Lendário Super Sayajin</p>
+          <p className="font-bold">O Lendário Super Sayajin</p>
           <div className="btnContent w-[80%] text-xl md:text-sm my-1 items-center">
             <Link
               to="/"
@@ -215,7 +218,7 @@ export default function Movies() {
         </div>
         <div className="cardAnime text-center flex flex-col items-center h-full p-4 m-5 bg-[transparent] border rounded">
           <img src={Db} width={250} className="mb-5 rounded-lg " />
-          <p className="font-bold uppercase">Batalha nos Dois Mundos</p>
+          <p className="font-bold">Batalha nos Dois Mundos</p>
           <div className="btnContent w-[80%] text-xl md:text-sm my-1 items-center">
             <Link
               to="/"
@@ -235,7 +238,7 @@ export default function Movies() {
       <div className="md:mb-14 cardsContainer items-center justify-between flex md:flex-row flex-col">
         <div className="cardAnime text-center flex flex-col items-center h-full p-4 m-5 bg-[transparent] border rounded">
           <img src={Db} width={250} className="mb-5 rounded-lg " />
-          <p className="font-bold uppercase">O Retorno de Broly</p>
+          <p className="font-bold">O Retorno de Broly</p>
           <div className="btnContent w-[80%] text-xl md:text-sm my-1 items-center">
             <Link
               to="/"
@@ -253,7 +256,7 @@ export default function Movies() {
         </div>
         <div className="cardAnime text-center flex flex-col items-center h-full p-4 m-5 bg-[transparent] border rounded">
           <img src={Db} width={250} className="mb-5 rounded-lg " />
-          <p className="font-bold uppercase">Renascimento Da Fusão</p>
+          <p className="font-bold">Renascimento Da Fusão</p>
           <div className="btnContent w-[80%] text-xl md:text-sm my-1 items-center">
             <Link
               to="/"
@@ -272,7 +275,7 @@ export default function Movies() {
 
         <div className="cardAnime text-center flex flex-col items-center h-full p-4 m-5 bg-[transparent] border rounded">
           <img src={Db} width={250} className="mb-5 rounded-lg " />
-          <p className="font-bold uppercase">Combate Final Bio-Broly</p>
+          <p className="font-bold">Combate Final Bio-Broly</p>
           <div className="btnContent w-[80%] text-xl md:text-sm my-1 items-center">
             <Link
               to="/"
@@ -290,7 +293,7 @@ export default function Movies() {
         </div>
         <div className="cardAnime text-center flex flex-col items-center h-full p-4 m-5 bg-[transparent] border rounded">
           <img src={Db} width={250} className="mb-5 rounded-lg " />
-          <p className="font-bold uppercase">O Ataque do Dragão</p>
+          <p className="font-bold">O Ataque do Dragão</p>
           <div className="btnContent w-[80%] text-xl md:text-sm my-1 items-center">
             <Link
               to="/"
@@ -310,7 +313,7 @@ export default function Movies() {
       <div className="md:mb-14 cardsContainer items-center justify-between flex md:flex-row flex-col">
         <div className="cardAnime text-center flex flex-col items-center h-full p-4 m-5 bg-[transparent] border rounded">
           <img src={Db} width={250} className="mb-5 rounded-lg " />
-          <p className="font-bold uppercase">Em Busca Do Poder</p>
+          <p className="font-bold">Em Busca Do Poder</p>
           <div className="btnContent w-[80%] text-xl md:text-sm my-1 items-center">
             <Link
               to="/"
@@ -328,7 +331,7 @@ export default function Movies() {
         </div>
         <div className="cardAnime text-center flex flex-col items-center h-full p-4 m-5 bg-[transparent] border rounded">
           <img src={Db} width={250} className="mb-5 rounded-lg " />
-          <p className="font-bold uppercase">Batalha dos Deuses</p>
+          <p className="font-bold">Batalha dos Deuses</p>
           <div className="btnContent w-[80%] text-xl md:text-sm my-1 items-center">
             <Link
               to="/"
@@ -347,7 +350,7 @@ export default function Movies() {
 
         <div className="cardAnime text-center flex flex-col items-center h-full p-4 m-5 bg-[transparent] border rounded">
           <img src={Db} width={250} className="mb-5 rounded-lg " />
-          <p className="font-bold uppercase">O Renascimento de Freeza</p>
+          <p className="font-bold">O Renascimento de Freeza</p>
           <div className="btnContent w-[80%] text-xl md:text-sm my-1 items-center">
             <Link
               to="/"
@@ -365,7 +368,7 @@ export default function Movies() {
         </div>
         <div className="cardAnime text-center flex flex-col items-center h-full p-4 m-5 bg-[transparent] border rounded">
           <img src={Db} width={250} className="mb-5 rounded-lg " />
-          <p className="font-bold uppercase">Dragon Ball Super Broly</p>
+          <p className="font-bold">Dragon Ball Super Broly</p>
           <div className="btnContent w-[80%] text-xl md:text-sm my-1 items-center">
             <Link
               to="/"
@@ -385,7 +388,7 @@ export default function Movies() {
       <div className="md:mb-14 cardsContainer items-center justify-between flex md:flex-row flex-col">
         <div className="cardAnime text-center flex flex-col items-center h-full p-4 m-5 bg-[transparent] border rounded">
           <img src={Db} width={250} className="mb-5 rounded-lg " />
-          <p className="font-bold uppercase">Dragon Ball Evolution</p>
+          <p className="font-bold">Dragon Ball Evolution</p>
           <div className="btnContent w-[80%] text-xl md:text-sm my-1 items-center">
             <Link
               to="/"
@@ -403,7 +406,7 @@ export default function Movies() {
         </div>
         <div className="cardAnime text-center flex flex-col items-center h-full p-4 m-5 bg-[transparent] border rounded">
           <img src={Db} width={250} className="mb-5 rounded-lg " />
-          <p className="font-bold uppercase">Super Hero</p>
+          <p className="font-bold">Super Hero</p>
           <div className="btnContent w-[80%] text-xl md:text-sm my-1 items-center">
             <Link
               to="/"
