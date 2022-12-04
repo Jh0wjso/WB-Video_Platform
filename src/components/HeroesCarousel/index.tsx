@@ -7,10 +7,10 @@ import "./styles.css";
 export default function HeroesCarousel() {
   return (
     <div className="container flex flex-col items-center mt-9 w-screen">
-      <div className="container border-b-2 flex flex-row justify-between items-center w-screen mb-2">
-        <h1 className="text-2xl md:text-4xl ml-4">Heroes</h1>
+      <div className="container md:bg-gray-700 flex p-2 flex-row justify-between items-center w-screen border-gray-700 md:rounded-t-lg">
+        <h1 className="text-2xl text-white md:text-4xl ml-4">Heroes</h1>
         <Link
-          className="mr-4 md:mr-10 text-white chrome bg-gray-700 rounded md:py-1 px-1 md:px-2 transition-colors hover:bg-gray-400 hover:text-gray-700"
+          className="mr-4 md:mr-10 text-gray-700 chrome bg-gray-200 rounded md:py-1 px-1 md:px-2 transition-colors hover:bg-gray-400 hover:text-gray-700"
           to="/Heroes"
         >
           Ver Mais
@@ -61,48 +61,38 @@ export default function HeroesCarousel() {
         </Carousel>
       </div>
 
-      <div className="dbEps mt-3 mb-5">
-        <div className="flex flex-row justify-start">
-          <div className="flex flex-col items-center">
-            <Link to="/">
+      <div className="dbEps mb-5 text-gray-700 border-2 w-full rounded-b-lg bg-gray-300 border-gray-700">
+        <div className="flex flex-row justify-center p-5">
+          <Link to="/">
+            <div className="flex flex-col hover:text-gray-500 hover:underline">
               <img className="rounded imgDB mx-3 hover:opacity-50" src={Db} />
-              <p className="text-center hover:text-gray-500 hover:underline">
-                Ep XX: Nome do Episodio
-              </p>
-            </Link>
-          </div>
-          <div className="flex flex-col items-center">
-            <Link to="/">
-              <img className="rounded imgDB mx-3 hover:opacity-50" width={1000} src={Db} />
-              <p className="text-center hover:text-gray-500 hover:underline">
-                Ep XX: Nome do Episodio
-              </p>
-            </Link>
-          </div>
-          <div className="flex flex-col items-center">
-            <Link to="/">
-              <img className="rounded imgDB mx-3 hover:opacity-50" width={1000} src={Db} />
-              <p className="text-center hover:text-gray-500 hover:underline">
-                Ep XX: Nome do Episodio
-              </p>
-            </Link>
-          </div>
-          <div className="flex flex-col items-center">
-            <Link to="/">
-              <img className="rounded imgDB mx-3 hover:opacity-50" width={1000} src={Db} />
-              <p className="text-center hover:text-gray-500 hover:underline">
-                Ep XX: Nome do Episodio
-              </p>
-            </Link>
-          </div>
-          <div className="flex flex-col items-center">
-            <Link to="/">
-              <img className="rounded imgDB mx-3 hover:opacity-50" width={1000} src={Db} />
-              <p className="text-center hover:text-gray-500 hover:underline">
-                Ep XX: Nome do Episodio
-              </p>
-            </Link>
-          </div>
+              <p className="text-center">Ep XX: Nome do Episodio</p>
+            </div>
+          </Link>
+          <Link to="/">
+            <div className="flex flex-col items-center hover:text-gray-500 hover:underline">
+              <img className="rounded imgDB mx-3 hover:opacity-50" src={Db} />
+              <p className="text-center">Ep XX: Nome do Episodio</p>
+            </div>
+          </Link>
+          <Link to="/">
+            <div className="flex flex-col items-center hover:text-gray-500 hover:underline">
+              <img className="rounded imgDB mx-3 hover:opacity-50" src={Db} />
+              <p className="text-center">Ep XX: Nome do Episodio</p>
+            </div>
+          </Link>
+          <Link to="/">
+            <div className="flex flex-col items-center hover:text-gray-500 hover:underline">
+              <img className="rounded imgDB mx-3 hover:opacity-50" src={Db} />
+              <p className="text-center">Ep XX: Nome do Episodio</p>
+            </div>
+          </Link>
+          <Link to="/">
+            <div className="flex flex-col items-center hover:text-gray-500 hover:underline">
+              <img className="rounded imgDB mx-3 hover:opacity-50" src={Db} />
+              <p className="text-center">Ep XX: Nome do Episodio</p>
+            </div>
+          </Link>
         </div>
       </div>
     </div>
