@@ -15,91 +15,81 @@ export default function DragonBallCarousel() {
           Ver Mais
         </Link>
       </div>
-      <div className="carouselDb mt-3 mb-5 container">
+      <div className="carouselDb md:p-5 text-center font-bold mb-5 container md:text-gray-700 md:border-2 w-full md:rounded-b-lg md:bg-gray-300 md:border-gray-700">
         <Carousel cols={5} rows={1} gap={10} loop>
           <Carousel.Item>
             <img className="rounded hover:opacity-50" src={Db} />
-            <p className="text-center">Ep XX: Nome do Episodio</p>
+            <p>Ep XX: Nome do Episodio</p>
           </Carousel.Item>
           <Carousel.Item>
             <img className="rounded hover:opacity-50" src={Db} />
-            <p className="text-center">Ep XX: Nome do Episodio</p>
+            <p>Ep XX: Nome do Episodio</p>
           </Carousel.Item>
           <Carousel.Item>
             <img className="rounded hover:opacity-50" src={Db} />
-            <p className="text-center">Ep XX: Nome do Episodio</p>
+            <p>Ep XX: Nome do Episodio</p>
           </Carousel.Item>
           <Carousel.Item>
             <img className="rounded hover:opacity-50" src={Db} />
-            <p className="text-center">Ep XX: Nome do Episodio</p>
+            <p>Ep XX: Nome do Episodio</p>
           </Carousel.Item>
           <Carousel.Item>
             <img className="rounded hover:opacity-50" src={Db} />
-            <p className="text-center">Ep XX: Nome do Episodio</p>
+            <p>Ep XX: Nome do Episodio</p>
           </Carousel.Item>
           <Carousel.Item>
             <img className="rounded hover:opacity-50" src={Db} />
-            <p className="text-center">Ep XX: Nome do Episodio</p>
+            <p>Ep XX: Nome do Episodio</p>
           </Carousel.Item>
           <Carousel.Item>
             <img className="rounded hover:opacity-50" src={Db} />
-            <p className="text-center">Ep XX: Nome do Episodio</p>
+            <p>Ep XX: Nome do Episodio</p>
           </Carousel.Item>
           <Carousel.Item>
             <img className="rounded hover:opacity-50" src={Db} />
-            <p className="text-center">Ep XX: Nome do Episodio</p>
+            <p>Ep XX: Nome do Episodio</p>
           </Carousel.Item>
           <Carousel.Item>
             <img className="rounded hover:opacity-50" src={Db} />
-            <p className="text-center">Ep XX: Nome do Episodio</p>
+            <p>Ep XX: Nome do Episodio</p>
           </Carousel.Item>
           <Carousel.Item>
             <img className="rounded hover:opacity-50" src={Db} />
-            <p className="text-center">Ep XX: Nome do Episodio</p>
+            <p>Ep XX: Nome do Episodio</p>
           </Carousel.Item>
         </Carousel>
       </div>
 
-      <div className="dbEps mb-5 text-gray-700 border-2 w-full rounded-b-lg bg-gray-300 border-gray-700">
+      <div className="dbEps mb-5 text-gray-700 font-bold border-2 w-full rounded-b-lg bg-gray-300 border-gray-700">
         <div className="flex flex-row justify-center p-5">
           <Link to="/">
             <div className="flex flex-col hover:text-gray-500 hover:underline">
               <img className="rounded imgDB mx-3 hover:opacity-50" src={Db} />
-              <p className="text-center">
-                Ep XX: Nome do Episodio
-              </p>
+              <p className="text-center">Ep XX: Nome do Episodio</p>
             </div>
           </Link>
           <Link to="/">
             <div className="flex flex-col items-center hover:text-gray-500 hover:underline">
               <img className="rounded imgDB mx-3 hover:opacity-50" src={Db} />
-              <p className="text-center">
-                Ep XX: Nome do Episodio
-              </p>
-            </div>
-          </Link>
-          <Link to="/" >
-            <div className="flex flex-col items-center hover:text-gray-500 hover:underline">
-              <img className="rounded imgDB mx-3 hover:opacity-50" src={Db} />
-              <p className="text-center">
-                Ep XX: Nome do Episodio
-              </p>
+              <p className="text-center">Ep XX: Nome do Episodio</p>
             </div>
           </Link>
           <Link to="/">
             <div className="flex flex-col items-center hover:text-gray-500 hover:underline">
               <img className="rounded imgDB mx-3 hover:opacity-50" src={Db} />
-              <p className="text-center">
-                Ep XX: Nome do Episodio
-              </p>
+              <p className="text-center">Ep XX: Nome do Episodio</p>
             </div>
           </Link>
           <Link to="/">
             <div className="flex flex-col items-center hover:text-gray-500 hover:underline">
               <img className="rounded imgDB mx-3 hover:opacity-50" src={Db} />
-              <p className="text-center">
-                Ep XX: Nome do Episodio
-              </p>
+              <p className="text-center">Ep XX: Nome do Episodio</p>
+            </div>
+          </Link>
+          <Link to="/">
+            <div className="flex flex-col items-center hover:text-gray-500 hover:underline">
+              <img className="rounded imgDB mx-3 hover:opacity-50" src={Db} />
+              <p className="text-center">Ep XX: Nome do Episodio</p>
             </div>
           </Link>
         </div>
