@@ -1,16 +1,23 @@
 import { Link } from "react-router-dom";
 
-import Db from "../../images/DB_case.jpg";
+import Db from "../../images/capaDB.jpeg";
+import Dbz from "../../images/capaDBZ.jpeg";
+import Dbkai from "../../images/capaKai.jpeg";
+import Dbs from "../../images/capaDBS.jpeg";
+import Dbgt from "../../images/capaDBGT.jpeg";
+import Dbh from "../../images/capaDBH.jpg";
+import Dbova from "../../images/capaDBO.jpg";
+import Dbes from "../../images/capaDBEs.jpeg";
 
 import "./styles.css";
 
 export default function Animes() {
   return (
     <div className="min-h-screen text-white text-xl md:text-base flex flex-col items-center justify-center">
-      <h1 className="text-3xl md:text-5xl font-bold text-center my-5">
+      <h1 className="text-3xl md:text-5xl font-bold text-center my-10">
         Assista a todos os episódios
       </h1>
-      <div className="md:my-14 cardsContainer items-center justify-between flex md:flex-row flex-col">
+      <div className="cardsContainer items-center justify-between flex md:flex-row flex-col">
         <div className="cardAnime text-center flex flex-col items-center h-full p-4 m-5 bg-[transparent] border rounded">
           <img src={Db} width={250} className="mb-5 rounded-lg " />
           <p className="font-bold">Dragon Ball</p>
@@ -30,7 +37,7 @@ export default function Animes() {
           </div>
         </div>
         <div className="cardAnime text-center flex flex-col items-center h-full p-4 m-5 bg-[transparent] border rounded">
-          <img src={Db} width={250} className="mb-5 rounded-lg " />
+          <img src={Dbz} width={250} className="mb-5 rounded-lg " />
           <p className="font-bold">Dragon Ball Z</p>
           <div className="btnContent w-[80%] text-xl md:text-sm my-1 items-center">
             <Link
@@ -49,7 +56,7 @@ export default function Animes() {
         </div>
 
         <div className="cardAnime text-center flex flex-col items-center h-full p-4 m-5 bg-[transparent] border rounded">
-          <img src={Db} width={250} className="mb-5 rounded-lg " />
+          <img src={Dbkai} width={250} className="mb-5 rounded-lg " />
           <p className="font-bold">Dragon Ball Z Kai</p>
           <div className="btnContent w-[80%] text-xl md:text-sm my-1 items-center">
             <Link
@@ -67,7 +74,7 @@ export default function Animes() {
           </div>
         </div>
         <div className="cardAnime text-center flex flex-col items-center h-full p-4 m-5 bg-[transparent] border rounded">
-          <img src={Db} width={250} className="mb-5 rounded-lg " />
+          <img src={Dbs} width={250} className="mb-5 rounded-lg " />
           <p className="font-bold">Dragon Ball Super</p>
           <div className="btnContent w-[80%] text-xl md:text-sm my-1 items-center">
             <Link
@@ -87,7 +94,7 @@ export default function Animes() {
       </div>
       <div className="md:mb-14 cardsContainer items-center justify-between flex md:flex-row flex-col">
         <div className="cardAnime text-center flex flex-col items-center h-full p-4 m-5 bg-[transparent] border rounded">
-          <img src={Db} width={250} className="mb-5 rounded-lg " />
+          <img src={Dbgt} width={250} className="mb-5 rounded-lg " />
           <p className="font-bold">Dragon Ball GT</p>
           <div className="btnContent w-[80%] text-xl md:text-sm my-1 items-center">
             <Link
@@ -105,7 +112,7 @@ export default function Animes() {
           </div>
         </div>
         <div className="cardAnime text-center flex flex-col items-center h-full p-4 m-5 bg-[transparent] border rounded">
-          <img src={Db} width={250} className="mb-5 rounded-lg " />
+          <img src={Dbh} width={250} className="mb-5 rounded-lg " />
           <p className="font-bold">Heores</p>
           <div className="btnContent w-[80%] text-xl md:text-sm my-1 items-center">
             <Link
@@ -124,7 +131,7 @@ export default function Animes() {
         </div>
 
         <div className="cardAnime text-center flex flex-col items-center h-full p-4 m-5 bg-[transparent] border rounded">
-          <img src={Db} width={250} className="mb-5 rounded-lg " />
+          <img src={Dbova} width={250} className="mb-5 rounded-lg " />
           <p className="font-bold">Dragon Ball OVAs</p>
           <div className="btnContent w-[80%] text-xl md:text-sm my-1 items-center">
             <Link
@@ -142,7 +149,7 @@ export default function Animes() {
           </div>
         </div>
         <div className="cardAnime text-center flex flex-col items-center h-full p-4 m-5 bg-[transparent] border rounded">
-          <img src={Db} width={250} className="mb-5 rounded-lg " />
+          <img src={Dbes} width={250} className="mb-5 rounded-lg " />
           <p className="font-bold">Especiais</p>
           <div className="btnContent w-[80%] text-xl md:text-sm my-1 items-center">
             <Link
