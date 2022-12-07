@@ -1,6 +1,10 @@
 import { Link } from "react-router-dom";
 
 import Db from "../../images/DB_case.jpg";
+import Um from "../../images/MoviesImages/1.jpg";
+import Dois from "../../images/MoviesImages/2.jpg";
+import Tres from "../../images/MoviesImages/3.jpg";
+import Quatro from "../../images/MoviesImages/4.jpg";
 
 import "./styles.css";
 
@@ -12,7 +16,7 @@ export default function Movies() {
       </h1>
       <div className="cardsContainer items-center justify-between flex md:flex-row flex-col">
         <div className="cardAnime text-center flex flex-col items-center h-full p-4 m-5 bg-[transparent] border rounded">
-          <img src={Db} width={250} className="mb-5 rounded-lg " />
+          <img src={Um} width={250} className="mb-5 rounded-lg " />
           <p className="font-bold">A Lenda de Shenlong</p>
           <div className="btnContent w-[80%] text-xl md:text-sm my-1 items-center">
             <Link
@@ -30,7 +34,7 @@ export default function Movies() {
           </div>
         </div>
         <div className="cardAnime text-center flex flex-col items-center h-full p-4 m-5 bg-[transparent] border rounded">
-          <img src={Db} width={250} className="mb-5 rounded-lg " />
+          <img src={Dois} width={250} className="mb-5 rounded-lg " />
           <p className="font-bold">O Castelo do Diabo</p>
           <div className="btnContent w-[80%] text-xl md:text-sm my-1 items-center">
             <Link
@@ -47,9 +51,8 @@ export default function Movies() {
             </Link>
           </div>
         </div>
-
         <div className="cardAnime text-center flex flex-col items-center h-full p-4 m-5 bg-[transparent] border rounded">
-          <img src={Db} width={250} className="mb-5 rounded-lg " />
+          <img src={Tres} width={250} className="mb-5 rounded-lg " />
           <p className="font-bold">Uma Aventura Mística</p>
           <div className="btnContent w-[80%] text-xl md:text-sm my-1 items-center">
             <Link
@@ -67,7 +70,7 @@ export default function Movies() {
           </div>
         </div>
         <div className="cardAnime text-center flex flex-col items-center h-full p-4 m-5 bg-[transparent] border rounded">
-          <img src={Db} width={250} className="mb-5 rounded-lg " />
+          <img src={Quatro} width={250} className="mb-5 rounded-lg " />
           <p className="font-bold">Devolva-me Gohan</p>
           <div className="btnContent w-[80%] text-xl md:text-sm my-1 items-center">
             <Link
