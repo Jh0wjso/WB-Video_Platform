@@ -21,61 +21,61 @@ export default function HeroesCarousel() {
           <Carousel.Item>
             <Link to="/video/1/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm">
               <img className="rounded hover:opacity-50" src={Db} />
-              <p>Ep XX: Nome do Episodio</p>
+              <p>Ep 01: Nome do Episodio</p>
             </Link>
           </Carousel.Item>
           <Carousel.Item>
             <Link to="/video/2/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm">
               <img className="rounded hover:opacity-50" src={Db} />
-              <p>Ep XX: Nome do Episodio</p>
+              <p>Ep 02: Nome do Episodio</p>
             </Link>
           </Carousel.Item>
           <Carousel.Item>
             <Link to="/video/3/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm">
               <img className="rounded hover:opacity-50" src={Db} />
-              <p>Ep XX: Nome do Episodio</p>
+              <p>Ep 02: Nome do Episodio</p>
             </Link>
           </Carousel.Item>
           <Carousel.Item>
             <Link to="/video/4/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm">
               <img className="rounded hover:opacity-50" src={Db} />
-              <p>Ep XX: Nome do Episodio</p>
+              <p>Ep 04: Nome do Episodio</p>
             </Link>
           </Carousel.Item>
           <Carousel.Item>
             <Link to="/video/5/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm">
               <img className="rounded hover:opacity-50" src={Db} />
-              <p>Ep XX: Nome do Episodio</p>
+              <p>Ep 05: Nome do Episodio</p>
             </Link>
           </Carousel.Item>
           <Carousel.Item>
             <Link to="/video/6/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm">
               <img className="rounded hover:opacity-50" src={Db} />
-              <p>Ep XX: Nome do Episodio</p>
+              <p>Ep 06: Nome do Episodio</p>
             </Link>
           </Carousel.Item>
           <Carousel.Item>
             <Link to="/video/7/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm">
               <img className="rounded hover:opacity-50" src={Db} />
-              <p>Ep XX: Nome do Episodio</p>
+              <p>Ep 07: Nome do Episodio</p>
             </Link>
           </Carousel.Item>
           <Carousel.Item>
             <Link to="/video/8/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm">
               <img className="rounded hover:opacity-50" src={Db} />
-              <p>Ep XX: Nome do Episodio</p>
+              <p>Ep 08: Nome do Episodio</p>
             </Link>
           </Carousel.Item>
           <Carousel.Item>
             <Link to="/video/9/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm">
               <img className="rounded hover:opacity-50" src={Db} />
-              <p>Ep XX: Nome do Episodio</p>
+              <p>Ep 09: Nome do Episodio</p>
             </Link>
           </Carousel.Item>
           <Carousel.Item>
             <Link to="/video/10/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm">
               <img className="rounded hover:opacity-50" src={Db} />
-              <p>Ep XX: Nome do Episodio</p>
+              <p>Ep 10: Nome do Episodio</p>
             </Link>
           </Carousel.Item>
         </Carousel>
@@ -85,32 +85,32 @@ export default function HeroesCarousel() {
         <div className="flex flex-row justify-center p-5">
           <Link to="/video/1/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm">
             <div className="flex flex-col hover:text-gray-500 hover:underline">
-              <img className="rounded imgDB mx-3 hover:opacity-50" src={Db} />
-              <p className="text-center">Ep XX: Nome do Episodio</p>
+              <img className="rounded imgDB mr-3 hover:opacity-50" src={Db} />
+              <p className="text-center">Ep 01: Nome do Episodio</p>
             </div>
           </Link>
           <Link to="/video/2/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm">
             <div className="flex flex-col items-center hover:text-gray-500 hover:underline">
               <img className="rounded imgDB mx-3 hover:opacity-50" src={Db} />
-              <p className="text-center">Ep XX: Nome do Episodio</p>
+              <p className="text-center">Ep 02: Nome do Episodio</p>
             </div>
           </Link>
-          <Link to="/video/1/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm">
+          <Link to="/video/3/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm">
             <div className="flex flex-col items-center hover:text-gray-500 hover:underline">
               <img className="rounded imgDB mx-3 hover:opacity-50" src={Db} />
-              <p className="text-center">Ep XX: Nome do Episodio</p>
+              <p className="text-center">Ep 03: Nome do Episodio</p>
             </div>
           </Link>
-          <Link to="/video/1/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm">
+          <Link to="/video/4/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm">
             <div className="flex flex-col items-center hover:text-gray-500 hover:underline">
               <img className="rounded imgDB mx-3 hover:opacity-50" src={Db} />
-              <p className="text-center">Ep XX: Nome do Episodio</p>
+              <p className="text-center">Ep 04: Nome do Episodio</p>
             </div>
           </Link>
-          <Link to="/video/1/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm">
+          <Link to="/video/5/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm">
             <div className="flex flex-col items-center hover:text-gray-500 hover:underline">
               <img className="rounded imgDB mx-3 hover:opacity-50" src={Db} />
-              <p className="text-center">Ep XX: Nome do Episodio</p>
+              <p className="text-center">Ep 05: Nome do Episodio</p>
             </div>
           </Link>
         </div>
