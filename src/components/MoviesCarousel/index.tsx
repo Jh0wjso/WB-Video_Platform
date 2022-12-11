@@ -18,81 +18,96 @@ export default function MoviesCarousel() {
       <div className="carouselDb md:p-5 text-center font-bold mb-5 container md:text-gray-700 md:border-2 w-full md:rounded-b-lg md:bg-gray-300 md:border-gray-700">
         <Carousel cols={5} rows={1} gap={10} loop>
           <Carousel.Item>
-            <img className="rounded hover:opacity-50" src={Db} />
-            <p>Ep XX: Nome do Episodio</p>
+            <Link
+              to="/video/1/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
+              className="rounded hover:opacity-50 hover:underline"
+            >
+              <img src={Db} />
+              <p>Ep 01: Nome do Episodio</p>
+            </Link>
           </Carousel.Item>
           <Carousel.Item>
-            <img className="rounded hover:opacity-50" src={Db} />
-            <p>Ep XX: Nome do Episodio</p>
+            <Link
+              to="/video/1/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
+              className="rounded hover:opacity-50 hover:underline"
+            >
+              <img className="rounded hover:opacity-50" src={Db} />
+              <p>Ep 02: Nome do Episodio</p>
+            </Link>
           </Carousel.Item>
           <Carousel.Item>
-            <img className="rounded hover:opacity-50" src={Db} />
-            <p>Ep XX: Nome do Episodio</p>
+            <Link
+              to="/video/1/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
+              className="rounded hover:opacity-50 hover:underline"
+            >
+              <img className="rounded hover:opacity-50" src={Db} />
+              <p>Ep 02: Nome do Episodio</p>
+            </Link>
           </Carousel.Item>
           <Carousel.Item>
-            <img className="rounded hover:opacity-50" src={Db} />
-            <p>Ep XX: Nome do Episodio</p>
+            <Link
+              to="/video/1/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
+              className="rounded hover:opacity-50 hover:underline"
+            >
+              <img className="rounded hover:opacity-50" src={Db} />
+              <p>Ep 04: Nome do Episodio</p>
+            </Link>
           </Carousel.Item>
           <Carousel.Item>
-            <img className="rounded hover:opacity-50" src={Db} />
-            <p>Ep XX: Nome do Episodio</p>
+            <Link
+              to="/video/1/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
+              className="rounded hover:opacity-50 hover:underline"
+            >
+              <img className="rounded hover:opacity-50" src={Db} />
+              <p>Ep 05: Nome do Episodio</p>
+            </Link>
           </Carousel.Item>
           <Carousel.Item>
-            <img className="rounded hover:opacity-50" src={Db} />
-            <p>Ep XX: Nome do Episodio</p>
+            <Link
+              to="/video/1/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
+              className="rounded hover:opacity-50 hover:underline"
+            >
+              <img className="rounded hover:opacity-50" src={Db} />
+              <p>Ep 06: Nome do Episodio</p>
+            </Link>
           </Carousel.Item>
           <Carousel.Item>
-            <img className="rounded hover:opacity-50" src={Db} />
-            <p>Ep XX: Nome do Episodio</p>
+            <Link
+              to="/video/1/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
+              className="rounded hover:opacity-50 hover:underline"
+            >
+              <img className="rounded hover:opacity-50" src={Db} />
+              <p>Ep 07: Nome do Episodio</p>
+            </Link>
           </Carousel.Item>
           <Carousel.Item>
-            <img className="rounded hover:opacity-50" src={Db} />
-            <p>Ep XX: Nome do Episodio</p>
+            <Link
+              to="/video/1/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
+              className="rounded hover:opacity-50 hover:underline"
+            >
+              <img className="rounded hover:opacity-50" src={Db} />
+              <p>Ep 08: Nome do Episodio</p>
+            </Link>
           </Carousel.Item>
           <Carousel.Item>
-            <img className="rounded hover:opacity-50" src={Db} />
-            <p>Ep XX: Nome do Episodio</p>
+            <Link
+              to="/video/1/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
+              className="rounded hover:opacity-50 hover:underline"
+            >
+              <img className="rounded hover:opacity-50" src={Db} />
+              <p>Ep 09: Nome do Episodio</p>
+            </Link>
           </Carousel.Item>
           <Carousel.Item>
-            <img className="rounded hover:opacity-50" src={Db} />
-            <p>Ep XX: Nome do Episodio</p>
+            <Link
+              to="/video/1/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
+              className="rounded hover:opacity-50 hover:underline"
+            >
+              <img className="rounded hover:opacity-50" src={Db} />
+              <p>Ep 10: Nome do Episodio</p>
+            </Link>
           </Carousel.Item>
         </Carousel>
-      </div>
-
-      <div className="dbEps mb-5 text-gray-700 border-2 w-full font-bold rounded-b-lg bg-gray-300 border-gray-700">
-        <div className="flex flex-row justify-center p-5">
-          <Link to="/">
-            <div className="flex flex-col hover:text-gray-500 hover:underline">
-              <img className="rounded imgDB mx-3 hover:opacity-50" src={Db} />
-              <p className="text-center">Ep XX: Nome do Episodio</p>
-            </div>
-          </Link>
-          <Link to="/">
-            <div className="flex flex-col items-center hover:text-gray-500 hover:underline">
-              <img className="rounded imgDB mx-3 hover:opacity-50" src={Db} />
-              <p className="text-center">Ep XX: Nome do Episodio</p>
-            </div>
-          </Link>
-          <Link to="/">
-            <div className="flex flex-col items-center hover:text-gray-500 hover:underline">
-              <img className="rounded imgDB mx-3 hover:opacity-50" src={Db} />
-              <p className="text-center">Ep XX: Nome do Episodio</p>
-            </div>
-          </Link>
-          <Link to="/">
-            <div className="flex flex-col items-center hover:text-gray-500 hover:underline">
-              <img className="rounded imgDB mx-3 hover:opacity-50" src={Db} />
-              <p className="text-center">Ep XX: Nome do Episodio</p>
-            </div>
-          </Link>
-          <Link to="/">
-            <div className="flex flex-col items-center hover:text-gray-500 hover:underline">
-              <img className="rounded imgDB mx-3 hover:opacity-50" src={Db} />
-              <p className="text-center">Ep XX: Nome do Episodio</p>
-            </div>
-          </Link>
-        </div>
       </div>
     </div>
   );

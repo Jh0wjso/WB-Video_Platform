@@ -6,20 +6,7 @@
     display: block;
 }
 
-.dbEps{
-    display: none;
-}
-
 .imgDB{
     width: 15rem;
     height: 100%;
-}
-
-@media screen and (min-width: 1284px){
-    .carouselDb{
-        display: none;
-    }
-    .dbEps{
-        display: block;
-    }
 }
