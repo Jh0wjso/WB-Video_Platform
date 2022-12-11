@@ -10,8 +10,8 @@ export default function HeroesCarousel() {
       <div className="container md:bg-gray-700 flex p-2 flex-row justify-between items-center w-screen border-gray-700 md:rounded-t-lg">
         <h1 className="text-2xl text-white md:text-4xl ml-4">Heroes</h1>
         <Link
-          className="mr-4 md:mr-10 text-gray-700 chrome bg-gray-200 rounded md:py-1 px-1 md:px-2 transition-colors hover:bg-gray-400 hover:text-gray-700"
-          to="/Heroes"
+          className="mr-4 md:mr-10 text-white chrome bg-orange-400 rounded md:py-1 px-1 md:px-2 transition-colors hover:bg-orange-600 font-bold"
+          to="/filmes"
         >
           Ver Mais
         </Link>
@@ -29,7 +29,7 @@ export default function HeroesCarousel() {
           </Carousel.Item>
           <Carousel.Item>
             <Link
-              to="/video/1/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
+              to="/video/2/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
               className="rounded hover:opacity-50 hover:underline"
             >
               <img className="rounded hover:opacity-50" src={Db} />
@@ -38,7 +38,7 @@ export default function HeroesCarousel() {
           </Carousel.Item>
           <Carousel.Item>
             <Link
-              to="/video/1/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
+              to="/video/3/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
               className="rounded hover:opacity-50 hover:underline"
             >
               <img className="rounded hover:opacity-50" src={Db} />
@@ -47,7 +47,7 @@ export default function HeroesCarousel() {
           </Carousel.Item>
           <Carousel.Item>
             <Link
-              to="/video/1/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
+              to="/video/4/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
               className="rounded hover:opacity-50 hover:underline"
             >
               <img className="rounded hover:opacity-50" src={Db} />
@@ -56,7 +56,7 @@ export default function HeroesCarousel() {
           </Carousel.Item>
           <Carousel.Item>
             <Link
-              to="/video/1/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
+              to="/video/5/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
               className="rounded hover:opacity-50 hover:underline"
             >
               <img className="rounded hover:opacity-50" src={Db} />
@@ -65,7 +65,7 @@ export default function HeroesCarousel() {
           </Carousel.Item>
           <Carousel.Item>
             <Link
-              to="/video/1/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
+              to="/video/6/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
               className="rounded hover:opacity-50 hover:underline"
             >
               <img className="rounded hover:opacity-50" src={Db} />
@@ -74,7 +74,7 @@ export default function HeroesCarousel() {
           </Carousel.Item>
           <Carousel.Item>
             <Link
-              to="/video/1/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
+              to="/video/7/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
               className="rounded hover:opacity-50 hover:underline"
             >
               <img className="rounded hover:opacity-50" src={Db} />
@@ -83,7 +83,7 @@ export default function HeroesCarousel() {
           </Carousel.Item>
           <Carousel.Item>
             <Link
-              to="/video/1/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
+              to="/video/8/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
               className="rounded hover:opacity-50 hover:underline"
             >
               <img className="rounded hover:opacity-50" src={Db} />
@@ -92,7 +92,7 @@ export default function HeroesCarousel() {
           </Carousel.Item>
           <Carousel.Item>
             <Link
-              to="/video/1/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
+              to="/video/9/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
               className="rounded hover:opacity-50 hover:underline"
             >
               <img className="rounded hover:opacity-50" src={Db} />
@@ -101,7 +101,7 @@ export default function HeroesCarousel() {
           </Carousel.Item>
           <Carousel.Item>
             <Link
-              to="/video/1/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
+              to="/video/10/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
               className="rounded hover:opacity-50 hover:underline"
             >
               <img className="rounded hover:opacity-50" src={Db} />
