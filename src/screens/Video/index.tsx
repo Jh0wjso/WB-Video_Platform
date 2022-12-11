@@ -1,4 +1,4 @@
-import { useParams } from "react-router-dom";
+import { Link, useParams } from "react-router-dom";
 import "./styles.css";
 import VideoContent from "../../components/VideoContent";
 
@@ -10,6 +10,14 @@ export default function Video() {
   return (
     <div className="min-h-screen flex flex-col items-center justify-center m-2 md:m-5">
       <VideoContent number={Ep ? Ep?.toString() : ""} url={Url ? Url?.toString() : ""} />
+      <section className="flex flex-col items-center">
+        <Link to="/" className="btnhref">
+          Página inicial
+        </Link>
+        <Link to="/animes" className="btnhref">
+          Catalogo de animes
+        </Link>
+      </section>
     </div>
   );
 }
