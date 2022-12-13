@@ -4,6 +4,7 @@ import Inicio from "./screens/Inicio";
 import Animes from "./screens/Animes";
 import Movies from "./screens/Movies";
 import Video from "./screens/Video";
+import MovieWatch from "./screens/MovieWatch";
 
 export function Router() {
   return (
@@ -13,6 +14,9 @@ export function Router() {
       <Route path="/filmes" element={<Movies />} />
       <Route path="/video">
         <Route path=":number/:url" element={<Video />} />
+      </Route>
+      <Route path="/assistir">
+        <Route path=":name/:url" element={<MovieWatch />} />
       </Route>
     </Routes>
   );

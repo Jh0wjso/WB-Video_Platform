@@ -4,7 +4,7 @@ import MovieContent from "../../components/MovieComponent";
 
 export default function MovieWatch() {
   const name = useParams();
-  const Ep = name.number;
+  const Ep = name.name;
   const Url = name.url;
 
   return (
