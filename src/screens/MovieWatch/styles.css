@@ -1,0 +1,4 @@
+.btnhref{
+    @apply rounded bg-orange-400 text-white w-[100%] p-5 text-center font-bold text-xl md:text-2xl my-3;
+    @apply hover:bg-orange-600;
+}
