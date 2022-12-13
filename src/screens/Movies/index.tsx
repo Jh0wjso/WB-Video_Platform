@@ -38,7 +38,7 @@ export default function Movies() {
           <p className="font-bold">A Lenda de Shenlong</p>
           <div className="btnContent w-[80%] text-xl md:text-sm my-1 items-center">
             <Link
-              to="/"
+              to="/assistir/A Lenda de Shenlong/1C624UGEH3nAfd6W7XxqbsBFEPPCkWD9-"
               className="text-center bg-orange-400 text-xl md:text-xs m-2 w-[75%] md:w-auto md:m-2 hover:bg-orange-600 hover:transition-colors text-white p-2 rounded font-bold"
             >
               Dublado
@@ -56,7 +56,7 @@ export default function Movies() {
           <p className="font-bold">O Castelo do Diabo</p>
           <div className="btnContent w-[80%] text-xl md:text-sm my-1 items-center">
             <Link
-              to="/"
+              to="/assistir/O Castelo do Diabo/11pX0JMBmNVvMS8xvF01QA-s78X3UTH7w"
               className="text-center bg-orange-400 text-xl md:text-xs m-2 w-[75%] md:w-auto md:m-2 hover:bg-orange-600 hover:transition-colors text-white p-2 rounded font-bold"
             >
               Dublado

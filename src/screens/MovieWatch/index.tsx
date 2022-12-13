@@ -15,7 +15,7 @@ export default function MovieWatch() {
           Página inicial
         </Link>
         <Link to="/filmes" className="btnhref">
-          Catalogo de animes
+          Catalogo de Filmes
         </Link>
       </section>
     </div>
