@@ -6,7 +6,7 @@ interface InfoVideo{
 export default function MovieContent({name, url}:InfoVideo) {
   return (
     <>
-      <h1 className="text-2xl md:text-5xl mb-8 text-center">
+      <h1 className="text-2xl md:text-5xl mb-8 text-center font-bold">
         {name}
       </h1>
       <iframe

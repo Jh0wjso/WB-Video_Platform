@@ -1,4 +1,16 @@
 .btnhref{
-    @apply rounded bg-orange-400 text-white w-[100%] p-5 text-center font-bold text-xl md:text-2xl my-3;
-    @apply hover:bg-orange-600;
+    @apply rounded bg-white text-orange-400 border-2 border-orange-400 w-[30%] p-5 text-center font-bold text-xl md:text-2xl my-3;
+    @apply hover:bg-orange-600 hover:text-white hover:border-white;
+}
+.btnContainer{
+    @apply w-[50%] flex flex-row justify-between items-center;
+}
+
+@media screen and (max-width: 1000px){
+    .btnContainer{
+        @apply w-[100%] flex flex-col justify-center items-center;
+    }
+    .btnhref{
+        @apply w-[90%];
+    }
 }
