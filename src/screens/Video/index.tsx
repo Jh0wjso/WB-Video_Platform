@@ -10,12 +10,12 @@ export default function Video() {
   return (
     <div className="min-h-screen flex flex-col items-center justify-center m-2 md:m-5">
       <VideoContent number={Ep ? Ep?.toString() : ""} url={Url ? Url?.toString() : ""} />
-      <section className="flex flex-col items-center">
+      <section className="btnContainer">
         <Link to="/" className="btnhref">
           Página inicial
         </Link>
         <Link to="/animes" className="btnhref">
-          Catalogo de animes
+          Catálogo de animes
         </Link>
       </section>
     </div>
