@@ -5,6 +5,7 @@ import Animes from "./screens/Animes";
 import Movies from "./screens/Movies";
 import Video from "./screens/Video";
 import MovieWatch from "./screens/MovieWatch";
+import ClassicSceen from "./screens/ClassicScreen";
 
 export function Router() {
   return (
@@ -18,6 +19,7 @@ export function Router() {
       <Route path="/assistir">
         <Route path=":name/:url" element={<MovieWatch />} />
       </Route>
+      <Route path="/classic" element={<ClassicSceen/> } />
     </Routes>
   );
 }
