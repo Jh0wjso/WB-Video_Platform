@@ -12,7 +12,7 @@ export default function MovieContent({name, url}:InfoVideo) {
       <iframe
         src={`https://drive.google.com/file/d/${url}/preview`}
         allow="autoplay"
-        className="h-[250px] md:h-[600px] md:h[650px] w-[100%] md:w-[60%] rounded"
+        className="h-[250px] md:h-[600px] md:h[650px] w-[100%] md:w-[60%] rounded-2xl border-8 border-orange-400"
         allowFullScreen
       ></iframe>
     </>
