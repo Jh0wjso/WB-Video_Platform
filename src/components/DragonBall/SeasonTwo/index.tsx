@@ -8,37 +8,37 @@ export default function SeasonTwo() {
       <section className="mt-8 flex flex-col items-center">
         <section className="episodeButtons">
           <Link
-            to="/video/1/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
+            to="/video/O rival de Goku/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
             className="linkToEpisode"
           >
             Episodio 14
           </Link>
           <Link
-            to="/video/2/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
+            to="/video/A misteriosa garota Lanch/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
             className="linkToEpisode"
           >
             Episodio 15
           </Link>
           <Link
-            to="/video/3/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
+            to="/video/Caça às pedras/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
             className="linkToEpisode"
           >
             Episodio 16
           </Link>
           <Link
-            to="/video/4/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
+            to="/video/OS entregadores de leite/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
             className="linkToEpisode"
           >
             Episodio 17
           </Link>
           <Link
-            to="/video/5/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
+            to="/video/Treinamento ao Estilo de Mestre Kame/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
             className="linkToEpisode"
           >
             Episodio 18
           </Link>
           <Link
-            to="/video/6/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
+            to="/video/O Grande torneio de artes marciais/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
             className="linkToEpisode"
           >
             Episodio 19
@@ -46,37 +46,37 @@ export default function SeasonTwo() {
         </section>
         <section className="episodeButtons">
           <Link
-            to="/video/7/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
+            to="/video/O Arduo Treinamento podera ser posto em pratica/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
             className="linkToEpisode"
           >
             Episodio 20
           </Link>
           <Link
-            to="/video/8/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
+            to="/video/Cuidado, Kuririn/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
             className="linkToEpisode"
           >
             Episodio 21
           </Link>
           <Link
-            to="/video/9/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
+            to="/video/Yamcha contra Jackie Chun/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
             className="linkToEpisode"
           >
             Episodio 22
           </Link>
           <Link
-            to="/video/10/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
+            to="/video/O terrivel Giran/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
             className="linkToEpisode"
           >
             Episodio 23
           </Link>
           <Link
-            to="/video/11/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
+            to="/video/O ataque furioso de Kuririn/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
             className="linkToEpisode"
           >
             Episodio 24
           </Link>
           <Link
-            to="/video/12/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
+            to="/video/O terrivel ataque aéreo de Nam/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
             className="linkToEpisode"
           >
             Episodio 25
@@ -84,19 +84,19 @@ export default function SeasonTwo() {
         </section>
         <section className="episodeButtons">
           <Link
-            to="/video/7/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
+            to="/video/A força do Kame-Hame-Ha/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
             className="linkToEpisode"
           >
             Episodio 26
           </Link>
           <Link
-            to="/video/8/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
+            to="/video/Goku em sérios apuros/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
             className="linkToEpisode"
           >
             Episodio 27
           </Link>
           <Link
-            to="/video/9/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
+            to="/video/O desaparecimento de Goku/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
             className="linkToEpisode"
           >
             Episodio 28

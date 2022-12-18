@@ -8,37 +8,37 @@ export default function SeasonOne() {
       <section className="mt-8 flex flex-col items-center">
         <section className="episodeButtons">
           <Link
-            to="/video/1/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
+            to="/video/O segredo das Esferas do Dragão/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
             className="linkToEpisode"
           >
             Episodio 1
           </Link>
           <Link
-            to="/video/2/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
+            to="/video/A busca do imperador/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
             className="linkToEpisode"
           >
             Episodio 2
           </Link>
           <Link
-            to="/video/3/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
+            to="/video/A nuvem voadora do Kame/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
             className="linkToEpisode"
           >
             Episodio 3
           </Link>
           <Link
-            to="/video/4/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
+            to="/video/Oolong, o sequestrador de garotas/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
             className="linkToEpisode"
           >
             Episodio 4
           </Link>
           <Link
-            to="/video/5/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
+            to="/video/O forte e malvado Yamcha vive no deserto/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
             className="linkToEpisode"
           >
             Episodio 5
           </Link>
           <Link
-            to="/video/6/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
+            to="/video/Vigie as Esferas do Dragão/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
             className="linkToEpisode"
           >
             Episodio 6
@@ -46,44 +46,44 @@ export default function SeasonOne() {
         </section>
         <section className="episodeButtons">
           <Link
-            to="/video/7/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
+            to="/video/O rei Cutelo na montanha do fogo/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
             className="linkToEpisode"
           >
             Episodio 7
           </Link>
           <Link
-            to="/video/8/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
+            to="/video/O Kame-Hame-Ha de Kame/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
             className="linkToEpisode"
           >
             Episodio 8
           </Link>
           <Link
-            to="/video/9/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
+            to="/video/O truque especial do chefe Coelho/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
             className="linkToEpisode"
           >
             Episodio 9
           </Link>
           <Link
-            to="/video/10/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
+            to="/video/As Esferas do Dragão são roubadas/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
             className="linkToEpisode"
           >
             Episodio 10
           </Link>
           <Link
-            to="/video/11/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
+            to="/video/O Dragão é chamado/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
             className="linkToEpisode"
           >
             Episodio 11
           </Link>
           <Link
-            to="/video/12/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
+            to="/video/Um pedido feito ao Deus Dragão/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
             className="linkToEpisode"
           >
             Episodio 12
           </Link>
         </section>
         <Link
-            to="/video/13/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
+            to="/video/A transformação de Goku/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
             className="linkToEpisode"
           >
             Episodio 13
