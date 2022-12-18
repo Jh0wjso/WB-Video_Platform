@@ -1,5 +1,17 @@
 .linkToEpisode{
     @apply border-2 rounded bg-orange-400 text-white font-bold p-5 text-xl;
-    @apply flex flex-col mx-2 w-[20vh];
+    @apply flex flex-col m-2 w-[20vh];
     @apply hover:bg-orange-600 hover:text-gray-400;
+}
+
+.episodeButtons{
+    @apply flex flex-row my-5;
+}
+
+/*1150*/
+
+@media screen and (max-width: 1150px){
+    .episodeButtons{
+        @apply flex flex-col my-5;
+    }
 }

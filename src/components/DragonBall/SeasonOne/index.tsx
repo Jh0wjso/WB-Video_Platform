@@ -6,7 +6,7 @@ export default function SeasonOne() {
     <div className="flex flex-col border rounded p-5">
       <h1 className="text-center text-4xl font-bold">Saga de Pilaf</h1>
       <section className="mt-8 flex flex-col items-center">
-        <section className="flex flex-row my-5">
+        <section className="episodeButtons">
           <Link
             to="/video/1/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
             className="linkToEpisode"
@@ -44,7 +44,7 @@ export default function SeasonOne() {
             Episodio 6
           </Link>
         </section>
-        <section className="flex flex-row my-5">
+        <section className="episodeButtons">
           <Link
             to="/video/7/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
             className="linkToEpisode"
