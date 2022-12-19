@@ -6,20 +6,14 @@
     align-items: center;
 }
 
-@media screen and (max-width: 1700px){
-    .homeContent{
-        width: 90%;
-    }
-}
-
-@media screen and (min-width: 1545px){
-    .homeContent{
-        width: 90%;
-    }
-}
-
-@media screen and (max-width: 1454px){
+@media screen and (max-width: 1705px){
     .homeContent{
         width: 100%;
+    }
+}
+
+@media screen and (min-width: 1706px){
+    .homeContent{
+        width: 90%;
     }
 }
