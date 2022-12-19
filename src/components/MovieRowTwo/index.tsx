@@ -13,7 +13,7 @@ export default function MovieRowTwo() {
         <p className="font-bold">O Homem Mais Forte do Mundo</p>
         <div className="btnContent w-[80%] text-xl md:text-sm my-1 items-center">
           <Link
-            to="/"
+            to="/assistir/O Homem Mais Forte do Mundo/1TG-0p34ILl5OmxRcMJ-tscz0keqxYT6N"
             className="text-center bg-orange-400 text-xl md:text-xs m-2 w-[75%] md:w-auto md:m-2 hover:bg-orange-600 hover:transition-colors text-white p-2 rounded font-bold"
           >
             Dublado
