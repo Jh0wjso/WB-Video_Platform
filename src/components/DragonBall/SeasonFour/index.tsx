@@ -38,7 +38,7 @@ export default function SeasonFour() {
             Episodio 83
           </Link>
           <Link
-            to="/video/Quem é o melhor lutador de artes marciais?/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
+            to="/video/Quem é o melhor lutador de artes marciais/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
             className="linkToEpisode"
           >
             Episodio 84
@@ -46,7 +46,7 @@ export default function SeasonFour() {
         </section> 
         <section className="episodeButtons">
           <Link
-            to="/video/Temos que vencer! Quem passará nas premliminares?/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
+            to="/video/Temos que vencer! Quem passará nas premliminares/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
             className="linkToEpisode"
           >
             Episodio 85
@@ -64,7 +64,7 @@ export default function SeasonFour() {
             Episodio 87
           </Link>
           <Link
-            to="/video/Cuidado Yamcha! O terrível Tenshinha é muito perigoso!/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
+            to="/video/Cuidado Yamcha! O terrível Tenshinha é muito perigoso/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
             className="linkToEpisode"
           >
             Episodio 88
@@ -76,7 +76,7 @@ export default function SeasonFour() {
             Episodio 89
           </Link>
           <Link
-            to="/video/Ahn? Como? O quê? Dodonpa?/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
+            to="/video/Ahn? Como? O quê? Dodonpa/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
             className="linkToEpisode"
           >
             Episodio 90
@@ -146,7 +146,7 @@ export default function SeasonFour() {
             Episodio 100
           </Link>
           <Link
-            to="/video/Será que o torneio de artes marciais chegou ao fim?/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
+            to="/video/Sera que o torneio de artes marciais chegou ao fim/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
             className="linkToEpisode"
           >
             Episodio 101

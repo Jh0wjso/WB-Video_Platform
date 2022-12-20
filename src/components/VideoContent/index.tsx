@@ -7,7 +7,7 @@ export default function VideoContent({number, url}:InfoVideo) {
   return (
     <>
       <h1 className="text-2xl md:text-5xl mb-8 text-center font-bold">
-        Episodio {number}
+        Episodio: {number}
       </h1>
       <iframe
         src={`https://drive.google.com/file/d/${url}/preview`}
