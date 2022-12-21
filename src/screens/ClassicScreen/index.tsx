@@ -1,3 +1,4 @@
+import MovieRowClassic from "../../components/DragonBall/MovieRowClassic";
 import SeasonFive from "../../components/DragonBall/SeasonFive";
 import SeasonFour from "../../components/DragonBall/SeasonFour";
 import SeasonOne from "../../components/DragonBall/SeasonOne";
@@ -18,6 +19,7 @@ export default function ClassicSceen() {
         <SeasonFour />
         <SeasonFive />
       </section>
+      <MovieRowClassic />
     </div>
   );
 }
