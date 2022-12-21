@@ -1,3 +1,4 @@
+import SeasonFive from "../../components/DragonBall/SeasonFive";
 import SeasonFour from "../../components/DragonBall/SeasonFour";
 import SeasonOne from "../../components/DragonBall/SeasonOne";
 import SeasonThree from "../../components/DragonBall/SeasonThree";
@@ -15,6 +16,7 @@ export default function ClassicSceen() {
         <SeasonTwo />
         <SeasonThree />
         <SeasonFour />
+        <SeasonFive />
       </section>
     </div>
   );
