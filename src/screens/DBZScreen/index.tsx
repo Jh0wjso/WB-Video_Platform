@@ -1,6 +1,7 @@
 import React from "react";
 import "./styles.css";
 import DragonBallZAbstract from "../../components/DragonBallZ/DragonBallZAbstract";
+import SeasonOneBbz from "../../components/DragonBallZ/SeasonOne";
 
 export default function DBZScreen() {
   return (
@@ -9,7 +10,9 @@ export default function DBZScreen() {
         Assista a Todos os Episodios Aqui:
       </h1>
       <DragonBallZAbstract />
-      <section className="flex flex-col w-[80%]"></section>
+      <section className="flex flex-col w-[80%]">
+        <SeasonOneBbz />
+      </section>
     </div>
   );
 }
