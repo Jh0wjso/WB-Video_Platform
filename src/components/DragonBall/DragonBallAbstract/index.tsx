@@ -1,4 +1,4 @@
-import Cover from "../../images/capaDB.jpeg";
+import Cover from "../../../images/capaDB.jpeg";
 
 export default function DragonBallAbstract(){
     return(
