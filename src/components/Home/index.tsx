@@ -13,6 +13,7 @@ import DragonBallCarousel from "../DragonBallCarousel";
 import MoviesCarousel from "../MoviesCarousel";
 
 import "./styles.css";
+import MovieContentZ from "../DragonBallZ/MovieContentZ";
 
 const HomeComponent = () => {
   SwiperCore.use([Autoplay]);
@@ -24,7 +25,7 @@ export default function Home() {
       <div className="flex flex-col">
         <HeroesCarousel />
         <DragonBallCarousel />
-        <MoviesCarousel />
+        <MovieContentZ />
       </div>
       <div className="container text-center flex justify-center flex-col items-center my-14">
         <h1 className="font-bold text-5xl">Noticias Semanais Dragon Ball</h1>
