@@ -20,6 +20,7 @@ import Dezenove from "../../../images/MoviesImages/19.jpg";
 export default function MovieContentZ() {
   return (
     <div className="carouselDb md:p-5 my-8 text-center font-bold mb-5 container md:text-gray-700 md:border-2 w-full md:rounded md:bg-gray-300 md:border-gray-700">
+      <h1 className="text-5xl mb-3">Filmes da série</h1>
       <Carousel cols={5} rows={1} gap={10} loop>
         <Carousel.Item>
           <Link
