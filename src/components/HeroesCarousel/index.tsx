@@ -1,7 +1,8 @@
 import Carousel from "better-react-carousel";
 import { Link } from "react-router-dom";
 
-import Db from "../../images/Db.jpg";
+import Db from "../../images/HeoresDbCover.jpeg";
+import DbH from "../../images/HeroesCover2.jpg";
 import "./styles.css";
 
 export default function HeroesCarousel() {
@@ -32,7 +33,7 @@ export default function HeroesCarousel() {
               to="/video/2/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
               className="rounded hover:opacity-50 hover:underline"
             >
-              <img className="rounded hover:opacity-50" src={Db} />
+              <img className="rounded hover:opacity-50" src={DbH} />
               <p>Ep 02: Nome do Episodio</p>
             </Link>
           </Carousel.Item>
@@ -50,7 +51,7 @@ export default function HeroesCarousel() {
               to="/video/4/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
               className="rounded hover:opacity-50 hover:underline"
             >
-              <img className="rounded hover:opacity-50" src={Db} />
+              <img className="rounded hover:opacity-50" src={DbH} />
               <p>Ep 04: Nome do Episodio</p>
             </Link>
           </Carousel.Item>
@@ -68,7 +69,7 @@ export default function HeroesCarousel() {
               to="/video/6/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
               className="rounded hover:opacity-50 hover:underline"
             >
-              <img className="rounded hover:opacity-50" src={Db} />
+              <img className="rounded hover:opacity-50" src={DbH} />
               <p>Ep 06: Nome do Episodio</p>
             </Link>
           </Carousel.Item>
@@ -86,7 +87,7 @@ export default function HeroesCarousel() {
               to="/video/8/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
               className="rounded hover:opacity-50 hover:underline"
             >
-              <img className="rounded hover:opacity-50" src={Db} />
+              <img className="rounded hover:opacity-50" src={DbH} />
               <p>Ep 08: Nome do Episodio</p>
             </Link>
           </Carousel.Item>
@@ -104,7 +105,7 @@ export default function HeroesCarousel() {
               to="/video/10/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
               className="rounded hover:opacity-50 hover:underline"
             >
-              <img className="rounded hover:opacity-50" src={Db} />
+              <img className="rounded hover:opacity-50" src={DbH} />
               <p>Ep 10: Nome do Episodio</p>
             </Link>
           </Carousel.Item>
