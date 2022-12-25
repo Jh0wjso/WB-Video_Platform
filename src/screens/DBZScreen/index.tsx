@@ -3,6 +3,7 @@ import DragonBallZAbstract from "../../components/DragonBallZ/DragonBallZAbstrac
 import SeasonOneBbz from "../../components/DragonBallZ/SeasonOne";
 import MovieContentZ from "../../components/DragonBallZ/MovieContentZ";
 import SeasonTwoBbz from "../../components/DragonBallZ/SeasonTwo";
+import SeasonThreeBbz from "../../components/DragonBallZ/SeasonThree";
 
 export default function DBZScreen() {
   return (
@@ -14,6 +15,7 @@ export default function DBZScreen() {
       <section className="flex flex-col w-[80%]">
         <SeasonOneBbz />
         <SeasonTwoBbz />
+        <SeasonThreeBbz />
       </section>
       <MovieContentZ />
     </div>
