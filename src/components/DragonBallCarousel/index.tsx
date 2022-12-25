@@ -1,7 +1,9 @@
 import { Link } from "react-router-dom";
 import Carousel from "better-react-carousel";
 
-import Db from "../../images/Db.jpg";
+import DbS from "../../images/super.jpeg";
+import DbS1 from "../../images/super1.jpg";
+import DbS2 from "../../images/supertwo.jpg";
 
 export default function DragonBallCarousel() {
   return (
@@ -22,7 +24,7 @@ export default function DragonBallCarousel() {
               to="/video/1/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
               className="rounded hover:opacity-50 hover:underline"
             >
-              <img src={Db} />
+              <img src={DbS} />
               <p>Ep 01: Nome do Episodio</p>
             </Link>
           </Carousel.Item>
@@ -31,7 +33,7 @@ export default function DragonBallCarousel() {
               to="/video/2/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
               className="rounded hover:opacity-50 hover:underline"
             >
-              <img className="rounded hover:opacity-50" src={Db} />
+              <img className="rounded hover:opacity-50" src={DbS1} />
               <p>Ep 02: Nome do Episodio</p>
             </Link>
           </Carousel.Item>
@@ -40,7 +42,7 @@ export default function DragonBallCarousel() {
               to="/video/3/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
               className="rounded hover:opacity-50 hover:underline"
             >
-              <img className="rounded hover:opacity-50" src={Db} />
+              <img className="rounded hover:opacity-50" src={DbS2} />
               <p>Ep 02: Nome do Episodio</p>
             </Link>
           </Carousel.Item>
@@ -49,7 +51,7 @@ export default function DragonBallCarousel() {
               to="/video/4/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
               className="rounded hover:opacity-50 hover:underline"
             >
-              <img className="rounded hover:opacity-50" src={Db} />
+              <img className="rounded hover:opacity-50" src={DbS} />
               <p>Ep 04: Nome do Episodio</p>
             </Link>
           </Carousel.Item>
@@ -58,7 +60,7 @@ export default function DragonBallCarousel() {
               to="/video/5/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
               className="rounded hover:opacity-50 hover:underline"
             >
-              <img className="rounded hover:opacity-50" src={Db} />
+              <img className="rounded hover:opacity-50" src={DbS1} />
               <p>Ep 05: Nome do Episodio</p>
             </Link>
           </Carousel.Item>
@@ -67,7 +69,7 @@ export default function DragonBallCarousel() {
               to="/video/6/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
               className="rounded hover:opacity-50 hover:underline"
             >
-              <img className="rounded hover:opacity-50" src={Db} />
+              <img className="rounded hover:opacity-50" src={DbS2} />
               <p>Ep 06: Nome do Episodio</p>
             </Link>
           </Carousel.Item>
@@ -76,7 +78,7 @@ export default function DragonBallCarousel() {
               to="/video/7/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
               className="rounded hover:opacity-50 hover:underline"
             >
-              <img className="rounded hover:opacity-50" src={Db} />
+              <img className="rounded hover:opacity-50" src={DbS} />
               <p>Ep 07: Nome do Episodio</p>
             </Link>
           </Carousel.Item>
@@ -85,7 +87,7 @@ export default function DragonBallCarousel() {
               to="/video/8/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
               className="rounded hover:opacity-50 hover:underline"
             >
-              <img className="rounded hover:opacity-50" src={Db} />
+              <img className="rounded hover:opacity-50" src={DbS1} />
               <p>Ep 08: Nome do Episodio</p>
             </Link>
           </Carousel.Item>
@@ -94,7 +96,7 @@ export default function DragonBallCarousel() {
               to="/video/8/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
               className="rounded hover:opacity-50 hover:underline"
             >
-              <img className="rounded hover:opacity-50" src={Db} />
+              <img className="rounded hover:opacity-50" src={DbS2} />
               <p>Ep 09: Nome do Episodio</p>
             </Link>
           </Carousel.Item>
@@ -103,7 +105,7 @@ export default function DragonBallCarousel() {
               to="/video/10/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
               className="rounded hover:opacity-50 hover:underline"
             >
-              <img className="rounded hover:opacity-50" src={Db} />
+              <img className="rounded hover:opacity-50" src={DbS} />
               <p>Ep 10: Nome do Episodio</p>
             </Link>
           </Carousel.Item>
