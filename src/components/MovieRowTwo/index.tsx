@@ -50,7 +50,7 @@ export default function MovieRowTwo() {
         <p className="font-bold">Goku o Super Sayajin</p>
         <div className="btnContent w-[80%] text-xl md:text-sm my-1 items-center">
           <Link
-            to="/"
+            to="/assistir/Goku o Super Sayajin/1TiAM1jZDNScj9Q0MmzWe3XDIzlldQdfX"
             className="text-center bg-orange-400 text-xl md:text-xs m-2 w-[75%] md:w-auto md:m-2 hover:bg-orange-600 hover:transition-colors text-white p-2 rounded font-bold"
           >
             Dublado

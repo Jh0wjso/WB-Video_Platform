@@ -60,7 +60,7 @@ export default function MovieContentZ() {
           </Carousel.Item>
           <Carousel.Item>
             <Link
-              to="/video/4/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
+              to="/assistir/Goku o Super Sayajin/1TiAM1jZDNScj9Q0MmzWe3XDIzlldQdfX"
               className="rounded hover:opacity-50 hover:underline"
             >
               <img className="rounded hover:opacity-50" src={Sete} />
