@@ -69,7 +69,7 @@ export default function MovieContentZ() {
           </Carousel.Item>
           <Carousel.Item>
             <Link
-              to="/video/5/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
+              to="/assistir/Uma vingança para Freeza/1TqoPudcj99YoVkiR6fZOU4Odqu3Pijqu"
               className="rounded hover:opacity-50 hover:underline"
             >
               <img className="rounded hover:opacity-50" src={Oito} />
