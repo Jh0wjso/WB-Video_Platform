@@ -19,7 +19,7 @@ export default function DBZScreen() {
         <SeasonTwoBbz />
         <SeasonThreeBbz />
         <SeasonFourBbz />
-        <SeasonFiveBbz />
+        <SeasonFiveBbz />  
       </section>
       <MovieContentZ />
     </div>

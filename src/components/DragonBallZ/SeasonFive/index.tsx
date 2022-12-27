@@ -1,6 +1,6 @@
 import { Link } from "react-router-dom";
 import "../styles.css";
-
+  
 export default function SeasonFiveBbz() {
   return (
     <div className="flex flex-col border mt-5 rounded p-5">
