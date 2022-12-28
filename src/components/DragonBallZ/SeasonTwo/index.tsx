@@ -1,416 +1,108 @@
 import { Link } from "react-router-dom";
 import "../styles.css";
+import SectionButtons from "../../SectionButtons";
+import SectionLinks from "../../SectionLinks";
 
 export default function SeasonTwoBbz() {
   return (
     <div className="flex flex-col border rounded mt-5 p-5">
       <h1 className="text-center text-4xl font-bold">Saga Freeza</h1>
       <section className="mt-8 flex flex-col items-center">
+        <SectionButtons 
+          num1="36" url1="1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm" name1="Vamos ao planeta de Piccolo"
+          num2="37" url2="1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm" name2="Um lugar misterioso chamado Yunzabit"
+          num3="38" url3="1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm" name3="Vamos para Namekusei"
+          num4="39" url4="1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm" name4="Serão amigos ou inimigos"
+          num5="40" url5="1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm" name5="Isso é Namekusei"
+          num6="41" url6="1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm" name6="Extraterrestres muito gentis"
+        />
+
+        <SectionButtons 
+          num1="42" url1="1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm" name1="O Planeta Freeza No.79 Vegeta é revivido"
+          num2="43" url2="1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm" name2="Reunimos as Esferas do Dragão"
+          num3="44" url3="1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm" name3="Um novo inimigo! O Imperador do universo, Freeza"
+          num4="45" url4="1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm" name4="A ambição de Vegeta! Sou o guerreiro mais forte do Universo"
+          num5="46" url5="1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm" name5="A viagem de Goku à Namekusei"
+          num6="47" url6="1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm" name6="Um ataque surpresa! O ancião destrói os rastreadores"
+        />
+
+        <SectionButtons 
+          num1="48" url1="1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm" name1="Gohan se arrisca! O perseguidor Dodória"
+          num2="49" url2="1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm" name2="A morte de Dodória"
+          num3="50" url3="1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm" name3="Goku usa um Kamehameha para salvar a pele"
+          num4="51" url4="1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm" name4="Os grandes lutadores se reúnem com o Sr.Kaio"
+          num5="52" url5="1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm" name5="Preste atenção Goku! Não chegue perto de Freeza"
+          num6="53" url6="1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm" name6="A incrível transformação de Zarbon"
+        />
+
+        <SectionButtons 
+          num1="54" url1="1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm" name1="É preciso proteger o planeta da esperança"
+          num2="55" url2="1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm" name2="Vegeta revive milagrosamente"
+          num3="56" url3="1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm" name3="O complô de Freeza se desfaz"
+          num4="57" url4="1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm" name4="Goku treina numa gravidade 100 vezes maior"
+          num5="58" url5="1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm" name5="O grupo secreto de Freeza"
+          num6="59" url6="1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm" name6="Tome cuidado Bulma"
+        />
+
+        <SectionButtons 
+          num1="60" url1="1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm" name1="A vontade indestrutível de Goku"
+          num2="61" url2="1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm" name2="A batalha se aproxima! Chegam as forças especiais Ginyuu"
+          num3="62" url3="1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm" name3="Goku se aproxima!! Os temíveis homens de Freeza"
+          num4="63" url4="1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm" name4="Sr.Gurdo se aborrece e utiliza um truque mágico"
+          num5="64" url5="1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm" name5="O terrível Rikum"
+          num6="65" url6="1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm" name6="Não morra Gohan! Goku chega finalmente"
+        />
+
+        <SectionButtons 
+          num1="66" url1="1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm" name1="Goku!! O lendário Saiyajin"
+          num2="67" url2="1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm" name2="Yeaze e Botter atacam Goku"
+          num3="68" url3="1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm" name3="A aparição do capitão Ginyuu"
+          num4="69" url4="1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm" name4="Ja viram o verdadeiro poder de Goku"
+          num5="70" url5="1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm" name5="Freeza encontra com o Patriarca"
+          num6="71" url6="1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm" name6="Goku é Ginyuu!? e Ginyuu é Goku"
+        />
+
+        <SectionButtons 
+          num1="72" url1="1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm" name1="Sai daí Shenlong!! E realize o meu desejo"
+          num2="73" url2="1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm" name2="Eu não sou ele! Gohan ataque seu pai sem medo"
+          num3="74" url3="1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm" name3="Ginyuu se transforma numa rãn"
+          num4="75" url4="1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm" name4="Diga o código secreto das Esferas do Dragão"
+          num5="76" url5="1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm" name5="Piccolo e Kami-Sama revivem"
+          num6="77" url6="1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm" name6="Será que surge um novo guerreiro"
+        />
+
+        <SectionButtons 
+          num1="78" url1="1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm" name1="Um pesadelo de transformação"
+          num2="79" url2="1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm" name2="Gohan é atacado pelo impiedoso Freeza"
+          num3="80" url3="1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm" name3="A chegada de Piccolo"
+          num4="81" url4="1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm" name4="Piccolo se encarrega de vencer Freeza"
+          num5="82" url5="1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm" name5="A segunda transformação de Freeza"
+          num6="83" url6="1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm" name6="Freeza tem a batalha"
+        />
+
+        <SectionButtons 
+          num1="84" url1="1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm" name1="A morte do Dendê"
+          num2="85" url2="1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm" name2="Goku se recupera"
+          num3="86" url3="1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm" name3="Morre Vegeta!! Um orgulhoso Saiyajin"
+          num4="87" url4="1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm" name4="Começa a batalha final"
+          num5="88" url5="1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm" name5="Uma luta corpo a corpo"
+          num6="89" url6="1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm" name6="Freeza luta sem usar as mãos"
+        />
+
+        <SectionButtons 
+          num1="90" url1="1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm" name1="Goku é muito valente"
+          num2="91" url2="1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm" name2="Goku faz um Kaioken aumentado 20 vezes"
+          num3="92" url3="1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm" name3="A gigantesca Genki-Dama! É a última esperança"
+          num4="93" url4="1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm" name4="Não deixem passar esta oportunidade"
+          num5="94" url5="1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm" name5="O poder destrutivo da Genki-Dama"
+          num6="95" url6="1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm" name6="Goku finalmente se transforma no lendário Super Saiyajin"
+        />
+
         <section className="episodeButtons">
-          <Link
-            to="/video/Vamos ao planeta de Piccolo/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
-            className="linkToEpisode"
-          >
-            Episodio 36
-          </Link>
-          <Link
-            to="/video/Um lugar misterioso chamado Yunzabit/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
-            className="linkToEpisode"
-          >
-            Episodio 37
-          </Link>
-          <Link
-            to="/video/Vamos para Namekusei/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
-            className="linkToEpisode"
-          >
-            Episodio 38
-          </Link>
-          <Link
-            to="/video/Serão amigos ou inimigos/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
-            className="linkToEpisode"
-          >
-            Episodio 39
-          </Link>
-          <Link
-            to="/video/Isso é namekusei/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
-            className="linkToEpisode"
-          >
-            Episodio 40
-          </Link>
-          <Link
-            to="/video/Extraterrestres muito gentís/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
-            className="linkToEpisode"
-          >
-            Episodio 41
-          </Link>
-        </section>
-        <section className="episodeButtons">
-          <Link
-            to="/video/O Planeta Freeza No.79 Vegeta é revivido/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
-            className="linkToEpisode"
-          >
-            Episodio 42
-          </Link>
-          <Link
-            to="/video/Reunimos as Esferas do Dragão/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
-            className="linkToEpisode"
-          >
-            Episodio 43
-          </Link>
-          <Link
-            to="/video/Um novo inimigo! O Imperador do universo, Freeza/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
-            className="linkToEpisode"
-          >
-            Episodio 44
-          </Link>
-          <Link
-            to="/video/A ambição de Vegeta! Sou o guerreiro mais forte do Universo/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
-            className="linkToEpisode"
-          >
-            Episodio 45
-          </Link>
-          <Link
-            to="/video/A viagem de Goku à Namekusei/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
-            className="linkToEpisode"
-          >
-            Episodio 46
-          </Link>
-          <Link
-            to="/video/Um ataque surpresa! O ancião destrói os rastreadores/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
-            className="linkToEpisode"
-          >
-            Episodio 47
-          </Link>
-        </section>
-        <section className="episodeButtons">
-          <Link
-            to="/video/Gohan se arrisca! O perseguidor Dodória/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
-            className="linkToEpisode"
-          >
-            Episodio 48
-          </Link>
-          <Link
-            to="/video/A morte de Dodória/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
-            className="linkToEpisode"
-          >
-            Episodio 49
-          </Link>
-          <Link
-            to="/video/Goku usa um Kamemehameha para salvar a pele/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
-            className="linkToEpisode"
-          >
-            Episodio 50
-          </Link>
-          <Link
-            to="/video/Os grandes lutadores se reúnem com o Sr.Kaio/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
-            className="linkToEpisode"
-          >
-            Episodio 51
-          </Link>
-          <Link
-            to="/video/Preste atenção Goku! Não chegue perto de Freeza/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
-            className="linkToEpisode"
-          >
-            Episodio 52
-          </Link>
-          <Link
-            to="/video/A incrível transformação de Zarbon/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
-            className="linkToEpisode"
-          >
-            Episodio 53
-          </Link>
-        </section>
-        <section className="episodeButtons">
-          <Link
-            to="/video/É preciso proteger o planeta da esperança/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
-            className="linkToEpisode"
-          >
-            Episodio 54
-          </Link>
-          <Link
-            to="/video/Vegeta revive milagrosamente/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
-            className="linkToEpisode"
-          >
-            Episodio 55
-          </Link>
-          <Link
-            to="/video/O complô de Freeza se desfaz/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
-            className="linkToEpisode"
-          >
-            Episodio 56
-          </Link>
-          <Link
-            to="/video/Goku treina numa gravidade 100 vezes maior/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
-            className="linkToEpisode"
-          >
-            Episodio 57
-          </Link>
-          <Link
-            to="/video/O grupo secreto de Freeza/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
-            className="linkToEpisode"
-          >
-            Episodio 58
-          </Link>
-          <Link
-            to="/video/Tome cuidado Bulma/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
-            className="linkToEpisode"
-          >
-            Episodio 59
-          </Link>
-        </section>
-        <section className="episodeButtons">
-          <Link
-            to="/video/A vontade indestrutível de Goku/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
-            className="linkToEpisode"
-          >
-            Episodio 60
-          </Link>
-          <Link
-            to="/video/A batalha se aproxima! Chegam as forças especiais Ginyuu/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
-            className="linkToEpisode"
-          >
-            Episodio 61
-          </Link>
-          <Link
-            to="/video/Goku se aproxima!! Os temíveis homens de Freeza/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
-            className="linkToEpisode"
-          >
-            Episodio 62
-          </Link>
-          <Link
-            to="/video/Sr. Gurdo se aborrece e utiliza um truque mágico/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
-            className="linkToEpisode"
-          >
-            Episodio 63
-          </Link>
-          <Link
-            to="/video/O terrível Rikum/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
-            className="linkToEpisode"
-          >
-            Episodio 64
-          </Link>
-          <Link
-            to="/video/Não morra Gohan! Goku chega finalmente/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
-            className="linkToEpisode"
-          >
-            Episodio 65
-          </Link>
-        </section>
-        <section className="episodeButtons">
-          <Link
-            to="/video/Goku!! O lendário Saiyajin/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
-            className="linkToEpisode"
-          >
-            Episodio 66
-          </Link>
-          <Link
-            to="/video/Yeaze e Botter atacam Goku/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
-            className="linkToEpisode"
-          >
-            Episodio 67
-          </Link>
-          <Link
-            to="/video/A aparição do capitão Ginyuu/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
-            className="linkToEpisode"
-          >
-            Episodio 68
-          </Link>
-          <Link
-            to="/video/Ja viram o verdadeiro poder de Goku/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
-            className="linkToEpisode"
-          >
-            Episodio 69
-          </Link>
-          <Link
-            to="/video/Freeza encontra com o Patriarca/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
-            className="linkToEpisode"
-          >
-            Episodio 70
-          </Link>
-          <Link
-            to="/video/Goku é Ginyuu!? e Ginyuu é Goku/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
-            className="linkToEpisode"
-          >
-            Episodio 71
-          </Link>
-        </section>
-        <section className="episodeButtons">
-          <Link
-            to="/video/Sai daí Shenlong!! E realize o meu desejo/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
-            className="linkToEpisode"
-          >
-            Episodio 72
-          </Link>
-          <Link
-            to="/video/Eu não sou ele! Gohan ataque seu pai sem medo/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
-            className="linkToEpisode"
-          >
-            Episodio 73
-          </Link>
-          <Link
-            to="/video/Ginyuu se transforma numa rãn/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
-            className="linkToEpisode"
-          >
-            Episodio 74
-          </Link>
-          <Link
-            to="/video/Diga o código secreto das Esferas do Dragão/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
-            className="linkToEpisode"
-          >
-            Episodio 75
-          </Link>
-          <Link
-            to="/video/Piccolo e Kami-Sama revivem/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
-            className="linkToEpisode"
-          >
-            Episodio 76
-          </Link>
-          <Link
-            to="/video/Será que surge um novo guerreiro/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
-            className="linkToEpisode"
-          >
-            Episodio 77
-          </Link>
-        </section>
-        <section className="episodeButtons">
-          <Link
-            to="/video/Um pesadelo de transformação/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
-            className="linkToEpisode"
-          >
-            Episodio 78
-          </Link>
-          <Link
-            to="/video/Gohan é atacado pelo impiedoso Freeza/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
-            className="linkToEpisode"
-          >
-            Episodio 79
-          </Link>
-          <Link
-            to="/video/A chegada de Piccolo/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
-            className="linkToEpisode"
-          >
-            Episodio 80
-          </Link>
-          <Link
-            to="/video/Piccolo se encarrega de vencer Freeza/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
-            className="linkToEpisode"
-          >
-            Episodio 81
-          </Link>
-          <Link
-            to="/video/A segunda transformação de Freeza/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
-            className="linkToEpisode"
-          >
-            Episodio 82
-          </Link>
-          <Link
-            to="/video/Freeza tem a batalha/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
-            className="linkToEpisode"
-          >
-            Episodio 83
-          </Link>
-        </section>
-        <section className="episodeButtons">
-          <Link
-            to="/video/A morte do Dende/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
-            className="linkToEpisode"
-          >
-            Episodio 84
-          </Link>
-          <Link
-            to="/video/Goku se recupera/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
-            className="linkToEpisode"
-          >
-            Episodio 85
-          </Link>
-          <Link
-            to="/video/Morre Vegeta!! Um orgulhoso Saiyajin/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
-            className="linkToEpisode"
-          >
-            Episodio 86
-          </Link>
-          <Link
-            to="/video/Começa a batalha final/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
-            className="linkToEpisode"
-          >
-            Episodio 87
-          </Link>
-          <Link
-            to="/video/Uma luta corpo a corpo/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
-            className="linkToEpisode"
-          >
-            Episodio 88
-          </Link>
-          <Link
-            to="/video/Freeza luta sem usar as mãos/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
-            className="linkToEpisode"
-          >
-            Episodio 89
-          </Link>
-        </section>
-        <section className="episodeButtons">
-          <Link
-            to="/video/Goku é muito valente/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
-            className="linkToEpisode"
-          >
-            Episodio 90
-          </Link>
-          <Link
-            to="/video/Goku faz um kaioken aumentado 20 vezes/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
-            className="linkToEpisode"
-          >
-            Episodio 91
-          </Link>
-          <Link
-            to="/video/A gigantesca Genki-Dama! É a última esperança/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
-            className="linkToEpisode"
-          >
-            Episodio 92
-          </Link>
-          <Link
-            to="/video/Não deixem passar esta oportunidade/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
-            className="linkToEpisode"
-          >
-            Episodio 93
-          </Link>
-          <Link
-            to="/video/O poder destrutivo da Genki-Dama/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
-            className="linkToEpisode"
-          >
-            Episodio 94
-          </Link>
-          <Link
-            to="/video/Goku finalmente se transforma no lendário Super Saiyajin/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
-            className="linkToEpisode"
-          >
-            Episodio 95
-          </Link>
-        </section>
-        <section className="episodeButtons">
-          <Link
-            to="/video/Goku vingará todas as mortes/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
-            className="linkToEpisode"
-          >
-            Episodio 96
-          </Link>
-          <Link
-            to="/video/Uma grande faísca atravessa namekusei/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
-            className="linkToEpisode"
-          >
-            Episodio 97
-          </Link>
-          <Link
-            to="/video/Freeza utiliza seu poder máximo/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
-            className="linkToEpisode"
-          >
-            Episodio 98
-          </Link>
-          <Link
-            to="/video/Namekusei está prestes a explodir/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
-            className="linkToEpisode"
-          >
-            Episodio 99
-          </Link>
+          <SectionLinks num="96" url="1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm" name="Goku vingará todas as mortes" />
+          <SectionLinks num="97" url="1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm" name="Uma grande faísca atravessa Namekusei" />
+          <SectionLinks num="98" url="1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm" name="Freeza utiliza seu poder máximo" />
+          <SectionLinks num="99" url="1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm" name="Namekusei está prestes a explodir" />
         </section>
       </section>
     </div>
