@@ -27,7 +27,7 @@ export default function SectionButtons(obj: {
   url6: string;
 }) {
   return (
-    <section className="mt-8 flex flex-col items-center">
+    <section className="flex flex-col items-center">
       <section className="episodeButtons">
         <SectionLinks name={obj.name1} url={obj.url1} num={obj.num1} />
         <SectionLinks name={obj.name2} url={obj.url2} num={obj.num2} />
