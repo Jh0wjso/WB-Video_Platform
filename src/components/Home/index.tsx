@@ -1,23 +1,11 @@
-import React from "react";
-
 import { Link } from "react-router-dom";
-import { Pagination } from "swiper";
-import { Swiper, SwiperSlide } from "swiper/react";
-import "swiper/css";
-import "swiper/css/navigation";
-import SwiperCore, { Autoplay } from "swiper";
 import { FaRegNewspaper } from "react-icons/fa";
 
 import HeroesCarousel from "../HeroesCarousel";
 import DragonBallCarousel from "../DragonBallCarousel";
-import MoviesCarousel from "../MoviesCarousel";
 
 import "./styles.css";
 import MovieContentZ from "../DragonBallZ/MovieContentZ";
-
-const HomeComponent = () => {
-  SwiperCore.use([Autoplay]);
-};
 
 export default function Home() {
   return (
