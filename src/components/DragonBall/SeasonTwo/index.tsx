@@ -1,106 +1,34 @@
 import { Link } from "react-router-dom";
 import "../styles.css";
+import SectionButtons from "../../SectionButtons";
+import SectionLinks from "../../SectionLinks";
 
 export default function SeasonTwo() {
   return (
     <div className="flex flex-col border rounded my-5 p-5">
       <h1 className="text-center text-4xl font-bold">Saga do Tenkaichi Budokai</h1>
       <section className="mt-8 flex flex-col items-center">
+        <SectionButtons 
+          num1="14" url1="1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm" name1="O rival de Goku"
+          num2="15" url2="1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm" name2="A misteriosa garota Lanch"
+          num3="16" url3="1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm" name3="Caça às pedras"
+          num4="17" url4="1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm" name4="Os entregadores de leite"
+          num5="18" url5="1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm" name5="Treinamento ao Estilo de Mestre Kame"
+          num6="19" url6="1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm" name6="O Grande torneio de artes marciais"
+        />
+        <SectionButtons 
+          num1="20" url1="1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm" name1="O rival de Goku"
+          num2="21" url2="1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm" name2="A misteriosa garota Lanch"
+          num3="22" url3="1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm" name3="Caça às pedras"
+          num4="23" url4="1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm" name4="Os entregadores de leite"
+          num5="24" url5="1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm" name5="Treinamento ao Estilo de Mestre Kame"
+          num6="25" url6="1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm" name6="O Grande torneio de artes marciais"
+        />
+
         <section className="episodeButtons">
-          <Link
-            to="/video/O rival de Goku/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
-            className="linkToEpisode"
-          >
-            Episodio 14
-          </Link>
-          <Link
-            to="/video/A misteriosa garota Lanch/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
-            className="linkToEpisode"
-          >
-            Episodio 15
-          </Link>
-          <Link
-            to="/video/Caça às pedras/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
-            className="linkToEpisode"
-          >
-            Episodio 16
-          </Link>
-          <Link
-            to="/video/OS entregadores de leite/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
-            className="linkToEpisode"
-          >
-            Episodio 17
-          </Link>
-          <Link
-            to="/video/Treinamento ao Estilo de Mestre Kame/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
-            className="linkToEpisode"
-          >
-            Episodio 18
-          </Link>
-          <Link
-            to="/video/O Grande torneio de artes marciais/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
-            className="linkToEpisode"
-          >
-            Episodio 19
-          </Link>
-        </section>
-        <section className="episodeButtons">
-          <Link
-            to="/video/O Arduo Treinamento podera ser posto em pratica/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
-            className="linkToEpisode"
-          >
-            Episodio 20
-          </Link>
-          <Link
-            to="/video/Cuidado, Kuririn/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
-            className="linkToEpisode"
-          >
-            Episodio 21
-          </Link>
-          <Link
-            to="/video/Yamcha contra Jackie Chun/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
-            className="linkToEpisode"
-          >
-            Episodio 22
-          </Link>
-          <Link
-            to="/video/O terrivel Giran/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
-            className="linkToEpisode"
-          >
-            Episodio 23
-          </Link>
-          <Link
-            to="/video/O ataque furioso de Kuririn/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
-            className="linkToEpisode"
-          >
-            Episodio 24
-          </Link>
-          <Link
-            to="/video/O terrivel ataque aéreo de Nam/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
-            className="linkToEpisode"
-          >
-            Episodio 25
-          </Link>
-        </section>
-        <section className="episodeButtons">
-          <Link
-            to="/video/A força do Kame-Hame-Ha/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
-            className="linkToEpisode"
-          >
-            Episodio 26
-          </Link>
-          <Link
-            to="/video/Goku em sérios apuros/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
-            className="linkToEpisode"
-          >
-            Episodio 27
-          </Link>
-          <Link
-            to="/video/O desaparecimento de Goku/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
-            className="linkToEpisode"
-          >
-            Episodio 28
-          </Link>
+          <SectionLinks num="26" url="1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm" name="A força do Kame-Hame-Ha" />
+          <SectionLinks num="27" url="1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm" name="Goku em sérios apuros" />
+          <SectionLinks num="28" url="1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm" name="O desaparecimento de Goku" />
         </section>
       </section>
     </div>
