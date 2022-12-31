@@ -9,7 +9,7 @@ export default function SeasonSixDbz(){
             num1="140" url1="1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm" name1="Um ovo misterioso encontrado na máquina do tempo"
             num2="141" url2="1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm" name2="O nascimento de um novo guerreiro"
             num3="142" url3="1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm" name3="O monstro que tem o KI de Goku"
-            num4="143" url4="1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm" name4="O andróide Cell"
+            num4="143" url4="1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm" name4="O androide Cell"
             num5="144" url5="1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm" name5="Cell escapa das mãos de Piccolo"
             num6="145" url6="1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm" name6="O esconderijo secreto do laboratório do Dr. Gero"
             />
@@ -17,14 +17,14 @@ export default function SeasonSixDbz(){
             <SectionButtons 
             num1="146" url1="1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm" name1="Goku se recupera"
             num2="147" url2="1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm" name2="Vamos à sala do templo"
-            num3="148" url3="1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm" name3="Piccolo contra o andróide Nº 17"
+            num3="148" url3="1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm" name3="Piccolo contra o androide Nº 17"
             num4="149" url4="1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm" name4="Cell está perto de aperfeiçoar seu corpo"
-            num5="150" url5="1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm" name5="Piccolo luta com todas as suas forças"
-            num6="151" url6="1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm" name6="A última esperança! O andróide Nº 16"
+            num5="150" url5="1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm" name5="Piccolo luta com todas as androide forças"
+            num6="151" url6="1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm" name6="A última esperança! O androide Nº 16"
             />
 
             <SectionButtons 
-            num1="152" url1="1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm" name1="Cell absorve o andróide Nº 17"
+            num1="152" url1="1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm" name1="Cell absorve o androide Nº 17"
             num2="153" url2="1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm" name2="O novo desafio de Goku"
             num3="154" url3="1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm" name3="Apareça Nº 18"
             num4="155" url4="1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm" name4="O super poder de Vegeta"
@@ -92,7 +92,7 @@ export default function SeasonSixDbz(){
             num3="196" url3="1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm" name3="O encontro dos lutadores mais valentes"
             num4="197" url4="1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm" name4="O torneio fica emocionante"
             num5="198" url5="1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm" name5="Quem vai ganhar!? Goku ou Paikuhan"
-            num6="199" url6="1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm" name6="Goku faz um kamehameha com toda rapidez"
+            num6="199" url6="1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm" name6="Goku faz um Kamehameha com toda rapidez"
             />
         </section>
     </div>
