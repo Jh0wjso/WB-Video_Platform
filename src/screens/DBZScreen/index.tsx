@@ -6,6 +6,7 @@ import SeasonTwoBbz from "../../components/DragonBallZ/SeasonTwo";
 import SeasonThreeBbz from "../../components/DragonBallZ/SeasonThree";
 import SeasonFourBbz from "../../components/DragonBallZ/SeasonFour";
 import SeasonFiveBbz from "../../components/DragonBallZ/SeasonFive";
+import SeasonSixDbz from "../../components/DragonBallZ/SeasonSix";
 
 export default function DBZScreen() {
   return (
@@ -19,7 +20,8 @@ export default function DBZScreen() {
         <SeasonTwoBbz />
         <SeasonThreeBbz />
         <SeasonFourBbz />
-        <SeasonFiveBbz />  
+        <SeasonFiveBbz />
+        <SeasonSixDbz />  
       </section>
       <MovieContentZ />
     </div>
