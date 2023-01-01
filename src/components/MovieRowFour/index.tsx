@@ -13,7 +13,7 @@ export default function MovieRowFour() {
         <p className="font-bold">O Retorno de Broly</p>
         <div className="btnContent w-[80%] text-xl md:text-sm my-1 items-center">
           <Link
-            to="/"
+            to="/assistir/O Retorno de Broly/1gleAXntyC7pK-lxBbh6SXpWaXvQsRaj"
             className="text-center bg-orange-400 text-xl md:text-xs m-2 w-[75%] md:w-auto md:m-2 hover:bg-orange-600 hover:transition-colors text-white p-2 rounded font-bold"
           >
             Dublado
@@ -31,7 +31,7 @@ export default function MovieRowFour() {
         <p className="font-bold">Renascimento Da Fusão</p>
         <div className="btnContent w-[80%] text-xl md:text-sm my-1 items-center">
           <Link
-            to="/"
+            to="/assistir/Renascimento Da Fusão/1glo0fH3a3M5JMZBCmbPbspzFucMYjCdF"
             className="text-center bg-orange-400 text-xl md:text-xs m-2 w-[75%] md:w-auto md:m-2 hover:bg-orange-600 hover:transition-colors text-white p-2 rounded font-bold"
           >
             Dublado
@@ -50,7 +50,7 @@ export default function MovieRowFour() {
         <p className="font-bold">Combate Final Bio-Broly</p>
         <div className="btnContent w-[80%] text-xl md:text-sm my-1 items-center">
           <Link
-            to="/"
+            to="/assistir/Combate Final Bio-Broly/1gjHJU5loy6iqNRN6SqHzsTuNGZ8yxafy"
             className="text-center bg-orange-400 text-xl md:text-xs m-2 w-[75%] md:w-auto md:m-2 hover:bg-orange-600 hover:transition-colors text-white p-2 rounded font-bold"
           >
             Dublado
@@ -68,7 +68,7 @@ export default function MovieRowFour() {
         <p className="font-bold">O Ataque do Dragão</p>
         <div className="btnContent w-[80%] text-xl md:text-sm my-1 items-center">
           <Link
-            to="/"
+            to="/assistir/O Ataque do Dragão/1gr5LNLLjpzkA4zPnv4bA984k-nIZDtJu"
             className="text-center bg-orange-400 text-xl md:text-xs m-2 w-[75%] md:w-auto md:m-2 hover:bg-orange-600 hover:transition-colors text-white p-2 rounded font-bold"
           >
             Dublado
