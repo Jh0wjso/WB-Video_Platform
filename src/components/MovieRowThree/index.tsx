@@ -28,10 +28,10 @@ export default function MovieRowThree() {
       </div>
       <div className="cardAnime text-center flex flex-col items-center h-full p-4 m-5 bg-[transparent] border rounded">
         <img src={Dez} width={250} className="mb-5 rounded-lg " />
-        <p className="font-bold">Super Android 13</p>
+        <p className="font-bold">O Retorno dos Androides</p>
         <div className="btnContent w-[80%] text-xl md:text-sm my-1 items-center">
           <Link
-            to="/"
+            to="/assistir/O Retorno dos Androides/1YD09OLCgsie8euaSCmAMB79mj8Z_gjn2"
             className="text-center bg-orange-400 text-xl md:text-xs m-2 w-[75%] md:w-auto md:m-2 hover:bg-orange-600 hover:transition-colors text-white p-2 rounded font-bold"
           >
             Dublado
@@ -68,7 +68,7 @@ export default function MovieRowThree() {
         <p className="font-bold">Batalha nos Dois Mundos</p>
         <div className="btnContent w-[80%] text-xl md:text-sm my-1 items-center">
           <Link
-            to="/"
+            to="/assistir/Batalha nos Dois Mundos/18God08mQPM6MK1bnvrLipFnf2wnjDp3X"
             className="text-center bg-orange-400 text-xl md:text-xs m-2 w-[75%] md:w-auto md:m-2 hover:bg-orange-600 hover:transition-colors text-white p-2 rounded font-bold"
           >
             Dublado
