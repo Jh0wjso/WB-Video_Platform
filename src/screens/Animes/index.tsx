@@ -98,7 +98,7 @@ export default function Animes() {
           <p className="font-bold">Dragon Ball GT</p>
           <div className="btnContent w-[80%] text-xl md:text-sm my-1 items-center">
             <Link
-              to="/"
+              to="/dbgt"
               className="text-center bg-orange-400 text-xl md:text-xs m-2 w-[75%] md:w-auto md:m-2 hover:bg-orange-600 hover:transition-colors text-white p-2 rounded font-bold"
             >
               Dublado
@@ -113,7 +113,7 @@ export default function Animes() {
         </div>
         <div className="cardAnime text-center flex flex-col items-center h-full p-4 m-5 bg-[transparent] border rounded">
           <img src={Dbh} width={250} className="mb-5 rounded-lg " />
-          <p className="font-bold">Heores</p>
+          <p className="font-bold">Heroes</p>
           <div className="btnContent w-[80%] text-xl md:text-sm my-1 items-center">
             <Link
               to="/"

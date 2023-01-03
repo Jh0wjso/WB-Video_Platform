@@ -7,6 +7,8 @@ import Video from "./screens/Video";
 import MovieWatch from "./screens/MovieWatch";
 import ClassicSceen from "./screens/ClassicScreen";
 import DBZScreen from "./screens/DBZScreen";
+import GTScreen from "./screens/GTScreen";
+
 
 export function Router() {
   return (
@@ -22,6 +24,7 @@ export function Router() {
       </Route>
       <Route path="/classic" element={<ClassicSceen/> } />
       <Route path="/dbz" element={<DBZScreen />} />
+      <Route path="/dbgt" element={<GTScreen />} />
     </Routes>
   );
 }
