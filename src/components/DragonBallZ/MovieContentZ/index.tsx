@@ -60,11 +60,11 @@ export default function MovieContentZ() {
           </Carousel.Item>
           <Carousel.Item>
             <Link
-              to="/assistir/Goku o Super Sayajin/1TiAM1jZDNScj9Q0MmzWe3XDIzlldQdfX"
+              to="/assistir/Goku o Super Saiyajin/1TiAM1jZDNScj9Q0MmzWe3XDIzlldQdfX"
               className="rounded hover:opacity-50 hover:underline"
             >
               <img className="rounded hover:opacity-50" src={Sete} />
-              <p>Goku o Super Sayajin</p>
+              <p>Goku o Super Saiyajin</p>
             </Link>
           </Carousel.Item>
           <Carousel.Item>
@@ -78,7 +78,7 @@ export default function MovieContentZ() {
           </Carousel.Item>
           <Carousel.Item>
             <Link
-              to="/video/6/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
+              to="/assistir/O Retorno de Cooler/1XmsxNt8rmwCXB3gzJATwY50pGOeDBQsD"
               className="rounded hover:opacity-50 hover:underline"
             >
               <img className="rounded hover:opacity-50" src={Nove} />
@@ -87,25 +87,25 @@ export default function MovieContentZ() {
           </Carousel.Item>
           <Carousel.Item>
             <Link
-              to="/video/7/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
+              to="/assistir/O Retorno dos Androides/1YD09OLCgsie8euaSCmAMB79mj8Z_gjn2"
               className="rounded hover:opacity-50 hover:underline"
             >
               <img className="rounded hover:opacity-50" src={Dez} />
-              <p>Super Android 13</p>
+              <p>O Retorno dos Androides</p>
             </Link>
           </Carousel.Item>
           <Carousel.Item>
             <Link
-              to="/video/8/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
+              to="/assistir/O Lendário super Saiyajin/1Xfe79rEjTt-iyxtmn905_jJ9BtnrkWIC"
               className="rounded hover:opacity-50 hover:underline"
             >
               <img className="rounded hover:opacity-50" src={Onze} />
-              <p>O Lendário Super Sayajin</p>
+              <p>O Lendário Super Saiyajin</p>
             </Link>
           </Carousel.Item>
           <Carousel.Item>
             <Link
-              to="/video/9/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
+              to="/assistir/Batalha nos Dois Mundos/18God08mQPM6MK1bnvrLipFnf2wnjDp3X"
               className="rounded hover:opacity-50 hover:underline"
             >
               <img className="rounded hover:opacity-50" src={Doze} />
@@ -114,7 +114,7 @@ export default function MovieContentZ() {
           </Carousel.Item>
           <Carousel.Item>
             <Link
-              to="/video/10/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
+              to="/assistir/O Retorno de Broly/1gleAXntyC7pK-lxBbh6SXpWaXvQsRaj"
               className="rounded hover:opacity-50 hover:underline"
             >
               <img className="rounded hover:opacity-50" src={Treze} />
@@ -123,7 +123,7 @@ export default function MovieContentZ() {
           </Carousel.Item>
           <Carousel.Item>
             <Link
-              to="/video/9/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
+              to="/assistir/Renascimento Da Fusão/1glo0fH3a3M5JMZBCmbPbspzFucMYjCdF"
               className="rounded hover:opacity-50 hover:underline"
             >
               <img className="rounded hover:opacity-50" src={Quatorze} />
@@ -132,7 +132,7 @@ export default function MovieContentZ() {
           </Carousel.Item>
           <Carousel.Item>
             <Link
-              to="/video/10/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
+              to="/assistir/Combate Final Bio-Broly/1gjHJU5loy6iqNRN6SqHzsTuNGZ8yxafy"
               className="rounded hover:opacity-50 hover:underline"
             >
               <img className="rounded hover:opacity-50" src={Quinze} />
@@ -141,7 +141,7 @@ export default function MovieContentZ() {
           </Carousel.Item>
           <Carousel.Item>
             <Link
-              to="/video/9/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
+              to="/assistir/O Ataque do Dragão/1gr5LNLLjpzkA4zPnv4bA984k-nIZDtJu"
               className="rounded hover:opacity-50 hover:underline"
             >
               <img className="rounded hover:opacity-50" src={Dezesseis} />
@@ -150,7 +150,7 @@ export default function MovieContentZ() {
           </Carousel.Item>
           <Carousel.Item>
             <Link
-              to="/video/9/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
+              to="/assistir/batalha dos Deuses/1k3__SaqihW9lFiBQeEFJ3rLFblp4sLbL"
               className="rounded hover:opacity-50 hover:underline"
             >
               <img className="rounded hover:opacity-50" src={Dezoito} />
@@ -159,7 +159,7 @@ export default function MovieContentZ() {
           </Carousel.Item>
           <Carousel.Item>
             <Link
-              to="/video/10/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
+              to="/assistir/O Renascimento de Freeza/1kMkntsimdLRlSsAUOa0_FL1jGi-Uvyf6"
               className="rounded hover:opacity-50 hover:underline"
             >
               <img className="rounded hover:opacity-50" src={Dezenove} />
