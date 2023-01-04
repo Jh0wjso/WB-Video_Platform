@@ -135,16 +135,10 @@ export default function Animes() {
           <p className="font-bold">Dragon Ball OVAs</p>
           <div className="btnContent w-[80%] text-xl md:text-sm my-1 items-center">
             <Link
-              to="/"
-              className="text-center bg-orange-400 text-xl md:text-xs m-2 w-[75%] md:w-auto md:m-2 hover:bg-orange-600 hover:transition-colors text-white p-2 rounded font-bold"
-            >
-              Dublado
-            </Link>
-            <Link
-              to="/"
+              to="/ova"
               className="text-center bg-orange-400 text-xl md:text-xs w-[75%] md:w-auto hover:bg-orange-600 hover:transition-colors text-white p-2 rounded font-bold"
             >
-              Legendado
+              Assistir
             </Link>
           </div>
         </div>
