@@ -13,7 +13,7 @@ export default function OvaRowOne() {
         <p className="font-bold">Segurança no trânsito</p>
         <div className="btnContent w-[80%] text-xl md:text-sm my-1 items-center justify-center">
           <Link
-            to="/assistir/Segurança no trânsito/1C624UGEH3nAfd6W7XxqbsBFEPPCkWD9-"
+            to="/assistir/Segurança no trânsito/1WKQ4j_18wcNOJjrqU8L7l9eSTb9NGeJo"
             className="text-center bg-orange-400 text-xl md:text-xs m-2 w-[75%] md:w-auto md:m-2 hover:bg-orange-600 hover:transition-colors text-white p-2 rounded font-bold"
           >
             Assistir
@@ -25,7 +25,7 @@ export default function OvaRowOne() {
         <p className="font-bold">O Corpo de Bombeiros de Goku</p>
         <div className="btnContent w-[80%] text-xl md:text-sm my-1 items-center justify-center">
           <Link
-            to="/assistir/O Corpo de Bombeiros de Goku/11pX0JMBmNVvMS8xvF01QA-s78X3UTH7w"
+            to="/assistir/O Corpo de Bombeiros de Goku/1cUGipvHu9vGjorpenSdIDO0XcnzB3anB"
             className="text-center bg-orange-400 text-xl md:text-xs m-2 w-[75%] md:w-auto md:m-2 hover:bg-orange-600 hover:transition-colors text-white p-2 rounded font-bold"
           >
             Assistir
@@ -37,7 +37,7 @@ export default function OvaRowOne() {
         <p className="font-bold">Junte-se a nós! O Mundo de Goku</p>
         <div className="btnContent w-[80%] text-xl md:text-sm my-1 items-center justify-center">
           <Link
-            to="/assistir/Junte-se a nós! O Mundo de Goku/1aYH-8R8TIkBiIJhz0UfUp6A8XfQEbaoC"
+            to="/assistir/Junte-se a nós! O Mundo de Goku/1IxGJwpk8bmEiloVsXSkReqtkpBYZwFri"
             className="text-center bg-orange-400 text-xl md:text-xs m-2 w-[75%] md:w-auto md:m-2 hover:bg-orange-600 hover:transition-colors text-white p-2 rounded font-bold"
           >
             Assistir
@@ -49,7 +49,7 @@ export default function OvaRowOne() {
         <p className="font-bold">O Plano Para Erradicar os Saiyajins</p>
         <div className="btnContent w-[80%] text-xl md:text-sm my-1 items-center justify-center">
           <Link
-            to="/assistir/O Plano Para Erradicar os Saiyajins/1-DXvCLJKSeaS4QB2BttDRh1hgQ5RgOKI"
+            to="/assistir/O Plano Para Erradicar os Saiyajins/1BCWfFWHzdTJlVZKj9nyOhOw0W_y62Mwx"
             className="text-center bg-orange-400 text-xl md:text-xs m-2 w-[75%] md:w-auto md:m-2 hover:bg-orange-600 hover:transition-colors text-white p-2 rounded font-bold"
           >
             Assistir
