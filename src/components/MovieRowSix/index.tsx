@@ -11,7 +11,7 @@ export default function MovieRowSix() {
         <p className="font-bold">Dragon Ball Evolution</p>
         <div className="btnContent w-[80%] text-xl md:text-sm my-1 items-center">
           <Link
-            to="/"
+            to="/assistir/Dragon Ball Evolution/1n6DkQBzN8_rTXgIFeviNIPm7aqdwKtIO"
             className="text-center bg-orange-400 text-xl md:text-xs m-2 w-[75%] md:w-auto md:m-2 hover:bg-orange-600 hover:transition-colors text-white p-2 rounded font-bold"
           >
             Dublado
@@ -29,7 +29,7 @@ export default function MovieRowSix() {
         <p className="font-bold">Super Hero</p>
         <div className="btnContent w-[80%] text-xl md:text-sm my-1 items-center">
           <Link
-            to="/"
+            to="/assistir/Super Hero/1n4byzVSVcTeWcbzC9soMx4XfrGKm1YuG"
             className="text-center bg-orange-400 text-xl md:text-xs m-2 w-[75%] md:w-auto md:m-2 hover:bg-orange-600 hover:transition-colors text-white p-2 rounded font-bold"
           >
             Dublado
