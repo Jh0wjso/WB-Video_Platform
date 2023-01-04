@@ -37,7 +37,7 @@ export default function MovieContentZ() {
               className="rounded hover:opacity-50 hover:underline"
             >
               <img src={Quatro} />
-              <p>A Lenda de Shenlong</p>
+              <p>Devolva me Gohan</p>
             </Link>
           </Carousel.Item>
           <Carousel.Item>
