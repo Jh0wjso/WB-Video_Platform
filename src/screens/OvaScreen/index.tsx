@@ -1,4 +1,5 @@
 import OvaRowOne from "../../components/Ovas/OvaRowOne";
+import OvaRowTwo from "../../components/Ovas/OvaRowTwo";
 
 export default function OvaScreen() {
   return (
@@ -7,6 +8,7 @@ export default function OvaScreen() {
         Todos os Ovas disponíveis
       </h1>
       <OvaRowOne />
+      <OvaRowTwo />
     </div>
   );
 }
