@@ -14,7 +14,7 @@ export default function MovieRowSix() {
             to="/assistir/Dragon Ball Evolution/1n6DkQBzN8_rTXgIFeviNIPm7aqdwKtIO"
             className="btnWatch"
           >
-            Dublado
+            Assistir
           </Link>
         </div>
       </div>
@@ -26,7 +26,7 @@ export default function MovieRowSix() {
             to="/assistir/Super Hero/1n4byzVSVcTeWcbzC9soMx4XfrGKm1YuG"
             className="btnWatch"
           >
-            Dublado
+            Assistir
           </Link>
         </div>
       </div>
