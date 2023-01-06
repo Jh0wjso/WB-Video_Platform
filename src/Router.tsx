@@ -9,6 +9,7 @@ import ClassicSceen from "./screens/ClassicScreen";
 import DBZScreen from "./screens/DBZScreen";
 import GTScreen from "./screens/GTScreen";
 import OvaScreen from "./screens/OvaScreen";
+import SpecialScreen from "./screens/SpecialScreen";
 
 
 export function Router() {
@@ -27,6 +28,7 @@ export function Router() {
       <Route path="/dbz" element={<DBZScreen />} />
       <Route path="/dbgt" element={<GTScreen />} />
       <Route path="/ova" element={<OvaScreen />} />
+      <Route path="/special" element={<SpecialScreen />} />
     </Routes>
   );
 }

@@ -133,7 +133,7 @@ export default function Animes() {
         <div className="cardAnime text-center flex flex-col items-center h-full p-4 m-5 bg-[transparent] border rounded">
           <img src={Dbova} width={250} className="mb-5 rounded-lg " />
           <p className="font-bold">Dragon Ball OVAs</p>
-          <div className="btnContent w-[80%] text-xl md:text-sm my-1 items-center">
+          <div className="btnContent w-[80%] text-xl md:text-sm my-1 items-center justify-center">
             <Link
               to="/ova"
               className="text-center bg-orange-400 text-xl md:text-xs w-[75%] md:w-auto hover:bg-orange-600 hover:transition-colors text-white p-2 rounded font-bold"
@@ -145,18 +145,12 @@ export default function Animes() {
         <div className="cardAnime text-center flex flex-col items-center h-full p-4 m-5 bg-[transparent] border rounded">
           <img src={Dbes} width={250} className="mb-5 rounded-lg " />
           <p className="font-bold">Especiais</p>
-          <div className="btnContent w-[80%] text-xl md:text-sm my-1 items-center">
+          <div className="btnContent w-[80%] text-xl md:text-sm my-1 items-center justify-center">
             <Link
-              to="/"
-              className="text-center bg-orange-400 text-xl md:text-xs m-2 w-[75%] md:w-auto md:m-2 hover:bg-orange-600 hover:transition-colors text-white p-2 rounded font-bold"
-            >
-              Dublado
-            </Link>
-            <Link
-              to="/"
+              to="/special"
               className="text-center bg-orange-400 text-xl md:text-xs w-[75%] md:w-auto hover:bg-orange-600 hover:transition-colors text-white p-2 rounded font-bold"
             >
-              Legendado
+              Assistir
             </Link>
           </div>
         </div>
