@@ -5,40 +5,28 @@ import Vintedois from "../../images/MoviesImages/22.jpg";
 
 export default function MovieRowSix() {
   return (
-    <div className="md:mb-14 cardsContainer items-center justify-between flex md:flex-row flex-col">
-      <div className="cardAnime text-center flex flex-col items-center h-full p-4 m-5 bg-[transparent] border rounded">
-        <img src={Vinteum} width={250} className="mb-5 rounded-lg " />
+    <div className="cardsContainer">
+      <div className="cardAnime">
+        <img src={Vinteum} width={250} className="imageCard" />
         <p className="font-bold">Dragon Ball Evolution</p>
-        <div className="btnContent w-[80%] text-xl md:text-sm my-1 items-center">
+        <div className="btnContent">
           <Link
             to="/assistir/Dragon Ball Evolution/1n6DkQBzN8_rTXgIFeviNIPm7aqdwKtIO"
-            className="text-center bg-orange-400 text-xl md:text-xs m-2 w-[75%] md:w-auto md:m-2 hover:bg-orange-600 hover:transition-colors text-white p-2 rounded font-bold"
+            className="btnWatch"
           >
             Dublado
-          </Link>
-          <Link
-            to="/"
-            className="text-center bg-orange-400 text-xl md:text-xs w-[75%] md:w-auto hover:bg-orange-600 hover:transition-colors text-white p-2 rounded font-bold"
-          >
-            Legendado
           </Link>
         </div>
       </div>
-      <div className="cardAnime text-center flex flex-col items-center h-full p-4 m-5 bg-[transparent] border rounded">
-        <img src={Vintedois} width={250} className="mb-5 rounded-lg " />
+      <div className="cardAnime">
+        <img src={Vintedois} width={250} className="imageCard" />
         <p className="font-bold">Super Hero</p>
-        <div className="btnContent w-[80%] text-xl md:text-sm my-1 items-center">
+        <div className="btnContent">
           <Link
             to="/assistir/Super Hero/1n4byzVSVcTeWcbzC9soMx4XfrGKm1YuG"
-            className="text-center bg-orange-400 text-xl md:text-xs m-2 w-[75%] md:w-auto md:m-2 hover:bg-orange-600 hover:transition-colors text-white p-2 rounded font-bold"
+            className="btnWatch"
           >
             Dublado
-          </Link>
-          <Link
-            to="/"
-            className="text-center bg-orange-400 text-xl md:text-xs w-[75%] md:w-auto hover:bg-orange-600 hover:transition-colors text-white p-2 rounded font-bold"
-          >
-            Legendado
           </Link>
         </div>
       </div>
