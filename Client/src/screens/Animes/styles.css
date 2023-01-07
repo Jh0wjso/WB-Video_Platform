@@ -1,5 +1,9 @@
 .cardAnime {
-  @apply text-center flex flex-col items-center h-full p-4 m-5 bg-[transparent] border rounded;
+  @apply text-center flex flex-col items-center h-full p-4 m-5 bg-[#494949] border-2 rounded;
+}
+
+.containerContent{
+  @apply min-h-screen text-white text-xl md:text-base flex flex-col items-center justify-center;
 }
 
 .btnContent {
@@ -7,7 +11,7 @@
 }
 
 .btnWatch {
-  @apply text-center bg-orange-400 text-xl md:text-xs m-2 w-[75%] md:w-auto md:m-2 hover:bg-orange-600 hover:transition-colors text-white p-2 rounded font-bold;
+  @apply text-center bg-orange-400 text-xl m-2 w-[100%] md:m-2 hover:bg-orange-600 hover:transition-colors text-white p-2 rounded font-bold;
 }
 
 .imageCard {
