@@ -5,7 +5,7 @@ import Animes from "./screens/Animes";
 import Movies from "./screens/Movies";
 import Video from "./screens/Video";
 import MovieWatch from "./screens/MovieWatch";
-import ClassicSceen from "./screens/ClassicScreen";
+import ClassicScreen from "./screens/ClassicScreen";
 import DBZScreen from "./screens/DBZScreen";
 import GTScreen from "./screens/GTScreen";
 import OvaScreen from "./screens/OvaScreen";
@@ -24,7 +24,7 @@ export function Router() {
       <Route path="/assistir">
         <Route path=":name/:url" element={<MovieWatch />} />
       </Route>
-      <Route path="/classic" element={<ClassicSceen/> } />
+      <Route path="/classic" element={<ClassicScreen/> } />
       <Route path="/dbz" element={<DBZScreen />} />
       <Route path="/dbgt" element={<GTScreen />} />
       <Route path="/ova" element={<OvaScreen />} />

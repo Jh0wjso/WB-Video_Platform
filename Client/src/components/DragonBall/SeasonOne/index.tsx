@@ -1,4 +1,3 @@
-import { Link } from "react-router-dom";
 import "../styles.css";
 import SectionButtons from "../../SectionButtons";
 import SectionLinks from "../../SectionLinks";
