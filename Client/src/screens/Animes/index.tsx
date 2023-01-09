@@ -48,7 +48,7 @@ export default function Animes() {
           <p className="font-bold">Dragon Ball Z Kai</p>
           <div className="btnContent">
             <Link
-              to="/"
+              to="/dbkai"
               className="btnWatch"
             >
               Assistir
