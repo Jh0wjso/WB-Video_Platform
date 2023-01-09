@@ -13,19 +13,8 @@ export default function DBKaiAbstract() {
         Dragon Ball Z Kai, conhecido no Japão como Dragon Ball Kai
         (ドラゴンボール改カイ Doragon Bōru Kai, lit. Dragon Ball Revised), é uma
         série de anime que é um remasterizado em alta definição e recortado de
-        Dragon Ball Z, feito para seu 20º aniversário. . Ele estreou na Fuji TV
-        em 5 de abril de 2009, às 9h, pouco antes de One Piece e terminou
-        inicialmente em 27 de março de 2011, com 97 episódios (um 98º episódio
-        foi lançado posteriormente direto para o vídeo), e os dois shows foram
-        comercializados juntos como "Dream 9", que se refere à hora em que ambos
-        foram ao ar. A classificação média da série foi de 9,4%, sendo a máxima
-        de 12,3% (Episódio 47) e a mínima de 6,4% (Episódio 18). Dragon Ball Kai
-        voltou à TV japonesa em 6 de abril de 2014, com a Saga Majin Buu, e
-        terminou sua exibição pela segunda e última vez em 28 de junho de 2015,
-        com 61 episódios, enquanto a versão original internacional sem cortes
-        teria 69. episódios (elevando a contagem total de episódios da série
-        para 159 para a transmissão japonesa original e 167 para a transmissão
-        internacional estendida).
+        Dragon Ball Z, feito para seu 20º aniversário. Ele estreou na Fuji TV em
+        5 de abril de 2009, às 9h.
       </p>
     </section>
   );
