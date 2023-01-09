@@ -4,7 +4,7 @@ import SectionButtons from "../../SectionButtons";
 export default function SeasonOneKai() {
   return (
     <div className="flex flex-col border mt-8 rounded p-5">
-      <h1 className="text-center text-4xl font-bold">Saga Viagem Pelo Universo</h1>
+      <h1 className="text-center text-4xl font-bold">Saga Saiyajin</h1>
       <section className="mt-8 flex flex-col items-center">
         <SectionButtons 
           num1="1" url1="1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm" name1="O Inicio da Batalha! Son Goku está de Volta"
