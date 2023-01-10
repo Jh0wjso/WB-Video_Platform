@@ -4,6 +4,7 @@ import DBKaiAbstract from "../../components/DragonBallKai/DBKaiAbstract";
 import SeasonOneKai from "../../components/DragonBallKai/SeasonOne";
 import SeasonTwoKai from "../../components/DragonBallKai/SeasonTwo";
 import SeasonThreeKai from "../../components/DragonBallKai/SeasonThree";
+import SeasonFourKai from "../../components/DragonBallKai/SeasonFour";
 
 export default function DBKaiScreen() {
   return (
@@ -16,6 +17,7 @@ export default function DBKaiScreen() {
         <SeasonOneKai />
         <SeasonTwoKai />
         <SeasonThreeKai />
+        <SeasonFourKai />
       </section>
       <MovieContentZ />
     </div>
