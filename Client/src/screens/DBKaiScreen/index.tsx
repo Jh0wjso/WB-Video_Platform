@@ -3,6 +3,7 @@ import MovieContentZ from "../../components/DragonBallZ/MovieContentZ";
 import DBKaiAbstract from "../../components/DragonBallKai/DBKaiAbstract";
 import SeasonOneKai from "../../components/DragonBallKai/SeasonOne";
 import SeasonTwoKai from "../../components/DragonBallKai/SeasonTwo";
+import SeasonThreeKai from "../../components/DragonBallKai/SeasonThree";
 
 export default function DBKaiScreen() {
   return (
@@ -14,6 +15,7 @@ export default function DBKaiScreen() {
       <section className="flex flex-col w-[80%]">
         <SeasonOneKai />
         <SeasonTwoKai />
+        <SeasonThreeKai />
       </section>
       <MovieContentZ />
     </div>
