@@ -60,7 +60,7 @@ export default function Animes() {
           <p className="font-bold">Dragon Ball Super</p>
           <div className="btnContent">
             <Link
-              to="/"
+              to="/dbsuper"
               className="btnWatch"
             >
               Assistir

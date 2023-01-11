@@ -11,6 +11,7 @@ import GTScreen from "./screens/GTScreen";
 import OvaScreen from "./screens/OvaScreen";
 import SpecialScreen from "./screens/SpecialScreen";
 import DBKaiScreen from "./screens/DBKaiScreen";
+import DBSuperScreen from "./screens/DBSuperScreen";
 
 
 export function Router() {
@@ -31,6 +32,7 @@ export function Router() {
       <Route path="/ova" element={<OvaScreen />} />
       <Route path="/special" element={<SpecialScreen />} />
       <Route path="/dbkai" element={<DBKaiScreen />} />
+      <Route path="/dbsuper" element={<DBSuperScreen />} />
     </Routes>
   );
 }
