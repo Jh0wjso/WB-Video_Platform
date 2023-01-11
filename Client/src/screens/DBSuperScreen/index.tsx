@@ -1,7 +1,7 @@
 import DBSuperAbstract from "../../components/DragonBallSuper/DBSuperAbstract";
+import MovieRowSuper from "../../components/DragonBallSuper/MovieRow";
 import SeasonOneSuper from "../../components/DragonBallSuper/SeasonOne";
 import SeasonTwoSuper from "../../components/DragonBallSuper/SeasonTwo";
-import MovieContentZ from "../../components/DragonBallZ/MovieContentZ";
 
 export default function DBSuperScreen() {
   return (
@@ -14,7 +14,7 @@ export default function DBSuperScreen() {
         <SeasonOneSuper />
         <SeasonTwoSuper />
       </section>
-      <MovieContentZ />
+      <MovieRowSuper />
     </div>
   );
 }
