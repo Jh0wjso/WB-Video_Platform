@@ -1,6 +1,6 @@
 import DBSuperAbstract from "../../components/DragonBallSuper/DBSuperAbstract";
 import SeasonOneSuper from "../../components/DragonBallSuper/SeasonOne";
-import DragonBallZAbstract from "../../components/DragonBallZ/DragonBallZAbstract";
+import SeasonTwoSuper from "../../components/DragonBallSuper/SeasonTwo";
 import MovieContentZ from "../../components/DragonBallZ/MovieContentZ";
 
 export default function DBSuperScreen() {
@@ -12,6 +12,7 @@ export default function DBSuperScreen() {
       <DBSuperAbstract />
       <section className="flex flex-col w-[80%]">
         <SeasonOneSuper />
+        <SeasonTwoSuper />
       </section>
       <MovieContentZ />
     </div>
