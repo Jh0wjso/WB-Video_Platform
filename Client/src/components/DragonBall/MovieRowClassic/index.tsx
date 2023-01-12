@@ -7,55 +7,58 @@ import Quatro from "../../../images/MoviesImages/17.jpg";
 
 export default function MovieRowClassic() {
   return (
-    <div className="cardsContainer">
-      <div className="cardAnime">
-        <img src={Um} width={250} className="imageCard" />
-        <p className="font-bold">A Lenda de Shenlong</p>
-        <div className="btnContent">
-          <Link
-            to="/assistir/A Lenda de Shenlong/1C624UGEH3nAfd6W7XxqbsBFEPPCkWD9-"
-            className="btnWatch"
-          >
-            Assistir
-          </Link>
+    <>
+      <p className="font-bold text-5xl mt-6">Filmes da Série</p>
+      <div className="cardsContainer">
+        <div className="cardAnime">
+          <img src={Um} width={250} className="imageCard" />
+          <p className="font-bold">A Lenda de Shenlong</p>
+          <div className="btnContent">
+            <Link
+              to="/assistir/A Lenda de Shenlong/1C624UGEH3nAfd6W7XxqbsBFEPPCkWD9-"
+              className="btnWatch"
+            >
+              Assistir
+            </Link>
+          </div>
+        </div>
+        <div className="cardAnime">
+          <img src={Dois} width={250} className="imageCard" />
+          <p className="font-bold">O Castelo do Diabo</p>
+          <div className="btnContent">
+            <Link
+              to="/assistir/O Castelo do Diabo/11pX0JMBmNVvMS8xvF01QA-s78X3UTH7w"
+              className="btnWatch"
+            >
+              Assistir
+            </Link>
+          </div>
+        </div>
+        <div className="cardAnime">
+          <img src={Tres} width={250} className="imageCard" />
+          <p className="font-bold">Uma Aventura Mística</p>
+          <div className="btnContent">
+            <Link
+              to="/assistir/Uma Aventura Mistica/1aYH-8R8TIkBiIJhz0UfUp6A8XfQEbaoC"
+              className="btnWatch"
+            >
+              Assistir
+            </Link>
+          </div>
+        </div>
+        <div className="cardAnime">
+          <img src={Quatro} width={250} className="imageCard" />
+          <p className="font-bold">Em busca do poder</p>
+          <div className="btnContent">
+            <Link
+              to="/assistir/Em busca do poder/1-DXvCLJKSeaS4QB2BttDRh1hgQ5RgOKI"
+              className="btnWatch"
+            >
+              Assistir
+            </Link>
+          </div>
         </div>
       </div>
-      <div className="cardAnime">
-        <img src={Dois} width={250} className="imageCard" />
-        <p className="font-bold">O Castelo do Diabo</p>
-        <div className="btnContent">
-          <Link
-            to="/assistir/O Castelo do Diabo/11pX0JMBmNVvMS8xvF01QA-s78X3UTH7w"
-            className="btnWatch"
-          >
-            Assistir
-          </Link>
-        </div>
-      </div>
-      <div className="cardAnime">
-        <img src={Tres} width={250} className="imageCard" />
-        <p className="font-bold">Uma Aventura Mística</p>
-        <div className="btnContent">
-          <Link
-            to="/assistir/Uma Aventura Mistica/1aYH-8R8TIkBiIJhz0UfUp6A8XfQEbaoC"
-            className="btnWatch"
-          >
-            Assistir
-          </Link>
-        </div>
-      </div>
-      <div className="cardAnime">
-        <img src={Quatro} width={250} className="imageCard" />
-        <p className="font-bold">Em busca do poder</p>
-        <div className="btnContent">
-          <Link
-            to="/assistir/Em busca do poder/1-DXvCLJKSeaS4QB2BttDRh1hgQ5RgOKI"
-            className="btnWatch"
-          >
-            Assistir
-          </Link>
-        </div>
-      </div>
-    </div>
+    </>
   );
 }

@@ -19,6 +19,7 @@ export default function DBKaiScreen() {
         <SeasonThreeKai />
         <SeasonFourKai />
       </section>
+      <p className="font-bold text-5xl mt-6">Filmes da Série</p>
       <MovieContentZ />
     </div>
   );
