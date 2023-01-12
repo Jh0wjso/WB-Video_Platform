@@ -37,7 +37,7 @@ export default function SpecialScreen() {
         </div>
         <div className="cardAnime">
           <img src={Tres} width={250} className="imageCard" />
-          <p className="font-bold">Toriko X One piece X DBZ</p>
+          <p className="font-bold">Toriko X One piece X Dragon Ball Z</p>
           <div className="btnContent">
             <Link
               to="/assistir/Toriko X One piece X DBZ/1qLRSpvcSUmT7FMAi6oQCRrW6F6m_dGPe"
