@@ -4,7 +4,7 @@ import SectionButtons from "../../SectionButtons";
 
 export default function SeasonFive() {
   return (
-    <div className="flex flex-col border rounded mb-5 p-5">
+    <div className="containerEps">
       <h1 className="text-center text-4xl font-bold">Saga de Piccolo Daimaoh e Piccolo Jr.</h1>
       <section className="mt-8 flex flex-col items-center">
         <SectionButtons 

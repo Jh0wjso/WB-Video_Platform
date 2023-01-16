@@ -4,7 +4,7 @@ import SectionLinks from "../../SectionLinks";
 
 export default function SeasonTwo() {
   return (
-    <div className="flex flex-col border rounded my-5 p-5">
+    <div className="containerEps">
       <h1 className="text-center text-4xl font-bold">Saga do Tenkaichi Budokai</h1>
       <section className="mt-8 flex flex-col items-center">
         <SectionButtons 
