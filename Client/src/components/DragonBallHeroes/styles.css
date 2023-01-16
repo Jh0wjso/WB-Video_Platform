@@ -1,0 +1,9 @@
+.episodeButtons{
+    @apply flex flex-row my-5;
+}
+
+@media screen and (max-width: 1150px){
+    .episodeButtons{
+        @apply flex flex-col my-5;
+    }
+}
