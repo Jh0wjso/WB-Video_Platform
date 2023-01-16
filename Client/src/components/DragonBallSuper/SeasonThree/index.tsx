@@ -4,7 +4,7 @@ import SectionLinks from "../../SectionLinks";
 
 export default function SeasonThreeSuper() {
   return (
-    <div className="flex flex-col border mt-8 rounded p-5">
+    <div className="containerEps">
       <h1 className="text-center text-4xl font-bold">Universo 6</h1>
       <section className="mt-8 flex flex-col items-center">
         <SectionButtons 
