@@ -3,7 +3,7 @@ import SectionButtons from "../../SectionButtons";
 
 export default function SeasonThreeGT() {
   return (
-    <div className="flex flex-col border rounded p-5 mt-8">
+    <div className="containerEps">
       <h1 className="text-center text-4xl font-bold">Saga do Super 17</h1>
       <section className="flex flex-col items-center">
         <SectionButtons 

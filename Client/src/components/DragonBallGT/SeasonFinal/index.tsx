@@ -4,7 +4,7 @@ import SectionLinks from "../../SectionLinks";
 
 export default function SeasonFinalGT() {
   return (
-    <div className="my-8 flex flex-col border rounded p-5">
+    <div className="containerEps">
       <h1 className="text-center text-4xl font-bold">Saga dos Dragões Malignos</h1>
       <section className="flex flex-col items-center">
         <SectionButtons 
