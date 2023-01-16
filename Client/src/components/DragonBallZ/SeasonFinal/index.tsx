@@ -4,7 +4,7 @@ import SectionLinks from "../../SectionLinks";
 
 export default function SeasonFinalDbz() {
   return (
-    <div className="flex flex-col border rounded p-5 mt-8">
+    <div className="containerEps">
       <h1 className="text-center text-4xl font-bold">Saga Buu</h1>
       <section className="flex flex-col items-center">
         <SectionButtons 

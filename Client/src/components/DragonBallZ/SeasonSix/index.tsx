@@ -2,7 +2,7 @@ import SectionButtons from "../../SectionButtons";
 
 export default function SeasonSixDbz(){
     return(
-    <div className="flex flex-col border rounded mt-8 p-5">
+    <div className="containerEps">
         <h1 className="text-center text-4xl font-bold">Saga Cell</h1>
         <section className=" flex flex-col items-center">
             <SectionButtons 
