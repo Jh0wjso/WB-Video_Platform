@@ -86,7 +86,7 @@ export default function Animes() {
           <p className="font-bold">Heroes</p>
           <div className="btnContent">
             <Link
-              to="/dbhereos"
+              to="/dbheroes"
               className="btnWatch"
             >
               Assistir
