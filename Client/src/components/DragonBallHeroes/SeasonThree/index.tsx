@@ -20,6 +20,10 @@ export default function SeasonThreeHeroes() {
           <SectionLinks num="27" url="1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm" name={`Terror Violento! O Retorno da Aura Maligna!`} />
           <SectionLinks num="28" url="1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm" name={`Batalha Feroz no Espaço-Tempo! Vegetto vs Super Fu`} />
         </section>
+        <h1 className="text-center text-4xl font-bold">Especial</h1>
+        <section className="episodeButtons">
+          <SectionLinks num="29" url="1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm" name={`Avance Para os Heróis Dragon Ball do Campo de Batalha!`} />
+        </section>
       </section>
     </div>
   );
