@@ -4,7 +4,7 @@ import SectionButtons from "../../SectionButtons";
 export default function SeasonOneHeroes() {
   return (
     <div className="containerEps">
-      <h1 className="text-center text-4xl font-bold">Saga Saiyajin</h1>
+      <h1 className="text-center text-4xl font-bold">Saga Prisão Planetária</h1>
       <section className="mt-8 flex flex-col items-center">
         <SectionButtons 
           num1="1" url1="1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm" name1={`Goku Vs. Goku! Uma Batalha Transcendente Começa No Planeta Da Prisão`}

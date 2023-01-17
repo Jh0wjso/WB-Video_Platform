@@ -5,7 +5,7 @@ import SectionLinks from "../../SectionLinks";
 export default function SeasonThreeHeroes() {
   return (
     <div className="containerEps">
-      <h1 className="text-center text-4xl font-bold">Saga Saiyajin</h1>
+      <h1 className="text-center text-4xl font-bold">Saga Criação do Universo</h1>
       <section className="mt-8 flex flex-col items-center">
         <SectionButtons 
           num1="20" url1="1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm" name1={`Batalha Decisiva!`}

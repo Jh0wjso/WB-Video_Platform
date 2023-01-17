@@ -2,6 +2,7 @@ import DBHeroesAbstract from "../../components/DragonBallHeroes/DBHeroesAbstract
 import SeasonOneHeroes from "../../components/DragonBallHeroes/SeasonOne";
 import SeasonThreeHeroes from "../../components/DragonBallHeroes/SeasonThree";
 import SeasonTwoHeroes from "../../components/DragonBallHeroes/SeasonTwo";
+import MovieContentZ from "../../components/DragonBallZ/MovieContentZ";
 
 export default function DBHeroesScreen() {
   return (
@@ -15,6 +16,7 @@ export default function DBHeroesScreen() {
         <SeasonTwoHeroes />
         <SeasonThreeHeroes />
       </section>
+      <MovieContentZ />
     </div>
   );
 }
