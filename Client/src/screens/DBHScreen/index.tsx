@@ -1,5 +1,6 @@
 import DBHeroesAbstract from "../../components/DragonBallHeroes/DBHeroesAbstract";
 import SeasonOneHeroes from "../../components/DragonBallHeroes/SeasonOne";
+import SeasonThreeHeroes from "../../components/DragonBallHeroes/SeasonThree";
 import SeasonTwoHeroes from "../../components/DragonBallHeroes/SeasonTwo";
 
 export default function DBHeroesScreen() {
@@ -12,6 +13,7 @@ export default function DBHeroesScreen() {
       <section className="flex flex-col w-[80%]">
         <SeasonOneHeroes />
         <SeasonTwoHeroes />
+        <SeasonThreeHeroes />
       </section>
     </div>
   );
