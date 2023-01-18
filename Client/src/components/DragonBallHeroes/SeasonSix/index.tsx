@@ -28,7 +28,7 @@ export default function SeasonSixHeroes() {
           num6="38"
           url6="1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
           name6={`A Batalha Final No Universo Falso! Confronto De Azul E Escarlate`}
-        />
+        /> 
       </section>
     </div>
   );

@@ -19,7 +19,7 @@ export default function DBHeroesScreen() {
         <SeasonTwoHeroes />
         <SeasonThreeHeroes />
         <SeasonFourHeroes />
-        <SeasonFiveHeroes />
+        <SeasonFiveHeroes /> 
         <SeasonSixHeroes />
       </section>
       <MovieContentZ />
