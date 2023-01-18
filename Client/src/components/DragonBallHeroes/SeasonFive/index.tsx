@@ -5,7 +5,7 @@ import SectionLinks from "../../SectionLinks";
 export default function SeasonFiveHeroes() {
   return (
     <div className="containerEps">
-      <h1 className="text-center text-4xl font-bold">Saga da nova Guerra Espaço-Tempo</h1>
+      <h1 className="text-center text-4xl font-bold">Saga Criação do Universo</h1>
       <section className="mt-8 flex flex-col items-center">
         <SectionButtons 
           num1="33" url1="1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm" name1={`Nova Guerra Espaço-Tempo! A Batalha Feroz Final Começa!`}
