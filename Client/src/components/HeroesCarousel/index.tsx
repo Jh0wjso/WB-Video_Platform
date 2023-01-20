@@ -21,92 +21,92 @@ export default function HeroesCarousel() {
         <Carousel cols={5} rows={1} gap={10} loop>
           <Carousel.Item>
             <Link
-              to="/video/1/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
+              to="/video/Goku Vs. Goku! Uma Batalha Transcendente Começa No Planeta Da Prisão/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
               className="rounded hover:opacity-50 hover:underline"
             >
               <img src={Db} />
-              <p>Ep 01: Nome do Episodio</p>
+              <p>Goku Vs. Goku! Uma Batalha ...</p>
             </Link>
           </Carousel.Item>
           <Carousel.Item>
             <Link
-              to="/video/2/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
+              to="/video/Goku Fica Furioso! A Fúria do Mal Saião!/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
               className="rounded hover:opacity-50 hover:underline"
             >
               <img className="rounded hover:opacity-50" src={DbH} />
-              <p>Ep 02: Nome do Episodio</p>
+              <p>Goku Fica Furioso! ...</p>
             </Link>
           </Carousel.Item>
           <Carousel.Item>
             <Link
-              to="/video/3/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
+              to="/video/O Esplendor Mais Poderoso! Vegetto Blue Explode Kaio-Ken!/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
               className="rounded hover:opacity-50 hover:underline"
             >
               <img className="rounded hover:opacity-50" src={Db} />
-              <p>Ep 02: Nome do Episodio</p>
+              <p>O Esplendor Mais Poderoso! ...</p>
             </Link>
           </Carousel.Item>
           <Carousel.Item>
             <Link
-              to="/video/4/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
+              to="/video/Raiva! O Super Fu Aparece!/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
               className="rounded hover:opacity-50 hover:underline"
             >
               <img className="rounded hover:opacity-50" src={DbH} />
-              <p>Ep 04: Nome do Episodio</p>
+              <p>Raiva! O Super Fu Aparece!</p>
             </Link>
           </Carousel.Item>
           <Carousel.Item>
             <Link
-              to="/video/5/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
+              to="/video/O Guerreiro Mais Poderoso! Vegetto Super Saiyajin 4!!/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
               className="rounded hover:opacity-50 hover:underline"
             >
               <img className="rounded hover:opacity-50" src={Db} />
-              <p>Ep 05: Nome do Episodio</p>
+              <p>O Guerreiro Mais Poderoso! ...</p>
             </Link>
           </Carousel.Item>
           <Carousel.Item>
             <Link
-              to="/video/6/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
+              to="/videoEu Vou Resolver Isso! Ativar! Instinto Superior!/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
               className="rounded hover:opacity-50 hover:underline"
             >
               <img className="rounded hover:opacity-50" src={DbH} />
-              <p>Ep 06: Nome do Episodio</p>
+              <p>Eu Vou Resolver Isso! Ativar...</p>
             </Link>
           </Carousel.Item>
           <Carousel.Item>
             <Link
-              to="/video/7/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
+              to="/video/Zamasu Revivido!? Começa a Saga do Conflito Universal!/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
               className="rounded hover:opacity-50 hover:underline"
             >
               <img className="rounded hover:opacity-50" src={Db} />
-              <p>Ep 07: Nome do Episodio</p>
+              <p>Zamasu Revivido!? Começa a...</p>
             </Link>
           </Carousel.Item>
           <Carousel.Item>
             <Link
-              to="/video/8/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
+              to="/video/A Invasão dos Guerreiros mais Fortes! O Sexto Universo é Destruído!/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
               className="rounded hover:opacity-50 hover:underline"
             >
               <img className="rounded hover:opacity-50" src={DbH} />
-              <p>Ep 08: Nome do Episodio</p>
+              <p>A Invasão dos Guerreiros ...</p>
             </Link>
           </Carousel.Item>
           <Carousel.Item>
             <Link
-              to="/video/9/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
+              to="/video/A Ressurreição de Goku!! Clash Entre o Mais Forte e o Mais Forte!/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
               className="rounded hover:opacity-50 hover:underline"
             >
               <img className="rounded hover:opacity-50" src={Db} />
-              <p>Ep 09: Nome do Episodio</p>
+              <p>A Ressurreição de ...</p>
             </Link>
           </Carousel.Item>
           <Carousel.Item>
             <Link
-              to="/video/10/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
+              to="/video/Contra Ataque! Ataque Feroz! Goku e Vegeta!/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
               className="rounded hover:opacity-50 hover:underline"
             >
               <img className="rounded hover:opacity-50" src={DbH} />
-              <p>Ep 10: Nome do Episodio</p>
+              <p>Contra Ataque! Goku e ...</p>
             </Link>
           </Carousel.Item>
         </Carousel>
