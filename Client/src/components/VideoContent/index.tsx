@@ -1,3 +1,5 @@
+import "./styles.css"
+
 interface InfoVideo{
     number: string,
     url: string
@@ -6,13 +8,13 @@ interface InfoVideo{
 export default function VideoContent({number, url}:InfoVideo) {
   return (
     <>
-      <h1 className="text-2xl md:text-5xl mb-8 text-center font-bold">
-        Episodio: {number}
+      <h1 className="epName">
+        Episodio de Hoje: <br/> {number}
       </h1>
       <iframe
         src={`https://drive.google.com/file/d/${url}/preview`}
         allow="autoplay"
-        className="h-[250px] md:h-[650px] w-[100%] md:w-[70%] rounded border-8 border-orange-400"
+        className="videoContent"
         allowFullScreen
       ></iframe>
     </>

@@ -1,0 +1,7 @@
+.epName{
+    @apply text-2xl md:text-5xl mb-8 text-center font-bold uppercase;
+}
+
+.videoContent{
+    @apply h-[250px] md:h-[650px] w-[100%] md:w-[50%] border-8 border-orange-400;
+}
