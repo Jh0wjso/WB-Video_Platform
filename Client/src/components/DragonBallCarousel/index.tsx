@@ -12,7 +12,7 @@ export default function DragonBallCarousel() {
         <h1 className="text-2xl text-white md:text-4xl ml-4">Super</h1>
         <Link
           className="mr-4 md:mr-10 text-white chrome bg-orange-400 rounded md:py-1 px-1 md:px-2 transition-colors hover:bg-orange-600 font-bold"
-          to="/filmes"
+          to="/dbsuper"
         >
           Ver Mais
         </Link>
@@ -21,92 +21,92 @@ export default function DragonBallCarousel() {
         <Carousel cols={5} rows={1} gap={10} loop>
           <Carousel.Item>
             <Link
-              to="/video/1/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
+              to="/video/O Prêmio da Paz! Quem vai ficar com os 100 Milhões de Zenis/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
               className="rounded hover:opacity-50 hover:underline"
             >
               <img src={DbS} />
-              <p>Ep 01: Nome do Episodio</p>
+              <p>O Prêmio da Paz! Quem vai ...</p>
             </Link>
           </Carousel.Item>
           <Carousel.Item>
             <Link
-              to="/video/2/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
+              to="/video/As Férias Prometidas! O Vegeta Viaja com a Família/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
               className="rounded hover:opacity-50 hover:underline"
             >
               <img className="rounded hover:opacity-50" src={DbS1} />
-              <p>Ep 02: Nome do Episodio</p>
+              <p>As Férias Prometidas! O Vegeta ...</p>
             </Link>
           </Carousel.Item>
           <Carousel.Item>
             <Link
-              to="/video/3/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
+              to="/video/Cadê o Resto do Meu Sonho?! Em Busca do Deus Super Saiyajin/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
               className="rounded hover:opacity-50 hover:underline"
             >
               <img className="rounded hover:opacity-50" src={DbS2} />
-              <p>Ep 02: Nome do Episodio</p>
+              <p>Cadê o Resto do Meu ...</p>
             </Link>
           </Carousel.Item>
           <Carousel.Item>
             <Link
-              to="/video/4/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
+              to="/video/Em Busca das Esferas do Dragão! O Grande Plano de Pilaf/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
               className="rounded hover:opacity-50 hover:underline"
             >
               <img className="rounded hover:opacity-50" src={DbS} />
-              <p>Ep 04: Nome do Episodio</p>
+              <p>Em Busca das ...</p>
             </Link>
           </Carousel.Item>
           <Carousel.Item>
             <Link
-              to="/video/5/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
+              to="/video/Grande Luta no Planeta do Senhor Kaioh! Goku vs. Bills/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
               className="rounded hover:opacity-50 hover:underline"
             >
               <img className="rounded hover:opacity-50" src={DbS1} />
-              <p>Ep 05: Nome do Episodio</p>
+              <p>Grande Luta no Planeta ...</p>
             </Link>
           </Carousel.Item>
           <Carousel.Item>
             <Link
-              to="/video/6/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
+              to="/video/Não Irritem o Deus da Destruição! Uma Festa de Aniversário Animada/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
               className="rounded hover:opacity-50 hover:underline"
             >
               <img className="rounded hover:opacity-50" src={DbS2} />
-              <p>Ep 06: Nome do Episodio</p>
+              <p>Não Irritem o ...</p>
             </Link>
           </Carousel.Item>
           <Carousel.Item>
             <Link
-              to="/video/7/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
+              to="/video/Como Ousa Bater na Minha Bulma? Vegeta Fica Furioso de Repente/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
               className="rounded hover:opacity-50 hover:underline"
             >
               <img className="rounded hover:opacity-50" src={DbS} />
-              <p>Ep 07: Nome do Episodio</p>
+              <p>Como Ousa Bater na Minha ...</p>
             </Link>
           </Carousel.Item>
           <Carousel.Item>
             <Link
-              to="/video/8/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
+              to="/video/Goku Aparece! Bills Nos Dá Uma Última Chance/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
               className="rounded hover:opacity-50 hover:underline"
             >
               <img className="rounded hover:opacity-50" src={DbS1} />
-              <p>Ep 08: Nome do Episodio</p>
+              <p>Goku Aparece! Bills...</p>
             </Link>
           </Carousel.Item>
           <Carousel.Item>
             <Link
-              to="/video/8/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
+              to="/video/Desculpe a Demora, Senhor Bills! Finalmente Nasce o Deus/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
               className="rounded hover:opacity-50 hover:underline"
             >
               <img className="rounded hover:opacity-50" src={DbS2} />
-              <p>Ep 09: Nome do Episodio</p>
+              <p>Desculpe a Demora, Senhor Bills! ...</p>
             </Link>
           </Carousel.Item>
           <Carousel.Item>
             <Link
-              to="/video/10/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
+              to="/video/Mostre a Ele, Goku! O Poder do Deus Super Saiyajin/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
               className="rounded hover:opacity-50 hover:underline"
             >
               <img className="rounded hover:opacity-50" src={DbS} />
-              <p>Ep 10: Nome do Episodio</p>
+              <p>Mostre a Ele, ...</p>
             </Link>
           </Carousel.Item>
         </Carousel>
