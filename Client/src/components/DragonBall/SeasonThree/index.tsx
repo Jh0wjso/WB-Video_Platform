@@ -35,12 +35,12 @@ export default function SeasonThree() {
         />
 
         <SectionButtons 
-          num1="47" url1={``} name1={`Encontrando a casa do Mestre Kame`}
-          num2="48" url2={``} name2={`O General Blue inicia o ataque`}
-          num3="49" url3={``} name3={`Cuidado com o Inimigo`}
-          num4="50" url4={``} name4={`O segredo dos piratas`}
-          num5="51" url5={``} name5={`O guardião das Profundezas`}
-          num6="52" url6={``} name6={`Genial, encontramos o tesouro`}
+          num1="47" url1={`1QF54TM7R2WQJK0ktLwlGeHV_XgJ08Ae9`} name1={`Encontrando a casa do Mestre Kame`}
+          num2="48" url2={`1QOYNoqM0UZs0f1PWxeJtUWmvCnT3g8Yd`} name2={`O General Blue inicia o ataque`}
+          num3="49" url3={`1Q3kp393Irb46POuv9-Khp-U33-HVgBwG`} name3={`Cuidado com o Inimigo`}
+          num4="50" url4={`1Ps_KbmVoIbEzJ6sjSuq_11lRapSQBj6k`} name4={`O segredo dos piratas`}
+          num5="51" url5={`1Pxo8xE3MBuPqKNCKU6E3r5YHwgOOEwjB`} name5={`O guardião das Profundezas`}
+          num6="52" url6={`1PpTdAdn8ykT7fpH8HlZvG5_s9b1l6V2i`} name6={`Genial, encontramos o tesouro`}
         />
 
         <SectionButtons 
