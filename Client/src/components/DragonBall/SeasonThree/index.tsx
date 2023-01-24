@@ -44,12 +44,12 @@ export default function SeasonThree() {
         />
 
         <SectionButtons 
-          num1="53" url1={``} name1={`A caverna sinistra`}
-          num2="54" url2={``} name2={`A escapada`}
-          num3="55" url3={``} name3={`O caminho para a Vila Pinguim`}
-          num4="56" url4={``} name4={`Arale viaja na Nuvem Voadora`}
-          num5="57" url5={``} name5={`Arale contra o General Blue`}
-          num6="58" url6={``} name6={`A Terra Sagrada`}
+          num1="53" url1={`1QW7z5Z12FYgd10U6AgwvoOkQRoEpgkxl`} name1={`A caverna sinistra`}
+          num2="54" url2={`1QXzcCgwbTW-Fhw53BdnM-gpTtiCM31yi`} name2={`A escapada`}
+          num3="55" url3={`1QYbIDLePZRtwQ9aFCJUy5AGvdmjMa1i6`} name3={`O caminho para a Vila Pinguim`}
+          num4="56" url4={`1QbYNO6rbSxNXBG_a_fCg4vGF2rxT5NS1`} name4={`Arale viaja na Nuvem Voadora`}
+          num5="57" url5={`1Qg__eBinCwdnv1Is74EMAVEqZoJt_qTg`} name5={`Arale contra o General Blue`}
+          num6="58" url6={`1QjgpHGfgrD_UO-ugsdDAyDC62tBxQYQ0`} name6={`A Terra Sagrada`}
         />
 
         <SectionButtons 
