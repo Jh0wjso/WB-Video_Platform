@@ -26,12 +26,12 @@ export default function SeasonThree() {
         />
 
         <SectionButtons 
-          num1="41" url1={`1PKtqi9XLivGADfYTYUiUoqYFsm1Y6NDD`} name1={`O último dia na Torre da Força`}
-          num2="42" url2={`1PNtxik7xB3m-qVt9aTXxXEIdwhpzzVQa`} name2={`O segredo inesperado do Dr. Frapê`}
+          num1="41" url1={`1Ph-VHCvKbhSZBQ-5nJt2VxkrCAJ_qxv3`} name1={`O último dia na Torre da Força`}
+          num2="42" url2={`1PlwDxVG3UuAYKjoJbtmA-cH1PYpbWW8F`} name2={`O segredo inesperado do Dr. Frapê`}
           num3="43" url3={`1PS2bRQbdrxg80QUO3cYR-3i7MvtaO0pm`} name3={`A casa de Bulma a Oeste de Metrópole`}
           num4="44" url4={`1Pegfiw5vululHU8Jud6ChXikbmouKM5S`} name4={`Goku e seus amigos estão em apuros`}
-          num5="45" url5={`1Ph-VHCvKbhSZBQ-5nJt2VxkrCAJ_qxv3`} name5={`Cuidado, é uma armadilha`}
-          num6="46" url6={`1PlwDxVG3UuAYKjoJbtmA-cH1PYpbWW8F`} name6={`O completo fracasso de Bulma`}
+          num5="45" url5={`11PKtqi9XLivGADfYTYUiUoqYFsm1Y6NDD`} name5={`Cuidado, é uma armadilha`}
+          num6="46" url6={`1PNtxik7xB3m-qVt9aTXxXEIdwhpzzVQa`} name6={`O completo fracasso de Bulma`}
         />
 
         <SectionButtons 
