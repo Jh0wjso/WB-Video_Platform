@@ -1,12 +1,12 @@
 
 .episodeButtons{
-    @apply flex flex-row my-5;
+    @apply flex flex-row md:my-5;
 }
 
 /*1150*/
 
 @media screen and (max-width: 1150px){
     .episodeButtons{
-        @apply flex flex-col my-5;
+        @apply flex flex-col md:my-5;
     }
 }
