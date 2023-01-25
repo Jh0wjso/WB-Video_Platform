@@ -80,8 +80,8 @@ export default function SeasonThree() {
         />
 
         <section className="episodeButtons">
-          <SectionLinks num="77" url={`1TAJlL77MeJA0ZC0wk5eA-aOovJ2u4caO`} name={`O grande plano de Pilaf`} />
-          <SectionLinks num="78" url={`1TMvQEnDc7Nzwf9ImnpG_uEFu0EUZBpP1`} name={`O reaparecimento do Deus Dragão`} />
+          <SectionLinks num="77" url={`1TMvQEnDc7Nzwf9ImnpG_uEFu0EUZBpP1`} name={`O grande plano de Pilaf`} />
+          <SectionLinks num="78" url={`1TAJlL77MeJA0ZC0wk5eA-aOovJ2u4caO`} name={`O reaparecimento do Deus Dragão`} />
         </section>
       </section>
     </div>
