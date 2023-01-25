@@ -62,14 +62,13 @@ export default function SeasonThree() {
         />
 
         <SectionButtons 
-          num1="65" url1={``} name1={`Vamos Goku! Começa aluta`}
-          num2="66" url2={``} name2={`O último empenho da força Red Ribbon`}
-          num3="67" url3={``} name3={`O comandante da força Red Ribbon morre`}
-          num4="68" url4={``} name4={`A ultima esfera do dragão`}
-          num5="69" url5={``} name5={`Quem é a Vovó Uranai`}
-          num6="70" url6={``} name6={`O ataque dos cinco guerreiros`}
+          num1="65" url1={`1T5STwPGwiDIGjeCbP8lhb5bS7_k89SXJ`} name1={`Vamos Goku! Começa aluta`}
+          num2="66" url2={`1T3o1LwtTMuZDCm_vioA9yeN9HMPRvWm3`} name2={`O último empenho da força Red Ribbon`}
+          num3="67" url3={`1St9K3ASFZ568aISaQXQ_84Klhp4FCPvO`} name3={`O comandante da força Red Ribbon morre`}
+          num4="68" url4={`1SkeyZexgcnDGWRVS-ec-2KOvtYuhw9ZO`} name4={`A ultima esfera do dragão`}
+          num5="69" url5={`1Sjb18RZJaAVhd_Bq-61DkDG9Uh4rHDRT`} name5={`Quem é a Vovó Uranai`}
+          num6="70" url6={`1SdLc2sgV6yUDdGdxtjayWAqMLz4NQ2lM`} name6={`O ataque dos cinco guerreiros`}
         />
-
 
         <SectionButtons 
           num1="71" url1={``} name1={`Uma batalha sangrenta e mortal`}
