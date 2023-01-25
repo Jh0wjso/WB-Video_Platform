@@ -71,17 +71,17 @@ export default function SeasonThree() {
         />
 
         <SectionButtons 
-          num1="71" url1={``} name1={`Uma batalha sangrenta e mortal`}
-          num2="82" url2={``} name2={`A luta de Goku na Piscina do Diabo`}
-          num3="73" url3={``} name3={`O que faz o esplendor mortal do Diabo`}
-          num4="74" url4={``} name4={`O quinto guerreiro misterioso`}
-          num5="75" url5={``} name5={`Como um adversário se tornou um velho amigo`}
-          num6="76" url6={``} name6={`A verdadeira identidade do Homem Mascarado`}
+          num1="71" url1={`1SaXO5d7sstMXHWF9igU_Pn3outzA7eNK`} name1={`Uma batalha sangrenta e mortal`}
+          num2="72" url2={`1SWd5nJcTG19qIoA9ccLlR1KtABqIVosd`} name2={`A luta de Goku na Piscina do Diabo`}
+          num3="73" url3={`1SVYZnA02LAHccjpLEs9a4RoTTC38PJh6`} name3={`O que faz o esplendor mortal do Diabo`}
+          num4="74" url4={`1SV5OVwkzfD-9vovQKAAA4DyvmCcq4qA_`} name4={`O quinto guerreiro misterioso`}
+          num5="75" url5={`1SGgZIHRWjONtYoiP-xpu6rvUlMIrBI1U`} name5={`Como um adversário se tornou um velho amigo`}
+          num6="76" url6={`1SMgRAYOQADWCgk9mu3fnSH2WpYP-JhmQ`} name6={`A verdadeira identidade do Homem Mascarado`}
         />
 
         <section className="episodeButtons">
-          <SectionLinks num="77" url={``} name={`O grande plano de Pilaf`} />
-          <SectionLinks num="78" url={``} name={`O reaparecimento do Deus Dragão`} />
+          <SectionLinks num="77" url={`1TAJlL77MeJA0ZC0wk5eA-aOovJ2u4caO`} name={`O grande plano de Pilaf`} />
+          <SectionLinks num="78" url={`1TMvQEnDc7Nzwf9ImnpG_uEFu0EUZBpP1`} name={`O reaparecimento do Deus Dragão`} />
         </section>
       </section>
     </div>
