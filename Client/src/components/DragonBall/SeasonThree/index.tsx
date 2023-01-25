@@ -53,12 +53,12 @@ export default function SeasonThree() {
         />
 
         <SectionButtons 
-          num1="59" url1={``} name1={`Tao Pai Pai, o Exterminador mais famoso do Mundo`}
-          num2="60" url2={``} name2={`A força Kame-Hame-Ha contra o Tap Pai Pai`}
-          num3="61" url3={``} name3={`A Torre do Mestre Karin`}
-          num4="62" url4={``} name4={`Os benefícios da água sagrada`}
-          num5="63" url5={``} name5={`Goku contra-ataca`}
-          num6="64" url6={``} name6={`O último Tao Pai Pai`}
+          num1="59" url1={`1S-Ex-dP4tuGMBg5jL-gG_GV4DB4x3M3a`} name1={`Tao Pai Pai, o Exterminador mais famoso do Mundo`}
+          num2="60" url2={`1RyYeP_A4-YMdHMHNnBv2kYAre5sFrbud`} name2={`A força Kame-Hame-Ha contra o Tap Pai Pai`}
+          num3="61" url3={`1Rxs9Fxe5G05xEVJEH0uYZ5aWo6Pjb4rL`} name3={`A Torre do Mestre Karin`}
+          num4="62" url4={`1RsktfkIpbuF3JS6c7veFL9z2lCiDVtsC`} name4={`Os benefícios da água sagrada`}
+          num5="63" url5={`1RrhWmTGWdRRrGqYPR0nV0e_426l3GDiO`} name5={`Goku contra-ataca`}
+          num6="64" url6={`1S8KP4Sgz8so_4_f7vDLpykT5bLqXmnaD`} name6={`O último Tao Pai Pai`}
         />
 
         <SectionButtons 
