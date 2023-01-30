@@ -1,3 +1,12 @@
+.cardNew{
+    @apply flex w-[90%] items-center justify-between border rounded p-3 bg-orange-400;
+    @apply hover:bg-orange-600;
+}
+
+.imgCardNew{
+    @apply rounded-full;
+}
+
 @media screen and (max-width: 1705px){
     .sidebar{
         display: none;
