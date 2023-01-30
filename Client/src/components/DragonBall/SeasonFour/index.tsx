@@ -17,29 +17,28 @@ export default function SeasonFour() {
         />
 
         <SectionButtons 
-          num1="85" url1={``} name1={`Temos que vencer! Quem passará nas preliminares`}
-          num2="86" url2={``} name2={`Os oito finalistas`}
-          num3="87" url3={``} name3={`Yamcha contra Tenshinhan`}
-          num4="88" url4={``} name4={`Cuidado Yamcha! O terrível Tenshinhan é muito perigoso`}
-          num5="89" url5={``} name5={`Terror! O mistério da Lua cheia`}
-          num6="90" url6={``} name6={`Ahn? Como? O quê? Dodonpa`}
+          num1="85" url1={`1ZKyoRankTrrYtVdK2FxC7L2cSHBzgmbp`} name1={`Temos que vencer! Quem passará nas preliminares`}
+          num2="86" url2={`1ZY9ai6r7LcA721mqBLYL_FcPfzamwOum`} name2={`Os oito finalistas`}
+          num3="87" url3={`1ZTYvLddicD6h9SmftIBZxaDj4FzOsjhu`} name3={`Yamcha contra Tenshinhan`}
+          num4="88" url4={`1ZRaR_zdVGFfrLJB6vR0AwZLJWsJS-RMN`} name4={`Cuidado Yamcha! O terrível Tenshinhan é muito perigoso`}
+          num5="89" url5={`1ZRZlfMbiMe1-59ZbNwLm4eclPOqbx3P7`} name5={`Terror! O mistério da Lua cheia`}
+          num6="90" url6={`1Zch7OkKcWTAxvaR3X3dlenH1ghYAx-nd`} name6={`Ahn? Como? O quê? Dodonpa`}
         />
 
         <SectionButtons 
-          num1="91" url1={``} name1={`A situação mudou! O plano estratégico de Kuririn`}
-          num2="92" url2={``} name2={`Finalmente chegou a vez de Goku`}
-          num3="93" url3={``} name3={`Uma luta muito difícil! Tenshinhan contra Jackie-Chun`}
-          num4="94" url4={``} name4={`Taiyoken, a técnica do Mestre Tsuru`}
-          num5="95" url5={``} name5={`Chegou a hora! Goku enfrenta Kuririn`}
-          num6="96" url6={``} name6={`A surpresa de Goku e o plano de Kuririn`}
+          num1="91" url1={`1_3p4TSMNJov1FAkteRm8YyCQ102rApa7`} name1={`A situação mudou! O plano estratégico de Kuririn`}
+          num2="92" url2={`1_3nSCTdlN3GFxmpSwIhY_hNG2FTRb7CM`} name2={`Finalmente chegou a vez de Goku`}
+          num3="93" url3={`1_7XdN1MdKWEn3xkx4GFoJCKT3LeDPPiS`} name3={`Uma luta muito difícil! Tenshinhan contra Jackie-Chun`}
+          num4="94" url4={`1ZyrMEtWeuFUVDrW0vDoqx9NUOm2S8dTL`} name4={`Taiyoken, a técnica do Mestre Tsuru`}
+          num5="95" url5={`1ZlmsqPfMyiAs0uYuzVL-EvF2RJfujNN6`} name5={`Chegou a hora! Goku enfrenta Kuririn`}
+          num6="96" url6={`1_3LZ8O8EH7cdy9R2Q-zXNKZ-mT5f7K7e`} name6={`A surpresa de Goku e o plano de Kuririn`}
         />
-
         <section className="episodeButtons">
-          <SectionLinks num="97" url={``} name={`O último combate! Quem será o melhor lutador de artes marciais`} />
-          <SectionLinks num="98" url={``} name={`O segredo da técnica Tayioken contra o poder de combate`} />
-          <SectionLinks num="99" url={``} name={`A angústia de Tenshinhan`} />
-          <SectionLinks num="100" url={``} name={`Viver ou morrer! A última alternativa`} />
-          <SectionLinks num="100" url={``} name={`Sera que o torneio de artes marciais chegou ao fim`} />
+          <SectionLinks num="97" url={`1_PFg0k1klstQTRJz4MYo5jjKTx-p9bf9`} name={`O último combate! Quem será o melhor lutador de artes marciais`} />
+          <SectionLinks num="98" url={`1_NxYNES11TYVrV7SoQhU6JIiYeRLz7w_`} name={`O segredo da técnica Tayioken contra o poder de combate`} />
+          <SectionLinks num="99" url={`1_kizGUkJW7Kqp_wCKEQa3Ynsu1eZbrpL`} name={`A angústia de Tenshinhan`} />
+          <SectionLinks num="100" url={`1_kiMaqUOQqSWVOBGNNDSBOKI4tP3MT1V`} name={`Viver ou morrer! A última alternativa`} />
+          <SectionLinks num="101" url={`1_QlUeqZTfINdsZCALkJj6y-vRHkMSfbE`} name={`Sera que o torneio de artes marciais chegou ao fim`} />
         </section>
       </section>
     </div>
