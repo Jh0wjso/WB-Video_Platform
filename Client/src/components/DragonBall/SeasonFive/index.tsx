@@ -35,21 +35,21 @@ export default function SeasonFive() {
         />
 
         <SectionButtons 
-          num1="120" url1="" name1={`Goku fica irado`}
-          num2="121" url2="" name2={`O momento crucial de Goku`}
-          num3="122" url3="" name3={`O último esforço`}
-          num4="123" url4="" name4={`O segredo do Bastão Mágico`}
-          num5="124" url5="" name5={`Goku chega à Plataforma Celeste`}
-          num6="125" url6="" name6={`A aparição de Kami-Sama`}
+          num1="120" url1="1c3sYddaQ-EndaBznYGZA4nr4JnyfOao-" name1={`Goku fica irado`}
+          num2="121" url2="1c2i2WxxLChBVZu6olun9TtJt2l6xAmSV" name2={`O momento crucial de Goku`}
+          num3="122" url3="1bvgs1VHSzDcGbOLuqLREnB2BoCvFT6Ca" name3={`O último esforço`}
+          num4="123" url4="1bePSLOy_xkElRg9HpJvST141xBXPykhY" name4={`O segredo do Bastão Mágico`}
+          num5="124" url5="1cKCuYDGdnwGxCGp1j71mHQAP3dJns7Ho" name5={`Goku chega à Plataforma Celeste`}
+          num6="125" url6="1cLLfUDySqgAwDd6k9GPPoiKKX6KpZkhy" name6={`A aparição de Kami-Sama`}
         />
 
         <SectionButtons 
-          num1="126" url1="" name1={`ShenLong volta a viver`}
-          num2="127" url2="" name2={`Mais rápido que um relâmpago`}
-          num3="128" url3="" name3={`Tranquilo como o céu`}
-          num4="129" url4="" name4={`Goku faz uma viagem no tempo`}
-          num5="130" url5="" name5={`O adversário de Goku é Goku`}
-          num6="131" url6="" name6={`Cada um segue um caminho diferente`}
+          num1="126" url1="1czI9BlnHxKSYA2gZhcujR_7IMPTzxifJ" name1={`ShenLong volta a viver`}
+          num2="127" url2="1cvIiCOPculLr4IL2lyUNgif8fOjnkPQm" name2={`Mais rápido que um relâmpago`}
+          num3="128" url3="1czykMAkFCFOU6_DyI1qhwJriIxxeY216" name3={`Tranquilo como o céu`}
+          num4="129" url4="1cThnt3uqYw1Ul7lVeT4zAL8SnOmk_0C4" name4={`Goku faz uma viagem no tempo`}
+          num5="130" url5="1cMoYn3PIY0fa-8b0bNEq1DrmuAI1QpeY" name5={`O adversário de Goku é Goku`}
+          num6="131" url6="1cdm7utI2KwOO1CNut9ps3kP872acZjP9" name6={`Cada um segue um caminho diferente`}
         />
 
         <SectionButtons 
