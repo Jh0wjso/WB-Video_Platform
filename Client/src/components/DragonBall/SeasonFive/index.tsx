@@ -16,35 +16,22 @@ export default function SeasonFive() {
           num6="107" url6="1aSCkNg664o1iHx7Gr6Bu5vDIJ0KbuSPp" name6={`Goku fica muto bravo`}
         />
 
-        {
-          /*
-          
-          https://drive.google.com/file/d//view?usp=sharing, 
-          https://drive.google.com/file/d//view?usp=sharing, 
-          https://drive.google.com/file/d//view?usp=sharing, 
-          https://drive.google.com/file/d//view?usp=sharing, 
-          https://drive.google.com/file/d//view?usp=sharing, 
-          https://drive.google.com/file/d//view?usp=sharing
-
-          */
-        }
-
         <SectionButtons 
-          num1="108" url1="" name1={`A aparição de Piccolo Daimaoh`}
-          num2="109" url2="" name2={`Goku enfrenta Piccolo Daimaoh`}
-          num3="110" url3="" name3={`Vai que é tua Goku`}
-          num4="111" url4="" name4={`O último Mafuba do Mestre K`}
-          num5="112" url5="" name5={`Será que Piccolo Daimaoh vai recuperar sua juventude`}
-          num6="113" url6="" name6={`Ataque ao castelo real`}
+          num1="108" url1="1aoC4Jd0y1oC2K1Vh5PJ6ANm2CsTC9oBY" name1={`A aparição de Piccolo Daimaoh`}
+          num2="109" url2="1afAHNDg1Vl15wdwq8cKNHCbH23XGPCe4" name2={`Goku enfrenta Piccolo Daimaoh`}
+          num3="110" url3="1b2Pfr4es7ANhRRCVThBBpp_-g0Sm2y9z" name3={`Vai que é tua Goku`}
+          num4="111" url4="1b0XgYdGrVvsfkPdJWSHnYX_LkNB3V1rd" name4={`O último Mafuba do Mestre K`}
+          num5="112" url5="1awE8eye6v_1tR9V50evYw5_Eo-ob11gp" name5={`Será que Piccolo Daimaoh vai recuperar sua juventude`}
+          num6="113" url6="1avI4huhVhM9qhdFd1DQ4_gN7pYnjlpSd" name6={`Ataque ao castelo real`}
         />
 
         <SectionButtons 
-          num1="114" url1="" name1={`A esperança de Goku`}
-          num2="115" url2="" name2={`Em busca da misteriosa Água dos Deuses`}
-          num3="116" url3="" name3={`Mestre Kame está vivo`}
-          num4="117" url4="" name4={`Goku volta a si`}
-          num5="118" url5="" name5={`A decisão de Tenshinhan`}
-          num6="119" url6="" name6={`O famoso golpe Mafuba`}
+          num1="114" url1="1bGq66SnuGlViiGVISOOkqOHUwCVdj5MT" name1={`A esperança de Goku`}
+          num2="115" url2="1bB9bulu7xNyiSpo7eK18VrAErWZKSXX_" name2={`Em busca da misteriosa Água dos Deuses`}
+          num3="116" url3="1bLncUnTMZ77iaShOiR8M8sbtj8fHFkVk" name3={`Mestre Kame está vivo`}
+          num4="117" url4="1b9w5lPtphYJzJ7nsSswiACu8qAm3T9cC" name4={`Goku volta a si`}
+          num5="118" url5="1b6gpzll4ZE_S1diYuDFENeXzGnJHVRKf" name5={`A decisão de Tenshinhan`}
+          num6="119" url6="1b34Lqj7DIla4QCMX5pBJxp_L871JmsLT" name6={`O famoso golpe Mafuba`}
         />
 
         <SectionButtons 
