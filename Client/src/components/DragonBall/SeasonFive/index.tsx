@@ -53,12 +53,12 @@ export default function SeasonFive() {
         />
 
         <SectionButtons 
-          num1="132" url1="" name1={`Mais quente que a lava`}
-          num2="133" url2="" name2={`Um reencontro depois da tormenta`}
-          num3="134" url3="" name3={`O Torneio de Artes Marciais já começou`}
-          num4="135" url4="" name4={`Os oito lutadores`}
-          num5="136" url5="" name5={`O contra-ataque do assassino Tao Pai Pai`}
-          num6="137" url6="" name6={`A promessa de Goku`}
+          num1="132" url1="1dbeSrwbZGHBLrbFb0D30jcBV-Pg4lvDV" name1={`Mais quente que a lava`}
+          num2="133" url2="1ddeaKG068N4vWUFvjGoIyWCRsqfm3e3z" name2={`Um reencontro depois da tormenta`}
+          num3="134" url3="1df6ZFixfx3QGY0xSNcNla1392qd01pVX" name3={`O Torneio de Artes Marciais já começou`}
+          num4="135" url4="1dfAN3xX_7NzZSAwEVXx5ncF3UVh-x2KO" name4={`Os oito lutadores`}
+          num5="136" url5="1daw3e18RDAHBFbc6DlsmmXRk_PzihFwo" name5={`O contra-ataque do assassino Tao Pai Pai`}
+          num6="137" url6="1daw3e18RDAHBFbc6DlsmmXRk_PzihFwo" name6={`A promessa de Goku`}
         />
 
         <SectionButtons 
