@@ -58,7 +58,7 @@ export default function SeasonFive() {
           num3="134" url3="1df6ZFixfx3QGY0xSNcNla1392qd01pVX" name3={`O Torneio de Artes Marciais já começou`}
           num4="135" url4="1dfAN3xX_7NzZSAwEVXx5ncF3UVh-x2KO" name4={`Os oito lutadores`}
           num5="136" url5="1daw3e18RDAHBFbc6DlsmmXRk_PzihFwo" name5={`O contra-ataque do assassino Tao Pai Pai`}
-          num6="137" url6="1daw3e18RDAHBFbc6DlsmmXRk_PzihFwo" name6={`A promessa de Goku`}
+          num6="137" url6="1rDsmhHgPXP1WyIeGHh9uzEoXVFhIRJQW" name6={`A promessa de Goku`}
         />
 
         <SectionButtons 
