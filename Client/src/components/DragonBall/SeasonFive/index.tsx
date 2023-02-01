@@ -62,28 +62,28 @@ export default function SeasonFive() {
         />
 
         <SectionButtons 
-          num1="138" url1="" name1={`O misterioso homem chamado Sheng`}
-          num2="139" url2="" name2={`Mais uma luta violenta: Goku contra Tenshinhan`}
-          num3="140" url3="" name3={`O verdadeiro poder`}
-          num4="141" url4="" name4={`Quatro Tenshinhans`}
-          num5="142" url5="" name5={`Quem será o mais forte? Kami-Sama enfrenta Piccolo Daimaoh`}
-          num6="143" url6="" name6={`O destino do mundo corre perigo`}
+          num1="138" url1="1eJO9CEy8crt-VL2Bnf1ljBSrzWvjlqro" name1={`O misterioso homem chamado Sheng`}
+          num2="139" url2="1eLcQnBT2OOqHwtVpQFNeF_c7xyVFyJBK" name2={`Mais uma luta violenta: Goku contra Tenshinhan`}
+          num3="140" url3="1eQZ-FgI-DS9WS-DjSu7h5NakwSoivFxc" name3={`O verdadeiro poder`}
+          num4="141" url4="1ecywS8NaorsGUpxgOIDFyHn0D1O0DOlR" name4={`Quatro Tenshinhans`}
+          num5="142" url5="1ejxBHLfgONJ8643GhFhfVdc9lI7EjkuP" name5={`Quem será o mais forte? Kami-Sama enfrenta Piccolo Daimaoh`}
+          num6="143" url6="1es7PbRiVLUO__HfJIvZwovE6j6KfFo2X" name6={`O destino do mundo corre perigo`}
         />
 
         <SectionButtons 
-          num1="144" url1="" name1={`O super Kame-Hame-Ha`}
-          num2="145" url2="" name2={`O gigante Piccolo Daimaoh`}
-          num3="146" url3="" name3={`O truque de Goku`}
-          num4="147" url4="" name4={`Tudo está perdido`}
-          num5="148" url5="" name5={`O homem mais forte do mundo`}
-          num6="149" url6="" name6={`O vestido de noiva cercado de chamas`}
+          num1="144" url1="1eWacw_qeae0BIzGv36mNzt6GX528pyVF" name1={`O super Kame-Hame-Ha`}
+          num2="145" url2="1e_JI56GngSbXNC5l0PfgftJkus4nGQx5" name2={`O gigante Piccolo Daimaoh`}
+          num3="146" url3="1e_bE7cGTzzfaXe4Lc0YMLK_rrWjOqdLL" name3={`O truque de Goku`}
+          num4="147" url4="1eaVa31I4Lzg7wC0_Z38DVIGRqw1vfejb" name4={`Tudo está perdido`}
+          num5="148" url5="1eGgfAnGxuojdTUMrpAY10m2GCWxia0wZ" name5={`O homem mais forte do mundo`}
+          num6="149" url6="1eJSpD-JY8gnoCnwIuLVi68Gdl6UQtgOl" name6={`O vestido de noiva cercado de chamas`}
         />
 
         <section className="episodeButtons">
-          <SectionLinks num="150" url="" name={`A ave engole-fogo`} />
-          <SectionLinks num="151" url="" name={`Chi-Chi treina muito para ser uma boa esposa`} />
-          <SectionLinks num="152" url="" name={`Depressa Goku! O mistério da Montanha dos Cinco Elem`} />
-          <SectionLinks num="153" url="" name={`A montanha Fry-Pan está em chamas`} />
+          <SectionLinks num="150" url="1eO409eqkNYwT1dwxezbGSR9WBqAgMRMX" name={`A ave engole-fogo`} />
+          <SectionLinks num="151" url="1eTrG-xqTtbezlABFDe7R2PuKLVH99z-x" name={`Chi-Chi treina muito para ser uma boa esposa`} />
+          <SectionLinks num="152" url="1efALikK1CUrXaxONxsAy-RbZpxChRBOq" name={`Depressa Goku! O mistério da Montanha dos Cinco Elem`} />
+          <SectionLinks num="153" url="1eqa3ArHRxxePR-Mh5RiLwuLgdFQzXMrt" name={`A montanha Fry-Pan está em chamas`} />
         </section>
       </section>
     </div>
