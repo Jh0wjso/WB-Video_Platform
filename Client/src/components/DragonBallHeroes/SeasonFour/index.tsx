@@ -9,17 +9,17 @@ export default function SeasonFourHeroes() {
         <section className="episodeButtons">
           <SectionLinks
             num="30"
-            url="1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
+            url="1kWeWkoHUYZZV0cObhP6I9ptEyQZL5yg9"
             name={`O Renascimento Sombrio Do Dark King Fu!`}
           />
           <SectionLinks
             num="31"
-            url="1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
+            url="1kbKXTvfVnMaaothPRlUIaGQc1SMWBazm"
             name={`A Pior Quebra de Limite! Broly Reviveu!`}
           />
           <SectionLinks
             num="32"
-            url="1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
+            url="1kr2M3JvJxtEYwplIaice-LCfVgLzOBDW"
             name={`Fim da Criação do Universo: O Nascimento de Um Novo Mundo!`}
           />
         </section>
