@@ -1,7 +1,7 @@
 .epName{
-    @apply text-2xl md:text-5xl mb-8 text-center font-bold uppercase;
+    @apply text-2xl md:text-3xl mb-8 text-center font-bold;
 }
 
 .videoContent{
-    @apply h-[250px] md:h-[650px] w-[100%] md:w-[50%] border-8 border-orange-400 rounded;
+    @apply h-[250px] md:h-[600px] w-[100%] md:w-[70%] border-8 border-orange-400 rounded;
 }
