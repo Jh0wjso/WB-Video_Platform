@@ -21,7 +21,7 @@ export default function HeroesCarousel() {
         <Carousel cols={5} rows={1} gap={10} loop>
           <Carousel.Item>
             <Link
-              to="/video/Goku Vs. Goku! Uma Batalha Transcendente Começa No Planeta Da Prisão/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
+              to="/video/Goku Vs. Goku! Uma Batalha Transcendente Começa No Planeta Da Prisão/1fz0GqbpP4fInBjHV_Yy0Z6fadMoRdPqv"
               className="rounded hover:opacity-50 hover:underline"
             >
               <img src={Db} />
@@ -30,7 +30,7 @@ export default function HeroesCarousel() {
           </Carousel.Item>
           <Carousel.Item>
             <Link
-              to="/video/Goku Fica Furioso! A Fúria do Mal Saião!/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
+              to="/video/Goku Fica Furioso! A Fúria do Mal Saião!/1fg4xCXI8PHx9R3xvR-GRVZdSowYE7oy8"
               className="rounded hover:opacity-50 hover:underline"
             >
               <img className="rounded hover:opacity-50" src={DbH} />
@@ -39,7 +39,7 @@ export default function HeroesCarousel() {
           </Carousel.Item>
           <Carousel.Item>
             <Link
-              to="/video/O Esplendor Mais Poderoso! Vegetto Blue Explode Kaio-Ken!/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
+              to="/video/O Esplendor Mais Poderoso! Vegetto Blue Explode Kaio-Ken!/1fvAIZqfwbGJQ57qyW4Cpqre6TPgPw6iP"
               className="rounded hover:opacity-50 hover:underline"
             >
               <img className="rounded hover:opacity-50" src={Db} />
@@ -48,7 +48,7 @@ export default function HeroesCarousel() {
           </Carousel.Item>
           <Carousel.Item>
             <Link
-              to="/video/Raiva! O Super Fu Aparece!/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
+              to="/video/Raiva! O Super Fu Aparece!/1flXZsiMZzfgrwlqRmo0S8HAsrCozUwHJ"
               className="rounded hover:opacity-50 hover:underline"
             >
               <img className="rounded hover:opacity-50" src={DbH} />
@@ -57,7 +57,7 @@ export default function HeroesCarousel() {
           </Carousel.Item>
           <Carousel.Item>
             <Link
-              to="/video/O Guerreiro Mais Poderoso! Vegetto Super Saiyajin 4!!/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
+              to="/video/O Guerreiro Mais Poderoso! Vegetto Super Saiyajin 4/1fqIp8Z9kq1J_QQURhk2HZDuEPRD2LK3z"
               className="rounded hover:opacity-50 hover:underline"
             >
               <img className="rounded hover:opacity-50" src={Db} />
@@ -66,7 +66,7 @@ export default function HeroesCarousel() {
           </Carousel.Item>
           <Carousel.Item>
             <Link
-              to="/videoEu Vou Resolver Isso! Ativar! Instinto Superior!/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
+              to="/videoEu Vou Resolver Isso! Ativar! Instinto Superior!/1fsTfVgVlflgjtr6GcHsaEnTS9M2AmX99"
               className="rounded hover:opacity-50 hover:underline"
             >
               <img className="rounded hover:opacity-50" src={DbH} />
@@ -75,7 +75,7 @@ export default function HeroesCarousel() {
           </Carousel.Item>
           <Carousel.Item>
             <Link
-              to="/video/Zamasu Revivido!? Começa a Saga do Conflito Universal!/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
+              to="/video/Zamasu Revivido!? Começa a Saga do Conflito Universal!/1gQik47Ywt8jPOUVd635eRl65BZg3KwB8"
               className="rounded hover:opacity-50 hover:underline"
             >
               <img className="rounded hover:opacity-50" src={Db} />
@@ -84,7 +84,7 @@ export default function HeroesCarousel() {
           </Carousel.Item>
           <Carousel.Item>
             <Link
-              to="/video/A Invasão dos Guerreiros mais Fortes! O Sexto Universo é Destruído!/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
+              to="/video/A Invasão dos Guerreiros mais Fortes! O Sexto Universo é Destruído!/1g6_MpfrNXzQEKX2emgd6495Blue3YDyn"
               className="rounded hover:opacity-50 hover:underline"
             >
               <img className="rounded hover:opacity-50" src={DbH} />
@@ -93,7 +93,7 @@ export default function HeroesCarousel() {
           </Carousel.Item>
           <Carousel.Item>
             <Link
-              to="/video/A Ressurreição de Goku!! Clash Entre o Mais Forte e o Mais Forte!/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
+              to="/video/A Ressurreição de Goku!! Clash Entre o Mais Forte e o Mais Forte!/1gB98181hbyi37RNhujrXHShdtTzApUA8"
               className="rounded hover:opacity-50 hover:underline"
             >
               <img className="rounded hover:opacity-50" src={Db} />
@@ -102,7 +102,7 @@ export default function HeroesCarousel() {
           </Carousel.Item>
           <Carousel.Item>
             <Link
-              to="/video/Contra Ataque! Ataque Feroz! Goku e Vegeta!/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm"
+              to="/video/Contra Ataque! Ataque Feroz! Goku e Vegeta!/1gDvZaBSGpidzmToKA5Kr3N-lMnxofvqJ"
               className="rounded hover:opacity-50 hover:underline"
             >
               <img className="rounded hover:opacity-50" src={DbH} />
