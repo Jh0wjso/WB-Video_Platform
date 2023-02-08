@@ -30,6 +30,12 @@ export default function Sidebar() {
           <p className="newsTittle">Dragon Ball Heroes <br/>Episódio 44</p>
         </Link>
         <Link
+          to={`assistir/Super Hero/1n4byzVSVcTeWcbzC9soMx4XfrGKm1YuG`}
+          className="cardNew"
+        >
+          <p className="newsTittle">Dragon Ball Super<br/>Super Hero</p>
+        </Link>
+        <Link
           to={`video/Uma Batalha Feroz que Transcende o Tempo! A Ameaça dos Guerreiros de Preto!/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm`}
           className="cardNew"
         >
@@ -40,12 +46,6 @@ export default function Sidebar() {
           className="cardNew"
         >
           <p className="newsTittle">Dragon Ball Heroes <br/>Episódio 42</p>
-        </Link>
-        <Link
-          to={`video/A Batalha Decisiva no Reino dos Deuses! O Poder do Tempo se Aproxima!/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm`}
-          className="cardNew"
-        >
-          <p className="newsTittle">Dragon Ball Heroes <br/>Episódio 41</p>
         </Link>
       </div>
     </aside>
