@@ -16,12 +16,12 @@ export default function SeasonOneGT() {
           num6="6" url6="11Eeffc6MAtIyIicP1yZqCtAz2JRDsKj1" name6="O Dentista Goku"
         />
         <SectionButtons 
-          num1="7" url1="" name1="Trunks se Veste de Noiva"
-          num2="8" url2="" name2="O Bigode de Zunama"
-          num3="9" url3="" name3="O Planeta Perigoso"
-          num4="10" url4="" name4="A Dança de Bom-Pa-Ra"
-          num5="11" url5="" name5="Pan é Transformada Em Boneca"
-          num6="12" url6="" name6="O Despertar de Ludo"
+          num1="7" url1="11oyRmPBzqKu99RFJqE94zuQJu5TnJqEK" name1="Trunks se Veste de Noiva"
+          num2="8" url2="11r6Fes6vK_N6Q4riW9yURFvc3ASIrxWv" name2="O Bigode de Zunama"
+          num3="9" url3="11qVEc1zwYQNSo_bbcaceQDRkmNmTPu7M" name3="O Planeta Perigoso"
+          num4="10" url4="11nRuHu9Y_sNaobDhzpwYlTChUQtCZHoh" name4="A Dança de Bom-Pa-Ra"
+          num5="11" url5="11gm9iwfw5bWe8vboimF3HkXe2EnMA6qS" name5="Pan é Transformada Em Boneca"
+          num6="12" url6="11n_iIwsL8kVLNWP34ErXh0zVUIFiuxET" name6="O Despertar de Ludo"
         />
         <SectionButtons 
           num1="13" url1="" name1="O Misteriosos Cientista Chamado Mil"
