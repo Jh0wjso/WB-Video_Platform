@@ -24,18 +24,18 @@ export default function SeasonOneGT() {
           num6="12" url6="11n_iIwsL8kVLNWP34ErXh0zVUIFiuxET" name6="O Despertar de Ludo"
         />
         <SectionButtons 
-          num1="13" url1="" name1="O Misteriosos Cientista Chamado Mil"
-          num2="14" url2="" name2="A Destruição de Ludo"
-          num3="15" url3="" name3="Pan Consegue Fugir"
-          num4="16" url4="" name4="O Planeta das Maquinas M2"
-          num5="17" url5="" name5="A Operação Para Resgatar Goku"
-          num6="18" url6="" name6="A Determinação de Goku"
+          num1="13" url1="12rCb_RFyRzIw--_TtqfvmPGhw6ddG8xB" name1="O Misteriosos Cientista Chamado Mil"
+          num2="14" url2="12hbP4h3A258Nugb5tlSW6BXrSjc6IPwf" name2="A Destruição de Ludo"
+          num3="15" url3="12iOVQKPs87PnJ4A4qPAa8u2oMUwlBtpN" name3="Pan Consegue Fugir"
+          num4="16" url4="12VJ1LWgCQmgrfxNSWWEF9TgLyxX4ikx4" name4="O Planeta das Maquinas M2"
+          num5="17" url5="12_Klsrt_sTdsUnd9BpEJ0HQE7fC9XDef" name5="A Operação Para Resgatar Goku"
+          num6="18" url6="12p5yaBrS94QsNTfhLFJoEitp2NNd7ML5" name6="A Determinação de Goku"
         />
         <section className="episodeButtons">
-          <SectionLinks num="19" url="" name="O Poderoso Mutante Rild" />
-          <SectionLinks num="20" url="" name="Surpresa! Goku é atacado por uma tempestade de metal" />
-          <SectionLinks num="21" url="" name="O Que é isso?? Goku Se Transforma Em Metal" />
-          <SectionLinks num="22" url="" name="Baby o Ser Maligno" />
+          <SectionLinks num="19" url="12sGibZSNG28TC59V9jBdfYdVCLZsx70K" name="O Poderoso Mutante Rild" />
+          <SectionLinks num="20" url="139VZpgIo2KVEyGD_Dlq9puxc-7_Jzjav" name="Surpresa! Goku é atacado por uma tempestade de metal" />
+          <SectionLinks num="21" url="12w7Nek3Zz4eDZMT6wdqyvwcPzelm51mI" name="O Que é isso?? Goku Se Transforma Em Metal" />
+          <SectionLinks num="22" url="138USvkZJ2x8GZnHX7PLuDh5wOXktIunW" name="Baby o Ser Maligno" />
         </section>
       </section>
     </div>
