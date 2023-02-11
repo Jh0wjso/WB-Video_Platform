@@ -16,19 +16,19 @@ export default function SeasonFinalGT() {
           num6="53" url6="16fegruYLsDzYgfDXiOU9y_4PUO_ZuFw4" name6="As Lágrimas de um Kame Hame Ha"
         />
         <SectionButtons 
-          num1="54" url1="" name1="O Guerreiro do Sol"
-          num2="55" url2="" name2="O Plano de Vegeta e Bulma"
-          num3="56" url3="" name3="Os Irmãos do Fogo e Do Gelo"
-          num4="57" url4="" name4="O Dragão Mais Poderoso"
-          num5="58" url5="" name5="Goku Supera Os Poderes do Super Saiyajin 4"
-          num6="59" url6="" name6="Vegeta Se Transforma Num Macaco Gigante"
+          num1="54" url1="18-OOgRCXKpiAZtULBatrBKQ98327Fhap" name1="O Guerreiro do Sol"
+          num2="55" url2="1820WKlhQ1p5lMc2h90tZK_UQy2vcvj8N" name2="O Plano de Vegeta e Bulma"
+          num3="56" url3="17zyUfZDZggxXbCGVVRyvaD991rGdkV0O" name3="Os Irmãos do Fogo e Do Gelo"
+          num4="57" url4="18-HTpRrW0kg6dkTmbpYXwpvcQMsxfsoh" name4="O Dragão Mais Poderoso"
+          num5="58" url5="187eCQAE8yEZlbE_DRQREE24h0gtk0NEc" name5="Goku Supera Os Poderes do Super Saiyajin 4"
+          num6="59" url6="189vqudS74hYBiyk8-HICaQRiTRXlHX4m" name6="Vegeta Se Transforma Num Macaco Gigante"
         />
         <section className="episodeButtons">
-          <SectionLinks num="60" url="" name="Fusão, O Incrível Super Gogeta" />
-          <SectionLinks num="61" url="" name="Goku Se Alimenta Da Esfera de Quatro Estrelas" />
-          <SectionLinks num="62" url="" name="Aparece Um Novo Aliado" />
-          <SectionLinks num="63" url="" name="A Milagrosa Vitória, Goku Pede Ajuda a Galaxia" />
-          <SectionLinks num="64" url="" name="Adeus Goku… Até Um Dia" />
+          <SectionLinks num="60" url="187JwDvbFJXRyoeGMuzHQCMOyEY5UiWlc" name="Fusão, O Incrível Super Gogeta" />
+          <SectionLinks num="61" url="17wmtpjqCgwi7XHOyUH3FYHqeB9th4zyb" name="Goku Se Alimenta Da Esfera de Quatro Estrelas" />
+          <SectionLinks num="62" url="17zyPg7a1lJxv3-DOaksM04VLTUzFnW4y" name="Aparece Um Novo Aliado" />
+          <SectionLinks num="63" url="17iB9wXE1Pk5KkU87I1HJdCf4i3_NBzNz" name="A Milagrosa Vitória, Goku Pede Ajuda a Galaxia" />
+          <SectionLinks num="64" url="17jS6gDWSgjYtMijoqmUhDQZoPUggiW9T" name="Adeus Goku… Até Um Dia" />
         </section>
       </section>
     </div>
