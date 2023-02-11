@@ -1,6 +1,4 @@
 import "./styles.css";
-
-import Img from "../../images/dbReduced.jpg";
 import { Link } from "react-router-dom";
 
 export default function Sidebar() {
@@ -46,6 +44,36 @@ export default function Sidebar() {
           className="cardNew"
         >
           <p className="newsTittle">Dragon Ball Heroes <br/>Episódio 42</p>
+        </Link>
+        <Link
+          to={`video/Plano Em Ação! Os Guerreiros Mais Poderosos de Todo o Espaço-Tempo se Reúnem!/1-LoIjbSORoTxxwNKpYqNbVpagvVxvLAq`}
+          className="cardNew"
+        >
+          <p className="newsTittle">Dragon Ball Heroes <br/>Episódio 41</p>
+        </Link>
+        <Link
+          to={`video/O Último Poder Total! Batalha Feroz Pelo Futuro, Finalmente Resolvida!/1liykwjBh92PI4gRUCap9MbGjJw9Cw1AP`}
+          className="cardNew"
+        >
+          <p className="newsTittle">Dragon Ball Heroes <br/>Episódio 40</p>
+        </Link>
+        <Link
+          to={`video/A Ameaça Obstrutiva De Fu! O Nascimento Do Milagrosamente Forte Combi!/1lS5HvESEyzok_W-LXfyRj3laHZGbrMy-`}
+          className="cardNew"
+        >
+          <p className="newsTittle">Dragon Ball Heroes <br/>Episódio 39</p>
+        </Link>
+        <Link
+          to={`video/A Batalha Final No Universo Falso! Confronto De Azul E Escarlate/1lSLINDZNWhVNNK3tahAWXgEVz91DRhNd`}
+          className="cardNew"
+        >
+          <p className="newsTittle">Dragon Ball Heroes <br/>Episódio 38</p>
+        </Link>
+        <Link
+          to={`video/Guerreiro De Preto Vs. Goku Preto! O Enredo Sombrio Se Torna Claro!/1lSrZJKHOiiyT7JqIChxoOm_jUnOH1dQ`}
+          className="cardNew"
+        >
+          <p className="newsTittle">Dragon Ball Heroes <br/>Episódio 37</p>
         </Link>
       </div>
     </aside>
