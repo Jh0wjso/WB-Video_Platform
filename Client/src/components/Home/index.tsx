@@ -1,7 +1,7 @@
 import { Link } from "react-router-dom";
 import { FaRegNewspaper } from "react-icons/fa";
 
-import HeroesCarousel from "../HeroesCarousel";
+import HeroesCarousel from "../DragonBallHeroes/HeroesCarousel";
 import DragonBallCarousel from "../DragonBallCarousel";
 
 import "./styles.css";

@@ -1,8 +1,8 @@
 import Carousel from "better-react-carousel";
 import { Link } from "react-router-dom";
 
-import Db from "../../images/HeoresDbCover.jpeg";
-import DbH from "../../images/HeroesCover2.jpg";
+import Db from "../../../images/HeoresDbCover.jpeg";
+import DbH from "../../../images/HeroesCover2.jpg";
 import "./styles.css";
 
 export default function HeroesCarousel() {

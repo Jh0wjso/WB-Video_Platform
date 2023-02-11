@@ -1,9 +1,9 @@
 import { Link } from "react-router-dom";
 
-import Dezessete from "../../images/MoviesImages/17.jpg";
-import Dezoito from "../../images/MoviesImages/18.jpg";
-import Dezenove from "../../images/MoviesImages/19.jpg";
-import Vinte from "../../images/MoviesImages/20.jpg";
+import Dezessete from "../../../images/MoviesImages/17.jpg";
+import Dezoito from "../../../images/MoviesImages/18.jpg";
+import Dezenove from "../../../images/MoviesImages/19.jpg";
+import Vinte from "../../../images/MoviesImages/20.jpg";
 
 export default function MovieRowFive() {
   return (

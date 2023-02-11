@@ -1,10 +1,11 @@
+import MovieRowFive from "../../components/MoviesRowComponents/MovieRowFive";
+import MovieRowFour from "../../components/MoviesRowComponents/MovieRowFour";
+import MovieRowOne from "../../components/MoviesRowComponents/MovieRowOne";
+import MovieRowSix from "../../components/MoviesRowComponents/MovieRowSix";
+import MovieRowThree from "../../components/MoviesRowComponents/MovieRowThree";
+import MovieRowTwo from "../../components/MoviesRowComponents/MovieRowTwo";
 import "./styles.css";
-import MovieRowOne from "../../components/MovieRowOne";
-import MovieRowTwo from "../../components/MovieRowTwo";
-import MovieRowThree from "../../components/MovieRowThree";
-import MovieRowFour from "../../components/MovieRowFour";
-import MovieRowFive from "../../components/MovieRowFive";
-import MovieRowSix from "../../components/MovieRowSix";
+
 
 export default function Movies() {
   return (

@@ -1,9 +1,9 @@
 import { Link } from "react-router-dom";
 
-import Cinco from "../../images/MoviesImages/5.jpg";
-import Seis from "../../images/MoviesImages/6.jpg";
-import Sete from "../../images/MoviesImages/7.jpg";
-import Oito from "../../images/MoviesImages/8.jpg";
+import Cinco from "../../../images/MoviesImages/5.jpg";
+import Seis from "../../../images/MoviesImages/6.jpg";
+import Sete from "../../../images/MoviesImages/7.jpg";
+import Oito from "../../../images/MoviesImages/8.jpg";
 
 export default function MovieRowTwo() {
   return (

@@ -1,9 +1,9 @@
 import { Link } from "react-router-dom";
 
-import Nove from "../../images/MoviesImages/9.jpg";
-import Dez from "../../images/MoviesImages/10.jpg";
-import Onze from "../../images/MoviesImages/11.jpg";
-import Doze from "../../images/MoviesImages/12.jpg";
+import Nove from "../../../images/MoviesImages/9.jpg";
+import Dez from "../../../images/MoviesImages/10.jpg";
+import Onze from "../../../images/MoviesImages/11.jpg";
+import Doze from "../../../images/MoviesImages/12.jpg";
 
 export default function MovieRowThree() {
   return (

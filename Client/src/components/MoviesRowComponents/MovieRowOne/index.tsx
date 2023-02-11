@@ -1,9 +1,9 @@
 import { Link } from "react-router-dom";
 
-import Um from "../../images/MoviesImages/1.jpg";
-import Dois from "../../images/MoviesImages/2.jpg";
-import Tres from "../../images/MoviesImages/3.jpg";
-import Quatro from "../../images/MoviesImages/4.jpg";
+import Um from "../../../images/MoviesImages/1.jpg";
+import Dois from "../../../images/MoviesImages/2.jpg";
+import Tres from "../../../images/MoviesImages/3.jpg";
+import Quatro from "../../../images/MoviesImages/4.jpg";
 
 export default function MovieRowOne() {
   return (

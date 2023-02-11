@@ -1,7 +1,7 @@
 import { Link } from "react-router-dom";
 
-import Vinteum from "../../images/MoviesImages/21.jpg";
-import Vintedois from "../../images/MoviesImages/22.jpg";
+import Vinteum from "../../../images/MoviesImages/21.jpg";
+import Vintedois from "../../../images/MoviesImages/22.jpg";
 
 export default function MovieRowSix() {
   return (
