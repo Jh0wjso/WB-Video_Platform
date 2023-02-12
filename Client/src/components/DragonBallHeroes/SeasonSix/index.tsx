@@ -1,6 +1,5 @@
 import "../styles.css";
 import SectionButtons from "../../SectionButtons";
-import SectionLinks from "../../SectionLinks";
 
 export default function SeasonSixHeroes() {
   return (
