@@ -10,19 +10,19 @@ export default function Sidebar() {
 
       <div className="flex flex-col gap-8 items-center">
         <Link
-          to={`video/O Terrível Rei das Trevas Ataca! A terrível Batalha Começa!/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm`}
+          to={`video/O Terrível Rei das Trevas Ataca! A terrível Batalha Começa!/1-DhO14a8INhEIwti05IgjpeH90SRAKM3`}
           className="cardNew"
         >
           <p className="newsTittle">Dragon Ball Heroes <br/>Episódio 46</p>
         </Link>
         <Link
-          to={`video/A Batalha Decisiva no Reino dos Deuses! O Poder do Tempo se Aproxima!/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm`}
+          to={`video/A Batalha Decisiva no Reino dos Deuses! O Poder do Tempo se Aproxima!/1-9qY8jyia8r_pE4znXiH4uNB8FwO7-0R`}
           className="cardNew"
         >
           <p className="newsTittle">Dragon Ball Heroes <br/>Episódio 45</p>
         </Link>
         <Link
-          to={`video/Goku vs O Guerreiro de Preto! Lutando pelos seus Próprios Destinos!/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm`}
+          to={`video/Goku vs O Guerreiro de Preto! Lutando pelos seus Próprios Destinos!/1-BHedmMLqObIc8WVE95vPUTFEJbdTYzN`}
           className="cardNew"
         >
           <p className="newsTittle">Dragon Ball Heroes <br/>Episódio 44</p>
@@ -34,13 +34,13 @@ export default function Sidebar() {
           <p className="newsTittle">Dragon Ball Super<br/>Super Hero</p>
         </Link>
         <Link
-          to={`video/Uma Batalha Feroz que Transcende o Tempo! A Ameaça dos Guerreiros de Preto!/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm`}
+          to={`video/Uma Batalha Feroz que Transcende o Tempo! A Ameaça dos Guerreiros de Preto!/1-5oPWzBhTuJR43oBfy6eURyFeB8vQZkr`}
           className="cardNew"
         >
           <p className="newsTittle">Dragon Ball Heroes <br/>Episódio 43</p>
         </Link>
         <Link
-          to={`video/Goku vs O Guerreiro de Preto! Lutando pelos seus Próprios Destinos!/1lw0zTaPLke9kRB6u4KEkXgaHMKCkuKZm`}
+          to={`video/Goku vs O Guerreiro de Preto! Lutando pelos seus Próprios Destinos!/1-7JJ5tUojK98bco-ldpPY6pF_dWZmEhS`}
           className="cardNew"
         >
           <p className="newsTittle">Dragon Ball Heroes <br/>Episódio 42</p>
