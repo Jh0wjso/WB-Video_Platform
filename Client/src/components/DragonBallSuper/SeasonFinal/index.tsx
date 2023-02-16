@@ -40,28 +40,28 @@ export default function SeasonFinalSuper() {
           num6="100" url6="1K8oNjmTduQQXIT5_aoLVGiOLz-37US95" name6={`Fora de Controle! Um Guerreiro Selvagem Desperta!`}
         />
         <SectionButtons 
-          num1="101" url1="" name1={`Os Guerreiros da Justiça! Eis a Tropa do Orgulho!`}
-          num2="102" url2="" name2={`O Poder do Amor Explode?! As Guerreiras Mágicas do Universo Dois!`}
-          num3="103" url3="" name3={`Gohan, Não Tenha Piedade! A Batalha Contra o Universo Dez!`}
-          num4="104" url4="" name4={`Batalha Em Alta Velocidade! Goku e Hit Unem Forças!`}
-          num5="105" url5="" name5={`Batalha Desesperada! Mestre Kame Sacrifica Sua Vida!`}
-          num6="106" url6="" name6={`Encontre Ele! Luta Mortal Contra Um Adversário Invisível!`}
+          num1="101" url1="1KFTSPtsBAX-sOPjqMwdu0eUs4MO5PQKC" name1={`Os Guerreiros da Justiça! Eis a Tropa do Orgulho!`}
+          num2="102" url2="1KGnOV1mFOJmYYqwa5ynwSv4J-iRNAQVF" name2={`O Poder do Amor Explode?! As Guerreiras Mágicas do Universo Dois!`}
+          num3="103" url3="1KOjsrdZyXtL8Nd9il0gu0QEepn8xAeAE" name3={`Gohan, Não Tenha Piedade! A Batalha Contra o Universo Dez!`}
+          num4="104" url4="1KPtJEzO3D9f8zlcm6LGciH188LyeFqww" name4={`Batalha Em Alta Velocidade! Goku e Hit Unem Forças!`}
+          num5="105" url5="1KV_ErFOW0EglB_c1j-p6ijuOR_mhifDm" name5={`Batalha Desesperada! Mestre Kame Sacrifica Sua Vida!`}
+          num6="106" url6="1KWEXB8gdhBU4mSg29xuFvQn0uG-paA09" name6={`Encontre Ele! Luta Mortal Contra Um Adversário Invisível!`}
         />
         <SectionButtons 
-          num1="107" url1="" name1={`A Vingança de F! Uma Armadilha Engenhosa?!`}
-          num2="108" url2="" name2={`Freeza e Frost: Os Vilões Se Uniram?!`}
-          num3="109" url3="" name3={`O Inimigo Mais Forte! Goku, Libere a Genkidama!`}
-          num4="110" url4="" name4={`O Despertar de Son Goku! Uma Nova Transformação!`}
-          num5="111" url5="" name5={`A Batalha Surreal! Hit vs. Jiren!`}
-          num6="112" url6="" name6={`O Juramento de um Saiyajin! A Determinação de Vegeta!`}
+          num1="107" url1="1KdWG0xHEXWTkbDYG_LqNmHvAJ8JSufh4" name1={`A Vingança de F! Uma Armadilha Engenhosa?!`}
+          num2="108" url2="1Kkndmw5O46vGnuhNkSJAw51cJPKnGbpl" name2={`Freeza e Frost: Os Vilões Se Uniram?!`}
+          num3="109" url3="1KyIT-fCyQ4tptglT3jAmxi5MOGnIJUm-" name3={`O Inimigo Mais Forte! Goku, Libere a Genkidama!`}
+          num4="110" url4="1L6oppMznydg4bFPoKRyxcWvsYlph8ujY" name4={`O Despertar de Son Goku! Uma Nova Transformação!`}
+          num5="111" url5="1KWt5LegGY-IOy4o-CBV-1d2ix_jCOsDa" name5={`A Batalha Surreal! Hit vs. Jiren!`}
+          num6="112" url6="1KXm739icQY62-XIs-gMNWH9yk1IYZumI" name6={`O Juramento de um Saiyajin! A Determinação de Vegeta!`}
         />
         <SectionButtons 
-          num1="113" url1="" name1={`Loucos por Batalha! Os Saiyajins se Enfrentam de Novo!`}
-          num2="114" url2="" name2={`Sedenta por Sangue! Nasce uma Nova Super guerreira!`}
-          num3="115" url3="" name3={`Goku vs Kefla! Super Saiyajin Blue Derrotado?!`}
-          num4="116" url4="" name4={`Contra-Ataque! A Explosão do Instinto Superior!`}
-          num5="117" url5="" name5={`Batalha do Amor! Os Androides Contra o Universo 2!`}
-          num6="118" url6="" name6={`Tragédia Anunciada! O Universo Eliminado é...`}
+          num1="113" url1="1LYOQx5Wp4xnioAXo0CLflZwp1koElH6l" name1={`Loucos por Batalha! Os Saiyajins se Enfrentam de Novo!`}
+          num2="114" url2="1Lbo10tJaXieudD4yUItXtyAw1mXRZzuS" name2={`Sedenta por Sangue! Nasce uma Nova Super guerreira!`}
+          num3="115" url3="1LdElvZw1pNxkNjnnoTiUcuGSGVuxKbmg" name3={`Goku vs Kefla! Super Saiyajin Blue Derrotado?!`}
+          num4="116" url4="1LhDUbt3Iql1X3fQqixcuQ6drSNfzgJRi" name4={`Contra-Ataque! A Explosão do Instinto Superior!`}
+          num5="117" url5="1LXzpSvLtCV5t4uliaBmLLxahNyPlakjp" name5={`Batalha do Amor! Os Androides Contra o Universo 2!`}
+          num6="118" url6="1LW5UKXchVO_oxHME5b7Kg1S8zlS7h8mZ" name6={`Tragédia Anunciada! O Universo Eliminado é...`}
         />
         <SectionButtons 
           num1="119" url1="" name1={`É Impossível se Defender?! O Intenso Ataque Furtivo!`}
