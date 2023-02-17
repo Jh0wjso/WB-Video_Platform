@@ -64,23 +64,23 @@ export default function SeasonFinalSuper() {
           num6="118" url6="1LW5UKXchVO_oxHME5b7Kg1S8zlS7h8mZ" name6={`Tragédia Anunciada! O Universo Eliminado é...`}
         />
         <SectionButtons 
-          num1="119" url1="" name1={`É Impossível se Defender?! O Intenso Ataque Furtivo!`}
-          num2="120" url2="" name2={`A Estratégia Perfeita! O Assassino do Universo Três!`}
-          num3="121" url3="" name3={`Tudo ou Nada! Os Quatro Guerreiros Contra o Universo Sete!`}
-          num4="122" url4="" name4={`Em Nome do Orgulho! O Desafio de Vegeta Para Ser o Mais Forte!`}
-          num5="123" url5="" name5={`Liberem Todo o Seu Poder! Goku e Vegeta!`}
-          num6="124" url6="" name6={`Ataque Implacável! A Investida Final de Gohan!`}
+          num1="119" url1="1M8THXXNItf9HmXgf2GBzxgAmrUWghZfu" name1={`É Impossível se Defender?! O Intenso Ataque Furtivo!`}
+          num2="120" url2="1MJtP4clpRBSk55R--Xli8fF52IZbrq77" name2={`A Estratégia Perfeita! O Assassino do Universo Três!`}
+          num3="121" url3="1MN5k7T-rmQxggtNh0CYV5cDTOCOpbvG6" name3={`Tudo ou Nada! Os Quatro Guerreiros Contra o Universo Sete!`}
+          num4="122" url4="1MPkib0t4N16S7yfoIxDR7XAIArzReeiJ" name4={`Em Nome do Orgulho! O Desafio de Vegeta Para Ser o Mais Forte!`}
+          num5="123" url5="1LyCukZ5jF5i2UiteP1hao8mwyoWIQ0kJ" name5={`Liberem Todo o Seu Poder! Goku e Vegeta!`}
+          num6="124" url6="1M17RsUa-RqO_lrhfBDiF7unhXewDtFFX" name6={`Ataque Implacável! A Investida Final de Gohan!`}
         />
         <SectionButtons 
-          num1="125" url1="" name1={`Presença Imponente! Toppo, O Deus da Destruição!`}
-          num2="126" url2="" name2={`Superar um Deus! O Golpe Desesperado de Vegeta!`}
-          num3="127" url3="" name3={`Obstaculo Final! A Última Barreira de Esperança!`}
-          num4="128" url4="" name4={`Orgulho Honrado! A Queda de Vegeta!`}
-          num5="129" url5="" name5={`Limites Super-superados! Dominando o Instinto Superior!`}
-          num6="130" url6="" name6={`A Maior Luta de Todos os Tempos! A Batalha Definitiva pela Sobrevivência!`}
+          num1="125" url1="1NHZBmmeu2V509GHW1NfUvfXU-BQ-ZWCS" name1={`Presença Imponente! Toppo, O Deus da Destruição!`}
+          num2="126" url2="1NJN5x8s2ZDUOxzg_6h8l-HZB_A6LPDSJ" name2={`Superar um Deus! O Golpe Desesperado de Vegeta!`}
+          num3="127" url3="1NIgyCXNXv5ZmcI_JT4lxr7Wr7NTWj9NO" name3={`Obstaculo Final! A Última Barreira de Esperança!`}
+          num4="128" url4="1NQG0MIOtMjuJHuQhWQyAfw9XHvPh_C9v" name4={`Orgulho Honrado! A Queda de Vegeta!`}
+          num5="129" url5="1NOUBoPIyOLiNlMfuyAra9Q7AwvzIVUkN" name5={`Limites Super-superados! Dominando o Instinto Superior!`}
+          num6="130" url6="1NRynNstUMZVpW9yongHxOGkoA8E5Zsi1" name6={`A Maior Luta de Todos os Tempos! A Batalha Definitiva pela Sobrevivência!`}
         />
         <section className="episodeButtons">
-          <SectionLinks num="131" url="" name={`Desfecho Milagroso! Adeus, Goku, Nos Vemos em Breve!`} />
+          <SectionLinks num="131" url="1Nb1mlke4isTHUMeqQ_p26FO52l3pl7mm" name={`Desfecho Milagroso! Adeus, Goku, Nos Vemos em Breve!`} />
         </section>
       </section>
     </div>
