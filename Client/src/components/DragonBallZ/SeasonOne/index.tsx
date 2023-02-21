@@ -32,29 +32,28 @@ export default function SeasonOneBbz() {
           num6="18" url6="1QiWmI8kjTweX3qA4olHxPEd1IoF9l6ZK" name6="O final do caminho da serpente! É o Sr. Kaio"
         />
         <SectionButtons 
-          num1="19" url1="" name1="Domine a força da gravidade! Agarre Bubb"
-          num2="20" url2="" name2="A lenda revive! Os antepassados de Goku"
-          num3="21" url3="" name3="Sai daí Shen-Long! Os Sayajins chegaram à terra"
-          num4="22" url4="" name4="Impossível! Saibaimans nascidos da terra"
-          num5="23" url5="" name5="Yamcha morre! Os temíveis Saibaimans"
-          num6="24" url6="" name6="Adeus Ten-Shin! A arte do sacrifício de Chaos"
+          num1="19" url1="12_GuGnyAB1EM0o1pOqi6unWOic104RWz" name1="Domine a força da gravidade! Agarre Bubb"
+          num2="20" url2="1sbMS68U-BQpib6rGpS5_WeUifhWvaR6u" name2="A lenda revive! Os antepassados de Goku"
+          num3="21" url3="1jZmjv7ceRokclzdNW6uBnsNQwVG0IgiZ" name3="Sai daí Shen-Long! Os Sayajins chegaram à terra"
+          num4="22" url4="1eRdXH-gHVFAw2SLU2VYlrZrFu4H-y3Vi" name4="Impossível! Saibaimans nascidos da terra"
+          num5="23" url5="1VG9vBSnqF4sIxLj245Ok1FHkQ9YdXMzX" name5="Yamcha morre! Os temíveis Saibaimans"
+          num6="24" url6="1kY8ZgrMRYArpvS8iHZ0MVAUuFywb3N3e" name6="Adeus Ten-Shin! A arte do sacrifício de Chaos"
         />
 
         <SectionButtons 
-          num1="25" url1="" name1="O sacrifício de Tenshinhan! O último Kikiuhouda"
-          num2="26" url2="" name2="Só restam três horas de vida na terra! Apresse-se Goku"
-          num3="27" url3="" name3="Explode a fúria de Gohan"
-          num4="28" url4="" name4="O ataque dos Sayajins! Kami-Sama e Piccolo morrem"
-          num5="29" url5="" name5="Papai você é incrível! Uma técnica mortal chamada Kaioken"
-          num6="30" url6="" name6="Uma luta além dos limites! Goku contra Vegeta"
+          num1="25" url1="1w94RUJI1MP25VxSeXAFl3lBlCh_QSlLd" name1="O sacrifício de Tenshinhan! O último Kikiuhouda"
+          num2="26" url2="1wGqczccxCB2htPoV7nCWZvMCNKeEGhj0" name2="Só restam três horas de vida na terra! Apresse-se Goku"
+          num3="27" url3="1WXbFSpk7iLONP-gBhksyeECUIdidKyy2" name3="Explode a fúria de Gohan"
+          num4="28" url4="15O3JzfF2A6FRDvXO-WvLGJxtZMAQWxnt" name4="O ataque dos Sayajins! Kami-Sama e Piccolo morrem"
+          num5="29" url5="1VOaeqrciR3KuXWwAfGtvdlE1qehHEBpz" name5="Papai você é incrível! Uma técnica mortal chamada Kaioken"
+          num6="30" url6="16iGpZVM_AcF1HFX5exrRb36axSpzVD1B" name6="Uma luta além dos limites! Goku contra Vegeta"
         />
-
         <section className="episodeButtons">
-          <SectionLinks num="31" url="" name="Arrisque a vida Goku! A última opção" />
-          <SectionLinks num="32" url="" name="Seu poder de luta aumentou dez vezes" />
-          <SectionLinks num="33" url="" name="Não morra pai!! O poder oculto de Gohan" />
-          <SectionLinks num="34" url="" name="Pegue-o Kuririn! Uma Genki-Dama cheia de esperança" />
-          <SectionLinks num="35" url="" name="Ocorre um milagre! A transformação de Gohan" />
+          <SectionLinks num="31" url="1UBriUxQBPUnIozM5kC-5PJvMAtJJIU8-" name="Arrisque a vida Goku! A última opção" />
+          <SectionLinks num="32" url="1shakrpru_HawgVL2yjJCeIm2z24jl2QD" name="Seu poder de luta aumentou dez vezes" />
+          <SectionLinks num="33" url="13baU7nOcr8a3MQopOR1KC-Zyv1LmSg4p" name="Não morra pai!! O poder oculto de Gohan" />
+          <SectionLinks num="34" url="12gdIveLOSY242i4k5KE85Of37EUD0CQC" name="Pegue-o Kuririn! Uma Genki-Dama cheia de esperança" />
+          <SectionLinks num="35" url="1y-peVZo8bBxS2MFv0NPBRwGEVrLw_Ikx" name="Ocorre um milagre! A transformação de Gohan" />
         </section>
       </section>
     </div>
