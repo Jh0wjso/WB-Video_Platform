@@ -33,39 +33,39 @@ export default function SeasonTwoBbz() {
         />
 
         <SectionButtons 
-          num1="54" url1="" name1="É preciso proteger o planeta da esperança"
-          num2="55" url2="" name2="Vegeta revive milagrosamente"
-          num3="56" url3="" name3="O complô de Freeza se desfaz"
-          num4="57" url4="" name4="Goku treina numa gravidade 100 vezes maior"
-          num5="58" url5="" name5="O grupo secreto de Freeza"
-          num6="59" url6="" name6="Tome cuidado Bulma"
+          num1="54" url1="1ZOYlntXSo_FZyxRV1TFL4PWABKEgEDRO" name1="É preciso proteger o planeta da esperança"
+          num2="55" url2="1dcWGbl9yQIRjJBB5dyLsgijuJq7eh6h_" name2="Vegeta revive milagrosamente"
+          num3="56" url3="12fFgJIodxZ47PXnIKw9dtkYx51MMlDdM" name3="O complô de Freeza se desfaz"
+          num4="57" url4="1bGIrirvkE6vQJPeXDoJbueRvaDUCipFZ" name4="Goku treina numa gravidade 100 vezes maior"
+          num5="58" url5="1OJVTT68Ujw1P9YVHZpu7xjGReSZGjEiM" name5="O grupo secreto de Freeza"
+          num6="59" url6="1kf-6nYniNW4sbKyujgB9CV5BcizpwCI1" name6="Tome cuidado Bulma"
         />
 
         <SectionButtons 
-          num1="60" url1="" name1="A vontade indestrutível de Goku"
-          num2="61" url2="" name2="A batalha se aproxima! Chegam as forças especiais Ginyuu"
-          num3="62" url3="" name3="Goku se aproxima!! Os temíveis homens de Freeza"
-          num4="63" url4="" name4="Sr.Gurdo se aborrece e utiliza um truque mágico"
-          num5="64" url5="" name5="O terrível Rikum"
-          num6="65" url6="" name6="Não morra Gohan! Goku chega finalmente"
+          num1="60" url1="14eS12QcKbiG2jkKWYU5FswANGmKHEgFd" name1="A vontade indestrutível de Goku"
+          num2="61" url2="1X0bnW9Jwc1NqG2J4flGTvTXPdMvOJNMy" name2="A batalha se aproxima! Chegam as forças especiais Ginyuu"
+          num3="62" url3="12f1fflN0Rv6jZKQBSjEIHrqxHUFg2uSF" name3="Goku se aproxima!! Os temíveis homens de Freeza"
+          num4="63" url4="1_tKjbcT1PaZZJKu_f_-l8NLCUz8vEqeN" name4="Sr.Gurdo se aborrece e utiliza um truque mágico"
+          num5="64" url5="1PvsVXSP6MJveHWh_9xioAuQ20VCUVuzV" name5="O terrível Rikum"
+          num6="65" url6="1E9tRq0-WWOjm1Bxx3WlS82nTNErKN9H8" name6="Não morra Gohan! Goku chega finalmente"
         />
 
         <SectionButtons 
-          num1="66" url1="" name1="Goku!! O lendário Saiyajin"
-          num2="67" url2="" name2="Yeaze e Botter atacam Goku"
-          num3="68" url3="" name3="A aparição do capitão Ginyuu"
-          num4="69" url4="" name4="Ja viram o verdadeiro poder de Goku"
-          num5="70" url5="" name5="Freeza encontra com o Patriarca"
-          num6="71" url6="" name6="Goku é Ginyuu!? e Ginyuu é Goku"
+          num1="66" url1="14jXo3LsUUyPfO19AbZ2D7zLA5smp2g9Z" name1="Goku!! O lendário Saiyajin"
+          num2="67" url2="1mVhT-9FK9Il9y8-dHdqIyYPtIrcdaAlO" name2="Yeaze e Botter atacam Goku"
+          num3="68" url3="1rUBbNaHhlcXrAT3wLNsxSYuz8-_VmyC2" name3="A aparição do capitão Ginyuu"
+          num4="69" url4="1cPvB_758xnHlbJkIRFIdSHK4sDV7IVpJ" name4="Ja viram o verdadeiro poder de Goku"
+          num5="70" url5="16pviZRMG3TWgSN8FZdxj7qqq3em6Bk9O" name5="Freeza encontra com o Patriarca"
+          num6="71" url6="10YRvpmYt9o0j5ibpwxCFmF4_Jkomqt53" name6="Goku é Ginyuu!? e Ginyuu é Goku"
         />
 
         <SectionButtons 
-          num1="72" url1="" name1="Sai daí Shenlong!! E realize o meu desejo"
-          num2="73" url2="" name2="Eu não sou ele! Gohan ataque seu pai sem medo"
-          num3="74" url3="" name3="Ginyuu se transforma numa rãn"
-          num4="75" url4="" name4="Diga o código secreto das Esferas do Dragão"
-          num5="76" url5="" name5="Piccolo e Kami-Sama revivem"
-          num6="77" url6="" name6="Será que surge um novo guerreiro"
+          num1="72" url1="1etzLKLKIIlnN2zobTjbWTyuIozDzQJ-p" name1="Sai daí Shenlong!! E realize o meu desejo"
+          num2="73" url2="1KqCfmCJcKxlLRphr5kw4jprIKwm7yUN9" name2="Eu não sou ele! Gohan ataque seu pai sem medo"
+          num3="74" url3="1ttIgnwP8K48j0Wdvgv3Zsd1m0oXBJeus" name3="Ginyuu se transforma numa rãn"
+          num4="75" url4="1XjU8pfTlsowoGriC8JyGFPePWOMQ7iQZ" name4="Diga o código secreto das Esferas do Dragão"
+          num5="76" url5="1iIuOdXTp3cYKsOH0HQt0JKbG5breUTQV" name5="Piccolo e Kami-Sama revivem"
+          num6="77" url6="1cpzl6vKRpt9kPPvE58LDdHvtQM1t_xoe" name6="Será que surge um novo guerreiro"
         />
 
         <SectionButtons 
