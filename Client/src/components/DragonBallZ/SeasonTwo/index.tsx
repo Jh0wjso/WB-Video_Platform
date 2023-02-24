@@ -69,37 +69,37 @@ export default function SeasonTwoBbz() {
         />
 
         <SectionButtons 
-          num1="78" url1="" name1="Um pesadelo de transformação"
-          num2="79" url2="" name2="Gohan é atacado pelo impiedoso Freeza"
-          num3="80" url3="" name3="A chegada de Piccolo"
-          num4="81" url4="" name4="Piccolo se encarrega de vencer Freeza"
-          num5="82" url5="" name5="A segunda transformação de Freeza"
-          num6="83" url6="" name6="Freeza tem a batalha"
+          num1="78" url1="1fbYE63ZcqCHbnoi0k4FEvKP_Nf4KQc5f" name1="Um pesadelo de transformação"
+          num2="79" url2="1XRPsPRS5ahN3uWVBuOYqCsMvGKafL_DV" name2="Gohan é atacado pelo impiedoso Freeza"
+          num3="80" url3="1UpruPZpEoF6a5x7o0fFYj6X5YhoBEZJn" name3="A chegada de Piccolo"
+          num4="81" url4="1KDKY5ndnlV9hRGhfYzKmHhPIWnga9y3G" name4="Piccolo se encarrega de vencer Freeza"
+          num5="82" url5="1bCopUAUHVQfPkPoWL4_6rauwK3RN1_Xj" name5="A segunda transformação de Freeza"
+          num6="83" url6="15YHf_rtIDE4zAup87CF9cXnsBhrGgLCB" name6="Freeza tem a batalha"
         />
 
         <SectionButtons 
-          num1="84" url1="" name1="A morte do Dendê"
-          num2="85" url2="" name2="Goku se recupera"
-          num3="86" url3="" name3="Morre Vegeta!! Um orgulhoso Saiyajin"
-          num4="87" url4="" name4="Começa a batalha final"
-          num5="88" url5="" name5="Uma luta corpo a corpo"
-          num6="89" url6="" name6="Freeza luta sem usar as mãos"
+          num1="84" url1="1WyruLdGVgVARQxYsxRxYeYjGuOdhC73N" name1="A morte do Dendê"
+          num2="85" url2="1psBTxhCK0PwMQJ2q0zmTXFobJINgfcmK" name2="Goku se recupera"
+          num3="86" url3="1Oinr2fnC0D7iZkYkcSAq3BDcAa8M2DFI" name3="Morre Vegeta!! Um orgulhoso Saiyajin"
+          num4="87" url4="1nkHVaeSPvOfws3OFXA1rAl6cVbkTxVOD" name4="Começa a batalha final"
+          num5="88" url5="1VjXfjGDK72J9X4dk-r6FgsI9TkbLgQKs" name5="Uma luta corpo a corpo"
+          num6="89" url6="1DVS2GO18Ff_jx24TKQ5oCRhRs6sV2bPy" name6="Freeza luta sem usar as mãos"
         />
 
         <SectionButtons 
-          num1="90" url1="" name1="Goku é muito valente"
-          num2="91" url2="" name2="Goku faz um Kaioken aumentado 20 vezes"
-          num3="92" url3="" name3="A gigantesca Genki-Dama! É a última esperança"
-          num4="93" url4="" name4="Não deixem passar esta oportunidade"
-          num5="94" url5="" name5="O poder destrutivo da Genki-Dama"
-          num6="95" url6="" name6="Goku finalmente se transforma no lendário Super Saiyajin"
+          num1="90" url1="139YO7xDyhWaPoGd4vdZ4z9AU6lwMOqm9" name1="Goku é muito valente"
+          num2="91" url2="1mbkmw9UJxPD2SXs8a7-qcFCeMl3glI9I" name2="Goku faz um Kaioken aumentado 20 vezes"
+          num3="92" url3="1MEXuWDDhHA5NQAXXvcJ8OmbWCEuKXw6r" name3="A gigantesca Genki-Dama! É a última esperança"
+          num4="93" url4="1TDsXqLpvX4dqiyrkYoKR2JB8iuFQ1mXd" name4="Não deixem passar esta oportunidade"
+          num5="94" url5="1a9bwZATkdeCn7B1BMH8EMFu9T-5dMdMV" name5="O poder destrutivo da Genki-Dama"
+          num6="95" url6="1r73N3eHhP4wgn8JT_EkTLXVdIdEbwaJ2" name6="Goku finalmente se transforma no lendário Super Saiyajin"
         />
 
         <section className="episodeButtons">
-          <SectionLinks num="96" url="" name="Goku vingará todas as mortes" />
-          <SectionLinks num="97" url="" name="Uma grande faísca atravessa Namekusei" />
-          <SectionLinks num="98" url="" name="Freeza utiliza seu poder máximo" />
-          <SectionLinks num="99" url="" name="Namekusei está prestes a explodir" />
+          <SectionLinks num="96" url="1DvY6Cj1GE0pN-dw0pQCFy2mIrb_uYNc1" name="Goku vingará todas as mortes" />
+          <SectionLinks num="97" url="14RnLDaDw15lIc3jGi0DTIk8BoSR08ofK" name="Uma grande faísca atravessa Namekusei" />
+          <SectionLinks num="98" url="1ibqgbf2wljXBkuSta8pLZ-_Mf1OCF77N" name="Freeza utiliza seu poder máximo" />
+          <SectionLinks num="99" url="1OJul5uRVdrwQ3uuNaXIh9352T-c3U1H2" name="Namekusei está prestes a explodir" />
         </section>
       </section>
     </div>
