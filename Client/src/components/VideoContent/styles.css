@@ -3,5 +3,5 @@
 }
 
 .videoContent{
-    @apply h-[250px] md:h-[600px] w-[100%] md:w-[70%] border-8 border-orange-400 rounded;
+    @apply h-[250px] md:h-[600px] w-[100%] md:w-[70%] border-8 border-orange-400 rounded bg-gray-700;
 }
