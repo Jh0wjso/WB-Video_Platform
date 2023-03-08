@@ -1,6 +1,6 @@
 .btnhref{
-    @apply rounded bg-orange-600 text-white border-2 border-white w-[30%] p-5 text-center font-bold text-xl md:text-2xl my-3;
-    @apply hover:bg-white hover:text-orange-600 hover:border-orange-400;
+    @apply rounded bg-orange-600 text-white w-[30%] p-5 text-center font-bold text-xl md:text-2xl my-3;
+    @apply hover:bg-white hover:text-orange-600;
 }
 .btnContainer{
     @apply w-[50%] flex flex-row justify-between items-center;
