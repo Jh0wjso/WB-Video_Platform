@@ -11,7 +11,7 @@ export default function HeroesCarousel() {
       <div className="container bg-gray-700 flex p-2 flex-row justify-between items-center w-screen border-gray-700 rounded-t-lg">
         <h1 className="text-2xl text-white md:text-4xl ml-4">Heroes</h1>
         <Link
-          className="mr-4 md:mr-10 text-white chrome bg-orange-400 rounded md:py-1 px-1 md:px-2 transition-colors hover:bg-orange-600 font-bold"
+          className="mr-4 md:mr-10 text-white chrome bg-orange-600 rounded md:py-1 px-1 md:px-2 transition-colors hover:bg-orange-400 font-bold"
           to="/dbheroes"
         >
           Ver Mais

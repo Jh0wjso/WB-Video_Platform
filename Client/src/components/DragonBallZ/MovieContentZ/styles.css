@@ -1,0 +1,7 @@
+.containerCarousel{
+    @apply container flex flex-col items-center mt-9 w-screen;
+}
+
+.conteinerZmovies{
+    @apply container bg-gray-700 flex p-2 flex-row justify-between items-center w-screen border-gray-700 rounded-t-lg;   
+}

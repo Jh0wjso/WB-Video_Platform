@@ -1,5 +1,6 @@
 import Carousel from "better-react-carousel";
 import { Link } from "react-router-dom";
+import "./styles.css"
 
 import Quatro from "../../../images/MoviesImages/4.jpg";
 import Cinco from "../../../images/MoviesImages/5.jpg";
@@ -19,12 +20,12 @@ import Dezenove from "../../../images/MoviesImages/19.jpg";
 
 export default function MovieContentZ() {
   return (
-    <div className="container flex flex-col items-center mt-9 w-screen">
-      <div className="container bg-gray-700 flex p-2 flex-row justify-between items-center w-screen border-gray-700 rounded-t-lg">
+    <div className="containerCarousel">
+      <div className="conteinerZmovies">
         <h1 className="text-2xl text-white md:text-4xl ml-4">Filmes</h1>
         <Link
-          className="mr-4 md:mr-10 text-white chrome bg-orange-600 rounded md:py-1 px-1 md:px-2 transition-colors hover:bg-orange-600 font-bold"
-          to="/dbheroes"
+          className="mr-4 md:mr-10 text-white chrome bg-orange-600 rounded md:py-1 px-1 md:px-2 transition-colors hover:bg-orange-400 font-bold"
+          to="/filmes"
         >
           Ver Mais
         </Link>
