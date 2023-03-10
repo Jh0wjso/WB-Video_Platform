@@ -102,7 +102,7 @@ export default function DragonBallCarousel() {
           </Carousel.Item>
           <Carousel.Item>
             <Link
-              to="/video/Mostre a Ele, Goku! O Poder do Deus Super Saiyajin/1gDvZaBSGpidzmToKA5Kr3N-lMnxofvqJ"
+              to="/video/Mostre a Ele, Goku! O Poder do Deus Super Saiyajin/1BBovwQiXC890WCpagLe2JGIw1O3EFn_f"
               className="rounded hover:opacity-50 hover:underline"
             >
               <img className="rounded hover:opacity-50" src={DbS} />

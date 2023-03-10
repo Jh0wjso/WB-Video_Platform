@@ -70,7 +70,7 @@ export default function Sidebar() {
           <p className="newsTittle">Dragon Ball Heroes <br/>Episódio 38</p>
         </Link>
         <Link
-          to={`video/Guerreiro De Preto Vs. Goku Preto! O Enredo Sombrio Se Torna Claro!/1lSrZJKHOiiyT7JqIChxoOm_jUnOH1dQ`}
+          to={`video/Guerreiro De Preto Vs. Goku Preto! O Enredo Sombrio Se Torna Claro!/1lSrZJKHOiiyT7JqIChxoOm_jUnOH1dQ-`}
           className="cardNew"
         >
           <p className="newsTittle">Dragon Ball Heroes <br/>Episódio 37</p>
