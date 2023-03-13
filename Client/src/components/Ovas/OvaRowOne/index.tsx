@@ -13,7 +13,7 @@ export default function OvaRowOne() {
         <p className="font-bold">Segurança no trânsito</p>
         <div className="btnContent">
           <Link
-            to="/assistir/Segurança no trânsito/1WKQ4j_18wcNOJjrqU8L7l9eSTb9NGeJo"
+            to="/video/Segurança no trânsito/1WKQ4j_18wcNOJjrqU8L7l9eSTb9NGeJo"
             className="btnWatch"
           >
             Assistir
@@ -25,7 +25,7 @@ export default function OvaRowOne() {
         <p className="font-bold">O Corpo de Bombeiros de Goku</p>
         <div className="btnContent">
           <Link
-            to="/assistir/O Corpo de Bombeiros de Goku/1cUGipvHu9vGjorpenSdIDO0XcnzB3anB"
+            to="/video/O Corpo de Bombeiros de Goku/1cUGipvHu9vGjorpenSdIDO0XcnzB3anB"
             className="btnWatch"
           >
             Assistir
@@ -37,7 +37,7 @@ export default function OvaRowOne() {
         <p className="font-bold">Junte-se a nós! O Mundo de Goku</p>
         <div className="btnContent">
           <Link
-            to="/assistir/Junte-se a nós! O Mundo de Goku/1IxGJwpk8bmEiloVsXSkReqtkpBYZwFri"
+            to="/video/Junte-se a nós! O Mundo de Goku/1IxGJwpk8bmEiloVsXSkReqtkpBYZwFri"
             className="btnWatch"
           >
             Assistir
@@ -49,7 +49,7 @@ export default function OvaRowOne() {
         <p className="font-bold">O Plano Para Erradicar os Saiyajins</p>
         <div className="btnContent">
           <Link
-            to="/assistir/O Plano Para Erradicar os Saiyajins/1BCWfFWHzdTJlVZKj9nyOhOw0W_y62Mwx"
+            to="/video/O Plano Para Erradicar os Saiyajins/1BCWfFWHzdTJlVZKj9nyOhOw0W_y62Mwx"
             className="btnWatch"
           >
             Assistir

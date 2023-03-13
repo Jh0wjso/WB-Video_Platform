@@ -13,7 +13,7 @@ export default function OvaRowTwo() {
         <p className="font-bold">Especial de 2007<br></br>(2007)</p>
         <div className="btnContent">
           <Link
-            to="/assistir/Especial de 2007/1QE4zDFW7eQbuOHenuhbTOE6Qu-r_Hfme"
+            to="/videog/Especial de 2007/1QE4zDFW7eQbuOHenuhbTOE6Qu-r_Hfme"
             className="btnWatch"
           >
             Assistir
@@ -25,7 +25,7 @@ export default function OvaRowTwo() {
         <p className="font-bold">Ossu! O retorno de Son Goku <br></br>e seus Companheiros</p>
         <div className="btnContent">
           <Link
-            to="/assistir/Ossu! O retorno de Son Goku e seus Companheiros/1HN37TqZ_yLwO5_cZLSkj_VFV1TN3rmoC"
+            to="/video/Ossu! O retorno de Son Goku e seus Companheiros/1HN37TqZ_yLwO5_cZLSkj_VFV1TN3rmoC"
             className="btnWatch"
           >
             Assistir
@@ -37,7 +37,7 @@ export default function OvaRowTwo() {
         <p className="font-bold">Remake - O Plano para Erradicar <br></br> os Super Saiyajins</p>
         <div className="btnContent">
           <Link
-            to="/assistir/Remake - O Plano para Erradicar os Super Saiyajins/1juZpwSDqmDQWNyPur7adNBqNIbkLk9Ri/"
+            to="/video/Remake - O Plano para Erradicar os Super Saiyajins/1juZpwSDqmDQWNyPur7adNBqNIbkLk9Ri/"
             className="btnWatch"
           >
             Assistir
@@ -49,7 +49,7 @@ export default function OvaRowTwo() {
         <p className="font-bold">Episódio de Bardock<br></br> (2011) </p>
         <div className="btnContent">
           <Link
-            to="/assistir/Episódio de Bardock/1vpkfMuAUvKwBSARQB4Todl_ZYYyMsD3H"
+            to="/video/Episódio de Bardock/1vpkfMuAUvKwBSARQB4Todl_ZYYyMsD3H"
             className="btnWatch"
           >
             Assistir
