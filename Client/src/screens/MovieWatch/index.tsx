@@ -12,10 +12,10 @@ export default function MovieWatch() {
       <MovieContent name={Ep ? Ep?.toString() : ""} url={Url ? Url?.toString() : ""} />
       <section className="btnContainer">
         <Link to="/" className="btnhref">
-          Página inicial
+          Inicio
         </Link>
         <Link to="/filmes" className="btnhref">
-          Catalogo de Filmes
+          Catálogo
         </Link>
       </section>
     </div>

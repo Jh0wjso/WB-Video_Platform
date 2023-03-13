@@ -12,10 +12,10 @@ export default function Video() {
       <VideoContent number={Ep ? Ep?.toString() : ""} url={Url ? Url?.toString() : ""} />
       <section className="btnContainer">
         <Link to="/" className="btnhref">
-          Página inicial
+          Inicio
         </Link>
         <Link to="/animes" className="btnhref">
-          Catálogo de animes
+          Catálogo
         </Link>
       </section>
     </div>
