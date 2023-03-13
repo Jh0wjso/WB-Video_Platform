@@ -16,7 +16,7 @@ export default function SpecialScreen() {
           <p className="font-bold">A Batalha de Freeza Contra o Pai de Goku</p>
           <div className="btnContent">
             <Link
-              to="/assistir/A Batalha de Freeza Contra o Pai de Goku/wWkPs1R8z3wKP_ogXP2lRJRpd"
+              to="/video/A Batalha de Freeza Contra o Pai de Goku/1qHRG1U7wWkPs1R8z3wKP_ogXP2lRJRpd"
               className="btnWatch"
             >
               Assistir
@@ -28,7 +28,7 @@ export default function SpecialScreen() {
           <p className="font-bold">Gohan e Trunks, os Guerreiros do Futuro</p>
           <div className="btnContent">
             <Link
-              to="/assistir/Gohan e Trunks, os Guerreiros do Futuro/1qMGg4cfSfAuhmAVFeQ2umS-kQtUE87Va"
+              to="/video/Gohan e Trunks, os Guerreiros do Futuro/1qMGg4cfSfAuhmAVFeQ2umS-kQtUE87Va"
               className="btnWatch"
             >
               Assistir
@@ -40,7 +40,7 @@ export default function SpecialScreen() {
           <p className="font-bold">Toriko X One piece X Dragon Ball Z</p>
           <div className="btnContent">
             <Link
-              to="/assistir/Toriko X One piece X DBZ/1qLRSpvcSUmT7FMAi6oQCRrW6F6m_dGPe"
+              to="/video/Toriko X One piece X DBZ/1qLRSpvcSUmT7FMAi6oQCRrW6F6m_dGPe"
               className="btnWatch"
             >
               Assistir
