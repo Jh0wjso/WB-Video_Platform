@@ -1,5 +1,9 @@
 .cardAnime {
-  @apply text-center flex flex-col items-center h-full p-4 m-5 bg-[#494949] border-2 rounded;
+  @apply text-center flex flex-col items-center h-full p-2 m-5 bg-[#ffffff] border-2 rounded;
+}
+
+.textCard{
+  @apply font-bold text-[#494949] mt-2;
 }
 
 .containerContent{

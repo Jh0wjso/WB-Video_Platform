@@ -6,30 +6,14 @@ import Vintedois from "../../../images/MoviesImages/22.jpg";
 export default function MovieRowSix() {
   return (
     <div className="cardsContainer">
-      <div className="cardAnime">
-        <img src={Vinteum} width={250} className="imageCard" />
-        <p className="font-bold">Dragon Ball Evolution</p>
-        <div className="btnContent">
-          <Link
-            to="/assistir/Dragon Ball Evolution/1n6DkQBzN8_rTXgIFeviNIPm7aqdwKtIO"
-            className="btnWatch"
-          >
-            Assistir
-          </Link>
-        </div>
-      </div>
-      <div className="cardAnime">
-        <img src={Vintedois} width={250} className="imageCard" />
-        <p className="font-bold">Super Hero</p>
-        <div className="btnContent">
-          <Link
-            to="/assistir/Super Hero/1n4byzVSVcTeWcbzC9soMx4XfrGKm1YuG"
-            className="btnWatch"
-          >
-            Assistir
-          </Link>
-        </div>
-      </div>
+      <Link to={"/assistir/Dragon Ball Evolution/1n6DkQBzN8_rTXgIFeviNIPm7aqdwKtIO"} className="cardAnime">
+        <img src={Vinteum} width={250} className="coverImage" />
+        <p className="textCard">Dragon Ball Evolution</p>
+      </Link>
+      <Link to={"/assistir/Super Hero/1n4byzVSVcTeWcbzC9soMx4XfrGKm1YuG"} className="cardAnime">
+        <img src={Vintedois} width={250} className="coverImage" />
+        <p className="textCard">Super Hero</p>
+      </Link>
     </div>
   );
 }
