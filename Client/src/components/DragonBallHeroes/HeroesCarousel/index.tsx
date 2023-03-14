@@ -24,7 +24,7 @@ export default function HeroesCarousel() {
               to="/video/Goku Vs. Goku! Uma Batalha Transcendente Começa No Planeta Da Prisão/1fz0GqbpP4fInBjHV_Yy0Z6fadMoRdPqv"
               className="rounded hover:opacity-50 hover:underline"
             >
-              <img src={Db} />
+              <img className="coverImage" src={Db} />
               <p>Goku Vs. Goku! Uma Batalha ...</p>
             </Link>
           </Carousel.Item>
@@ -33,7 +33,7 @@ export default function HeroesCarousel() {
               to="/video/Goku Fica Furioso! A Fúria do Mal Saião!/1fg4xCXI8PHx9R3xvR-GRVZdSowYE7oy8"
               className="rounded hover:opacity-50 hover:underline"
             >
-              <img className="rounded hover:opacity-50" src={DbH} />
+              <img className="coverImage" src={DbH} />
               <p>Goku Fica Furioso! ...</p>
             </Link>
           </Carousel.Item>
@@ -42,7 +42,7 @@ export default function HeroesCarousel() {
               to="/video/O Esplendor Mais Poderoso! Vegetto Blue Explode Kaio-Ken!/1fvAIZqfwbGJQ57qyW4Cpqre6TPgPw6iP"
               className="rounded hover:opacity-50 hover:underline"
             >
-              <img className="rounded hover:opacity-50" src={Db} />
+              <img className="coverImage" src={Db} />
               <p>O Esplendor Mais Poderoso! ...</p>
             </Link>
           </Carousel.Item>
@@ -51,7 +51,7 @@ export default function HeroesCarousel() {
               to="/video/Raiva! O Super Fu Aparece!/1flXZsiMZzfgrwlqRmo0S8HAsrCozUwHJ"
               className="rounded hover:opacity-50 hover:underline"
             >
-              <img className="rounded hover:opacity-50" src={DbH} />
+              <img className="coverImage" src={DbH} />
               <p>Raiva! O Super Fu Aparece!</p>
             </Link>
           </Carousel.Item>
@@ -60,7 +60,7 @@ export default function HeroesCarousel() {
               to="/video/O Guerreiro Mais Poderoso! Vegetto Super Saiyajin 4/1fqIp8Z9kq1J_QQURhk2HZDuEPRD2LK3z"
               className="rounded hover:opacity-50 hover:underline"
             >
-              <img className="rounded hover:opacity-50" src={Db} />
+              <img className="coverImage" src={Db} />
               <p>O Guerreiro Mais Poderoso! ...</p>
             </Link>
           </Carousel.Item>
@@ -69,7 +69,7 @@ export default function HeroesCarousel() {
               to="/videoEu Vou Resolver Isso! Ativar! Instinto Superior!/1fsTfVgVlflgjtr6GcHsaEnTS9M2AmX99"
               className="rounded hover:opacity-50 hover:underline"
             >
-              <img className="rounded hover:opacity-50" src={DbH} />
+              <img className="coverImage" src={DbH} />
               <p>Eu Vou Resolver Isso! Ativar...</p>
             </Link>
           </Carousel.Item>
@@ -78,7 +78,7 @@ export default function HeroesCarousel() {
               to="/video/Zamasu Revivido!? Começa a Saga do Conflito Universal!/1gQik47Ywt8jPOUVd635eRl65BZg3KwB8"
               className="rounded hover:opacity-50 hover:underline"
             >
-              <img className="rounded hover:opacity-50" src={Db} />
+              <img className="coverImage" src={Db} />
               <p>Zamasu Revivido!? Começa a...</p>
             </Link>
           </Carousel.Item>
@@ -87,7 +87,7 @@ export default function HeroesCarousel() {
               to="/video/A Invasão dos Guerreiros mais Fortes! O Sexto Universo é Destruído!/1g6_MpfrNXzQEKX2emgd6495Blue3YDyn"
               className="rounded hover:opacity-50 hover:underline"
             >
-              <img className="rounded hover:opacity-50" src={DbH} />
+              <img className="coverImage" src={DbH} />
               <p>A Invasão dos Guerreiros ...</p>
             </Link>
           </Carousel.Item>
@@ -96,7 +96,7 @@ export default function HeroesCarousel() {
               to="/video/A Ressurreição de Goku!! Clash Entre o Mais Forte e o Mais Forte!/1gB98181hbyi37RNhujrXHShdtTzApUA8"
               className="rounded hover:opacity-50 hover:underline"
             >
-              <img className="rounded hover:opacity-50" src={Db} />
+              <img className="coverImage" src={Db} />
               <p>A Ressurreição de ...</p>
             </Link>
           </Carousel.Item>
@@ -105,7 +105,7 @@ export default function HeroesCarousel() {
               to="/video/Contra Ataque! Ataque Feroz! Goku e Vegeta!/1gDvZaBSGpidzmToKA5Kr3N-lMnxofvqJ"
               className="rounded hover:opacity-50 hover:underline"
             >
-              <img className="rounded hover:opacity-50" src={DbH} />
+              <img className="coverImage" src={DbH} />
               <p>Contra Ataque! Goku e ...</p>
             </Link>
           </Carousel.Item>
