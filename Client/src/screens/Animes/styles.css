@@ -1,9 +1,10 @@
 .cardAnime {
-  @apply text-center flex flex-col items-center h-full p-2 m-5 bg-[#ffffff] border-2 rounded;
+  @apply text-center flex flex-col items-center h-full p-2 m-5 rounded;
+  background-image: linear-gradient(#f1d329, #ec782a)
 }
 
 .textCard{
-  @apply font-bold text-[#494949] mt-2;
+  @apply font-bold text-[#ffffff] mt-2;
 }
 
 .containerContent{

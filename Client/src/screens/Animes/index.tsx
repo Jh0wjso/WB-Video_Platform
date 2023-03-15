@@ -18,106 +18,41 @@ export default function Animes() {
         Assista a todos os animes
       </h1>
       <div className="cardsContainer">
-        <div className="cardAnime">
-          <img src={Db} width={250} className="imageCard" />
-          <p className="font-bold">Dragon Ball</p>
-          <div className="btnContent">
-            <Link
-              to="/classic"
-              className="btnWatch"
-            >
-              Assistir
-            </Link>
-          </div>
-        </div>
-        <div className="cardAnime">
-          <img src={Dbz} width={250} className="imageCard" />
-          <p className="font-bold">Dragon Ball Z</p>
-          <div className="btnContent">
-            <Link
-              to="/dbz"
-              className="btnWatch"
-            >
-              Assistir
-            </Link>
-          </div>
-        </div>
+        <Link to={"/classic"} className="cardAnime">
+          <img src={Db} width={250} className="coverImage" />
+          <p className="textCard">Dragon Ball</p>
+        </Link>
+        <Link to={"/dbz"} className="cardAnime">
+          <img src={Dbz} width={250} className="coverImage" />
+          <p className="textCard">Dragon Ball Z</p>
+        </Link>
 
-        <div className="cardAnime">
-          <img src={Dbkai} width={250} className="imageCard" />
-          <p className="font-bold">Dragon Ball Z Kai</p>
-          <div className="btnContent">
-            <Link
-              to="/dbkai"
-              className="btnWatch"
-            >
-              Assistir
-            </Link>
-          </div>
-        </div>
-        <div className="cardAnime">
-          <img src={Dbs} width={250} className="imageCard" />
-          <p className="font-bold">Dragon Ball Super</p>
-          <div className="btnContent">
-            <Link
-              to="/dbsuper"
-              className="btnWatch"
-            >
-              Assistir
-            </Link>
-          </div>
-        </div>
+        <Link to={"/dbkai"} className="cardAnime">
+          <img src={Dbkai} width={250} className="coverImage" />
+          <p className="textCard">Dragon Ball Z Kai</p>
+        </Link>
+        <Link to={"/dbsuper"} className="cardAnime">
+          <img src={Dbs} width={250} className="coverImage" />
+          <p className="textCard">Dragon Ball Super</p>
+        </Link>
       </div>
       <div className="cardsContainer">
-        <div className="cardAnime">
-          <img src={Dbgt} width={250} className="imageCard" />
-          <p className="font-bold">Dragon Ball GT</p>
-          <div className="btnContent">
-            <Link
-              to="/dbgt"
-              className="btnWatch"
-            >
-              Assistir
-            </Link>
-          </div>
-        </div>
-        <div className="cardAnime">
-          <img src={Dbh} width={250} className="imageCard" />
-          <p className="font-bold">Heroes</p>
-          <div className="btnContent">
-            <Link
-              to="/dbheroes"
-              className="btnWatch"
-            >
-              Assistir
-            </Link>
-          </div>
-        </div>
-
-        <div className="cardAnime">
-          <img src={Dbova} width={250} className="imageCard" />
-          <p className="font-bold">Dragon Ball OVAs</p>
-          <div className="btnContent">
-            <Link
-              to="/ova"
-              className="btnWatch"
-            >
-              Assistir
-            </Link>
-          </div>
-        </div>
-        <div className="cardAnime">
-          <img src={Dbes} width={250} className="imageCard" />
-          <p className="font-bold">Especiais</p>
-          <div className="btnContent">
-            <Link
-              to="/special"
-              className="btnWatch"
-            >
-              Assistir
-            </Link>
-          </div>
-        </div>
+        <Link to={"/dbgt"} className="cardAnime">
+          <img src={Dbgt} width={250} className="coverImage" />
+          <p className="textCard">Dragon Ball GT</p>
+        </Link>
+        <Link to={"/dbheroes"} className="cardAnime">
+          <img src={Dbh} width={250} className="coverImage" />
+          <p className="textCard">Heroes</p>
+        </Link>
+        <Link to={"/ova"} className="cardAnime">
+          <img src={Dbova} width={250} className="coverImage" />
+          <p className="textCard">Dragon Ball OVAs</p>
+        </Link>
+        <Link to={"/special"} className="cardAnime">
+          <img src={Dbes} width={250} className="coverImage" />
+          <p className="textCard">Especiais</p>
+        </Link>
       </div>
     </div>
   );
