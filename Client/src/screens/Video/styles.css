@@ -1,7 +1,16 @@
 .btnhref{
     @apply rounded bg-orange-600 text-white w-[30%] p-5 text-center font-bold text-xl md:text-2xl my-3;
-    @apply hover:bg-white hover:text-orange-600;
 }
+
+.btnhref:hover{
+    @apply hover:bg-white hover:text-orange-600;
+    transition: 0.5s;
+    -webkit-transition: 0.5s;
+    -moz-transition: 0.5s;
+    -ms-transition: 0.5s;
+    -o-transition: 0.5s;
+}
+
 .btnContainer{
     @apply w-[50%] flex flex-row justify-between items-center;
 }
