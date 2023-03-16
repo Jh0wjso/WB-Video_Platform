@@ -10,6 +10,10 @@
     @apply rounded;
 }
 
+.imageCarousel{
+    @apply hover:underline;
+}
+
 .coverImage:hover{
     transform: scale(0.9);
     -webkit-transform: scale(0.9);

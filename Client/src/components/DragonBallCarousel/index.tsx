@@ -22,7 +22,7 @@ export default function DragonBallCarousel() {
           <Carousel.Item>
             <Link
               to="/video/O Prêmio da Paz! Quem vai ficar com os 100 Milhões de Zenis/1fz0GqbpP4fInBjHV_Yy0Z6fadMoRdPqv"
-              className="rounded hover:opacity-50 hover:underline"
+              className="imageCarousel"
             >
               <img className="coverImage" src={DbS} />
               <p>O Prêmio da Paz! Quem vai ...</p>
@@ -31,7 +31,7 @@ export default function DragonBallCarousel() {
           <Carousel.Item>
             <Link
               to="/video/As Férias Prometidas! O Vegeta Viaja com a Família/1fg4xCXI8PHx9R3xvR-GRVZdSowYE7oy8"
-              className="rounded hover:opacity-50 hover:underline"
+              className="imageCarousel"
             >
               <img className="coverImage" src={DbS1} />
               <p>As Férias Prometidas! O Vegeta ...</p>
@@ -40,7 +40,7 @@ export default function DragonBallCarousel() {
           <Carousel.Item>
             <Link
               to="/video/Cadê o Resto do Meu Sonho?! Em Busca do Deus Super Saiyajin/1fvAIZqfwbGJQ57qyW4Cpqre6TPgPw6iP"
-              className="rounded hover:opacity-50 hover:underline"
+              className="imageCarousel"
             >
               <img className="coverImage" src={DbS2} />
               <p>Cadê o Resto do Meu ...</p>
@@ -49,7 +49,7 @@ export default function DragonBallCarousel() {
           <Carousel.Item>
             <Link
               to="/video/Em Busca das Esferas do Dragão! O Grande Plano de Pilaf/1flXZsiMZzfgrwlqRmo0S8HAsrCozUwHJ"
-              className="rounded hover:opacity-50 hover:underline"
+              className="imageCarousel"
             >
               <img className="coverImage" src={DbS} />
               <p>Em Busca das ...</p>
@@ -58,7 +58,7 @@ export default function DragonBallCarousel() {
           <Carousel.Item>
             <Link
               to="/video/Grande Luta no Planeta do Senhor Kaioh! Goku vs. Bills/1fqIp8Z9kq1J_QQURhk2HZDuEPRD2LK3z"
-              className="rounded hover:opacity-50 hover:underline"
+              className="imageCarousel"
             >
               <img className="coverImage" src={DbS1} />
               <p>Grande Luta no Planeta ...</p>
@@ -67,7 +67,7 @@ export default function DragonBallCarousel() {
           <Carousel.Item>
             <Link
               to="/video/Não Irritem o Deus da Destruição! Uma Festa de Aniversário Animada/1fsTfVgVlflgjtr6GcHsaEnTS9M2AmX99"
-              className="rounded hover:opacity-50 hover:underline"
+              className="imageCarousel"
             >
               <img className="coverImage" src={DbS2} />
               <p>Não Irritem o ...</p>
@@ -76,7 +76,7 @@ export default function DragonBallCarousel() {
           <Carousel.Item>
             <Link
               to="/video/Como Ousa Bater na Minha Bulma? Vegeta Fica Furioso de Repente/1gQik47Ywt8jPOUVd635eRl65BZg3KwB8"
-              className="rounded hover:opacity-50 hover:underline"
+              className="imageCarousel"
             >
               <img className="coverImage" src={DbS} />
               <p>Como Ousa Bater na Minha ...</p>
@@ -85,7 +85,7 @@ export default function DragonBallCarousel() {
           <Carousel.Item>
             <Link
               to="/video/Goku Aparece! Bills Nos Dá Uma Última Chance/1g6_MpfrNXzQEKX2emgd6495Blue3YDyn"
-              className="rounded hover:opacity-50 hover:underline"
+              className="imageCarousel"
             >
               <img className="coverImage" src={DbS1} />
               <p>Goku Aparece! Bills...</p>
@@ -94,7 +94,7 @@ export default function DragonBallCarousel() {
           <Carousel.Item>
             <Link
               to="/video/Desculpe a Demora, Senhor Bills! Finalmente Nasce o Deus/1gB98181hbyi37RNhujrXHShdtTzApUA8"
-              className="rounded hover:opacity-50 hover:underline"
+              className="imageCarousel"
             >
               <img className="coverImage" src={DbS2} />
               <p>Desculpe a Demora, Senhor Bills! ...</p>
@@ -103,7 +103,7 @@ export default function DragonBallCarousel() {
           <Carousel.Item>
             <Link
               to="/video/Mostre a Ele, Goku! O Poder do Deus Super Saiyajin/1BBovwQiXC890WCpagLe2JGIw1O3EFn_f"
-              className="rounded hover:opacity-50 hover:underline"
+              className="imageCarousel"
             >
               <img className="coverImage" src={DbS} />
               <p>Mostre a Ele, ...</p>

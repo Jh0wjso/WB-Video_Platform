@@ -35,7 +35,7 @@ export default function MovieContentZ() {
           <Carousel.Item>
             <Link
               to="/assistir/A Lenda de Shenlong/1C624UGEH3nAfd6W7XxqbsBFEPPCkWD9-"
-              className="rounded hover:opacity-50 hover:underline"
+              className="imageCarousel"
             >
               <img className="coverImage" src={Quatro} />
               <p>Devolva me Gohan</p>
@@ -44,7 +44,7 @@ export default function MovieContentZ() {
           <Carousel.Item>
             <Link
               to="/assistir/O Homem Mais Forte do Mundo/1TG-0p34ILl5OmxRcMJ-tscz0keqxYT6N"
-              className="rounded hover:opacity-50 hover:underline"
+              className="imageCarousel"
             >
               <img className="coverImage" src={Cinco} />
               <p>O Homem Mais Forte do Mundo</p>
@@ -53,7 +53,7 @@ export default function MovieContentZ() {
           <Carousel.Item>
             <Link
               to="/assistir/A Arvore do Poder/1y-GYI3pinbls3CraedGWneolO-IFoioE"
-              className="rounded hover:opacity-50 hover:underline"
+              className="imageCarousel"
             >
               <img className="coverImage" src={Seis} />
               <p>A Árvore do Poder</p>
@@ -62,7 +62,7 @@ export default function MovieContentZ() {
           <Carousel.Item>
             <Link
               to="/assistir/Goku o Super Saiyajin/1TiAM1jZDNScj9Q0MmzWe3XDIzlldQdfX"
-              className="rounded hover:opacity-50 hover:underline"
+              className="imageCarousel"
             >
               <img className="coverImage" src={Sete} />
               <p>Goku o Super Saiyajin</p>
@@ -71,7 +71,7 @@ export default function MovieContentZ() {
           <Carousel.Item>
             <Link
               to="/assistir/Uma vingança para Freeza/1TqoPudcj99YoVkiR6fZOU4Odqu3Pijqu"
-              className="rounded hover:opacity-50 hover:underline"
+              className="imageCarousel"
             >
               <img className="coverImage" src={Oito} />
               <p>Uma vingança para Freeza</p>
@@ -80,7 +80,7 @@ export default function MovieContentZ() {
           <Carousel.Item>
             <Link
               to="/assistir/O Retorno de Cooler/1XmsxNt8rmwCXB3gzJATwY50pGOeDBQsD"
-              className="rounded hover:opacity-50 hover:underline"
+              className="imageCarousel"
             >
               <img className="coverImage" src={Nove} />
               <p>O Retorno de Cooler</p>
@@ -89,7 +89,7 @@ export default function MovieContentZ() {
           <Carousel.Item>
             <Link
               to="/assistir/O Retorno dos Androides/1YD09OLCgsie8euaSCmAMB79mj8Z_gjn2"
-              className="rounded hover:opacity-50 hover:underline"
+              className="imageCarousel"
             >
               <img className="coverImage" src={Dez} />
               <p>O Retorno dos Androides</p>
@@ -98,7 +98,7 @@ export default function MovieContentZ() {
           <Carousel.Item>
             <Link
               to="/assistir/O Lendário super Saiyajin/1Xfe79rEjTt-iyxtmn905_jJ9BtnrkWIC"
-              className="rounded hover:opacity-50 hover:underline"
+              className="imageCarousel"
             >
               <img className="coverImage" src={Onze} />
               <p>O Lendário Super Saiyajin</p>
@@ -107,7 +107,7 @@ export default function MovieContentZ() {
           <Carousel.Item>
             <Link
               to="/assistir/Batalha nos Dois Mundos/18God08mQPM6MK1bnvrLipFnf2wnjDp3X"
-              className="rounded hover:opacity-50 hover:underline"
+              className="imageCarousel"
             >
               <img className="coverImage" src={Doze} />
               <p>Batalha nos Dois Mundos</p>
@@ -116,7 +116,7 @@ export default function MovieContentZ() {
           <Carousel.Item>
             <Link
               to="/assistir/O Retorno de Broly/1gleAXntyC7pK-lxBbh6SXpWaXvQsRaj"
-              className="rounded hover:opacity-50 hover:underline"
+              className="imageCarousel"
             >
               <img className="coverImage" src={Treze} />
               <p>O Retorno de Broly</p>
@@ -125,7 +125,7 @@ export default function MovieContentZ() {
           <Carousel.Item>
             <Link
               to="/assistir/Renascimento Da Fusão/1glo0fH3a3M5JMZBCmbPbspzFucMYjCdF"
-              className="rounded hover:opacity-50 hover:underline"
+              className="imageCarousel"
             >
               <img className="coverImage" src={Quatorze} />
               <p>Renascimento Da Fusão</p>
@@ -134,7 +134,7 @@ export default function MovieContentZ() {
           <Carousel.Item>
             <Link
               to="/assistir/Combate Final Bio-Broly/1gjHJU5loy6iqNRN6SqHzsTuNGZ8yxafy"
-              className="rounded hover:opacity-50 hover:underline"
+              className="imageCarousel"
             >
               <img className="coverImage" src={Quinze} />
               <p>Combate Final Bio-Broly</p>
@@ -143,7 +143,7 @@ export default function MovieContentZ() {
           <Carousel.Item>
             <Link
               to="/assistir/O Ataque do Dragão/1gr5LNLLjpzkA4zPnv4bA984k-nIZDtJu"
-              className="rounded hover:opacity-50 hover:underline"
+              className="imageCarousel"
             >
               <img className="coverImage" src={Dezesseis} />
               <p>O Ataque do Dragão</p>
@@ -152,7 +152,7 @@ export default function MovieContentZ() {
           <Carousel.Item>
             <Link
               to="/assistir/batalha dos Deuses/1k3__SaqihW9lFiBQeEFJ3rLFblp4sLbL"
-              className="rounded hover:opacity-50 hover:underline"
+              className="imageCarousel"
             >
               <img className="coverImage" src={Dezoito} />
               <p>A Batalha dos Deuses</p>
@@ -161,7 +161,7 @@ export default function MovieContentZ() {
           <Carousel.Item>
             <Link
               to="/assistir/O Renascimento de Freeza/1kMkntsimdLRlSsAUOa0_FL1jGi-Uvyf6"
-              className="rounded hover:opacity-50 hover:underline"
+              className="imageCarousel"
             >
               <img className="coverImage" src={Dezenove} />
               <p>O Renascimento de Freeza</p>

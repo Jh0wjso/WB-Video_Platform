@@ -11,42 +11,18 @@ export default function SpecialScreen() {
         Todos os Ovas disponíveis
       </h1>
       <div className="cardsContainer">
-        <div className="cardAnime">
+        <Link to={"/video/A Batalha de Freeza Contra o Pai de Goku/1qHRG1U7wWkPs1R8z3wKP_ogXP2lRJRpd"} className="cardAnime">
           <img src={Um} width={250} className="imageCard" />
-          <p className="font-bold">A Batalha de Freeza Contra o Pai de Goku</p>
-          <div className="btnContent">
-            <Link
-              to="/video/A Batalha de Freeza Contra o Pai de Goku/1qHRG1U7wWkPs1R8z3wKP_ogXP2lRJRpd"
-              className="btnWatch"
-            >
-              Assistir
-            </Link>
-          </div>
-        </div>
-        <div className="cardAnime">
+          <p className="font-bold">A Batalha de Freeza<br/>Contra o Pai de Goku</p>
+        </Link>
+        <Link to={"/video/Gohan e Trunks, os Guerreiros do Futuro/1qMGg4cfSfAuhmAVFeQ2umS-kQtUE87Va"} className="cardAnime">
           <img src={Dois} width={250} className="imageCard" />
-          <p className="font-bold">Gohan e Trunks, os Guerreiros do Futuro</p>
-          <div className="btnContent">
-            <Link
-              to="/video/Gohan e Trunks, os Guerreiros do Futuro/1qMGg4cfSfAuhmAVFeQ2umS-kQtUE87Va"
-              className="btnWatch"
-            >
-              Assistir
-            </Link>
-          </div>
-        </div>
-        <div className="cardAnime">
+          <p className="font-bold">Gohan e Trunks,<br/>os Guerreiros do Futuro</p>
+        </Link>
+        <Link to={"/video/Toriko X One piece X DBZ/1qLRSpvcSUmT7FMAi6oQCRrW6F6m_dGPe"} className="cardAnime">
           <img src={Tres} width={250} className="imageCard" />
-          <p className="font-bold">Toriko X One piece X Dragon Ball Z</p>
-          <div className="btnContent">
-            <Link
-              to="/video/Toriko X One piece X DBZ/1qLRSpvcSUmT7FMAi6oQCRrW6F6m_dGPe"
-              className="btnWatch"
-            >
-              Assistir
-            </Link>
-          </div>
-        </div>
+          <p className="font-bold">Toriko X One piece<br/>X Dragon Ball Z</p>
+        </Link>
       </div>
     </div>
   );
