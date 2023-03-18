@@ -1,6 +1,6 @@
 import { Link, useParams } from "react-router-dom";
 import "./styles.css";
-import VideoContent from "../../components/VideoContent";
+import NewVideoContent from "../../components/NewVideoContent";
 
 export default function Video2() {
   const name = useParams();
@@ -9,7 +9,7 @@ export default function Video2() {
 
   return (
     <div className="min-h-screen flex flex-col items-center justify-center m-2 md:m-5">
-      <VideoContent number={Ep ? Ep?.toString() : ""} url={Url ? Url?.toString() : ""} />
+      <NewVideoContent number={Ep ? Ep?.toString() : ""} url={Url ? Url?.toString() : ""} />
       <section className="btnContainer">
         <Link to="/" className="btnhref">
           Inicio
