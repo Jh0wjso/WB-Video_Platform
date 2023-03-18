@@ -14,6 +14,7 @@ import DBKaiScreen from "./screens/DBKaiScreen";
 import DBSuperScreen from "./screens/DBSuperScreen";
 import DBHeroesScreen from "./screens/DBHScreen";
 import NewsScreen from "./screens/NewsScreen";
+import Video2 from "./screens/Video2";
 
 
 export function Router() {
@@ -24,6 +25,9 @@ export function Router() {
       <Route path="/filmes" element={<Movies />} />
       <Route path="/video">
         <Route path=":number/:url" element={<Video />} />
+      </Route>
+      <Route path="/video2">
+        <Route path=":number/:url" element={<Video2 />} />
       </Route>
       <Route path="/assistir">
         <Route path=":name/:url" element={<MovieWatch />} />
