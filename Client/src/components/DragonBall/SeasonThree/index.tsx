@@ -1,13 +1,13 @@
 import "../styles.css";
-import SectionLinks from "../../SectionLinks";
-import SectionButtons from "../../SectionButtons";
+import NewSectionLinks from "../../NewSectionLinks";
+import NewSectionButtons from "../../NewSectionButtons";
 
 export default function SeasonThree() {
   return (
     <div className="containerEps">
       <h1 className="text-center text-4xl font-bold">Saga da Red Ribbon</h1>
       <section className="mt-8 flex flex-col items-center">
-        <SectionButtons 
+        <NewSectionButtons 
           num1="29" name1={`dragon-ball-dublado`}
           num2="30" name2={`dragon-ball-dublado`}
           num3="31" name3={`dragon-ball-dublado`}
@@ -16,7 +16,7 @@ export default function SeasonThree() {
           num6="34" name6={`dragon-ball-dublado`}
         />
 
-        <SectionButtons 
+        <NewSectionButtons 
           num1="35" name1={`dragon-ball-dublado`}
           num2="36" name2={`dragon-ball-dublado`}
           num3="37" name3={`dragon-ball-dublado`}
@@ -25,7 +25,7 @@ export default function SeasonThree() {
           num6="40" name6={`dragon-ball-dublado`}
         />
 
-        <SectionButtons 
+        <NewSectionButtons 
           num1="41" name1={`dragon-ball-dublado`}
           num2="42" name2={`dragon-ball-dublado`}
           num3="43" name3={`dragon-ball-dublado`}
@@ -34,7 +34,7 @@ export default function SeasonThree() {
           num6="46" name6={`dragon-ball-dublado`}
         />
 
-        <SectionButtons 
+        <NewSectionButtons 
           num1="47" name1={`dragon-ball-dublado`}
           num2="48" name2={`dragon-ball-dublado`}
           num3="49" name3={`dragon-ball-dublado`}
@@ -43,7 +43,7 @@ export default function SeasonThree() {
           num6="52" name6={`dragon-ball-dublado`}
         />
 
-        <SectionButtons 
+        <NewSectionButtons 
           num1="53" name1={`dragon-ball-dublado`}
           num2="54" name2={`dragon-ball-dublado`}
           num3="55" name3={`dragon-ball-dublado`}
@@ -52,7 +52,7 @@ export default function SeasonThree() {
           num6="58" name6={`dragon-ball-dublado`}
         />
 
-        <SectionButtons 
+        <NewSectionButtons 
           num1="59" name1={`dragon-ball-dublado`}
           num2="60" name2={`dragon-ball-dublado`}
           num3="61" name3={`dragon-ball-dublado`}
@@ -61,7 +61,7 @@ export default function SeasonThree() {
           num6="64" name6={`dragon-ball-dublado`}
         />
 
-        <SectionButtons 
+        <NewSectionButtons 
           num1="65" name1={`dragon-ball-dublado`}
           num2="66" name2={`dragon-ball-dublado`}
           num3="67" name3={`dragon-ball-dublado`}
@@ -70,7 +70,7 @@ export default function SeasonThree() {
           num6="70" name6={`dragon-ball-dublado`}
         />
 
-        <SectionButtons 
+        <NewSectionButtons 
           num1="71" name1={`dragon-ball-dublado`}
           num2="72" name2={`dragon-ball-dublado`}
           num3="73" name3={`dragon-ball-dublado`}
@@ -80,8 +80,8 @@ export default function SeasonThree() {
         />
 
         <section className="episodeButtons">
-          <SectionLinks num="77" name={`dragon-ball-dublado`} />
-          <SectionLinks num="78" name={`dragon-ball-dublado`} />
+          <NewSectionLinks num="77" name={`dragon-ball-dublado`} />
+          <NewSectionLinks num="78" name={`dragon-ball-dublado`} />
         </section>
       </section>
     </div>

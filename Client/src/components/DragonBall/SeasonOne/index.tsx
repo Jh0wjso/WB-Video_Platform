@@ -1,6 +1,6 @@
 import "../styles.css";
-import SectionButtons from "../../SectionButtons";
-import SectionLinks from "../../SectionLinks";
+import NewSectionButtons from "../../NewSectionButtons";
+import NewSectionLinks from "../../NewSectionLinks";
 
 export default function SeasonOne() {
   return (
@@ -8,7 +8,7 @@ export default function SeasonOne() {
       <h1 className="text-center text-4xl font-bold">Saga de Pilaf</h1>
       <section className="mt-8 flex flex-col items-center">
         <section className="episodeButtons">
-        <SectionButtons 
+        <NewSectionButtons 
           num1="1" name1={`dragon-ball-dublado`}
           num2="2" name2={`dragon-ball-dublado`}
           num3="3" name3={`dragon-ball-dublado`}
@@ -18,7 +18,7 @@ export default function SeasonOne() {
         />
         </section>
         <section className="episodeButtons">
-        <SectionButtons 
+        <NewSectionButtons 
           num1="7" name1={`dragon-ball-dublado`}
           num2="8" name2={`dragon-ball-dublado`}
           num3="9" name3={`dragon-ball-dublado`}
@@ -27,7 +27,7 @@ export default function SeasonOne() {
           num6="12" name6={`dragon-ball-dublado`}
         />
         </section>
-        <SectionLinks num="13" name={`dragon-ball-dublado`} />
+        <NewSectionLinks num="13" name={`dragon-ball-dublado`} />
       </section>
     </div>
   );

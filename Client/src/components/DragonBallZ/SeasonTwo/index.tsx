@@ -1,13 +1,13 @@
 import "../styles.css";
-import SectionButtons from "../../SectionButtons";
-import SectionLinks from "../../SectionLinks";
+import NewSectionButtons from "../../NewSectionButtons";
+import NewSectionLinks from "../../NewSectionLinks";
 
 export default function SeasonTwoBbz() {
   return (
     <div className="containerEps">
       <h1 className="text-center text-4xl font-bold">Saga Freeza</h1>
       <section className="mt-8 flex flex-col items-center">
-        <SectionButtons 
+        <NewSectionButtons 
           num1="36" name1="dragon-ball-z-dublado"
           num2="37" name2="dragon-ball-z-dublado"
           num3="38" name3="dragon-ball-z-dublado"
@@ -15,7 +15,7 @@ export default function SeasonTwoBbz() {
           num5="40" name5="dragon-ball-z-dublado"
           num6="41" name6="dragon-ball-z-dublado"
         />
-        <SectionButtons 
+        <NewSectionButtons 
           num1="42" name1="dragon-ball-z-dublado"
           num2="43" name2="dragon-ball-z-dublado"
           num3="44" name3="dragon-ball-z-dublado"
@@ -23,7 +23,7 @@ export default function SeasonTwoBbz() {
           num5="46" name5="dragon-ball-z-dublado"
           num6="47" name6="dragon-ball-z-dublado"
         />
-        <SectionButtons 
+        <NewSectionButtons 
           num1="48" name1="dragon-ball-z-dublado"
           num2="49" name2="dragon-ball-z-dublado"
           num3="50" name3="dragon-ball-z-dublado"
@@ -32,7 +32,7 @@ export default function SeasonTwoBbz() {
           num6="53" name6="dragon-ball-z-dublado"
         />
 
-        <SectionButtons 
+        <NewSectionButtons 
           num1="54" name1="dragon-ball-z-dublado"
           num2="55" name2="dragon-ball-z-dublado"
           num3="56" name3="dragon-ball-z-dublado"
@@ -41,7 +41,7 @@ export default function SeasonTwoBbz() {
           num6="59" name6="dragon-ball-z-dublado"
         />
 
-        <SectionButtons 
+        <NewSectionButtons 
           num1="60" name1="dragon-ball-z-dublado"
           num2="61" name2="dragon-ball-z-dublado"
           num3="62" name3="dragon-ball-z-dublado"
@@ -50,7 +50,7 @@ export default function SeasonTwoBbz() {
           num6="65" name6="dragon-ball-z-dublado"
         />
 
-        <SectionButtons 
+        <NewSectionButtons 
           num1="66" name1="dragon-ball-z-dublado"
           num2="67" name2="dragon-ball-z-dublado"
           num3="68" name3="dragon-ball-z-dublado"
@@ -59,7 +59,7 @@ export default function SeasonTwoBbz() {
           num6="71" name6="dragon-ball-z-dublado"
         />
 
-        <SectionButtons 
+        <NewSectionButtons 
           num1="72" name1="dragon-ball-z-dublado"
           num2="73" name2="dragon-ball-z-dublado"
           num3="74" name3="dragon-ball-z-dublado"
@@ -68,7 +68,7 @@ export default function SeasonTwoBbz() {
           num6="77" name6="dragon-ball-z-dublado"
         />
 
-        <SectionButtons 
+        <NewSectionButtons 
           num1="78" name1="dragon-ball-z-dublado"
           num2="79" name2="dragon-ball-z-dublado"
           num3="80" name3="dragon-ball-z-dublado"
@@ -77,7 +77,7 @@ export default function SeasonTwoBbz() {
           num6="83" name6="dragon-ball-z-dublado"
         />
 
-        <SectionButtons 
+        <NewSectionButtons 
           num1="84" name1="dragon-ball-z-dublado"
           num2="85" name2="dragon-ball-z-dublado"
           num3="86" name3="dragon-ball-z-dublado"
@@ -86,7 +86,7 @@ export default function SeasonTwoBbz() {
           num6="89" name6="dragon-ball-z-dublado"
         />
 
-        <SectionButtons 
+        <NewSectionButtons 
           num1="90" name1="dragon-ball-z-dublado"
           num2="91" name2="dragon-ball-z-dublado"
           num3="92" name3="dragon-ball-z-dublado"
@@ -96,10 +96,10 @@ export default function SeasonTwoBbz() {
         />
 
         <section className="episodeButtons">
-          <SectionLinks num="96" name="dragon-ball-z-dublado" />
-          <SectionLinks num="97" name="dragon-ball-z-dublado" />
-          <SectionLinks num="98" name="dragon-ball-z-dublado" />
-          <SectionLinks num="99" name="dragon-ball-z-dublado" />
+          <NewSectionLinks num="96" name="dragon-ball-z-dublado" />
+          <NewSectionLinks num="97" name="dragon-ball-z-dublado" />
+          <NewSectionLinks num="98" name="dragon-ball-z-dublado" />
+          <NewSectionLinks num="99" name="dragon-ball-z-dublado" />
         </section>
       </section>
     </div>

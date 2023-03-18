@@ -1,13 +1,13 @@
 import "../styles.css";
-import SectionLinks from "../../SectionLinks";
-import SectionButtons from "../../SectionButtons";
+import NewSectionLinks from "../../NewSectionLinks";
+import NewSectionButtons from "../../NewSectionButtons";
 
 export default function SeasonFive() {
   return (
     <div className="containerEps">
       <h1 className="text-center text-4xl font-bold">Saga de Piccolo Daimaoh e Piccolo Jr.</h1>
       <section className="mt-8 flex flex-col items-center">
-        <SectionButtons 
+        <NewSectionButtons 
           num1="102" name1={`dragon-ball-dublado`}
           num2="103" name2={`dragon-ball-dublado`}
           num3="104" name3={`dragon-ball-dublado`}
@@ -16,7 +16,7 @@ export default function SeasonFive() {
           num6="107" name6={`dragon-ball-dublado`}
         />
 
-        <SectionButtons 
+        <NewSectionButtons 
           num1="108" name1={`dragon-ball-dublado`}
           num2="109" name2={`dragon-ball-dublado`}
           num3="110" name3={`dragon-ball-dublado`}
@@ -25,7 +25,7 @@ export default function SeasonFive() {
           num6="113" name6={`dragon-ball-dublado`}
         />
 
-        <SectionButtons 
+        <NewSectionButtons 
           num1="114" name1={`dragon-ball-dublado`}
           num2="115" name2={`dragon-ball-dublado`}
           num3="116" name3={`dragon-ball-dublado`}
@@ -34,7 +34,7 @@ export default function SeasonFive() {
           num6="119" name6={`dragon-ball-dublado`}
         />
 
-        <SectionButtons 
+        <NewSectionButtons 
           num1="120" name1={`dragon-ball-dublado`}
           num2="121" name2={`dragon-ball-dublado`}
           num3="122" name3={`dragon-ball-dublado`}
@@ -43,7 +43,7 @@ export default function SeasonFive() {
           num6="125" name6={`dragon-ball-dublado`}
         />
 
-        <SectionButtons 
+        <NewSectionButtons 
           num1="126" name1={`dragon-ball-dublado`}
           num2="127" name2={`dragon-ball-dublado`}
           num3="128" name3={`dragon-ball-dublado`}
@@ -52,7 +52,7 @@ export default function SeasonFive() {
           num6="131" name6={`dragon-ball-dublado`}
         />
 
-        <SectionButtons 
+        <NewSectionButtons 
           num1="132" name1={`dragon-ball-dublado`}
           num2="133" name2={`dragon-ball-dublado`}
           num3="134" name3={`dragon-ball-dublado`}
@@ -61,7 +61,7 @@ export default function SeasonFive() {
           num6="137" name6={`dragon-ball-dublado`}
         />
 
-        <SectionButtons 
+        <NewSectionButtons 
           num1="138" name1={`dragon-ball-dublado`}
           num2="139" name2={`dragon-ball-dublado`}
           num3="140" name3={`dragon-ball-dublado`}
@@ -70,7 +70,7 @@ export default function SeasonFive() {
           num6="143" name6={`dragon-ball-dublado`}
         />
 
-        <SectionButtons 
+        <NewSectionButtons 
           num1="144" name1={`dragon-ball-dublado`}
           num2="145" name2={`dragon-ball-dublado`}
           num3="146" name3={`dragon-ball-dublado`}
@@ -80,10 +80,10 @@ export default function SeasonFive() {
         />
 
         <section className="episodeButtons">
-          <SectionLinks num="150" name={`dragon-ball-dublado`} />
-          <SectionLinks num="151" name={`dragon-ball-dublado`} />
-          <SectionLinks num="152" name={`dragon-ball-dublado`} />
-          <SectionLinks num="153" name={`dragon-ball-dublado`} />
+          <NewSectionLinks num="150" name={`dragon-ball-dublado`} />
+          <NewSectionLinks num="151" name={`dragon-ball-dublado`} />
+          <NewSectionLinks num="152" name={`dragon-ball-dublado`} />
+          <NewSectionLinks num="153" name={`dragon-ball-dublado`} />
         </section>
       </section>
     </div>
