@@ -15,6 +15,7 @@ import DBSuperScreen from "./screens/DBSuperScreen";
 import DBHeroesScreen from "./screens/DBHScreen";
 import NewsScreen from "./screens/NewsScreen";
 import Video2 from "./screens/Video2";
+import VideoAlternative from "./screens/Video3";
 
 
 export function Router() {
@@ -28,6 +29,9 @@ export function Router() {
       </Route>
       <Route path="/video2">
         <Route path=":number/:url" element={<Video2 />} />
+      </Route>
+      <Route path="/video3">
+        <Route path=":number/:url" element={<VideoAlternative />} />
       </Route>
       <Route path="/assistir">
         <Route path=":name/:url" element={<MovieWatch />} />
