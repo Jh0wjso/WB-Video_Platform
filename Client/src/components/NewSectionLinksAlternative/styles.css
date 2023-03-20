@@ -1,6 +1,6 @@
 .linkToEpisode{
     @apply rounded text-center bg-orange-400 text-white font-bold p-5 text-xl;
-    @apply flex flex-col m-2 w-auto;
+    @apply flex flex-col m-2 w-[20vh];
     @apply hover:bg-orange-600;
 }
 
