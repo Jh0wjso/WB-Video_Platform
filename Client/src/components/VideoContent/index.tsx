@@ -9,7 +9,7 @@ export default function VideoContent({number, url}:InfoVideo) {
   return (
     <>
       <h1 className="epName">
-        Episodio de Hoje: <br/> {number}
+        Episodio: <br/> {number}
       </h1>
       <iframe
         aria-controls="none"

@@ -14,7 +14,7 @@ export default function SectionLinks(obj: {name: string, num: string, url: strin
       to={`/video/${obj.name}/${obj.url}`}
       className="linkToEpisode"
     >
-      Episodio {obj.num}
+      Episodio {parseInt(obj.num) < 10 ? "0"+obj.num : obj.num}
     </Link>
   );
 }
