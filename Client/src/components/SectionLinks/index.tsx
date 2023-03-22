@@ -11,7 +11,7 @@ interface LinksDB {
 export default function SectionLinks(obj: {name: string, num: string, url: string }) {
   return (
     <Link
-      to={`/video/${obj.name}/${obj.url}`}
+      to={`/video/${obj.num}/${obj.url}`}
       className="linkToEpisode"
     >
       Episodio {parseInt(obj.num) < 10 ? "0"+obj.num : obj.num}
