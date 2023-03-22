@@ -19,7 +19,7 @@
     @apply font-bold text-white;
 }
 
-@media screen and (max-width: 1705px){
+@media screen and (max-width: 1755px){
     .sidebar{
         display: none;
     }
