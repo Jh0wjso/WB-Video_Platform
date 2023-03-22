@@ -70,9 +70,6 @@ export default function Header() {
               <li className="text-white hover:text-gray-500 transition-colors">
                 <Link to="/filmes">Filmes</Link>
               </li>
-              <li className="text-white hover:text-gray-500 transition-colors">
-                <Link to="/noticias">Noticias</Link>
-              </li>
             </ul>
           </div>
         </div>

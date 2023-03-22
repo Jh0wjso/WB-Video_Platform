@@ -6,13 +6,13 @@
     align-items: center;
 }
 
-@media screen and (max-width: 1705px){
+@media screen and (max-width: 1755px){
     .homeContent{
         width: 100%;
     }
 }
 
-@media screen and (min-width: 1706px){
+@media screen and (min-width: 1756px){
     .homeContent{
         width: 90%;
     }

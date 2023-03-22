@@ -13,7 +13,6 @@ import SpecialScreen from "./screens/SpecialScreen";
 import DBKaiScreen from "./screens/DBKaiScreen";
 import DBSuperScreen from "./screens/DBSuperScreen";
 import DBHeroesScreen from "./screens/DBHScreen";
-import NewsScreen from "./screens/NewsScreen";
 import Video2 from "./screens/Video2";
 import VideoAlternative from "./screens/Video3";
 
@@ -44,7 +43,6 @@ export function Router() {
       <Route path="/dbkai" element={<DBKaiScreen />} />
       <Route path="/dbsuper" element={<DBSuperScreen />} />
       <Route path="/dbheroes" element={<DBHeroesScreen />} />
-      <Route path="/noticias" element={<NewsScreen />} />
     </Routes>
   );
 }

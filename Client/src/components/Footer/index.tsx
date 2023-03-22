@@ -32,11 +32,6 @@ export default function Footer() {
               Filmes
             </Link>
           </li>
-          <li>
-            <Link to="/noticias" className="hover:text-gray-500">
-              Notícias
-            </Link>
-          </li>
         </ul>
       </div>
       <div className="container">
