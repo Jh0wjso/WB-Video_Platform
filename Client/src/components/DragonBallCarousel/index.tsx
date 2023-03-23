@@ -21,7 +21,7 @@ export default function DragonBallCarousel() {
         <Carousel cols={5} rows={1} gap={10} loop>
           <Carousel.Item>
             <Link
-              to="/video/O Prêmio da Paz! Quem vai ficar com os 100 Milhões de Zenis/1fz0GqbpP4fInBjHV_Yy0Z6fadMoRdPqv"
+              to="/video/1/1AfK-agZj5AmSdT7-_luJhNN6j46vn6yj"
               className="imageCarousel"
             >
               <img className="coverImage" src={DbS} />
@@ -30,7 +30,7 @@ export default function DragonBallCarousel() {
           </Carousel.Item>
           <Carousel.Item>
             <Link
-              to="/video/As Férias Prometidas! O Vegeta Viaja com a Família/1fg4xCXI8PHx9R3xvR-GRVZdSowYE7oy8"
+              to="/video/2/1AixDc3jH1mM4CJJ1FvKhhHBUuQkGqKQG"
               className="imageCarousel"
             >
               <img className="coverImage" src={DbS1} />
@@ -39,7 +39,7 @@ export default function DragonBallCarousel() {
           </Carousel.Item>
           <Carousel.Item>
             <Link
-              to="/video/Cadê o Resto do Meu Sonho?! Em Busca do Deus Super Saiyajin/1fvAIZqfwbGJQ57qyW4Cpqre6TPgPw6iP"
+              to="/video/3/1Aj-qAkMZPkwJDNfJFcmtBTEOUYfa1dwO"
               className="imageCarousel"
             >
               <img className="coverImage" src={DbS2} />
@@ -48,7 +48,7 @@ export default function DragonBallCarousel() {
           </Carousel.Item>
           <Carousel.Item>
             <Link
-              to="/video/Em Busca das Esferas do Dragão! O Grande Plano de Pilaf/1flXZsiMZzfgrwlqRmo0S8HAsrCozUwHJ"
+              to="/video/4/1AzRiHMwzr8baOpOkKvWu47BMvBJnvqG9"
               className="imageCarousel"
             >
               <img className="coverImage" src={DbS} />
@@ -57,7 +57,7 @@ export default function DragonBallCarousel() {
           </Carousel.Item>
           <Carousel.Item>
             <Link
-              to="/video/Grande Luta no Planeta do Senhor Kaioh! Goku vs. Bills/1fqIp8Z9kq1J_QQURhk2HZDuEPRD2LK3z"
+              to="/video/5/1AIxGio6_UzVUkSbyI7Gy5u1eQdZmsWd0"
               className="imageCarousel"
             >
               <img className="coverImage" src={DbS1} />
@@ -66,7 +66,7 @@ export default function DragonBallCarousel() {
           </Carousel.Item>
           <Carousel.Item>
             <Link
-              to="/video/Não Irritem o Deus da Destruição! Uma Festa de Aniversário Animada/1fsTfVgVlflgjtr6GcHsaEnTS9M2AmX99"
+              to="/video/6/1AP7HKYNlXWpxWfQiDcUIg7YPb3obEnoN"
               className="imageCarousel"
             >
               <img className="coverImage" src={DbS2} />
@@ -75,7 +75,7 @@ export default function DragonBallCarousel() {
           </Carousel.Item>
           <Carousel.Item>
             <Link
-              to="/video/Como Ousa Bater na Minha Bulma? Vegeta Fica Furioso de Repente/1gQik47Ywt8jPOUVd635eRl65BZg3KwB8"
+              to="/video/7/1BI7iPLga32D7hs0uUg6j3YTO-FiwhfVZ"
               className="imageCarousel"
             >
               <img className="coverImage" src={DbS} />
@@ -84,7 +84,7 @@ export default function DragonBallCarousel() {
           </Carousel.Item>
           <Carousel.Item>
             <Link
-              to="/video/Goku Aparece! Bills Nos Dá Uma Última Chance/1g6_MpfrNXzQEKX2emgd6495Blue3YDyn"
+              to="/video/8/1BL9YlBBWZmShBEuWkbyzLu2Q0rJ292wG"
               className="imageCarousel"
             >
               <img className="coverImage" src={DbS1} />
@@ -93,7 +93,7 @@ export default function DragonBallCarousel() {
           </Carousel.Item>
           <Carousel.Item>
             <Link
-              to="/video/Desculpe a Demora, Senhor Bills! Finalmente Nasce o Deus/1gB98181hbyi37RNhujrXHShdtTzApUA8"
+              to="/video/9/1B5W2Ye2oL_qlh97D0pBWWaEeKXg5OgW6"
               className="imageCarousel"
             >
               <img className="coverImage" src={DbS2} />
@@ -102,7 +102,7 @@ export default function DragonBallCarousel() {
           </Carousel.Item>
           <Carousel.Item>
             <Link
-              to="/video/Mostre a Ele, Goku! O Poder do Deus Super Saiyajin/1BBovwQiXC890WCpagLe2JGIw1O3EFn_f"
+              to="/video/10/1BBovwQiXC890WCpagLe2JGIw1O3EFn_f"
               className="imageCarousel"
             >
               <img className="coverImage" src={DbS} />
