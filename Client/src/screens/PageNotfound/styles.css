@@ -1,0 +1,17 @@
+.btnBack{
+    @apply rounded text-center bg-orange-400 text-white font-bold p-5 text-xl;
+    @apply flex flex-col m-2 w-auto;
+    @apply hover:bg-orange-600;
+}
+
+.tittleErrorMessage{
+    @apply text-4xl md:text-5xl mb-3 text-center font-bold;
+}
+
+.subTittleErrorMessage{
+    @apply text-xl md:text-2xl mb-3 text-center font-medium;
+}
+
+.imgIcon{
+    @apply rounded mb-2;
+}

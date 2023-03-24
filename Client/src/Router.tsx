@@ -15,6 +15,7 @@ import DBSuperScreen from "./screens/DBSuperScreen";
 import DBHeroesScreen from "./screens/DBHScreen";
 import Video2 from "./screens/Video2";
 import VideoAlternative from "./screens/Video3";
+import PageNotFound from "./screens/PageNotfound";
 
 
 export function Router() {
@@ -43,6 +44,7 @@ export function Router() {
       <Route path="/dbkai" element={<DBKaiScreen />} />
       <Route path="/dbsuper" element={<DBSuperScreen />} />
       <Route path="/dbheroes" element={<DBHeroesScreen />} />
+      <Route path="/*" element={<PageNotFound />} />
     </Routes>
   );
 }
