@@ -1,6 +1,7 @@
 import "../styles.css";
 import SectionButtons from "../../SectionButtons";
 import SectionLinks from "../../SectionLinks";
+import NewSectionLinks from "../../NewSectionLinks";
 
 export default function SeasonOneBbz() {
   return (
@@ -55,6 +56,7 @@ export default function SeasonOneBbz() {
           <SectionLinks num="34" url="12gdIveLOSY242i4k5KE85Of37EUD0CQC" name="Pegue-o Kuririn! Uma Genki-Dama cheia de esperança" />
           <SectionLinks num="35" url="1y-peVZo8bBxS2MFv0NPBRwGEVrLw_Ikx" name="Ocorre um milagre! A transformação de Gohan" />
         </section>
+        <NewSectionLinks num="1" name="dragon-ball-z-dublado" />
       </section>
     </div>
   );
