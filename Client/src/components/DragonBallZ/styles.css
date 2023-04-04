@@ -1,5 +1,5 @@
 .episodeButtons{
-    @apply flex flex-row my-5;
+    @apply flex flex-row my-5 container justify-center items-center;
 }
 
 /*1150*/
