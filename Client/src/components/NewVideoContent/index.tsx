@@ -29,7 +29,7 @@ export default function NewVideoContent({ number, url }: InfoVideo) {
       <div className="containerHelp">
         <h3 className="helpText">Algum problema com o vídeo?</h3>
         <a
-          href={`https://ns565646.ip-51-79-16.net/Uploads/Animes/D/${number}/${url}.MP4`}
+          href={`https://lightspeedst.net/s2/mp4/${number}/sd/${url}.mp4`}
           target="_blank"
           className="btnHelp"
         >
