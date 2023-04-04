@@ -11,25 +11,16 @@ export default function NewVideoContent({ number, url }: InfoVideo) {
       <h1 className="epName">
         Episodio: <br /> {url}
       </h1>
-      <video
-        id="my-video_html5_api"
-        controls
-        poster={Cover}
+      <iframe
+        src={`https://assistonlineapi.online/make/check/?list=${number}`}
+        height="100%"
+        width="100%"
         className="videoContent"
-        preload="auto"
-        data-setup="{}"
-        data-source="0"
-        data-video-src={`https://animefire.net/video/${number}/${url}?tempsubs=0&amp;1680610616`}
-      >
-        <source
-          src={`https://lightspeedst.net/s2/mp4/${number}/sd/${url}.mp4`}
-          type="video/mp4"
-        />
-      </video>
+      ></iframe>
       <div className="containerHelp">
         <h3 className="helpText">Algum problema com o vídeo?</h3>
         <a
-          href={`https://lightspeedst.net/s2/mp4/${number}/sd/${url}.mp4`}
+          href={`https://assistonlineapi.online/make/check/?list=${number}`}
           target="_blank"
           className="btnHelp"
         >
