@@ -3,7 +3,7 @@
 }
 
 .videoContent {
-  @apply h-[250px] md:h-[600px] w-[100%] md:w-[70%] rounded-xl bg-gray-700;
+  @apply h-[250px] md:h-[600px] w-[100%] md:w-[50%] rounded-xl bg-gray-700;
 }
 
 .helpText {

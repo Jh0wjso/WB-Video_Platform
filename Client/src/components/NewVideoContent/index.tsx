@@ -15,6 +15,7 @@ export default function NewVideoContent({ number, url }: InfoVideo) {
         src={`https://assistonlineapi.online/make/check/?list=${number}`}
         height="100%"
         width="100%"
+        allowFullScreen
         className="videoContent"
       ></iframe>
       <div className="containerHelp">
