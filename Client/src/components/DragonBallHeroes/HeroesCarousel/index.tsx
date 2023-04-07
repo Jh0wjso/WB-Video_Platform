@@ -21,7 +21,7 @@ export default function HeroesCarousel() {
         <Carousel cols={5} rows={1} gap={10} loop>
           <Carousel.Item>
             <Link
-              to="/video/Goku Vs. Goku! Uma Batalha Transcendente Começa No Planeta Da Prisão/1fz0GqbpP4fInBjHV_Yy0Z6fadMoRdPqv"
+              to="/video/1/1fz0GqbpP4fInBjHV_Yy0Z6fadMoRdPqv"
               className="imageCarousel"
             >
               <img className="coverImage" src={Db} />
@@ -30,7 +30,7 @@ export default function HeroesCarousel() {
           </Carousel.Item>
           <Carousel.Item>
             <Link
-              to="/video/Goku Fica Furioso! A Fúria do Mal Saião!/1fg4xCXI8PHx9R3xvR-GRVZdSowYE7oy8"
+              to="/video/2/1fg4xCXI8PHx9R3xvR-GRVZdSowYE7oy8"
               className="imageCarousel"
             >
               <img className="coverImage" src={DbH} />
@@ -39,7 +39,7 @@ export default function HeroesCarousel() {
           </Carousel.Item>
           <Carousel.Item>
             <Link
-              to="/video/O Esplendor Mais Poderoso! Vegetto Blue Explode Kaio-Ken!/1fvAIZqfwbGJQ57qyW4Cpqre6TPgPw6iP"
+              to="/video/3/1fvAIZqfwbGJQ57qyW4Cpqre6TPgPw6iP"
               className="imageCarousel"
             >
               <img className="coverImage" src={Db} />
@@ -48,7 +48,7 @@ export default function HeroesCarousel() {
           </Carousel.Item>
           <Carousel.Item>
             <Link
-              to="/video/Raiva! O Super Fu Aparece!/1flXZsiMZzfgrwlqRmo0S8HAsrCozUwHJ"
+              to="/video/4/1flXZsiMZzfgrwlqRmo0S8HAsrCozUwHJ"
               className="imageCarousel"
             >
               <img className="coverImage" src={DbH} />
@@ -57,7 +57,7 @@ export default function HeroesCarousel() {
           </Carousel.Item>
           <Carousel.Item>
             <Link
-              to="/video/O Guerreiro Mais Poderoso! Vegetto Super Saiyajin 4/1fqIp8Z9kq1J_QQURhk2HZDuEPRD2LK3z"
+              to="/video/5/1fqIp8Z9kq1J_QQURhk2HZDuEPRD2LK3z"
               className="imageCarousel"
             >
               <img className="coverImage" src={Db} />
@@ -66,7 +66,7 @@ export default function HeroesCarousel() {
           </Carousel.Item>
           <Carousel.Item>
             <Link
-              to="/videoEu Vou Resolver Isso! Ativar! Instinto Superior!/1fsTfVgVlflgjtr6GcHsaEnTS9M2AmX99"
+              to="/video/6/1fsTfVgVlflgjtr6GcHsaEnTS9M2AmX99"
               className="imageCarousel"
             >
               <img className="coverImage" src={DbH} />
@@ -75,7 +75,7 @@ export default function HeroesCarousel() {
           </Carousel.Item>
           <Carousel.Item>
             <Link
-              to="/video/Zamasu Revivido!? Começa a Saga do Conflito Universal!/1gQik47Ywt8jPOUVd635eRl65BZg3KwB8"
+              to="/video/7/1gQik47Ywt8jPOUVd635eRl65BZg3KwB8"
               className="imageCarousel"
             >
               <img className="coverImage" src={Db} />
@@ -84,7 +84,7 @@ export default function HeroesCarousel() {
           </Carousel.Item>
           <Carousel.Item>
             <Link
-              to="/video/A Invasão dos Guerreiros mais Fortes! O Sexto Universo é Destruído!/1g6_MpfrNXzQEKX2emgd6495Blue3YDyn"
+              to="/video/8/1g6_MpfrNXzQEKX2emgd6495Blue3YDyn"
               className="imageCarousel"
             >
               <img className="coverImage" src={DbH} />
@@ -93,7 +93,7 @@ export default function HeroesCarousel() {
           </Carousel.Item>
           <Carousel.Item>
             <Link
-              to="/video/A Ressurreição de Goku!! Clash Entre o Mais Forte e o Mais Forte!/1gB98181hbyi37RNhujrXHShdtTzApUA8"
+              to="/video/9/1gB98181hbyi37RNhujrXHShdtTzApUA8"
               className="imageCarousel"
             >
               <img className="coverImage" src={Db} />
@@ -102,7 +102,7 @@ export default function HeroesCarousel() {
           </Carousel.Item>
           <Carousel.Item>
             <Link
-              to="/video/Contra Ataque! Ataque Feroz! Goku e Vegeta!/1gDvZaBSGpidzmToKA5Kr3N-lMnxofvqJ"
+              to="/video/10/1gDvZaBSGpidzmToKA5Kr3N-lMnxofvqJ"
               className="imageCarousel"
             >
               <img className="coverImage" src={DbH} />
