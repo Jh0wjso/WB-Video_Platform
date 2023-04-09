@@ -1,10 +1,10 @@
 # 🎬 WatchBall - Video Platform
 
-Platform created with the aim of creating a safe, free platform without those annoying advertisements, to watch all Dragon Ball content, whether movies, anime, OVAs and specials.
+This platform was designed with the primary goal of providing a secure and ad-free environment for viewers to access a vast collection of Dragon Ball content, including movies, anime series, OVAs, and specials. Our platform strives to enhance the viewing experience for fans by eliminating the intrusive advertisements commonly found on other streaming services. With our platform, you can immerse yourself in the world of Dragon Ball without any interruptions, enjoying seamless access to all your favorite content.
 
 ## 💻 Client
 
-This is the project where all the project files are, the project was created using ReactJs, Tailwindss, and Postcss. Inside the src/ folder are all the project components and pages, images, etc.
+This project contains all the necessary files, including ReactJS, TailwindCSS, and PostCSS, to create a stunning web application. All the essential components, pages, images, and other resources are located in the "src/" folder. Whether you are looking to develop a new feature or make changes to an existing one, this project provides a solid foundation for building a dynamic and engaging user interface.
 
 ## 🛠️ Tools used to create the Client
 
