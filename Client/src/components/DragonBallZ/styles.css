@@ -1,11 +1,5 @@
-.episodeButtons{
-    @apply flex flex-row my-5 container justify-center items-center;
+.episodeButtonsZ{
+    @apply flex flex-wrap my-5 justify-center items-center;
 }
 
 /*1150*/
-
-@media screen and (max-width: 1150px){
-    .episodeButtons{
-        @apply flex flex-col my-5;
-    }
-}
