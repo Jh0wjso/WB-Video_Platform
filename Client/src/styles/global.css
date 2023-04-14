@@ -38,3 +38,7 @@ body {
 ::-webkit-scrollbar-thumb:hover {
   background: #111010;
 }
+
+.episodeButtonsZ{
+  @apply flex flex-wrap my-5 justify-center items-center;
+}
