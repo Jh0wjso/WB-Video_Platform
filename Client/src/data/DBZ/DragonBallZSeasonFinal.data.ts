@@ -361,4 +361,12 @@ export const DBZSeasonFinalData: EpInfo[] = [
     num: "289",
     name: "420fbc7e97d82252",
   },
+  {
+    num: "290",
+    name: "bbf8caa9b7be842a",
+  },
+  {
+    num: "291",
+    name: "bcf9255bbd604b1a",
+  },
 ];
