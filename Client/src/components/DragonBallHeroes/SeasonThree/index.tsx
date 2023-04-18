@@ -16,13 +16,13 @@ export default function SeasonThreeHeroes() {
           num6="25" url6="1hExOBjJBb7fynMFl3rT0klF1qnzvydLC" name6={`Uma Batalha Decisiva no Inferno! Um Novo Janemba!`}
         />
         <section className="episodeButtons">
-          <SectionLinks num="26" url="1h3f7C3QSsjqvkSn9P04N45SsMTTXRbSc" name={`A Explosão do Punho do Dragão! O Poder Completo do SSJ4 Quebrando Limites!`} />
-          <SectionLinks num="27" url="1h64LuKmAABh9HkoCfpIJ1F1seHdTlxt1" name={`Terror Violento! O Retorno da Aura Maligna!`} />
-          <SectionLinks num="28" url="1h6nvucxFUOg5gPWHi-9TIPlomv-KKbrM" name={`Batalha Feroz no Espaço-Tempo! Vegetto vs Super Fu`} />
+          <SectionLinks num="26" url="1h3f7C3QSsjqvkSn9P04N45SsMTTXRbSc" />
+          <SectionLinks num="27" url="1h64LuKmAABh9HkoCfpIJ1F1seHdTlxt1" />
+          <SectionLinks num="28" url="1h6nvucxFUOg5gPWHi-9TIPlomv-KKbrM" />
         </section>
         <h1 className="text-center text-4xl font-bold">Especial</h1>
         <section className="episodeButtons">
-          <SectionLinks num="29" url="1hCeQvA_UfwQVIYPitrdAQG-ZgA9DpJpi" name={`Avance Para os Heróis Dragon Ball do Campo de Batalha!`} />
+          <SectionLinks num="29" url="1hCeQvA_UfwQVIYPitrdAQG-ZgA9DpJpi" />
         </section>
       </section>
     </div>

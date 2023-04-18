@@ -24,7 +24,7 @@ export default function SeasonTwoSuper() {
           num6="26" url6="1DJILPGnZnwIOburDJewKoc6uyo5eOyLv" name6="Um Vislumbre de Esperança! É Hora de Revidar, Son Goku"
         />
         <section className="episodeButtons">
-          <SectionLinks num="27" url="1DT4AlXhzKge0afj9LilTHlCgaOZhOVdT" name="A Terra Explodiu?! O Kame Hame Ha Decisivo" />
+          <SectionLinks num="27" url="1DT4AlXhzKge0afj9LilTHlCgaOZhOVdT" />
         </section>
       </section>
     </div>

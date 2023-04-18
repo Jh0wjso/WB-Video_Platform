@@ -80,7 +80,7 @@ export default function SeasonFinalSuper() {
           num6="130" url6="1NRynNstUMZVpW9yongHxOGkoA8E5Zsi1" name6={`A Maior Luta de Todos os Tempos! A Batalha Definitiva pela Sobrevivência!`}
         />
         <section className="episodeButtons">
-          <SectionLinks num="131" url="1Nb1mlke4isTHUMeqQ_p26FO52l3pl7mm" name={`Desfecho Milagroso! Adeus, Goku, Nos Vemos em Breve!`} />
+          <SectionLinks num="131" url="1Nb1mlke4isTHUMeqQ_p26FO52l3pl7mm" />
         </section>
       </section>
     </div>

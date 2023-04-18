@@ -24,8 +24,8 @@ export default function SeasonOneSuper() {
           num6="12" url6="1BQv88bwUbtvT1bAbcbP3Z5qqfy7gylVh" name6="O Universo Vai Ser Destruído?! O Deus da Destruição vs. O Deus Super"
         />
         <section className="episodeButtons">
-          <SectionLinks num="13" url="1BfZ6utr0UYu2JK-GIhvAa7ow-YfrEi-N" name="Goku! Ultrapasse os Limites do Deus Super Saiyajin" />
-          <SectionLinks num="14" url="1BhCQweQ9eLU6XROxr4gh34u36ZQzdXqC" name="Este é Todo o Poder Que Possuo! O Desfecho da Batalha dos Deuses" />
+          <SectionLinks num="13" url="1BfZ6utr0UYu2JK-GIhvAa7ow-YfrEi-N" />
+          <SectionLinks num="14" url="1BhCQweQ9eLU6XROxr4gh34u36ZQzdXqC" />
         </section>
       </section>
     </div>

@@ -23,7 +23,7 @@ export default function SeasonTwoHeroes() {
           num5="17" url5="1gQ_NtFggSkVcfABzWVMohCD46QQq4rAb" name5={`O Deus Divino Final! Hearts Nasce!`}
           num6="18" url6="1gU1I-mB_2jtpNIcLh7dMaD6u1lxikZKz" name6={`Batalha Super Decisiva! Gogeta vs. Hearts!`}
         />
-        <SectionLinks num="19" url="1g7XEVJ1gbqFjAofFi-BKG8oGWH-l2C5h" name={`Conclusão Final! O Conflito Universal Termina!`} />
+        <SectionLinks num="19" url="1g7XEVJ1gbqFjAofFi-BKG8oGWH-l2C5h" />
       </section>
     </div>
   );

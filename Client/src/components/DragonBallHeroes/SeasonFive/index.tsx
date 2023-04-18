@@ -19,12 +19,10 @@ export default function SeasonFiveHeroes() {
           <SectionLinks
             num="39"
             url="1lS5HvESEyzok_W-LXfyRj3laHZGbrMy-"
-            name={`A Ameaça Obstrutiva De Fu! O Nascimento Do Milagrosamente Forte Combi!`}
           />
           <SectionLinks
             num="40"
             url="1liykwjBh92PI4gRUCap9MbGjJw9Cw1AP"
-            name={`O Último Poder Total! Batalha Feroz Pelo Futuro, Finalmente Resolvida!`}
           />
         </section>
       </section>

@@ -32,7 +32,7 @@ export default function SeasonThreeSuper() {
           num6="45" url6="1F33JaM0DPHnHeELqwHXkD_A0syhKSqtd" name6={`Reviravolta Total! A Ameaça do Falso Vegeta!`}
         />
         <section className="episodeButtons">
-          <SectionLinks num="46" url="1FCNLK5qORSzkbmvBukQiKBn1eR2KPeLK" name={`Goku vs. o Falso Vegeta! Quem Vai Vencer?!`} />
+          <SectionLinks num="46" url="1FCNLK5qORSzkbmvBukQiKBn1eR2KPeLK" />
         </section>
       </section>
     </div>
