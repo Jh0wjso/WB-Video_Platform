@@ -8,12 +8,12 @@ export default function SeasonThreeHeroes() {
       <h1 className="text-center text-4xl font-bold">Saga Criação do Universo</h1>
       <section className="mt-8 flex flex-col items-center">
         <SectionButtons 
-          num1="20" url1="1gxXbvPiiBoQcQgb1dD7z1fEZ7LP6cqUJ" name1={`Batalha Decisiva!`}
-          num2="21" url2="1h36f6ZQfa3agqL8P3MPCPv_4IFliQZ9k" name2={`O inicio de uma nova batalha!`}
-          num3="22" url3="1h3VwOWKz31AAb2aiw3C_tvhZkd1rn0sT" name3={`A ameaça da Terrível Arvore do Universo!`}
-          num4="23" url4="1gtqWFnWUBtXf0bLgCBMBg86CGVCppU5C" name4={`A Revanche dos Adversários Poderosos!`}
-          num5="24" url5="1hEcwF-ohjG3mJXdYFAYXjhu2ackLtDR5" name5={`Uma Sobra Se Aproxima o Homem Misterioso, Dr.W!`}
-          num6="25" url6="1hExOBjJBb7fynMFl3rT0klF1qnzvydLC" name6={`Uma Batalha Decisiva no Inferno! Um Novo Janemba!`}
+          num1="20" url1="1gxXbvPiiBoQcQgb1dD7z1fEZ7LP6cqUJ"
+          num2="21" url2="1h36f6ZQfa3agqL8P3MPCPv_4IFliQZ9k"
+          num3="22" url3="1h3VwOWKz31AAb2aiw3C_tvhZkd1rn0sT"
+          num4="23" url4="1gtqWFnWUBtXf0bLgCBMBg86CGVCppU5C"
+          num5="24" url5="1hEcwF-ohjG3mJXdYFAYXjhu2ackLtDR5"
+          num6="25" url6="1hExOBjJBb7fynMFl3rT0klF1qnzvydLC"
         />
         <section className="episodeButtons">
           <SectionLinks num="26" url="1h3f7C3QSsjqvkSn9P04N45SsMTTXRbSc" />

@@ -8,12 +8,12 @@ export default function SeasonFiveHeroes() {
       <h1 className="text-center text-4xl font-bold">Saga Criação do Universo</h1>
       <section className="mt-8 flex flex-col items-center">
         <SectionButtons 
-          num1="33" url1="1leWmzCnjKAwzDbivYRtck-ATyh6Y44Ew" name1={`Nova Guerra Espaço-Tempo! A Batalha Feroz Final Começa!`}
-          num2="34" url2="1ldc5ocB9zkMU3RqN4zQvSZkDrms1XvMQ" name2={`O Guerreiro de Preto Aparece! Uma Nova Aventura Começa!`}
-          num3="35" url3="1l_ElThwrvdZuDWL99awjCS31M39VIPcx" name3={`O Orgulho Da Raça Guerreira! Vegeta, Despertando!!`}
-          num4="36" url4="1lXcD2fXcOzgbYvPCo28JQBI2az_QTigf" name4={`Super Saiyan Rosé Vs. Ultra Instinct! Um Grande Duelo Que Abala O Planeta!`}
-          num5="37" url5="1lSrZJKHOiiyT7JqIChxoOm_jUnOH1dQ-" name5={`Guerreiro De Preto Vs. Goku Preto! O Enredo Sombrio Se Torna Claro!`}
-          num6="38" url6="1lSLINDZNWhVNNK3tahAWXgEVz91DRhNd" name6={`A Batalha Final No Universo Falso! Confronto De Azul E Escarlate`}
+          num1="33" url1="1leWmzCnjKAwzDbivYRtck-ATyh6Y44Ew"
+          num2="34" url2="1ldc5ocB9zkMU3RqN4zQvSZkDrms1XvMQ"
+          num3="35" url3="1l_ElThwrvdZuDWL99awjCS31M39VIPcx"
+          num4="36" url4="1lXcD2fXcOzgbYvPCo28JQBI2az_QTigf"
+          num5="37" url5="1lSrZJKHOiiyT7JqIChxoOm_jUnOH1dQ-"
+          num6="38" url6="1lSLINDZNWhVNNK3tahAWXgEVz91DRhNd"
         />
         <section className="episodeButtons">
           <SectionLinks
