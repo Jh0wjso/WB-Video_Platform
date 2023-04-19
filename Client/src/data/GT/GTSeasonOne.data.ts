@@ -2,39 +2,39 @@ import { EpInfo }  from '../EpContent'
 
 export const GTSeasonOneData : EpInfo[] = [
     {
-        num: "1",
+        num: "01",
         name: "dragon-ball-gt-dublado-3-temporada-dublado",
     },
     {
-        num: "2",
+        num: "02",
         name: "dragon-ball-gt-dublado-3-temporada-dublado",
     },
     {
-        num: "3",
+        num: "03",
         name: "dragon-ball-gt-dublado-3-temporada-dublado",
     },
     {
-        num: "4",
+        num: "04",
         name: "dragon-ball-gt-dublado-3-temporada-dublado",
     },
     {
-        num: "5",
+        num: "05",
         name: "dragon-ball-gt-dublado-3-temporada-dublado",
     },
     {
-        num: "6",
+        num: "06",
         name: "dragon-ball-gt-dublado-3-temporada-dublado",
     },
     {
-        num: "7",
+        num: "07",
         name: "dragon-ball-gt-dublado-3-temporada-dublado",
     },
     {
-        num: "8",
+        num: "08",
         name: "dragon-ball-gt-dublado-3-temporada-dublado",
     },
     {
-        num: "9",
+        num: "09",
         name: "dragon-ball-gt-dublado-3-temporada-dublado",
     },
     {
