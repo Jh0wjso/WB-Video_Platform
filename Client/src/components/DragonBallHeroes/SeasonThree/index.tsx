@@ -1,29 +1,15 @@
 import "../styles.css";
-import SectionButtons from "../../SectionButtons";
 import SectionLinks from "../../SectionLinks";
+import { DBHSeasonThreeData } from "../../../data/DBH/DBHSeasonThree.data";
 
 export default function SeasonThreeHeroes() {
   return (
     <div className="containerEps">
       <h1 className="text-center text-4xl font-bold">Saga Criação do Universo</h1>
-      <section className="mt-8 flex flex-col items-center">
-        <SectionButtons 
-          num1="20" url1="1gxXbvPiiBoQcQgb1dD7z1fEZ7LP6cqUJ"
-          num2="21" url2="1h36f6ZQfa3agqL8P3MPCPv_4IFliQZ9k"
-          num3="22" url3="1h3VwOWKz31AAb2aiw3C_tvhZkd1rn0sT"
-          num4="23" url4="1gtqWFnWUBtXf0bLgCBMBg86CGVCppU5C"
-          num5="24" url5="1hEcwF-ohjG3mJXdYFAYXjhu2ackLtDR5"
-          num6="25" url6="1hExOBjJBb7fynMFl3rT0klF1qnzvydLC"
-        />
-        <section className="episodeButtons">
-          <SectionLinks num="26" url="1h3f7C3QSsjqvkSn9P04N45SsMTTXRbSc" />
-          <SectionLinks num="27" url="1h64LuKmAABh9HkoCfpIJ1F1seHdTlxt1" />
-          <SectionLinks num="28" url="1h6nvucxFUOg5gPWHi-9TIPlomv-KKbrM" />
-        </section>
-        <h1 className="text-center text-4xl font-bold">Especial</h1>
-        <section className="episodeButtons">
-          <SectionLinks num="29" url="1hCeQvA_UfwQVIYPitrdAQG-ZgA9DpJpi" />
-        </section>
+      <section className="episodeButtonsZ">
+        {DBHSeasonThreeData.map((item) => (
+          <SectionLinks num={`${item.num}`} url={`${item.name}`} />
+        ))}
       </section>
     </div>
   );
