@@ -16,7 +16,7 @@
 }
 
 .newsTittle{
-    @apply font-bold text-white;
+    @apply font-bold text-white flex flex-wrap;
 }
 
 @media screen and (max-width: 1755px){
