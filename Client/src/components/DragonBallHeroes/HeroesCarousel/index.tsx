@@ -4,6 +4,7 @@ import { Link } from "react-router-dom";
 import Db from "../../../images/HeoresDbCover.jpeg";
 import DbH from "../../../images/HeroesCover2.jpg";
 import "./styles.css";
+import { HeroesCarouselData } from "../../../data/Carousel/HeroesCarousel.data";
 
 export default function HeroesCarousel() {
   return (
@@ -19,96 +20,17 @@ export default function HeroesCarousel() {
       </div>
       <div className="carouselDb p-5 text-center font-bold mb-5 container text-gray-700 border-2 w-full rounded-b-lg bg-gray-300 md:border-gray-700">
         <Carousel cols={5} rows={1} gap={10} loop>
-          <Carousel.Item>
-            <Link
-              to="/video/1/1fz0GqbpP4fInBjHV_Yy0Z6fadMoRdPqv"
-              className="imageCarousel"
-            >
-              <img className="coverImage" src={Db} />
-              <p>Goku Vs. Goku! Uma Batalha ...</p>
-            </Link>
-          </Carousel.Item>
-          <Carousel.Item>
-            <Link
-              to="/video/2/1fg4xCXI8PHx9R3xvR-GRVZdSowYE7oy8"
-              className="imageCarousel"
-            >
-              <img className="coverImage" src={DbH} />
-              <p>Goku Fica Furioso! ...</p>
-            </Link>
-          </Carousel.Item>
-          <Carousel.Item>
-            <Link
-              to="/video/3/1fvAIZqfwbGJQ57qyW4Cpqre6TPgPw6iP"
-              className="imageCarousel"
-            >
-              <img className="coverImage" src={Db} />
-              <p>O Esplendor Mais Poderoso! ...</p>
-            </Link>
-          </Carousel.Item>
-          <Carousel.Item>
-            <Link
-              to="/video/4/1flXZsiMZzfgrwlqRmo0S8HAsrCozUwHJ"
-              className="imageCarousel"
-            >
-              <img className="coverImage" src={DbH} />
-              <p>Raiva! O Super Fu Aparece!</p>
-            </Link>
-          </Carousel.Item>
-          <Carousel.Item>
-            <Link
-              to="/video/5/1fqIp8Z9kq1J_QQURhk2HZDuEPRD2LK3z"
-              className="imageCarousel"
-            >
-              <img className="coverImage" src={Db} />
-              <p>O Guerreiro Mais Poderoso! ...</p>
-            </Link>
-          </Carousel.Item>
-          <Carousel.Item>
-            <Link
-              to="/video/6/1fsTfVgVlflgjtr6GcHsaEnTS9M2AmX99"
-              className="imageCarousel"
-            >
-              <img className="coverImage" src={DbH} />
-              <p>Eu Vou Resolver Isso! Ativar...</p>
-            </Link>
-          </Carousel.Item>
-          <Carousel.Item>
-            <Link
-              to="/video/7/1gQik47Ywt8jPOUVd635eRl65BZg3KwB8"
-              className="imageCarousel"
-            >
-              <img className="coverImage" src={Db} />
-              <p>Zamasu Revivido!? Começa a...</p>
-            </Link>
-          </Carousel.Item>
-          <Carousel.Item>
-            <Link
-              to="/video/8/1g6_MpfrNXzQEKX2emgd6495Blue3YDyn"
-              className="imageCarousel"
-            >
-              <img className="coverImage" src={DbH} />
-              <p>A Invasão dos Guerreiros ...</p>
-            </Link>
-          </Carousel.Item>
-          <Carousel.Item>
-            <Link
-              to="/video/9/1gB98181hbyi37RNhujrXHShdtTzApUA8"
-              className="imageCarousel"
-            >
-              <img className="coverImage" src={Db} />
-              <p>A Ressurreição de ...</p>
-            </Link>
-          </Carousel.Item>
-          <Carousel.Item>
-            <Link
-              to="/video/10/1gDvZaBSGpidzmToKA5Kr3N-lMnxofvqJ"
-              className="imageCarousel"
-            >
-              <img className="coverImage" src={DbH} />
-              <p>Contra Ataque! Goku e ...</p>
-            </Link>
-          </Carousel.Item>
+          {HeroesCarouselData.map((item) => (
+            <Carousel.Item>
+              <Link
+                to={`/video/${item.ep}/${item.url}`}
+                className="imageCarousel"
+              >
+                <img className="coverImage" src={DbH} />
+                <p>{`${item.name}`}</p>
+              </Link>
+            </Carousel.Item>
+          ))}
         </Carousel>
       </div>
     </div>
