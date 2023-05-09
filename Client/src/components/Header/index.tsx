@@ -8,17 +8,17 @@ export default function Header() {
   const [navbar, setNavbar] = useState(false);
 
   return (
-    <nav className="w-full bg-gray-700 shadow">
-      <div className="justify-between px-4 mx-auto lg:max-w-7xl md:items-center md:flex md:px-8">
+    <nav className="containerHeader">
+      <div className="navbarContent">
         <div>
-          <div className="flex items-center justify-between py-3 md:py-5 md:block">
+          <div className="navBarView">
             <Link to="/" className="flex flex-row">
               <img src={Ball} width={35} className="mr-2" />
-              <h1 className="text-2xl md:text-3xl text-white font-bold">WATCHBALL</h1>
+              <h1 className="pageTittle">WATCHBALL</h1>
             </Link>
             <div className="md:hidden">
               <button
-                className="p-2 text-white rounded-md outline-none focus:border-gray-400 focus:border"
+                className="navbarButton"
                 onClick={() => setNavbar(!navbar)}
               >
                 {navbar ? (
@@ -56,18 +56,16 @@ export default function Header() {
         </div>
         <div>
           <div
-            className={`flex-1 justify-self-center pb-3 mt-8 md:block md:pb-0 md:mt-0 ${
-              navbar ? "block" : "hidden"
-            }`}
+            className={`flex-1 justify-self-center pb-3 mt-8 md:block md:pb-0 md:mt-0 ${navbar ? "block" : "hidden"}`}
           >
-            <ul className="items-center justify-center space-y-8 md:flex md:space-x-6 md:space-y-0">
-              <li className="text-white hover:text-gray-500 transition-colors">
+            <ul className="navbarLinksContainer">
+              <li className="navLink">
                 <Link to="/">Inicio</Link>
               </li>
-              <li className="text-white hover:text-gray-500 transition-colors">
+              <li className="navLink">
                 <Link to="/animes">Animes</Link>
               </li>
-              <li className="text-white hover:text-gray-500 transition-colors">
+              <li className="navLink">
                 <Link to="/filmes">Filmes</Link>
               </li>
             </ul>
