@@ -5,6 +5,18 @@ type SideBarInfo = {
 
 export const SideBarData : SideBarInfo[] = [
     {
+        name: "DB Heroes: Ep 49",
+        url: "1sjoeMbIM5BcoxYCEbxQ6v6BDzDE6oX50",
+    },
+    {
+        name: "DB Heroes: Ep 48",
+        url: "1dVXAXezZ41O1h0V82_bupYRb4RwRut_1",
+    },
+    {
+        name: "DB Heroes: Ep 47",
+        url: "15VhViVTmCfHZPcdSGsJAgpHKZ137ZnqX",
+    },
+    {
         name: "DB Heroes: Ep 46",
         url: "1-DhO14a8INhEIwti05IgjpeH90SRAKM3",
     },
@@ -35,17 +47,5 @@ export const SideBarData : SideBarInfo[] = [
     {
         name: "DB Heroes: Ep 40",
         url: "1liykwjBh92PI4gRUCap9MbGjJw9Cw1AP",
-    },
-    {
-        name: "DB Heroes: Ep 39",
-        url: "1lS5HvESEyzok_W-LXfyRj3laHZGbrMy-",
-    },
-    {
-        name: "DB Heroes: Ep 38",
-        url: "1lSLINDZNWhVNNK3tahAWXgEVz91DRhNd",
-    },
-    {
-        name: "DB Heroes: Ep 37",
-        url: "1lSrZJKHOiiyT7JqIChxoOm_jUnOH1dQ-",
     },
 ];
