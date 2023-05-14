@@ -25,4 +25,16 @@ export const DBHSeasonSixData : EpInfo[] = [
         num: "46",
         name: "1-DhO14a8INhEIwti05IgjpeH90SRAKM3",
     },
+    {
+        num: "47",
+        name: "15VhViVTmCfHZPcdSGsJAgpHKZ137ZnqX",
+    },
+    {
+        num: "48",
+        name: "1dVXAXezZ41O1h0V82_bupYRb4RwRut_1",
+    },
+    {
+        num: "49",
+        name: "1sjoeMbIM5BcoxYCEbxQ6v6BDzDE6oX50",
+    },
 ];
