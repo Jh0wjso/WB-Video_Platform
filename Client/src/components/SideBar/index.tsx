@@ -6,13 +6,10 @@ export default function Sidebar() {
   return (
     <aside className="sidebar">
       <span className="nameNews">Novidades</span>
-
       <div className="flex flex-col gap-8 items-center">
         {SideBarData.map((item) => (
           <Link to={`assistir/${item.name}/${item.url}`} className="cardNew">
-            <p className="newsTittle">
-              {item.name}
-            </p>
+            <p className="newsTittle">{item.name}</p>
           </Link>
         ))}
       </div>

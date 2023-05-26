@@ -1,6 +1,6 @@
 .cardNew{
-    @apply flex w-[90%] items-center justify-between p-3 border-b;
-    @apply hover:underline;
+    @apply flex w-[90%] items-center justify-center p-3 border-b;
+    @apply hover:underline hover:bg-white hover:rounded transition-colors hover:text-black;
 }
 
 .imgCardNew{
@@ -8,7 +8,7 @@
 }
 
 .sidebar{
-    @apply w-[15%] h-max bg-zinc-900 p-6 border-l border-gray-600 my-[5vh] rounded;
+    @apply w-[15%] h-max bg-zinc-900 p-6 border-l border-gray-600 my-[5vh] rounded ml-[1vh];
 }
 
 .nameNews{
@@ -16,7 +16,7 @@
 }
 
 .newsTittle{
-    @apply font-bold text-white flex flex-wrap;
+    @apply font-bold flex text-center flex-wrap;
 }
 
 @media screen and (max-width: 1755px){
