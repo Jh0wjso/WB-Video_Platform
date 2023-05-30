@@ -13,5 +13,5 @@
 }
 
 .imgIcon{
-    @apply rounded mb-2;
+    @apply rounded-full bg-[#ffffff48] mb-2;
 }
