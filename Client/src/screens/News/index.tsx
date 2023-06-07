@@ -1,8 +1,10 @@
+import Sidebar from "../../components/SideBar";
 import main from "../../images/DB_case.jpg";
 
 export default function News() {
   return (
     <div className="flex w-full justify-between flex-1 min-h-screen">
+      <Sidebar />
       <div className="min-h-screen flex flex-col container justify-center">
         <section className="flex flex-col container items-center mt-[5vh]">
           <div className="w-[90%] text-5xl font-bold mb-7">Hot topics</div>
