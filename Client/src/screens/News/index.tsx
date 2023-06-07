@@ -1,4 +1,5 @@
 import Sidebar from "../../components/SideBar";
+import { NewsTestData } from "../../data/News/Test/NewsTest.data";
 import main from "../../images/DB_case.jpg";
 
 export default function News() {
@@ -23,63 +24,17 @@ export default function News() {
           <div className="w-[90%] text-4xl font-bold mt-16 mb-7">
             Latests News
           </div>
-          <section className="flex flex-wrap justify-center items-center w-[80%]">
-            <div className="justify-between items-center m-5">
-              <img src={main} width={250} className="rounded" />
-              <div className="flex justify-between w-[50%] mt-3 opacity-80">
-                <p>1 hora</p>
-                <p>DBZ</p>
+          <section className="flex flex-wrap justify-center items-center w-[100%]">
+            {NewsTestData.map((item) => (
+              <div className="justify-between items-center m-5 w-[20%]">
+                <img src={main} width={300} className="rounded" />
+                <p className="text-ellipsis whitespace-nowrap overflow-hidden">{item.title}</p>
+                <div className="flex justify-between w-[70%] mt-3 opacity-80">
+                  <p>Posted {item.date}</p>
+                  <p>{item.category}</p>
+                </div>
               </div>
-            </div>
-            <div className="justify-between items-center m-5">
-              <img src={main} width={250} className="rounded" />
-              <div className="flex justify-between w-[50%] mt-3 opacity-80">
-                <p>1 hora</p>
-                <p>DBZ</p>
-              </div>
-            </div>
-            <div className="justify-between items-center m-5">
-              <img src={main} width={250} className="rounded" />
-              <div className="flex justify-between w-[50%] mt-3 opacity-80">
-                <p>1 hora</p>
-                <p>DBZ</p>
-              </div>
-            </div>
-            <div className="justify-between items-center m-5">
-              <img src={main} width={250} className="rounded" />
-              <div className="flex justify-between w-[50%] mt-3 opacity-80">
-                <p>1 hora</p>
-                <p>DBZ</p>
-              </div>
-            </div>
-            <div className="justify-between items-center m-5">
-              <img src={main} width={250} className="rounded" />
-              <div className="flex justify-between w-[50%] mt-3 opacity-80">
-                <p>1 hora</p>
-                <p>DBZ</p>
-              </div>
-            </div>
-            <div className="justify-between items-center m-5">
-              <img src={main} width={250} className="rounded" />
-              <div className="flex justify-between w-[50%] mt-3 opacity-80">
-                <p>1 hora</p>
-                <p>DBZ</p>
-              </div>
-            </div>
-            <div className="justify-between items-center m-5">
-              <img src={main} width={250} className="rounded" />
-              <div className="flex justify-between w-[50%] mt-3 opacity-80">
-                <p>1 hora</p>
-                <p>DBZ</p>
-              </div>
-            </div>
-            <div className="justify-between items-center m-5">
-              <img src={main} width={250} className="rounded" />
-              <div className="flex justify-between w-[50%] mt-3 opacity-80">
-                <p>1 hora</p>
-                <p>DBZ</p>
-              </div>
-            </div>
+            ))}
           </section>
         </section>
       </div>
