@@ -46,6 +46,9 @@ export function Router() {
       <Route path="/dbsuper" element={<DBSuperScreen />} />
       <Route path="/dbheroes" element={<DBHeroesScreen />} />
       <Route path="/news" element={<News />} />
+      <Route path="/news" element={<News />}>
+        <Route path=":newsUrl" />
+      </Route>
       <Route path="/*" element={<PageNotFound />} />
     </Routes>
   );
