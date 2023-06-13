@@ -1,0 +1,19 @@
+.lastNewsContainer{
+    @apply flex flex-col justify-center items-center;
+}
+
+.tittleLastNews{
+    @apply w-[90%] text-4xl font-bold mt-16 mb-7;
+}
+
+.newsContainer{
+    @apply flex flex-wrap justify-center items-center w-[100%];
+}
+
+.newsTittles{
+    @apply text-ellipsis whitespace-nowrap overflow-hidden;
+}
+
+.newsInfo{
+    @apply flex justify-between w-[70%] mt-3 opacity-80;
+}

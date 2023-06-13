@@ -3,4 +3,5 @@ export type NewsType = {
     date : string
     category : string
     urlLink: string
+    imageLink: string
 };

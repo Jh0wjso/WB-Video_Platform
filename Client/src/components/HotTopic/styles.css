@@ -1,0 +1,19 @@
+.newsText{
+    @apply w-[25%] text-xl;
+}
+
+.hotTopicContainer{
+    @apply flex flex-col container items-center mt-[5vh];
+}
+
+.hotTopicTittle{
+    @apply w-[90%] text-5xl font-bold mb-7;
+}
+
+.imageTittleContainer{
+    @apply flex w-[90%] justify-between items-center;
+}
+
+.newsImage{
+    @apply w-[70%] hover:opacity-75;
+}
