@@ -1,11 +1,11 @@
 import HotTopicComponent from "../../components/HotTopic/HotTopic";
 import LastNews from "../../components/LastNews/LastNews";
-import Sidebar from "../../components/SideBar";
+import SidebarNews from "../../components/SideBarNews/SideBarNews";
 
 export default function News() {
   return (
     <div className="flex w-full justify-between flex-1 min-h-screen">
-      <Sidebar />
+      <SidebarNews />
       <div className="min-h-screen flex flex-col container justify-center">
         <HotTopicComponent />
         <LastNews />

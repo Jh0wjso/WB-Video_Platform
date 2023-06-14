@@ -7,7 +7,7 @@
 }
 
 .newsContainer{
-    @apply flex flex-wrap justify-center items-center w-[100%];
+    @apply md:flex md:flex-row md:flex-wrap justify-center items-center w-[100%];
 }
 
 .newsTittles{

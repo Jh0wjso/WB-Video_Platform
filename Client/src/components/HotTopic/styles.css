@@ -1,5 +1,5 @@
 .newsText{
-    @apply w-[25%] text-xl;
+    @apply w-[100%] md:w-[25%] text-xl;
 }
 
 .hotTopicContainer{
@@ -11,7 +11,7 @@
 }
 
 .imageTittleContainer{
-    @apply flex w-[90%] justify-between items-center;
+    @apply flex flex-col md:flex-row w-[90%] justify-between items-center;
 }
 
 .newsImage{
