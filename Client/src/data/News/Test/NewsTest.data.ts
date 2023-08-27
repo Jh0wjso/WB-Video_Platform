@@ -2,18 +2,25 @@ import { NewsType } from "../NewsTpe.type";
 
 export const NewsTestData: NewsType[] = [
   {
+    title:"Semanal ☆ Apresentação de Personagens #119: Chaoz do Grande Rei Demônio Piccolo Arc!",
+    date: "22/08/2023",
+    category: "Anime",
+    urlLink: "https://en.dragon-ball-official.com/news/01_2088.html",
+    imageLink: "https://en.dragon-ball-official.com/dragonball/jp/news/2023/08/21/chara119_tn.jpg?_=123df7e8e108d7720a45bd4734fad2a3"
+  },
+  {
+    title:"Dragon Ball Legends está realizando uma campanha de episódios para comemorar a ultrapassagem de 80 milhões de usuários! Além disso, o bônus de login da colaboração para celebração do lançamento japonês do filme SAND LAND também começou!",
+    date: "18/08/2023",
+    category: "Games",
+    urlLink: "https://en.dragon-ball-official.com/news/01_2082.html",
+    imageLink: "https://en.dragon-ball-official.com/dragonball/en/news/2023/08/18/Weve%20Surpassed%2080%20Million%20Users%20Worldwide%20Thanks%20to%20You%20Episode%20Campaign%20Frieza%20Saga%20Z_230815_EN.jpg?_=123df7e8e108d7720a45bd4734fad2a3"
+  },
+  {
     title:"Novo jogo de DRAGON BALL Z: Budokai Tenkaichi confirmado!! Confira o Teaser Trailer!!",
     date: "03/06/2023",
     category: "Games",
     urlLink: "https://en.dragon-ball-official.com/news/01_1735.html",
     imageLink: "https://en.dragon-ball-official.com/dragonball/jp/news/2023/03/04/230306773-1_2.jpg"
-  },
-  {
-    title:"Weekly ☆ Character Showcase #108: West Supreme Kai de Dragon Ball Z!",
-    date: "06/06/2023",
-    category: "Anime",
-    urlLink: "https://en.dragon-ball-official.com/news/01_1912.html",
-    imageLink: "https://en.dragon-ball-official.com/dragonball/jp/news/2023/05/31/chara108_tn.jpg?_=ea04ab5f1e77f3adee6bb2d9e714bf63"
   },
   {
     title:"Dragon Ball Legends lança ULTRA Super Saiyan Rosé Goku Black!! 'Primeira Primavera! Lançada a campanha Legends Luxury!",
@@ -42,13 +49,6 @@ export const NewsTestData: NewsType[] = [
     category: "Games",
     urlLink: "https://en.dragon-ball-official.com/news/01_1904.html",
     imageLink: "https://en.dragon-ball-official.com/dragonball/jp/news/2023/05/24/u2305292803-1.jpg?_=e115e40a6169704b4f8f1d34e9b26915"
-  },
-  {
-    title:"Weekly ☆ Character Showcase #106: Zamasu de Dragon Ball Super!",
-    date: "23/05/2023",
-    category: "FEATURED",
-    urlLink: "https://en.dragon-ball-official.com/news/01_1891.html",
-    imageLink: "https://en.dragon-ball-official.com/dragonball/jp/news/2023/05/19/chara106_tn.jpg?_=e115e40a6169704b4f8f1d34e9b26915"
   },
   {
     title:"Hero of Justice Pack 2 lançado para Dragon Ball Xenoverse 2! Gohan jogável (Besta) e novas missões extras adicionadas!!",
