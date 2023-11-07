@@ -70,6 +70,9 @@ export default function Header() {
               <li className="navLink">
                 <Link to="/filmes">Filmes</Link>
               </li>
+              <li className="navLink">
+                <Link to="/news">Noticias</Link>
+              </li>
             </ul>
           </div>
         </div>
@@ -77,8 +80,3 @@ export default function Header() {
     </nav>
   );
 }
-
-/*
-<li className="navLink">
-  <Link to="/news">Noticias</Link>
-</li> */
