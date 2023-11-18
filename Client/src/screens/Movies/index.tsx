@@ -14,7 +14,6 @@ export default function Movies() {
         Todos os filmes disponíveis
       </h1>
       <MovieRowOne />
-      <MovieRowTwo />
       <MovieRowThree />
       <MovieRowFour />
       <MovieRowFive />
