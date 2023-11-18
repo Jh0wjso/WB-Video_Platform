@@ -45,4 +45,24 @@ export const MovieData : MovieInfo [] = [
         path: "/assistir/Uma vingança para Freeza/1TqoPudcj99YoVkiR6fZOU4Odqu3Pijqu",
         poster: "https://images.justwatch.com/poster/104126377/s332/dragon-ball-z-uma-vinganca-para-freeza"
     },
+    {
+        tittle: "O retorno de Cooler",
+        path: "/assistir/O retorno de Cooler/1XmsxNt8rmwCXB3gzJATwY50pGOeDBQsD",
+        poster: "https://images.justwatch.com/poster/104126187/s332/dragon-ball-z-o-retorno-de-coola"
+    },
+    {
+        tittle: "O Retorno dos Androides",
+        path: "/assistir/O Retorno dos Androides/1YD09OLCgsie8euaSCmAMB79mj8Z_gjn2",
+        poster: "https://images.justwatch.com/poster/104110907/s592/dragon-ball-z-o-retorno-dos-androides"
+    },
+    {
+        tittle: "O lendário super Saiyajin",
+        path: "/assistir/O lendário super Saiyajin/1Xfe79rEjTt-iyxtmn905_jJ9BtnrkWIC",
+        poster: "https://images.justwatch.com/poster/105666773/s718/dragon-ball-z-broly-the-legendary-super-saiyan.jpg"
+    },
+    {
+        tittle: "Batalha nos Dois Mundos",
+        path: "/assistir/Batalha nos Dois Mundos/18God08mQPM6MK1bnvrLipFnf2wnjDp3X",
+        poster: "https://images.justwatch.com/poster/104108874/s592/dragon-ball-z-a-batalha-nos-dois-mundos"
+    },
 ]
