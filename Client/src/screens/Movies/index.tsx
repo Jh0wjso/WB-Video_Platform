@@ -2,7 +2,6 @@ import MovieRowFive from "../../components/MoviesRowComponents/MovieRowFive";
 import MovieRowFour from "../../components/MoviesRowComponents/MovieRowFour";
 import MovieRowOne from "../../components/MoviesRowComponents/MovieRowOne";
 import MovieRowSix from "../../components/MoviesRowComponents/MovieRowSix";
-import MovieRowThree from "../../components/MoviesRowComponents/MovieRowThree";
 import "./styles.css";
 
 
@@ -13,7 +12,6 @@ export default function Movies() {
         Todos os filmes disponíveis
       </h1>
       <MovieRowOne />
-      <MovieRowThree />
       <MovieRowFour />
       <MovieRowFive />
       <MovieRowSix />
