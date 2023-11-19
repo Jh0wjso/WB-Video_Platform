@@ -65,4 +65,24 @@ export const MovieData : MovieInfo [] = [
         path: "/assistir/Batalha nos Dois Mundos/18God08mQPM6MK1bnvrLipFnf2wnjDp3X",
         poster: "https://images.justwatch.com/poster/104108874/s592/dragon-ball-z-a-batalha-nos-dois-mundos"
     },
+    {
+        tittle: "O Retorno de Broly",
+        path: "/assistir/O Retorno de Broly/1gleAXntyC7pK-lxBbh6SXpWaXvQsRaj",
+        poster: "https://images.justwatch.com/poster/104126130/s718/dragon-ball-z-o-retorno-do-guerreiro-lendario.jpg"
+    },
+    {
+        tittle: "Renascimento Da Fusão",
+        path: "/assistir/Renascimento Da Fusão/1glo0fH3a3M5JMZBCmbPbspzFucMYjCdF",
+        poster: "https://images.justwatch.com/poster/124366259/s718/dragon-ball-z-a-fusao.jpg"
+    },
+    {
+        tittle: "Combate Final Bio-Broly",
+        path: "/assistir/Combate Final Bio-Broly/1gjHJU5loy6iqNRN6SqHzsTuNGZ8yxafy",
+        poster: "https://images.justwatch.com/poster/104108513/s718/dragon-ball-z-o-combate-final-bio-broly.jpg"
+    },
+    {
+        tittle: "O Ataque do Dragão",
+        path: "/assistir/O Ataque do Dragão/1gr5LNLLjpzkA4zPnv4bA984k-nIZDtJu",
+        poster: "https://images.justwatch.com/poster/104111148/s718/dragon-ball-z-o-ataque-do-dragao.jpg"
+    },
 ]
