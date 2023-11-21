@@ -85,4 +85,24 @@ export const MovieData : MovieInfo [] = [
         path: "/assistir/O Ataque do Dragão/1gr5LNLLjpzkA4zPnv4bA984k-nIZDtJu",
         poster: "https://images.justwatch.com/poster/104111148/s718/dragon-ball-z-o-ataque-do-dragao.jpg"
     },
+    {
+        tittle: "Em busca do Poder",
+        path: "/assistir/Em Busca Do Poder/1kAOoS0X9FAkxRk4GSsgpLebwP6iecvh_",
+        poster: "https://images.justwatch.com/poster/104111102/s718/dragon-ball-em-busca-do-poder.jpg"
+    },
+    {
+        tittle: "Batalha dos Deuses",
+        path: "/assistir/Batalha dos Deuses/1k3__SaqihW9lFiBQeEFJ3rLFblp4sLbL",
+        poster: "https://images.justwatch.com/poster/256827026/s592/dragon-ball-z-battle-of-gods-theatrical-version"
+    },
+    {
+        tittle: "O Renascimento de Freeza",
+        path: "/assistir/O Renascimento de Freeza/1kMkntsimdLRlSsAUOa0_FL1jGi-Uvyf6",
+        poster: "https://images.justwatch.com/poster/86425722/s718/dragon-ball-z-o-renascimento-de-freeza.jpg"
+    },
+    {
+        tittle: "Dragon Ball Super Broly",
+        path: "/assistir/Dragon Ball Super Broly/1kOJ6kXYB7YKRjqj7c1xJ15-rBNqgG8LS",
+        poster: "https://images.justwatch.com/poster/244219627/s718/dragon-ball-super-broly.jpg"
+    },
 ]
