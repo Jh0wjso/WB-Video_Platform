@@ -105,4 +105,14 @@ export const MovieData : MovieInfo [] = [
         path: "/assistir/Dragon Ball Super Broly/1kOJ6kXYB7YKRjqj7c1xJ15-rBNqgG8LS",
         poster: "https://images.justwatch.com/poster/244219627/s718/dragon-ball-super-broly.jpg"
     },
+    {
+        tittle: "Dragon Ball Evolution",
+        path: "/assistir/Dragon Ball Evolution/1n6DkQBzN8_rTXgIFeviNIPm7aqdwKtIO",
+        poster: "https://images.justwatch.com/poster/129186495/s718/dragonball-evolution.jpg"
+    },
+    {
+        tittle: "Super Hero",
+        path: "/assistir/Super Hero/1n4byzVSVcTeWcbzC9soMx4XfrGKm1YuG",
+        poster: "https://images.justwatch.com/poster/257761897/s718/dragon-ball-super-super-hero.jpg"
+    },
 ]

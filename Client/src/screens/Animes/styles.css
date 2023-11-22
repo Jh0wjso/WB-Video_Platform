@@ -38,7 +38,7 @@
 }
 
 .cardsContainer {
-  @apply md:mb-14 items-center justify-center flex flex-wrap;
+  @apply md:mb-14 container items-center justify-center flex flex-wrap;
 }
 
 @media screen and (max-width: 1000px) {
