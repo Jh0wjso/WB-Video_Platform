@@ -1,4 +1,4 @@
-import MovieRowOne from "../../components/MoviesRowComponents/MovieRowOne";
+import MovieRow from "../../components/MoviesRowComponents/MovieRow";
 import "./styles.css";
 
 
@@ -8,7 +8,7 @@ export default function Movies() {
       <h1 className="text-3xl md:text-5xl font-bold text-center my-10">
         Todos os filmes disponíveis
       </h1>
-      <MovieRowOne />
+      <MovieRow />
     </div>
   );
 }
