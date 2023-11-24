@@ -23,7 +23,7 @@ export default function DragonBallZEpCarousel() {
                 to={`/video2/${item.url}/${item.ep}`}
                 className="imageCarousel"
               >
-                <img className="coverImage" src={DbS} />
+                <img className="coverImage" src={`${item.image}`} />
                 <p className="text-white mt-5">{`${item.name}`}</p>
               </Link>
             </Carousel.Item>
