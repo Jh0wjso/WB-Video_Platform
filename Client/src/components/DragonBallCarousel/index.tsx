@@ -2,7 +2,7 @@ import { Link } from "react-router-dom";
 import Carousel from "better-react-carousel";
 
 import DbS from "../../images/capaDBS.jpeg";
-import { DBZCarouselData } from "../../data/Carousel/DBZCarousel.data";
+import { DBSCarouselData } from "../../data/Carousel/DBZCarousel.data";
 
 export default function DragonBallCarousel() {
   return (
@@ -18,13 +18,13 @@ export default function DragonBallCarousel() {
       </div>
       <div className="carouselDb p-5 text-center font-bold mb-5 container text-gray-700 w-full rounded-b-lg">
         <Carousel cols={5} rows={1} gap={10} loop>
-          {DBZCarouselData.map((item) => (
+          {DBSCarouselData.map((item) => (
             <Carousel.Item>
               <Link
                 to={`/video/${item.ep}/${item.url}`}
                 className="imageCarousel"
               >
-                <img className="coverImage" src={DbS} />
+                <img className="coverImage" src={`${item.image}`} />
                 <p className="text-white mt-5">{`${item.name}`}</p>
               </Link>
             </Carousel.Item>
