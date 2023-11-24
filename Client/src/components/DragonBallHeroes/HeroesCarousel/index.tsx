@@ -24,7 +24,7 @@ export default function HeroesCarousel() {
                 to={`/video/${item.ep}/${item.url}`}
                 className="imageCarousel"
               >
-                <img className="coverImage" src={DbH} />
+                <img className="coverImage" src={`${item.image}`} />
                 <p className="text-white mt-5">{`${item.name}`}</p>
               </Link>
             </Carousel.Item>
