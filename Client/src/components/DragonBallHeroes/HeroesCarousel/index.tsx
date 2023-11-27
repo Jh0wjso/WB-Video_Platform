@@ -6,8 +6,8 @@ import { HeroesCarouselData } from "../../../data/Carousel/HeroesCarousel.data";
 
 export default function HeroesCarousel() {
   return (
-    <div className="container border-black rounded flex flex-col items-center mt-9 w-screen">
-      <div className="container flex p-2 flex-row justify-between items-center w-screen">
+    <div className="container border-black rounded flex flex-col items-center mt-9">
+      <div className="container flex p-2 flex-row justify-between items-center">
         <h1 className="text-2xl text-white md:text-4xl ml-4">Heroes</h1>
         <Link
           className="mr-4 md:mr-10 text-white chrome bg-orange-600 rounded md:py-1 px-1 md:px-2 transition-colors hover:bg-orange-400 font-bold"
