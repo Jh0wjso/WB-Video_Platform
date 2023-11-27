@@ -30,7 +30,7 @@ export default function MovieContentZ() {
           Ver Mais
         </Link>
       </div>
-      <div className="carouselDb p-5 text-center font-bold mb-5 container text-gray-700 border-2 w-full rounded-b-lg bg-gray-300 md:border-gray-700">
+      <div className="carouselDb p-5 text-center font-bold mb-5 container text-white rounded-b-lg">
         <Carousel cols={5} rows={1} gap={10} loop>
           <Carousel.Item>
             <Link
