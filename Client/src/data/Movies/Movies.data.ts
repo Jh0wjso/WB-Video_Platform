@@ -1,3 +1,5 @@
+import { MovieInfo } from "./MovieInfo";
+
 export const MovieData : MovieInfo [] = [
     {
         tittle: "A Lenda de Shenlong",
