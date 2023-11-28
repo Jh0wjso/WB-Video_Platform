@@ -1,9 +1,3 @@
-type MovieInfo = {
-    tittle: string
-    path: string
-    poster: string
-}
-
 export const MovieData : MovieInfo [] = [
     {
         tittle: "A Lenda de Shenlong",
@@ -115,4 +109,4 @@ export const MovieData : MovieInfo [] = [
         path: "/assistir/Super Hero/1n4byzVSVcTeWcbzC9soMx4XfrGKm1YuG",
         poster: "https://images.justwatch.com/poster/257761897/s718/dragon-ball-super-super-hero.jpg"
     },
-]
+];
