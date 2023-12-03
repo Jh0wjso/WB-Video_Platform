@@ -21,4 +21,24 @@ export const OvasData : MovieInfo [] = [
         poster: "https://static.wikia.nocookie.net/dragonball/images/f/fa/Dbzgaidenova_.jpg",
         tittle: "O Plano Para Erradicar os Saiyajins"
     },
+    {
+        path: "/video/Especial de 2007/1QE4zDFW7eQbuOHenuhbTOE6Qu-r_Hfme",
+        poster: "https://animehd.cc/wp-content/uploads/2022/02/Dragon-Ball-Z-Ova-3-Capa.jpg",
+        tittle: "Especial de 2007"
+    },
+    {
+        path: "/video/Ossu! O retorno de Son Goku e seus Companheiros/1HN37TqZ_yLwO5_cZLSkj_VFV1TN3rmoC",
+        poster: "https://media.fstatic.com/_AWY-dgI9-L-RHAzm8taK3XrqjU=/322x478/smart/filters:format(webp)/media/movies/covers/2022/12/MV5-BMm-Iw-N2-Iz-NDct-Zj-Ey-Mi00-Zj-U1-LTk1-Nj-Yt-Zm-Ri-MGFm-OTVj-_CYwwBWS.jpg",
+        tittle: "Ossu! O retorno de..."
+    },
+    {
+        path: "/video/Remake - O Plano para Erradicar os Super Saiyajins/1juZpwSDqmDQWNyPur7adNBqNIbkLk9Ri/",
+        poster: "https://dragonfuturenews.com/wp-content/uploads/2017/11/PLANO-PARA-ERRADICAR-OS-SAIYAJINS-REMAKE-CAPA-DVD.jpg",
+        tittle: "O Plano para Erradicar os Saiyajins"
+    },
+    {
+        path: "/video/Episódio de Bardock/1vpkfMuAUvKwBSARQB4Todl_ZYYyMsD3H",
+        poster: "https://upload.wikimedia.org/wikipedia/pt/thumb/a/a9/DB_Episode_of_Bardock_capa.png/235px-DB_Episode_of_Bardock_capa.png",
+        tittle: "Episódio de Bardock"
+    },
 ];
