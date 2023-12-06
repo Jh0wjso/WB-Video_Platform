@@ -1,7 +1,7 @@
 import { Link } from "react-router-dom";
 import { OvasData } from "../../../data/Movies/Ovas.data";
 
-export default function OvaRowOne() {
+export default function OvaRow() {
   return (
     <div className="cardsContainer">
       {OvasData.map((item) => (
