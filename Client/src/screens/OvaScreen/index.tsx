@@ -2,8 +2,8 @@ import OvaRow from "../../components/Ovas/OvaRow";
 
 export default function OvaScreen() {
   return (
-    <div className="min-h-screen text-white text-xl md:text-base flex flex-col items-center justify-center">
-      <h1 className="text-3xl md:text-5xl font-bold text-center my-10">
+    <div className="containerContent">
+      <h1 className="secondContainer">
         Todos os Ovas disponíveis
       </h1>
       <OvaRow />

@@ -4,8 +4,8 @@ import "./styles.css";
 
 export default function Movies() {
   return (
-    <div className="min-h-screen text-white text-xl md:text-base flex flex-col items-center justify-center">
-      <h1 className="text-3xl md:text-5xl font-bold text-center my-10">
+    <div className="containerContent">
+      <h1 className="secondContainer">
         Todos os filmes disponíveis
       </h1>
       <MovieRow />

@@ -14,7 +14,7 @@ import "./styles.css";
 export default function Animes() {
   return (
     <div className="containerContent">
-      <h1 className="text-3xl md:text-5xl font-bold text-center my-10">
+      <h1 className="secondContainer">
         Assista a todos os animes
       </h1>
       <div className="cardsContainer">
