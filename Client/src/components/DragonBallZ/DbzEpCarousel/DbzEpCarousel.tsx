@@ -7,7 +7,7 @@ export default function DragonBallZEpCarousel() {
   return (
     <div className="container flex flex-col items-center mt-9">
       <div className="container flex p-2 flex-row justify-between items-center rounded-t-lg">
-        <h1 className="text-2xl text-white md:text-4xl ml-4">DBZ</h1>
+        <h1 className="carouselTittle">DBZ</h1>
         <Link
           className="mr-4 md:mr-10 text-white chrome bg-orange-600 rounded md:py-1 px-1 md:px-2 transition-colors hover:bg-orange-400 font-bold"
           to="/dbz"

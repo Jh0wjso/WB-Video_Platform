@@ -7,7 +7,7 @@ export default function MoviesCarousel() {
   return (
     <div className="container flex flex-col items-center mt-9 w-screen">
       <div className="container md:bg-gray-700 flex p-2 flex-row justify-between items-center w-screen border-gray-700 md:rounded-t-lg">
-        <h1 className="text-2xl text-white md:text-4xl ml-4">Filmes</h1>
+        <h1 className="carouselTittle">Filmes</h1>
         <Link
           className="mr-4 md:mr-10 text-white chrome bg-orange-400 rounded md:py-1 px-1 md:px-2 transition-colors hover:bg-orange-600 font-bold"
           to="/filmes"
