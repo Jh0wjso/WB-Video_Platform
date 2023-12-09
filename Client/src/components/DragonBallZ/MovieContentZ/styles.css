@@ -2,10 +2,6 @@
     @apply container flex flex-col items-center mt-9;
 }
 
-.conteinerZmovies{
-    @apply container flex p-2 flex-row justify-between items-center rounded-t-lg;   
-}
-
 .coverImage{
     @apply rounded;
 }
