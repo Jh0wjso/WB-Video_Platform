@@ -15,7 +15,7 @@ export default function MovieContentZ() {
           Ver Mais
         </Link>
       </div>
-      <div className="carouselDb p-5 text-center font-bold mb-5 container text-white rounded-b-lg">
+      <div className="carouselDb">
         <Carousel cols={5} rows={1} gap={10} loop>
           {MovieZData.map((item) => (
             <Carousel.Item>

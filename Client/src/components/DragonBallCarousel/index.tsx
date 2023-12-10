@@ -14,7 +14,7 @@ export default function DragonBallCarousel() {
           Ver Mais
         </Link>
       </div>
-      <div className="carouselDb text-center font-bold mb-5 container text-gray-700 rounded-b-lg">
+      <div className="carouselDb text-center">
         <Carousel cols={5} rows={1} gap={10} loop>
           {DBSCarouselData.map((item) => (
             <Carousel.Item>

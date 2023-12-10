@@ -15,7 +15,7 @@ export default function DragonBallZEpCarousel() {
           Ver Mais
         </Link>
       </div>
-      <div className="carouselDb p-5 text-center font-bold mb-5 container text-gray-700 rounded-b-lg">
+      <div className="carouselDb">
         <Carousel cols={5} rows={1} gap={10} loop>
           {DbzEpData.map((item) => (
             <Carousel.Item>

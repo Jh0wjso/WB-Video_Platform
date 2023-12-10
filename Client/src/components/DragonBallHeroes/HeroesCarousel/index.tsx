@@ -16,7 +16,7 @@ export default function HeroesCarousel() {
           Ver Mais
         </Link>
       </div>
-      <div className="carouselDb p-5 text-center font-bold mb-5 container text-gray-700 w-full rounded-b-lg md:border-gray-700">
+      <div className="carouselDb">
         <Carousel cols={5} rows={1} gap={10} loop>
           {HeroesCarouselData.map((item) => (
             <Carousel.Item>
