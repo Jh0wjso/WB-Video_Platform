@@ -3,6 +3,7 @@ import { Link } from "react-router-dom";
 import "./styles.css";
 
 import Ball from "../../images/Dragonball.png";
+import { HeaderContent } from "../../data/Header/HeaderContent.data";
 
 export default function Header() {
   const [navbar, setNavbar] = useState(false);
@@ -12,8 +13,8 @@ export default function Header() {
       <div className="navbarContent">
         <div>
           <div className="navBarView">
-            <Link to="/" className="flex flex-row">
-              <img src={Ball} width={35} className="mr-2" />
+            <Link to="/" className="flex flex-row items-center">
+              <img src={Ball} width={75} className="mr-2" />
               <h1 className="pageTittle">WATCHBALL</h1>
             </Link>
             <div className="md:hidden">
@@ -61,18 +62,11 @@ export default function Header() {
             }`}
           >
             <ul className="navbarLinksContainer">
-              <li className="navLink">
-                <Link to="/">Inicio</Link>
+              {HeaderContent.map((e) => (
+                <li className="navLink">
+                <Link to={e.link}>{e.name}</Link>
               </li>
-              <li className="navLink">
-                <Link to="/animes">Animes</Link>
-              </li>
-              <li className="navLink">
-                <Link to="/filmes">Filmes</Link>
-              </li>
-              <li className="navLink">
-                <Link to="/news">Noticias</Link>
-              </li>
+              ))}
             </ul>
           </div>
         </div>
