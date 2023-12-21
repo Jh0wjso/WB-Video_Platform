@@ -1,10 +1,5 @@
 import DBHeroesAbstract from "../../components/DragonBallHeroes/DBHeroesAbstract";
-import SeasonFiveHeroes from "../../components/DragonBallHeroes/SeasonFive";
-import SeasonFourHeroes from "../../components/DragonBallHeroes/SeasonFour";
 import SeasonOneHeroes from "../../components/DragonBallHeroes/SeasonOne";
-import SeasonSixHeroes from "../../components/DragonBallHeroes/SeasonSix";
-import SeasonThreeHeroes from "../../components/DragonBallHeroes/SeasonThree";
-import SeasonTwoHeroes from "../../components/DragonBallHeroes/SeasonTwo";
 import MovieContentZ from "../../components/DragonBallZ/MovieContentZ";
 
 export default function DBHeroesScreen() {
@@ -16,11 +11,6 @@ export default function DBHeroesScreen() {
       <DBHeroesAbstract />
       <section className="flex flex-col w-[80%]">
         <SeasonOneHeroes />
-        <SeasonTwoHeroes />
-        <SeasonThreeHeroes />
-        <SeasonFourHeroes />
-        <SeasonFiveHeroes /> 
-        <SeasonSixHeroes />
       </section>
       <MovieContentZ />
     </div>
