@@ -64,12 +64,21 @@ export default function Header() {
             <ul className="navbarLinksContainer">
               {HeaderContent.map((e) => (
                 <li className="navLink">
-                <Link to={e.link}>{e.name}</Link>
-              </li>
+                  <Link to={e.link}>{e.name}</Link>
+                </li>
               ))}
             </ul>
           </div>
         </div>
+      </div>
+      <div className="navbarContent w-[60%]">
+      <div className="subHeader">
+        <Link className="animeH" to={""}>DB</Link>
+        <Link className="animeH" to={""}>DBZ</Link>
+        <Link className="animeH" to={""}>DBK</Link>
+        <Link className="animeH" to={""}>DBS</Link>
+        <Link className="animeH" to={""}>DBH</Link>
+      </div>
       </div>
     </nav>
   );

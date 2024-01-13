@@ -2,6 +2,10 @@
   @apply w-full bg-gray-700 shadow;
 }
 
+.subHeader{
+    @apply flex flex-row border-t items-center justify-around w-[100%] mb-3 pt-3;
+}
+
 .navbarContent {
   @apply justify-between px-4 mx-auto lg:max-w-7xl md:items-center md:flex md:px-8;
 }
