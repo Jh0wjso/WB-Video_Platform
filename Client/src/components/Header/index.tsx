@@ -73,11 +73,11 @@ export default function Header() {
       </div>
       <div className="navbarContent w-[60%]">
       <div className="subHeader">
-        <Link className="animeH" to={""}>DB</Link>
-        <Link className="animeH" to={""}>DBZ</Link>
-        <Link className="animeH" to={""}>DBK</Link>
-        <Link className="animeH" to={""}>DBS</Link>
-        <Link className="animeH" to={""}>DBH</Link>
+        <Link className="animeH" to={"classic"}>DB</Link>
+        <Link className="animeH" to={"dbz"}>DBZ</Link>
+        <Link className="animeH" to={"dbkai"}>DBK</Link>
+        <Link className="animeH" to={"dbsuper"}>DBS</Link>
+        <Link className="animeH" to={"dbheroes"}>DBH</Link>
       </div>
       </div>
     </nav>
