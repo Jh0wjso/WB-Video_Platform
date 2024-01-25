@@ -1,21 +1,33 @@
 import { Link } from "react-router-dom";
 import { DbzEpData } from "../../data/Carousel/DragonballZEps.data";
-import "./styles.css"
+import "./styles.css";
+import { DBSCarouselData } from "../../data/Carousel/DBZCarousel.data";
 
 export default function HomeEp() {
   return (
-    <div className="container flex flex-col items-center mt-9">
-      <div className="flex flex-wrap justify-center">
-        {DbzEpData.map((item) => (
-          <Link to={`/video2/${item.url}/${item.ep}`} className="hover:underline m-3">
-            <img className="coverImage" src={`${item.image}`} width={350} />
-            <Link to={"/dbz"}>
-                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSX2mNo8Fu5JQ0wdx_D-QyjLOvplfWWPT66Pg&usqp=CAU" className="rounded-full" height={50} width={50} />
+    <div className="containerHomeEp">
+      {DBSCarouselData.map((item) => (
+        <Link
+          to={`/video/${item.ep}/${item.url}`}
+          className="hover:underline m-3"
+        >
+          <img className="coverImage" src={`${item.image}`} width={350} />
+          <div className="flex flex-row items-center">
+            {
+              /*
+              <Link to={"/dbsuper"}>
+              <img
+                src="https://art.pixilart.com/9f2029fa1515b8a.png"
+                className="rounded-full mr-2 mt-2"
+                width={40}
+              />
             </Link>
+            */
+            }
             <p className="text-white mt-5">{`${item.name}`}</p>
-          </Link>
-        ))}
-      </div>
+          </div>
+        </Link>
+      ))}
     </div>
   );
 }
