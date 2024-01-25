@@ -1,0 +1,12 @@
+.containerHomeEp {
+  @apply container flex flex-wrap justify-center;
+}
+
+@media screen and (max-width: 1000px) {
+  .containerHomeEp {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+}

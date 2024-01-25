@@ -13,7 +13,8 @@
 }
 
 @media screen and (min-width: 1756px){
+    /*SideBar*/
     .homeContent{
-        width: 90%;
+        width: 100%;
     }
 }
