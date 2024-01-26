@@ -4,6 +4,7 @@ import "./styles.css";
 
 import Ball from "../../images/Dragonball.png";
 import { HeaderContent } from "../../data/Header/HeaderContent.data";
+import SubHeader from "../SubHeader";
 
 export default function Header() {
   const [navbar, setNavbar] = useState(false);
@@ -71,15 +72,7 @@ export default function Header() {
           </div>
         </div>
       </div>
-      <div className="navbarContent w-[60%]">
-      <div className="subHeader">
-        <Link className="animeH" to={"classic"}>DB</Link>
-        <Link className="animeH" to={"dbz"}>DBZ</Link>
-        <Link className="animeH" to={"dbkai"}>DBK</Link>
-        <Link className="animeH" to={"dbsuper"}>DBS</Link>
-        <Link className="animeH" to={"dbheroes"}>DBH</Link>
-      </div>
-      </div>
+      <SubHeader />
     </nav>
   );
 }
