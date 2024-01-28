@@ -1,13 +1,12 @@
 import { Link } from "react-router-dom";
 import Carousel from "better-react-carousel";
-import DbS from "../../../images/capaDBZ.jpeg";
 import { DbzEpData } from "../../../data/Carousel/DragonballZEps.data";
 
 export default function DragonBallZEpCarousel() {
   return (
-    <div className="container flex flex-col items-center mt-9">
-      <div className="container flex p-2 flex-row justify-between items-center rounded-t-lg">
-        <h1 className="carouselTittle">DBZ</h1>
+    <div className="containerHomeEp">
+      <div className="container flex p-2 flex-row justify-between items-center border-b rounded">
+        <h1 className="carouselTittle">Dragon Ball Z</h1>
         <Link
           className="mr-4 md:mr-10 text-white chrome bg-orange-600 rounded md:py-1 px-1 md:px-2 transition-colors hover:bg-orange-400 font-bold"
           to="/dbz"
@@ -15,21 +14,26 @@ export default function DragonBallZEpCarousel() {
           Ver Mais
         </Link>
       </div>
-      <div className="carouselDb">
-        <Carousel cols={5} rows={1} gap={10} loop>
-          {DbzEpData.map((item) => (
-            <Carousel.Item>
-              <Link
-                to={`/video2/${item.url}/${item.ep}`}
-                className="imageCarousel"
-              >
-                <img className="coverImage" src={`${item.image}`} />
-                <p className="text-white mt-5">{`${item.name}`}</p>
-              </Link>
-            </Carousel.Item>
-          ))}
-        </Carousel>
-      </div>
+      {DbzEpData.map((item) => (
+        <Link
+          to={`/video/${item.ep}/${item.url}`}
+          className="hover:underline m-3"
+        >
+          <img className="coverImage" src={`${item.image}`} width={350} />
+          <div className="flex flex-row items-center">
+            {/*
+              <Link to={"/dbsuper"}>
+              <img
+                src="https://art.pixilart.com/9f2029fa1515b8a.png"
+                className="rounded-full mr-2 mt-2"
+                width={40}
+              />
+            </Link>
+            */}
+            <p className="text-white mt-5">{`${item.name}`}</p>
+          </div>
+        </Link>
+      ))}
     </div>
   );
 }
