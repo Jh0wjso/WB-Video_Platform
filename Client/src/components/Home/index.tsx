@@ -12,11 +12,13 @@ export default function Home() {
       <div className="flex flex-col">
         <HomeEp />
         <DragonBallZEpCarousel />
-        <HeroesCarousel />
-        {
-          //<DragonBallCarousel />
-        }
-        <MovieContentZ />
+        <div style={{display: "none"}}>
+          <HeroesCarousel />
+          {
+            //<DragonBallCarousel />
+          }
+          <MovieContentZ />
+        </div>
       </div>
     </section>
   );

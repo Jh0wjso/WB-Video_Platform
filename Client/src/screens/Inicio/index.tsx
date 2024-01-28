@@ -2,7 +2,7 @@ import "./styles.css";
 
 import Home from "../../components/Home";
 import Sidebar from "../../components/SideBar";
-/*
+
 export default function Inicio() {
   return (
     <div className="flex w-full justify-between flex-1 min-h-screen">
@@ -12,8 +12,9 @@ export default function Inicio() {
       </div>
     </div>
   );
-}*/
+}
 
+/*
 export default function Inicio() {
   return (
     <div className="homeContent">
@@ -21,3 +22,4 @@ export default function Inicio() {
     </div>
   );
 }
+*/
