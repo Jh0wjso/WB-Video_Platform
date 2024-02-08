@@ -1,0 +1,9 @@
+.classicScreenBox{
+    background-image: url("../../images/capaDB.jpeg") !important;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.bgBox{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.637), rgba(77, 76, 76, 0.795));
+}
