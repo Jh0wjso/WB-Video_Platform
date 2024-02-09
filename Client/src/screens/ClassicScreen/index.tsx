@@ -9,17 +9,21 @@ import "./styles.css";
 
 export default function ClassicScreen() {
   return (
-    <div className="min-h-screen flex flex-col items-center">
-      <DragonBallAbstract />
-      <h1 className="text-center text-5xl py-8 font-bold">Assista a Todos os Episódios Aqui:</h1>
-      <section className="flex flex-col w-[80%]">
-        <SeasonOne />
-        <SeasonTwo />
-        <SeasonThree />
-        <SeasonFour />
-        <SeasonFive />
-      </section>
-      <MovieRowClassic />
+    <div className="classicScreenBox min-h-screen min-w-full flex flex-col items-center">
+      <div className="bgBox flex flex-col justify-center items-center">
+        <DragonBallAbstract />
+        <h1 className="text-center text-5xl py-8 font-bold">
+          Assista a Todos os Episódios Aqui:
+        </h1>
+        <section className="flex flex-col">
+          <SeasonOne />
+          <SeasonTwo />
+          <SeasonThree />
+          <SeasonFour />
+          <SeasonFive />
+        </section>
+        <MovieRowClassic />
+      </div>
     </div>
   );
 }
