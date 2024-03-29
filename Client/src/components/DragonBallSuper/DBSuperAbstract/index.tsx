@@ -1,14 +1,6 @@
-import Cover from "../../../images/capaDBS.jpeg";
-
 export default function DBSuperAbstract() {
   return (
-    <section className="flex flex-col md:flex-row justify-between h-fit items-center mt-10 md:m-10 border-b p-5">
-      <img
-        src={Cover}
-        width={400}
-        alt="Dragon Ball Super cover"
-        className="rounded"
-      />
+    <section className="flex flex-col md:flex-row justify-end h-fit items-center mt-10 md:m-10 border-b p-5">
       <p className="w-[90%] md:w-[40%] md:text-start text-justify pt-5 md:pt-0 md:ml-5 text-xl">
         Dragon Ball Super (ドラゴンボール超スーパー Doragon Bōru Sūpā?) é uma
         série de anime criada por Akira Toriyama e produzida pela Toei
