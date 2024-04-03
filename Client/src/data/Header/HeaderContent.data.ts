@@ -16,8 +16,8 @@ export const HeaderContent: HeaderType[] = [
     name: "Filmes",
     link: "/filmes"
   },
-  {
+  /*{
     name: "Noticias",
     link: "news"
-  },
+  },*/
 ];

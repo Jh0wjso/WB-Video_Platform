@@ -3,42 +3,42 @@ import { EpInfo } from "../EpContent";
 export const DBZSeasonFourData: EpInfo[] = [
   {
     num: "108",
-    name: "df6c385ab0a46533",
+    name: "dragon-ball-z-dublado",
   },
   {
     num: "109",
-    name: "d7f7eb5f25fe944e",
+    name: "dragon-ball-z-dublado",
   },
   {
     num: "110",
-    name: "248be7304dc9ebff",
+    name: "dragon-ball-z-dublado",
   },
   {
     num: "111",
-    name: "04ef3f5402caf42d",
+    name: "dragon-ball-z-dublado",
   },
   {
     num: "112",
-    name: "421cb227869f13fa",
+    name: "dragon-ball-z-dublado",
   },
   {
     num: "113",
-    name: "d785e6220b0289a6",
+    name: "dragon-ball-z-dublado",
   },
   {
     num: "114",
-    name: "c15ba0147ae8c4f0",
+    name: "dragon-ball-z-dublado",
   },
   {
     num: "115",
-    name: "589f55fa62f7a33d",
+    name: "dragon-ball-z-dublado",
   },
   {
     num: "116",
-    name: "0af13f9e059d6e45",
+    name: "dragon-ball-z-dublado",
   },
   {
     num: "117",
-    name: "65469aed52042690",
+    name: "dragon-ball-z-dublado",
   },
 ];
