@@ -1,6 +1,7 @@
 import "../styles.css";
 import { DBKSeasonOneData } from "../../../data/DBK/DBKSeasonOne.data";
 import NewSectionLinksAlternative from "../../NewSectionLinksAlternative";
+import NewSectionLinks from "../../NewSectionLinks";
 
 export default function SeasonOneKai() {
   return (
@@ -8,7 +9,7 @@ export default function SeasonOneKai() {
       <h1 className="text-center text-4xl font-bold">Saga Saiyajin</h1>
       <section className="episodeButtonsZ">
         {DBKSeasonOneData.map((item) => (
-          <NewSectionLinksAlternative
+          <NewSectionLinks
             name={`${item.name}`}
             num={`${item.num}`}
           />
