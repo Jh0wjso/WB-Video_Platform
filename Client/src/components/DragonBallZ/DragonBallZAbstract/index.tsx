@@ -1,14 +1,6 @@
-import Cover from "../../../images/capaDBZ.jpeg";
-
 export default function DragonBallZAbstract() {
   return (
-    <section className="flex flex-col md:flex-row justify-between h-fit items-center mt-10 md:m-10 border-b p-5">
-      <img
-        src={Cover}
-        width={400}
-        alt="Dragon Ball cover"
-        className="rounded"
-      />
+    <section className="flex flex-col md:flex-row justify-start h-fit items-center mt-10 md:m-10 border-b p-5">
       <p className="w-[90%] md:w-[40%] md:text-start text-justify pt-5 md:pt-0 md:ml-5 text-xl">
         A popular série Dragon Ball começou nos mangás e logo passou também aos
         animes da TV e cinema. Criada por Akira Toryiama, a franquia conta a

@@ -18,7 +18,7 @@ export default function HomeEp() {
       {DBSCarouselData.map((item) => (
         <Link
           to={`/video/${item.ep}/${item.url}`}
-          className="hover:underline m-3"
+          className="hover:underline m-1"
         >
           <img className="coverImage" src={`${item.image}`} width={350} />
           <div className="flex flex-row items-center">
@@ -33,7 +33,7 @@ export default function HomeEp() {
             </Link>
             */
             }
-            <p className="text-white mt-5">{`${item.name}`}</p>
+            <p className="text-white">{`${item.name}`}</p>
           </div>
         </Link>
       ))}

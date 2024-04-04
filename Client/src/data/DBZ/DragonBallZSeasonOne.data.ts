@@ -2,143 +2,143 @@ import { EpInfo }  from '../EpContent'
 
 export const DBZSeasonOneData : EpInfo[] = [
     {
-        num: "1",
-        name: "850598be5727e69f",
+        num: "01",
+        name: "dragon-ball-z-dublado",
     },
     {
-        num: "2",
-        name: "fee9188d76a91589",
+        num: "02",
+        name: "dragon-ball-z-dublado",
     },
     {
-        num: "3",
-        name: "78b47c3e7fe8d4f1",
+        num: "03",
+        name: "dragon-ball-z-dublado",
     },
     {
         num: "4",
-        name: "9064b9d45c8508bc",
+        name: "dragon-ball-z-dublado",
     },
     {
-        num: "5",
-        name: "d0e18cb36c85a3a8",
+        num: "05",
+        name: "dragon-ball-z-dublado",
     },
     {
-        num: "6",
-        name: "3c47745a250b4f5f",
+        num: "06",
+        name: "dragon-ball-z-dublado",
     },
     {
-        num: "7",
-        name: "07943d610003edaf",
+        num: "07",
+        name: "dragon-ball-z-dublado",
     },
     {
-        num: "8",
-        name: "20ce0c2ebfe76e02",
+        num: "08",
+        name: "dragon-ball-z-dublado",
     },
     {
-        num: "9",
-        name: "066225268c8e8d10",
+        num: "09",
+        name: "dragon-ball-z-dublado",
     },
     {
         num: "10",
-        name: "eb5a4d62cc6542c0",
+        name: "dragon-ball-z-dublado",
     },
     {
         num: "11",
-        name: "107f034dbbb98aeb",
+        name: "dragon-ball-z-dublado",
     },
     {
         num: "12",
-        name: "79b815f3e9aba286",
+        name: "dragon-ball-z-dublado",
     },
     {
         num: "13",
-        name: "d4fb5e9b4a007f2a",
+        name: "dragon-ball-z-dublado",
     },
     {
         num: "14",
-        name: "e833fe05c518aff4",
+        name: "dragon-ball-z-dublado",
     },
     {
         num: "15",
-        name: "3eae5fb1a8d32d14",
+        name: "dragon-ball-z-dublado",
     },
     {
         num: "16",
-        name: "ca60ec195e9d754c",
+        name: "dragon-ball-z-dublado",
     },
     {
         num: "17",
-        name: "bd5f56feaab835bd",
+        name: "dragon-ball-z-dublado",
     },
     {
         num: "18",
-        name: "45c3534d7312eb2a",
+        name: "dragon-ball-z-dublado",
     },
     {
         num: "19",
-        name: "0ff13384cba8857a",
+        name: "dragon-ball-z-dublado",
     },
     {
         num: "20",
-        name: "647d7ade4fb90858",
+        name: "dragon-ball-z-dublado",
     },
     {
         num: "21",
-        name: "2329e47def3c1042",
+        name: "dragon-ball-z-dublado",
     },
     {
         num: "22",
-        name: "a4936e539cc8acdd",
+        name: "dragon-ball-z-dublado",
     },
     {
         num: "23",
-        name: "d03534e323f1aeb4",
+        name: "dragon-ball-z-dublado",
     },
     {
         num: "24",
-        name: "c0f0748df4f2a083",
+        name: "dragon-ball-z-dublado",
     },
     {
         num: "25",
-        name: "712266c2d119d590",
+        name: "dragon-ball-z-dublado",
     },
     {
         num: "26",
-        name: "65972446cd92f880",
+        name: "dragon-ball-z-dublado",
     },
     {
         num: "27",
-        name: "82e41c8b7c739fdd",
+        name: "dragon-ball-z-dublado",
     },
     {
         num: "28",
-        name: "8f50448903f82bed",
+        name: "dragon-ball-z-dublado",
     },
     {
         num: "29",
-        name: "4dec0710695dd28f",
+        name: "dragon-ball-z-dublado",
     },
     {
         num: "30",
-        name: "8038dad709eb3f5a",
+        name: "dragon-ball-z-dublado",
     },
     {
         num: "31",
-        name: "7ce07d97dcbbe4fe",
+        name: "dragon-ball-z-dublado",
     },
     {
         num: "32",
-        name: "c18c26a7116f14c5",
+        name: "dragon-ball-z-dublado",
     },
     {
         num: "33",
-        name: "12de049556c6e751",
+        name: "dragon-ball-z-dublado",
     },
     {
         num: "34",
-        name: "b52b26e39b4c20c4",
+        name: "dragon-ball-z-dublado",
     },
     {
         num: "35",
-        name: "daa1e14c9463ff52",
+        name: "dragon-ball-z-dublado",
     },
 ];

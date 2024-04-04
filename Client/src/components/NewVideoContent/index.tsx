@@ -12,7 +12,7 @@ export default function NewVideoContent({ number, url }: InfoVideo) {
         Episodio: <br /> {url}
       </h1>
       <iframe
-        src={`https://assistonlineapi.online/make/check/?list=${number}`}
+        src={`https://ns558972.ip-54-39-50.net/Animes/D/${number}/${url}.MP4?nocache`}
         height="100%"
         width="100%"
         allowFullScreen
@@ -21,7 +21,7 @@ export default function NewVideoContent({ number, url }: InfoVideo) {
       <div className="containerHelp">
         <h3 className="helpText">Algum problema com o vídeo?</h3>
         <a
-          href={`https://assistonlineapi.online/make/check/?list=${number}`}
+          href={`https://ns558972.ip-54-39-50.net/Animes/D//${url}.MP4?nocache`}
           target="_blank"
           className="btnHelp"
         >

@@ -11,22 +11,24 @@ import SeasonFinalDbz from "../../components/DragonBallZ/SeasonFinal";
 
 export default function DBZScreen() {
   return (
-    <div className="min-h-screen flex flex-col items-center">
-      <h1 className="text-center text-5xl py-8 font-bold">
-        Assista a Todos os Episódios Aqui:
-      </h1>
-      <DragonBallZAbstract />
-      <section className="flex flex-col w-[80%]">
-        <SeasonOneBbz />
-        <SeasonTwoBbz />
-        <SeasonThreeBbz />
-        <SeasonFourBbz />
-        <SeasonFiveBbz />
-        <SeasonSixDbz />
-        <SeasonFinalDbz />  
-      </section>
-      <p className="font-bold text-5xl mt-6">Filmes da Série</p>
-      <MovieContentZ />
+    <div className="classicScreenBoxZ">
+      <div className="bgBox min-h-screen flex flex-col items-center">
+        <h1 className=" text-center text-5xl py-8 font-bold">
+          Assista a Todos os Episódios Aqui:
+        </h1>
+        <DragonBallZAbstract />
+        <section className="flex flex-col w-[80%]">
+          <SeasonOneBbz />
+          <SeasonTwoBbz />
+          <SeasonThreeBbz />
+          <SeasonFourBbz />
+          <SeasonFiveBbz />
+          <SeasonSixDbz />
+          <SeasonFinalDbz />
+        </section>
+        <p className="font-bold text-5xl mt-6">Filmes da Série</p>
+        <MovieContentZ />
+      </div>
     </div>
   );
 }

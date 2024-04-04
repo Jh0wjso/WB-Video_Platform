@@ -3,258 +3,258 @@ import { EpInfo } from "../EpContent";
 export const DBZSeasonTwoData: EpInfo[] = [
   {
     num: "36",
-    name: "3dab48bf08097a14",
+    name: "dragon-ball-z-dublado",
   },
   {
     num: "37",
-    name: "1f894011dcd852c4",
+    name: "dragon-ball-z-dublado",
   },
   {
     num: "38",
-    name: "cd8b3a25f0086e2d",
+    name: "dragon-ball-z-dublado",
   },
   {
     num: "39",
-    name: "13cd5cbaf761e3c0",
+    name: "dragon-ball-z-dublado",
   },
   {
     num: "40",
-    name: "8c07270db0d614cb",
+    name: "dragon-ball-z-dublado",
   },
   {
     num: "41",
-    name: "8b27e6b60ac325bf",
+    name: "dragon-ball-z-dublado",
   },
   {
     num: "42",
-    name: "c2ee006e03624735",
+    name: "dragon-ball-z-dublado",
   },
   {
     num: "43",
-    name: "ce6ac03964a74991",
+    name: "dragon-ball-z-dublado",
   },
   {
     num: "44",
-    name: "39cda1a46be6537d",
+    name: "dragon-ball-z-dublado",
   },
   {
     num: "45",
-    name: "9f725e6d8b9b1d4d",
+    name: "dragon-ball-z-dublado",
   },
   {
     num: "46",
-    name: "eb33b64542dbdb8b",
+    name: "dragon-ball-z-dublado",
   },
   {
     num: "47",
-    name: "6458f22c841aca5c",
+    name: "dragon-ball-z-dublado",
   },
   {
     num: "48",
-    name: "2585c958a8e842ca",
+    name: "dragon-ball-z-dublado",
   },
   {
     num: "49",
-    name: "2a3db84471ee0f9f",
+    name: "dragon-ball-z-dublado",
   },
   {
     num: "50",
-    name: "f3959d525111f99c",
+    name: "dragon-ball-z-dublado",
   },
   {
     num: "51",
-    name: "611cd5b69baba2d9",
+    name: "dragon-ball-z-dublado",
   },
   {
     num: "52",
-    name: "9265799d17053cc7",
+    name: "dragon-ball-z-dublado",
   },
   {
     num: "53",
-    name: "7d358f5665cfc35f",
+    name: "dragon-ball-z-dublado",
   },
   {
     num: "54",
-    name: "e95f12c20019a5d5",
+    name: "dragon-ball-z-dublado",
   },
   {
     num: "55",
-    name: "3a4b8af4133a6b9b",
+    name: "dragon-ball-z-dublado",
   },
   {
     num: "56",
-    name: "53280813c1d8fd30",
+    name: "dragon-ball-z-dublado",
   },
   {
     num: "57",
-    name: "e8d902874ec7f235",
+    name: "dragon-ball-z-dublado",
   },
   {
     num: "58",
-    name: "99324dd28fff98bc",
+    name: "dragon-ball-z-dublado",
   },
   {
     num: "59",
-    name: "1a69b7e42293ea71",
+    name: "dragon-ball-z-dublado",
   },
   {
     num: "60",
-    name: "8514706cfb716ef4",
+    name: "dragon-ball-z-dublado",
   },
   {
     num: "61",
-    name: "e020db0556534969",
+    name: "dragon-ball-z-dublado",
   },
   {
     num: "62",
-    name: "d6a8f646036eff4d",
+    name: "dragon-ball-z-dublado",
   },
   {
     num: "63",
-    name: "758dfed60a56e11b",
+    name: "dragon-ball-z-dublado",
   },
   {
     num: "64",
-    name: "175ea0fd6fcd4a84",
+    name: "dragon-ball-z-dublado",
   },
   {
     num: "65",
-    name: "9641408199c323d9",
+    name: "dragon-ball-z-dublado",
   },
   {
     num: "66",
-    name: "2226576349ae920b",
+    name: "dragon-ball-z-dublado",
   },
   {
     num: "67",
-    name: "ba73f90a88cae729",
+    name: "dragon-ball-z-dublado",
   },
   {
     num: "68",
-    name: "0e3bc3b7a84ff9a4",
+    name: "dragon-ball-z-dublado",
   },
   {
     num: "69",
-    name: "48017d8956e5171c",
+    name: "dragon-ball-z-dublado",
   },
   {
     num: "70",
-    name: "0cf40571140baa09",
+    name: "dragon-ball-z-dublado",
   },
   {
     num: "71",
-    name: "d3fb6ff24275c56e",
+    name: "dragon-ball-z-dublado",
   },
   {
     num: "72",
-    name: "5b5bd2567d0a6629",
+    name: "dragon-ball-z-dublado",
   },
   {
     num: "73",
-    name: "4d35e9816683e410",
+    name: "dragon-ball-z-dublado",
   },
   {
     num: "74",
-    name: "33ca3efd80f2b530",
+    name: "dragon-ball-z-dublado",
   },
   {
     num: "75",
-    name: "252629e289b38988",
+    name: "dragon-ball-z-dublado",
   },
   {
     num: "76",
-    name: "2c46e347ace07dee",
+    name: "dragon-ball-z-dublado",
   },
   {
     num: "77",
-    name: "fb242459f4d2d489",
+    name: "dragon-ball-z-dublado",
   },
   {
     num: "78",
-    name: "b108e1cf80e095fc",
+    name: "dragon-ball-z-dublado",
   },
   {
     num: "79",
-    name: "ef7d6e24cc644d99",
+    name: "dragon-ball-z-dublado",
   },
   {
     num: "80",
-    name: "29888096635b43da",
+    name: "dragon-ball-z-dublado",
   },
   {
     num: "81",
-    name: "cfd791a5acec2f6b",
+    name: "dragon-ball-z-dublado",
   },
   {
     num: "82",
-    name: "3c2bb987f1b67667",
+    name: "dragon-ball-z-dublado",
   },
   {
     num: "83",
-    name: "1b8dff198288656c",
+    name: "dragon-ball-z-dublado",
   },
   {
     num: "84",
-    name: "caee0e39adf34f20",
+    name: "dragon-ball-z-dublado",
   },
   {
     num: "85",
-    name: "480126b74a8fecbf",
+    name: "dragon-ball-z-dublado",
   },
   {
     num: "86",
-    name: "9f62d487cb8484e8",
+    name: "dragon-ball-z-dublado",
   },
   {
     num: "87",
-    name: "1fe9f9a036ccef7d",
+    name: "dragon-ball-z-dublado",
   },
   {
     num: "88",
-    name: "6400193cc1d174b4",
+    name: "dragon-ball-z-dublado",
   },
   {
     num: "89",
-    name: "ba25841d1273e73a",
+    name: "dragon-ball-z-dublado",
   },
   {
     num: "90",
-    name: "5eb76aa925c28846",
+    name: "dragon-ball-z-dublado",
   },
   {
     num: "91",
-    name: "bfd759fd3b7456a1",
+    name: "dragon-ball-z-dublado",
   },
   {
     num: "92",
-    name: "980ec23c03a3ec60",
+    name: "dragon-ball-z-dublado",
   },
   {
     num: "93",
-    name: "a0a41ef9b28ee188",
+    name: "dragon-ball-z-dublado",
   },
   {
     num: "94",
-    name: "4f3f48ca6d8cadb7",
+    name: "dragon-ball-z-dublado",
   },
   {
     num: "95",
-    name: "2da4e637b3a65036",
+    name: "dragon-ball-z-dublado",
   },
   {
     num: "96",
-    name: "2dc6597c2dd24fd8",
+    name: "dragon-ball-z-dublado",
   },
   {
     num: "97",
-    name: "8618b601c6471b95",
+    name: "dragon-ball-z-dublado",
   },
   {
     num: "98",
-    name: "e515779f1e0d9dde",
+    name: "dragon-ball-z-dublado",
   },
   {
     num: "99",
-    name: "1206c6a687c75c58",
+    name: "dragon-ball-z-dublado",
   },
 ];
