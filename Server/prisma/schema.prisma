@@ -12,3 +12,88 @@ datasource db {
   provider = "postgresql"
   url      = env("DATABASE_URL")
 }
+
+model User {
+  id            String    @id @default(cuid())
+  email         String    @unique
+  password      String
+  name          String
+  createdAt     DateTime  @default(now())
+  updatedAt     DateTime  @updatedAt
+
+  coment         Comments[]
+
+  @@map("users")
+}
+
+model Video {
+  id            String    @id @default(cuid())
+  title         String
+  description   String
+  url           String
+  thumbnail     String
+  likes         Int       @default(0)
+  views         Int       @default(0)  
+  createdAt     DateTime  @default(now())
+  updatedAt     DateTime  @updatedAt
+
+  coments         Comments[]
+  serieId         Serie     @relation(fields: [id], references: [serieId])
+
+  @@map("videos")
+}
+
+model Serie {
+  serieId       String    @id @default(cuid())
+  title         String
+  description   String
+  thumbnail     String
+  createdAt     DateTime  @default(now())
+  updatedAt     DateTime  @updatedAt
+
+  videos        Video[]
+
+  @@map("series")
+
+}
+
+model Comments {
+  id            String    @id @default(cuid())
+  text          String
+  createdAt     DateTime  @default(now())
+  updatedAt     DateTime  @updatedAt
+
+  video         Video     @relation(fields: [videoId], references: [id])
+  videoId       String
+
+  user          User      @relation(fields: [userId], references: [id])
+  userId        String
+
+  @@map("comments")
+}
+
+model MangaList {
+  mangaListId            String    @id @default(cuid())
+  title         String
+  description   String
+  thumbnail     String
+  createdAt     DateTime  @default(now())
+  updatedAt     DateTime  @updatedAt
+
+  mangas        Manga[]
+
+  @@map("mangaLists")
+}
+
+model Manga {
+  id            String    @id @default(cuid())
+  title         String
+  description   String
+  thumbnail     String
+  createdAt     DateTime  @default(now())
+  updatedAt     DateTime  @updatedAt
+
+  mangaListId     MangaList @relation(fields: [id], references: [mangaListId])
+
+  @@map("mangas")
+}
