@@ -1,5 +1,5 @@
 .containerHeader {
-  @apply w-full bg-gray-700 shadow;
+  @apply w-full shadow;
 }
 
 .subHeader{
@@ -15,7 +15,7 @@
 }
 
 .pageTittle{
-    @apply text-2xl md:text-3xl text-white font-bold;
+    @apply text-2xl md:text-4xl text-white;
 }
 
 .navbarButton{

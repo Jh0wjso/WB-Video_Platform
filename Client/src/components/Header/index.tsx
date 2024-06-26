@@ -1,10 +1,8 @@
 import { useState } from "react";
-import { Link } from "react-router-dom";
-import "./styles.css";
-
-import Ball from "../../images/Dragonball.png";
+import { Link } from "react-router-dom"
 import { HeaderContent } from "../../data/Header/HeaderContent.data";
 import SubHeader from "../SubHeader";
+import "./styles.css";
 
 export default function Header() {
   const [navbar, setNavbar] = useState(false);
@@ -15,7 +13,6 @@ export default function Header() {
         <div>
           <div className="navBarView">
             <Link to="/" className="flex flex-row items-center">
-              <img src={Ball} width={75} className="mr-2" />
               <h1 className="pageTittle">WATCHBALL</h1>
             </Link>
             <div className="md:hidden">
@@ -72,7 +69,6 @@ export default function Header() {
           </div>
         </div>
       </div>
-      <SubHeader />
     </nav>
   );
 }
