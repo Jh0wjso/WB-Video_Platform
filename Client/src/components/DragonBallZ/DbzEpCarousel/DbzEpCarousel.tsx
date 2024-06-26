@@ -14,6 +14,7 @@ export default function DragonBallZEpCarousel() {
           Ver Mais
         </Link>
       </div>
+      <div className="flex flex-wrap justify-center">
       {DbzEpData.map((item) => (
         <Link
           to={`/video2/${item.url}/${item.ep}`}
@@ -25,6 +26,7 @@ export default function DragonBallZEpCarousel() {
           </div>
         </Link>
       ))}
+      </div>
     </div>
   );
 }

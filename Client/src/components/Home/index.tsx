@@ -3,18 +3,17 @@ import "./styles.css";
 import MovieContentZ from "../DragonBallZ/MovieContentZ";
 import DragonBallZEpCarousel from "../DragonBallZ/DbzEpCarousel/DbzEpCarousel";
 import MainSerie from "../MainSerie";
+import DragonBallCarousel from "../DragonBallCarousel";
 
 export default function Home() {
   return (
-    <section className="homeContent bg-transparent flex flex-col items-center justify-center px-3 py-5">
+    <section className="homeContent">
       <MainSerie />
-      <div className="flex flex-col">
-        <DragonBallZEpCarousel />
-        <div style={{display: "none"}}>
+      <div className="bg-gray-600 w-full flex justify-center py-10">
+        <div className="flex flex-col container">
+          <DragonBallZEpCarousel />
           <HeroesCarousel />
-          {
-            //<DragonBallCarousel />
-          }
+          <DragonBallCarousel />
           <MovieContentZ />
         </div>
       </div>

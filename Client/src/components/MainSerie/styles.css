@@ -1,10 +1,10 @@
 .mainButtonHome{
-    background-image: linear-gradient(rgba(65, 64, 64, 0.8), rgba(49, 49, 49, 0.8));
+    background-image: linear-gradient(#414040cc, #4f555f79);
     @apply w-64 py-5 px-10 text-white text-center rounded-lg mt-5 font-bold text-xl;
 }
 
 .mainButtonHome:hover{
-    background-color: #bbbbbb;
+    background-color: #a5a5a5;
     transition: 0.5s;
     -webkit-transition: 0.5s;
     -moz-transition: 0.5s;
