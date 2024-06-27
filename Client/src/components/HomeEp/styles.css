@@ -1,5 +1,5 @@
 .containerHomeEp {
-  @apply container flex flex-wrap justify-center my-8;
+  @apply container flex flex-wrap justify-center;
 }
 
 @media screen and (max-width: 1000px) {

@@ -16,5 +16,5 @@
     -moz-transition: 1s;
     -ms-transition: 1s;
     -o-transition: 1s;
-    @apply blur-sm;
+    @apply blur-sm opacity-100;
 }
