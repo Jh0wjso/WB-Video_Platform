@@ -11,3 +11,33 @@
     -ms-transition: 0.5s;
     -o-transition: 0.5s;
 }
+
+.categoriesClass {
+    @apply flex space-x-2;
+}
+
+.descriptionClass{
+    @apply text-xl w-[45%];
+}
+
+.buttonsContainer{
+    @apply mt-10 flex flex-wrap justify-center items-center;
+}
+
+.contentContainer {
+    @apply relative m-3 flex flex-col items-center transition-all duration-300 ease-in-out;
+}
+
+.nameBox {
+    @apply text-white flex flex-col absolute bottom-0 bg-black bg-opacity-50 w-full text-start p-2;
+}
+
+@media screen and (max-width: 850px){
+    .descriptionClass{
+        display: none;
+    }
+
+    .categoriesClass{
+        display: none;
+    }
+}

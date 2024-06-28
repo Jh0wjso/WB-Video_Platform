@@ -4,18 +4,12 @@ import { DbzEpData } from "../../../data/Carousel/DragonballZEps.data";
 
 export default function DragonBallZEpCarousel() {
   return (
-    <div className="containerHomeEp">
-      <div className="container flex items-center justify-center py-4">
-        <p className="mx-6 text-xl text-gray-400">All</p>
-        <p className="mx-6 text-xl">Anime</p>
-        <p className="mx-6 text-xl">Movies</p>
-        <p className="mx-6 text-xl">Mangas</p>
-      </div>
+    <div className="containerHomeEp flex flex-col">
       <div className="flex flex-wrap justify-center">
-        {DbzEpData.map((item) => (
+        {DbzEpData.map((item: any) => (
           <Link
             to={`/${item.url}`}
-            className="relative m-3 flex flex-col items-center transition-all duration-300 ease-in-out"
+            className="contentContainer"
             style={{ width: 200 }}
           >
             <img
@@ -24,7 +18,7 @@ export default function DragonBallZEpCarousel() {
               style={{ width: 200, height: 400 }}
               alt={item.name}
             />
-            <p className="text-white flex flex-col absolute bottom-0 bg-black bg-opacity-50 w-full text-start p-2">
+            <p className="nameBox">
               <p className="font-bold">{item.name}</p>
               <p className="flex items-center text-xs">
                 <IoIosPlayCircle className="mr-2" size={20} /> {item.ep}
@@ -32,6 +26,14 @@ export default function DragonBallZEpCarousel() {
             </p>
           </Link>
         ))}
+      </div>
+      <div className="buttonsContainer">
+        <Link to="/animes" className="mainButtonHome m-2">
+          See More Animes
+        </Link>
+        <Link to="/filmes" className="mainButtonHome m-2">
+          See More Movies
+        </Link>
       </div>
     </div>
   );
