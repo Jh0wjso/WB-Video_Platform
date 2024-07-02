@@ -28,10 +28,10 @@ export default function DragonBallZEpCarousel() {
       </div>
       <div className="buttonsContainer">
         <Link to="/animes" className="mainButtonHome m-2">
-          See More Animes
+          Animes
         </Link>
         <Link to="/filmes" className="mainButtonHome m-2">
-          See More Movies
+          Filmes
         </Link>
       </div>
     </div>

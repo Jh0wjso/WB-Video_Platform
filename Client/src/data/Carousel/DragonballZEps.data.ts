@@ -5,7 +5,7 @@ export const DbzEpData: CarouselInfo[] = [
     ep: "6 Temporadas",
     url: "dbz",
     name: "Dragon Ball Z",
-    image: "https://pressover.news/wp-content/uploads/2018/01/Sin-t%C3%ADtulo-1-3.jpg"
+    image: "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/22c1d6f3-f308-4791-ad79-c0dfb3cebbb0/dg3aos9-80c81c3c-f6dc-46f5-8f12-40604349ca31.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzIyYzFkNmYzLWYzMDgtNDc5MS1hZDc5LWMwZGZiM2NlYmJiMFwvZGczYW9zOS04MGM4MWMzYy1mNmRjLTQ2ZjUtOGYxMi00MDYwNDM0OWNhMzEuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.NnAsDeHYaZ10IoqbyDe0QiU1Hbc-qOjIkdsXT06EDVo"
   },
   {
     ep: "54:22",
@@ -17,7 +17,7 @@ export const DbzEpData: CarouselInfo[] = [
     ep: "5 Temporadas",
     url: "dbsuper",
     name: "Dragon Ball Super",
-    image: "https://img2.wallspic.com/previews/4/1/9/4/7/174914/174914-dragon_ball-goku-poster-saiyan-super_saiyan-500x.jpg"
+    image: "https://preview.redd.it/rose-goku-black-linework-wallpaper-you-guys-asked-ill-v0-zdqmiew27pg81.png?auto=webp&s=9926d9e1ff521367c75630bbc8bce8d8b14419d4"
   },
   {
     ep: "46:02",
@@ -59,7 +59,7 @@ export const DbzEpData: CarouselInfo[] = [
     ep: "6 Temporadas",
     url: "dbkai",
     name: "Dragon Ball KAI",
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyi1DGXuVAYCAndJzuapi-VBxRIT61WnAYqg&s"
+    image: "https://w0.peakpx.com/wallpaper/996/1002/HD-wallpaper-goku-red-dragonball-super-goku-son-goku-fire-hair-thumbnail.jpg"
   },
   {
     ep: "1:41:25",

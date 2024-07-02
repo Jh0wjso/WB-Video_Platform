@@ -22,7 +22,7 @@ export default function MainSerie() {
               {DBZDesc.description}
             </p>
             <Link to={DBZDesc.link} className="mainButtonHome">
-              Watch Now
+              Assistir
             </Link>
           </section>
         </section>
