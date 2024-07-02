@@ -17,6 +17,23 @@
   -o-transition: 1s ease;
 }
 
+.animeBox{
+
+}
+
+.image-card{
+  @apply opacity-70;
+}
+
+.image-card:hover{
+  @apply opacity-100 blur-md;
+  transition: 1s;
+  -webkit-transition: 1s;
+  -moz-transition: 1s;
+  -ms-transition: 1s;
+  -o-transition: 1s;
+}
+
 .textCard{
   @apply font-bold text-[#ffffff] mt-2;
 }
