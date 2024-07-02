@@ -29,7 +29,11 @@
 }
 
 .nameBox {
-    @apply text-white flex flex-col absolute bottom-0 bg-black bg-opacity-50 w-full text-start p-2;
+    @apply text-white justify-end flex flex-col absolute bottom-0 bg-black bg-opacity-50 w-full h-full text-start p-2;
+}
+
+.nameBox:hover{
+    @apply bg-opacity-60;
 }
 
 @media screen and (max-width: 850px){

@@ -10,12 +10,11 @@ export default function DragonBallZEpCarousel() {
           <Link
             to={`/${item.url}`}
             className="contentContainer"
-            style={{ width: 200 }}
           >
             <img
               className="coverImage opacity-60"
               src={item.image}
-              style={{ width: 200, height: 400 }}
+              style={{ width: 300, height: 500 }}
               alt={item.name}
             />
             <p className="nameBox">
