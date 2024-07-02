@@ -7,9 +7,6 @@ export default function Movies() {
   return (
     <div className="containerContent">
       <Header />
-      <h1 className="secondContainer">
-        Todos os filmes disponíveis
-      </h1>
       <MovieRow />
     </div>
   );
