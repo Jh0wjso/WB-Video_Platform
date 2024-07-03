@@ -1,28 +1,19 @@
-import MovieRowClassic from "../../components/DragonBall/MovieRowClassic";
-import SeasonFive from "../../components/DragonBall/SeasonFive";
-import SeasonFour from "../../components/DragonBall/SeasonFour";
 import SeasonOne from "../../components/DragonBall/SeasonOne";
-import SeasonThree from "../../components/DragonBall/SeasonThree";
-import SeasonTwo from "../../components/DragonBall/SeasonTwo";
-import DragonBallAbstract from "../../components/DragonBall/DragonBallAbstract";
 import "./styles.css";
+import DBSerie from "../../components/DragonBall/MainSerie";
 
 export default function ClassicScreen() {
   return (
-    <div className="classicScreenBox min-h-screen min-w-full flex flex-col items-center">
-      <div className="bgBox flex flex-col justify-center items-center">
-        <DragonBallAbstract />
-        <h1 className="text-center text-5xl py-8 font-bold">
-          Assista a Todos os Episódios Aqui:
+    <div className="min-h-screen min-w-full flex flex-col items-center">
+      <DBSerie />
+      <div className="bgBox pl-5 flex flex-col justify-center items-start">
+        <h1 className="text-start text-3xl pt-8 font-bold">
+          Episódios | Dragon Ball
         </h1>
-        <section className="flex flex-col">
-          <SeasonOne />
-          <SeasonTwo />
-          <SeasonThree />
-          <SeasonFour />
-          <SeasonFive />
-        </section>
-        <MovieRowClassic />
+        <h1 className="text-start text-xl text-gray-400">
+          Ano de lançamento: 1986
+        </h1>
+        <SeasonOne />
       </div>
     </div>
   );
