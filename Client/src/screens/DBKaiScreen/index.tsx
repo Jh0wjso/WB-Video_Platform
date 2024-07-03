@@ -1,27 +1,19 @@
 import "./styles.css";
-import MovieContentZ from "../../components/DragonBallZ/MovieContentZ";
-import DBKaiAbstract from "../../components/DragonBallKai/DBKaiAbstract";
 import SeasonOneKai from "../../components/DragonBallKai/SeasonOne";
-import SeasonTwoKai from "../../components/DragonBallKai/SeasonTwo";
-import SeasonThreeKai from "../../components/DragonBallKai/SeasonThree";
-import SeasonFourKai from "../../components/DragonBallKai/SeasonFour";
+import DBKaiSerie from "../../components/DragonBallKai/MainSerie";
 
 export default function DBKaiScreen() {
   return (
-    <div className="classicScreenBoxKai">
-      <div className="bgBox min-h-screen flex flex-col items-center">
-        <h1 className="text-center text-5xl py-8 font-bold">
-          Assista a Todos os Episódios Aqui:
+    <div className="min-h-screen min-w-full flex flex-col items-center">
+      <DBKaiSerie />
+      <div className="bgBox pl-5 flex flex-col justify-center items-start">
+        <h1 className="text-start text-3xl pt-8 font-bold">
+          Episódios | Dragon Ball KAI
         </h1>
-        <DBKaiAbstract />
-        <section className="flex flex-col w-[80%]">
-          <SeasonOneKai />
-          <SeasonTwoKai />
-          <SeasonThreeKai />
-          <SeasonFourKai />
-        </section>
-        <p className="font-bold text-5xl mt-6">Filmes da Série</p>
-        <MovieContentZ />
+        <h1 className="text-start text-xl text-gray-400">
+          Ano de lançamento: 2009
+        </h1>
+        <SeasonOneKai />
       </div>
     </div>
   );
