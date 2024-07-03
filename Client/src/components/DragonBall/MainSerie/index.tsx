@@ -1,11 +1,13 @@
 import { Link } from "react-router-dom";
 import "./styles.css";
 import { DBDesc } from "../../../data/Classic/DBZdesc.data";
+import Header from "../../Header";
 
 export default function DBSerie() {
   return (
     <>
-      <div className="box h-screen flex items-center justify-center">
+      <div className="box h-screen flex flex-col items-center justify-between pb-32">
+        <Header />
         <section className="bg-transparent flex flex-col items-start justify-center px-10">
           <section className="flex flex-col">
             <div className="mb-5">
