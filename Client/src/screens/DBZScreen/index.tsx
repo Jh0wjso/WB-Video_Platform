@@ -1,34 +1,21 @@
 import "./styles.css";
-import DragonBallZAbstract from "../../components/DragonBallZ/DragonBallZAbstract";
 import SeasonOneBbz from "../../components/DragonBallZ/SeasonOne";
-import MovieContentZ from "../../components/DragonBallZ/MovieContentZ";
-import SeasonTwoBbz from "../../components/DragonBallZ/SeasonTwo";
-import SeasonThreeBbz from "../../components/DragonBallZ/SeasonThree";
-import SeasonFourBbz from "../../components/DragonBallZ/SeasonFour";
-import SeasonFiveBbz from "../../components/DragonBallZ/SeasonFive";
-import SeasonSixDbz from "../../components/DragonBallZ/SeasonSix";
-import SeasonFinalDbz from "../../components/DragonBallZ/SeasonFinal";
+import DBZSerie from "../../components/DragonBallZ/MainSerie";
 
 export default function DBZScreen() {
   return (
-    <div className="classicScreenBoxZ">
-      <div className="bgBox min-h-screen flex flex-col items-center">
-        <h1 className=" text-center text-5xl py-8 font-bold">
-          Assista a Todos os Episódios Aqui:
-        </h1>
-        <DragonBallZAbstract />
-        <section className="flex flex-col w-[80%]">
-          <SeasonOneBbz />
-          <SeasonTwoBbz />
-          <SeasonThreeBbz />
-          <SeasonFourBbz />
-          <SeasonFiveBbz />
-          <SeasonSixDbz />
-          <SeasonFinalDbz />
-        </section>
-        <p className="font-bold text-5xl mt-6">Filmes da Série</p>
-        <MovieContentZ />
-      </div>
+    
+    <div className="min-h-screen min-w-full flex flex-col items-center">
+    <DBZSerie />
+    <div className="bgBox pl-5 flex flex-col justify-center items-start">
+      <h1 className="text-start text-3xl pt-8 font-bold">
+        Episódios | Dragon Ball Z
+      </h1>
+      <h1 className="text-start text-xl text-gray-400">
+        Ano de lançamento: 1989
+      </h1>
+      <SeasonOneBbz />
     </div>
+  </div>
   );
 }

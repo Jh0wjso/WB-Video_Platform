@@ -10,6 +10,6 @@ export const DBZDesc: AnimeDescription = {
     "Shounen",
   ],
   description:
-    "Dragon Ball é uma franquia de mídia japonesa criada por Akira Toriyama em 1984. O mangá inicial, escrito e ilustrado por Toriyama, foi serializado na Weekly Shōnen Jump de 1984 a 1995, com 519 capítulos individuais coletados em 42 volumes tankōbon por sua editora Shueisha. Dragon Ball foi inicialmente inspirado no clássico romance chinês Jornada ao Oeste, bem como em filmes de artes marciais de Hong Kong. A série acompanha as aventuras do protagonista, Son Goku, desde a infância até a idade adulta enquanto ele treina artes marciais. Ele passa a infância longe da civilização até conhecer um adolescente.",
+    "Dragon Ball Z é uma série de anime produzida pela Toei Animation. É a sequência de Dragon Ball e adapta os últimos 325 capítulos do mangá original de Akira Toriyama. A série de TV foi exibida no Japão de 26 de abril de 1989 a 31 de janeiro de 1996. A história acompanha a vida adulta de Son Goku, que continua com seus amigos defendendo a Terra de vilões intergalácticos. ",
   link: "dbz",
 };
