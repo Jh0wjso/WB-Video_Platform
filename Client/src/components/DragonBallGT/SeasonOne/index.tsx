@@ -1,5 +1,4 @@
 import "../styles.css";
-import NewSectionButtonsAlternative from "../../NewSectionButtonsAlternative";
 import NewSectionLinksAlternative from "../../NewSectionLinksAlternative";
 import { GTSeasonOneData } from "../../../data/GT/GTSeasonOne.data";
 
