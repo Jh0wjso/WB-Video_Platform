@@ -1,4 +1,3 @@
-import { Link } from "react-router-dom";
 import "./styles.css";
 import { DBDesc } from "../../../data/Classic/DBZdesc.data";
 import Header from "../../Header";
@@ -20,12 +19,7 @@ export default function DBSerie() {
                 ))}
               </ul>
             </div>
-            <p className="descriptionClass">
-              {DBDesc.description}
-            </p>
-            <Link to={DBDesc.link} className="mainButtonHome">
-              Assistir
-            </Link>
+            <p className="descriptionClass">{DBDesc.description}</p>
           </section>
         </section>
       </div>
