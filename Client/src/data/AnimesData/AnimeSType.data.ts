@@ -38,13 +38,13 @@ export const AnimeSData: CarouselInfo[] = [
     image: "https://i.pinimg.com/736x/37/a8/55/37a855532b062854add5f24be1912329.jpg",
   },
   {
-    ep: "8 Episódios",
+    ep: "7 Episódios",
     url: "ova",
     name: "OVAs",
     image: "https://wallpapers.com/images/hd/bardock-1221-x-2171-wallpaper-qhc8ai5yxbf0gzh7.jpg",
   },
   {
-    ep: "3 Episódios",
+    ep: "4 Episódios",
     url: "special",
     name: "Especiais",
     image: "https://mrwallpaper.com/images/thumbnail/unleash-your-power-with-trunks-bz1y9ys9kdr02euj.jpg",

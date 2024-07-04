@@ -22,11 +22,6 @@ export const OvasData : MovieInfo [] = [
         tittle: "O Plano Para Erradicar os Saiyajins"
     },
     {
-        path: "/video/Especial de 2007/1QE4zDFW7eQbuOHenuhbTOE6Qu-r_Hfme",
-        poster: "https://w0.peakpx.com/wallpaper/822/663/HD-wallpaper-goten-and-trunks-animated-draw-animated-series-anime-kids-dragon-dragon-ball-dragon-ball-super-dragon-ball-z-legends-thumbnail.jpg",
-        tittle: "Especial de 2007"
-    },
-    {
         path: "/video/Ossu! O retorno de Son Goku e seus Companheiros/1HN37TqZ_yLwO5_cZLSkj_VFV1TN3rmoC",
         poster: "https://media.fstatic.com/_AWY-dgI9-L-RHAzm8taK3XrqjU=/322x478/smart/filters:format(webp)/media/movies/covers/2022/12/MV5-BMm-Iw-N2-Iz-NDct-Zj-Ey-Mi00-Zj-U1-LTk1-Nj-Yt-Zm-Ri-MGFm-OTVj-_CYwwBWS.jpg",
         tittle: "Ossu! O retorno de..."
