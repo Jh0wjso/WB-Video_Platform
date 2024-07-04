@@ -13,5 +13,5 @@ export const DBKaiDesc: AnimeDescription = {
   ],
   description:
     "Dragon Ball Kai é uma versão remasterizada de Dragon Ball Z produzida em comemoração ao aniversário de 20 anos da série. A nova versão foi feita para comemorar o aniversário de 20 anos da série e foi exibida entre 2009 e 2011. A série foi editada para seguir mais fielmente o mangá de Akira Toriyama, removendo cenas de preenchimento e mantendo a qualidade da animação.",
-  link: "dbz",
+  link: "dbkai",
 };
