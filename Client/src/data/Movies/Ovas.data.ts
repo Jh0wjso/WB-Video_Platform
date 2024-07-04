@@ -23,7 +23,7 @@ export const OvasData : MovieInfo [] = [
     },
     {
         path: "/video/Especial de 2007/1QE4zDFW7eQbuOHenuhbTOE6Qu-r_Hfme",
-        poster: "https://animehd.cc/wp-content/uploads/2022/02/Dragon-Ball-Z-Ova-3-Capa.jpg",
+        poster: "https://w0.peakpx.com/wallpaper/822/663/HD-wallpaper-goten-and-trunks-animated-draw-animated-series-anime-kids-dragon-dragon-ball-dragon-ball-super-dragon-ball-z-legends-thumbnail.jpg",
         tittle: "Especial de 2007"
     },
     {
