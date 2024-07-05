@@ -1,3 +1,5 @@
+import VPlayer from "react-vplayer";
+
 interface InfoVideo {
   number: string;
   url: string;
@@ -5,18 +7,11 @@ interface InfoVideo {
 
 export default function NewVideoContent({ number, url }: InfoVideo) {
   return (
-    <>
+    <div className="flex flex-col items-center justify-center w-full">
       <h1 className="epName">Episodio: {" " + url}</h1>
-      <video
-        src={`https://mangas.cloud/Animes/Letra-D/${number}/${url}.mp4`}
-        height="100%"
-        width="100%"
-        className="videoContent"
-        controls={true}
-        poster={
-          "https://i.pinimg.com/736x/76/7b/61/767b61bd84f46d3c458d94ad15a6796d.jpg"
-        }
-      ></video>
+      <VPlayer
+        source={`https://mangas.cloud/Animes/Letra-D/${number}/${url}.mp4`}
+      />
       <div className="containerHelp">
         <h3 className="helpText">Algum problema com o vídeo?</h3>
         <a
@@ -27,6 +22,6 @@ export default function NewVideoContent({ number, url }: InfoVideo) {
           Clique Aqui
         </a>
       </div>
-    </>
+    </div>
   );
 }
