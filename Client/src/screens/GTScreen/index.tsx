@@ -1,23 +1,19 @@
-import DragonBallGTAbstract from "../../components/DragonBallGT/DragonBallGTAbstract";
-import SeasonFinalGT from "../../components/DragonBallGT/SeasonFinal";
+import DBgtSerie from "../../components/DragonBallGT/MainSerie";
 import SeasonOneGT from "../../components/DragonBallGT/SeasonOne";
-import SeasonThreeGT from "../../components/DragonBallGT/SeasonThree";
-import SeasonTwoGT from "../../components/DragonBallGT/SeasonTwo";
-import MovieContentZ from "../../components/DragonBallZ/MovieContentZ";
 
 export default function GTScreen() {
   return (
-    <div className="min-h-screen flex flex-col items-center">
-      <DragonBallGTAbstract />
-      <h1 className="text-center text-5xl py-8 font-bold">Assista a Todos os Episódios Aqui:</h1>
-      <section className="flex flex-col w-[80%]">
+    <div className="min-h-screen min-w-full flex flex-col items-center">
+      <DBgtSerie />
+      <div className="bgBox pl-5 flex flex-col justify-center items-start">
+        <h1 className="text-start text-3xl pt-8 font-bold">
+          Episódios | Dragon Ball GT
+        </h1>
+        <h1 className="text-start text-xl text-gray-400">
+          Ano de lançamento: 1996
+        </h1>
         <SeasonOneGT />
-        <SeasonTwoGT />
-        <SeasonThreeGT />
-        <SeasonFinalGT />
-      </section>
-      <p className="font-bold text-5xl mt-6">Filmes da Série</p>
-      <MovieContentZ />
+      </div>
     </div>
   );
 }

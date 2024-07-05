@@ -3,27 +3,33 @@ import { Link } from "react-router-dom";
 import Um from "../../images/Special/1.jpeg";
 import Dois from "../../images/Special/2.jpeg";
 import Tres from "../../images/Special/3.jpeg";
+import { SpecialData } from "../../data/Movies/Special.data";
+import { IoIosPlayCircle } from "react-icons/io";
+import Header from "../../components/Header";
 
 export default function SpecialScreen() {
   return (
-    <div className="containerContent">
-      <h1 className="secondContainer">
-        Todos os Ovas disponíveis
-      </h1>
-      <div className="cardsContainer">
-        <Link to={"/video/A Batalha de Freeza Contra o Pai de Goku/1qHRG1U7wWkPs1R8z3wKP_ogXP2lRJRpd"} className="cardAnime">
-          <img src={Um} width={250} className="imageCard" />
-          <p className="font-bold">A Batalha de Freeza<br/>Contra o Pai de Goku</p>
-        </Link>
-        <Link to={"/video/Gohan e Trunks, os Guerreiros do Futuro/1qMGg4cfSfAuhmAVFeQ2umS-kQtUE87Va"} className="cardAnime">
-          <img src={Dois} width={250} className="imageCard" />
-          <p className="font-bold">Gohan e Trunks,<br/>os Guerreiros do Futuro</p>
-        </Link>
-        <Link to={"/video/Toriko X One piece X DBZ/1qLRSpvcSUmT7FMAi6oQCRrW6F6m_dGPe"} className="cardAnime">
-          <img src={Tres} width={250} className="imageCard" />
-          <p className="font-bold">Toriko X One piece<br/>X Dragon Ball Z</p>
-        </Link>
+    <>
+      <Header />
+      <div className="containerContent">
+        <div className="cardsContainer">
+          {SpecialData.map((item) => (
+            <Link className="contentContainer" to={`${item.path}`}>
+              <img
+                className="coverImage opacity-60"
+                src={item.poster}
+                style={{ width: 300, height: 500 }}
+                alt={item.tittle}
+              />
+              <p className="nameBox">
+                <p className="flex items-center font-bold">
+                  <IoIosPlayCircle className="mr-2" size={20} /> {item.tittle}
+                </p>
+              </p>
+            </Link>
+          ))}
+        </div>
       </div>
-    </div>
+    </>
   );
 }

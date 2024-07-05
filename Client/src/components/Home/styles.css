@@ -4,6 +4,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    @apply bg-transparent flex flex-col items-center justify-center;
 }
 
 @media screen and (max-width: 1755px){
