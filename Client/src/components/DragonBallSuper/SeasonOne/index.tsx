@@ -1,13 +1,13 @@
 import "../styles.css";
-import SectionLinks from "../../SectionLinks";
 import { DBSSeasonOneData } from "../../../data/DBS/DBSSeasonOne.data";
+import NewSectionLinks from "../../NewSectionLinks";
 
 export default function SeasonOneSuper() {
   return (
     <div className="containerEps">
       <section className="episodeButtonsZ">
         {DBSSeasonOneData.map((item) => (
-          <SectionLinks num={`${item.num}`} url={`${item.name}`} />
+          <NewSectionLinks num={`${item.num}`} name={`${item.name}`} />
         ))}
       </section>
     </div>

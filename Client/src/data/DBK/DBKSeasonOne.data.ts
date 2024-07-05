@@ -3,670 +3,670 @@ import { EpInfo } from "../EpContent";
 export const DBKSeasonOneData: EpInfo[] = [
   {
     num: "01",
-    name: "dragon-ball-kai-dublado",
+    name: "Dragon%20Ball%20Kai%202009%20Dublado",
   },
   {
     num: "02",
-    name: "dragon-ball-kai-dublado",
+    name: "Dragon%20Ball%20Kai%202009%20Dublado",
   },
   {
     num: "03",
-    name: "dragon-ball-kai-dublado",
+    name: "Dragon%20Ball%20Kai%202009%20Dublado",
   },
   {
     num: "04",
-    name: "dragon-ball-kai-dublado",
+    name: "Dragon%20Ball%20Kai%202009%20Dublado",
   },
   {
     num: "05",
-    name: "dragon-ball-kai-dublado",
+    name: "Dragon%20Ball%20Kai%202009%20Dublado",
   },
   {
     num: "06",
-    name: "dragon-ball-kai-dublado",
+    name: "Dragon%20Ball%20Kai%202009%20Dublado",
   },
   {
     num: "07",
-    name: "dragon-ball-kai-dublado",
+    name: "Dragon%20Ball%20Kai%202009%20Dublado",
   },
   {
     num: "08",
-    name: "dragon-ball-kai-dublado",
+    name: "Dragon%20Ball%20Kai%202009%20Dublado",
   },
   {
     num: "09",
-    name: "dragon-ball-kai-dublado",
+    name: "Dragon%20Ball%20Kai%202009%20Dublado",
   },
   {
     num: "10",
-    name: "dragon-ball-kai-dublado",
+    name: "Dragon%20Ball%20Kai%202009%20Dublado",
   },
   {
     num: "11",
-    name: "dragon-ball-kai-dublado",
+    name: "Dragon%20Ball%20Kai%202009%20Dublado",
   },
   {
     num: "12",
-    name: "dragon-ball-kai-dublado",
+    name: "Dragon%20Ball%20Kai%202009%20Dublado",
   },
   {
     num: "13",
-    name: "dragon-ball-kai-dublado",
+    name: "Dragon%20Ball%20Kai%202009%20Dublado",
   },
   {
     num: "14",
-    name: "dragon-ball-kai-dublado",
+    name: "Dragon%20Ball%20Kai%202009%20Dublado",
   },
   {
     num: "15",
-    name: "dragon-ball-kai-dublado",
+    name: "Dragon%20Ball%20Kai%202009%20Dublado",
   },
   {
     num: "16",
-    name: "dragon-ball-kai-dublado",
+    name: "Dragon%20Ball%20Kai%202009%20Dublado",
   },
   {
     num: "17",
-    name: "dragon-ball-kai-dublado",
+    name: "Dragon%20Ball%20Kai%202009%20Dublado",
   },
   {
     num: "18",
-    name: "dragon-ball-kai-dublado",
+    name: "Dragon%20Ball%20Kai%202009%20Dublado",
   },
   {
     num: "19",
-    name: "dragon-ball-kai-dublado",
+    name: "Dragon%20Ball%20Kai%202009%20Dublado",
   },
   {
     num: "20",
-    name: "dragon-ball-kai-dublado",
+    name: "Dragon%20Ball%20Kai%202009%20Dublado",
   },
   {
     num: "21",
-    name: "dragon-ball-kai-dublado",
+    name: "Dragon%20Ball%20Kai%202009%20Dublado",
   },
   {
     num: "22",
-    name: "dragon-ball-kai-dublado",
+    name: "Dragon%20Ball%20Kai%202009%20Dublado",
   },
   {
     num: "23",
-    name: "dragon-ball-kai-dublado",
+    name: "Dragon%20Ball%20Kai%202009%20Dublado",
   },
   {
     num: "24",
-    name: "dragon-ball-kai-dublado",
+    name: "Dragon%20Ball%20Kai%202009%20Dublado",
   },
   {
     num: "25",
-    name: "dragon-ball-kai-dublado",
+    name: "Dragon%20Ball%20Kai%202009%20Dublado",
   },
   {
     num: "26",
-    name: "dragon-ball-kai-dublado",
+    name: "Dragon%20Ball%20Kai%202009%20Dublado",
   },
   {
     num: "27",
-    name: "dragon-ball-kai-dublado",
+    name: "Dragon%20Ball%20Kai%202009%20Dublado",
   },
   {
     num: "28",
-    name: "dragon-ball-kai-dublado",
+    name: "Dragon%20Ball%20Kai%202009%20Dublado",
   },
   {
     num: "29",
-    name: "dragon-ball-kai-dublado",
+    name: "Dragon%20Ball%20Kai%202009%20Dublado",
   },
   {
     num: "30",
-    name: "dragon-ball-kai-dublado",
+    name: "Dragon%20Ball%20Kai%202009%20Dublado",
   },
   {
     num: "31",
-    name: "dragon-ball-kai-dublado",
+    name: "Dragon%20Ball%20Kai%202009%20Dublado",
   },
   {
     num: "32",
-    name: "dragon-ball-kai-dublado",
+    name: "Dragon%20Ball%20Kai%202009%20Dublado",
   },
   {
     num: "33",
-    name: "dragon-ball-kai-dublado",
+    name: "Dragon%20Ball%20Kai%202009%20Dublado",
   },
   {
     num: "34",
-    name: "dragon-ball-kai-dublado",
+    name: "Dragon%20Ball%20Kai%202009%20Dublado",
   },
   {
     num: "35",
-    name: "dragon-ball-kai-dublado",
+    name: "Dragon%20Ball%20Kai%202009%20Dublado",
   },
   {
     num: "36",
-    name: "dragon-ball-kai-dublado",
+    name: "Dragon%20Ball%20Kai%202009%20Dublado",
   },
   {
     num: "37",
-    name: "dragon-ball-kai-dublado",
+    name: "Dragon%20Ball%20Kai%202009%20Dublado",
   },
   {
     num: "38",
-    name: "dragon-ball-kai-dublado",
+    name: "Dragon%20Ball%20Kai%202009%20Dublado",
   },
   {
     num: "39",
-    name: "dragon-ball-kai-dublado",
+    name: "Dragon%20Ball%20Kai%202009%20Dublado",
   },
   {
     num: "40",
-    name: "dragon-ball-kai-dublado",
+    name: "Dragon%20Ball%20Kai%202009%20Dublado",
   },
   {
     num: "41",
-    name: "dragon-ball-kai-dublado",
+    name: "Dragon%20Ball%20Kai%202009%20Dublado",
   },
   {
     num: "42",
-    name: "dragon-ball-kai-dublado",
+    name: "Dragon%20Ball%20Kai%202009%20Dublado",
   },
   {
     num: "43",
-    name: "dragon-ball-kai-dublado",
+    name: "Dragon%20Ball%20Kai%202009%20Dublado",
   },
   {
     num: "44",
-    name: "dragon-ball-kai-dublado",
+    name: "Dragon%20Ball%20Kai%202009%20Dublado",
   },
   {
     num: "45",
-    name: "dragon-ball-kai-dublado",
+    name: "Dragon%20Ball%20Kai%202009%20Dublado",
   },
   {
     num: "46",
-    name: "dragon-ball-kai-dublado",
+    name: "Dragon%20Ball%20Kai%202009%20Dublado",
   },
   {
     num: "47",
-    name: "dragon-ball-kai-dublado",
+    name: "Dragon%20Ball%20Kai%202009%20Dublado",
   },
   {
     num: "48",
-    name: "dragon-ball-kai-dublado",
+    name: "Dragon%20Ball%20Kai%202009%20Dublado",
   },
   {
     num: "49",
-    name: "dragon-ball-kai-dublado",
+    name: "Dragon%20Ball%20Kai%202009%20Dublado",
   },
   {
     num: "50",
-    name: "dragon-ball-kai-dublado",
+    name: "Dragon%20Ball%20Kai%202009%20Dublado",
   },
   {
     num: "51",
-    name: "dragon-ball-kai-dublado",
+    name: "Dragon%20Ball%20Kai%202009%20Dublado",
   },
   {
     num: "52",
-    name: "dragon-ball-kai-dublado",
+    name: "Dragon%20Ball%20Kai%202009%20Dublado",
   },
   {
     num: "53",
-    name: "dragon-ball-kai-dublado",
+    name: "Dragon%20Ball%20Kai%202009%20Dublado",
   },
   {
     num: "54",
-    name: "dragon-ball-kai-dublado",
+    name: "Dragon%20Ball%20Kai%202009%20Dublado",
   },
   {
     num: "55",
-    name: "dragon-ball-kai-dublado",
+    name: "Dragon%20Ball%20Kai%202009%20Dublado",
   },
   {
     num: "56",
-    name: "dragon-ball-kai-dublado",
+    name: "Dragon%20Ball%20Kai%202009%20Dublado",
   },
   {
     num: "57",
-    name: "dragon-ball-kai-dublado",
+    name: "Dragon%20Ball%20Kai%202009%20Dublado",
   },
   {
     num: "58",
-    name: "dragon-ball-kai-dublado",
+    name: "Dragon%20Ball%20Kai%202009%20Dublado",
   },
   {
     num: "59",
-    name: "dragon-ball-kai-dublado",
+    name: "Dragon%20Ball%20Kai%202009%20Dublado",
   },
   {
     num: "60",
-    name: "dragon-ball-kai-dublado",
+    name: "Dragon%20Ball%20Kai%202009%20Dublado",
   },
   {
     num: "61",
-    name: "dragon-ball-kai-dublado",
+    name: "Dragon%20Ball%20Kai%202009%20Dublado",
   },
   {
     num: "62",
-    name: "dragon-ball-kai-dublado",
+    name: "Dragon%20Ball%20Kai%202009%20Dublado",
   },
   {
     num: "63",
-    name: "dragon-ball-kai-dublado",
+    name: "Dragon%20Ball%20Kai%202009%20Dublado",
   },
   {
     num: "64",
-    name: "dragon-ball-kai-dublado",
+    name: "Dragon%20Ball%20Kai%202009%20Dublado",
   },
   {
     num: "65",
-    name: "dragon-ball-kai-dublado",
+    name: "Dragon%20Ball%20Kai%202009%20Dublado",
   },
   {
     num: "66",
-    name: "dragon-ball-kai-dublado",
+    name: "Dragon%20Ball%20Kai%202009%20Dublado",
   },
   {
     num: "67",
-    name: "dragon-ball-kai-dublado",
+    name: "Dragon%20Ball%20Kai%202009%20Dublado",
   },
   {
     num: "68",
-    name: "dragon-ball-kai-dublado",
+    name: "Dragon%20Ball%20Kai%202009%20Dublado",
   },
   {
     num: "69",
-    name: "dragon-ball-kai-dublado",
+    name: "Dragon%20Ball%20Kai%202009%20Dublado",
   },
   {
     num: "70",
-    name: "dragon-ball-kai-dublado",
+    name: "Dragon%20Ball%20Kai%202009%20Dublado",
   },
   {
     num: "71",
-    name: "dragon-ball-kai-dublado",
+    name: "Dragon%20Ball%20Kai%202009%20Dublado",
   },
   {
     num: "72",
-    name: "dragon-ball-kai-dublado",
+    name: "Dragon%20Ball%20Kai%202009%20Dublado",
   },
   {
     num: "73",
-    name: "dragon-ball-kai-dublado",
+    name: "Dragon%20Ball%20Kai%202009%20Dublado",
   },
   {
     num: "74",
-    name: "dragon-ball-kai-dublado",
+    name: "Dragon%20Ball%20Kai%202009%20Dublado",
   },
   {
     num: "75",
-    name: "dragon-ball-kai-dublado",
+    name: "Dragon%20Ball%20Kai%202009%20Dublado",
   },
   {
     num: "76",
-    name: "dragon-ball-kai-dublado",
+    name: "Dragon%20Ball%20Kai%202009%20Dublado",
   },
   {
     num: "77",
-    name: "dragon-ball-kai-dublado",
+    name: "Dragon%20Ball%20Kai%202009%20Dublado",
   },
   {
     num: "78",
-    name: "dragon-ball-kai-dublado",
+    name: "Dragon%20Ball%20Kai%202009%20Dublado",
   },
   {
     num: "79",
-    name: "dragon-ball-kai-dublado",
+    name: "Dragon%20Ball%20Kai%202009%20Dublado",
   },
   {
     num: "80",
-    name: "dragon-ball-kai-dublado",
+    name: "Dragon%20Ball%20Kai%202009%20Dublado",
   },
   {
     num: "81",
-    name: "dragon-ball-kai-dublado",
+    name: "Dragon%20Ball%20Kai%202009%20Dublado",
   },
   {
     num: "82",
-    name: "dragon-ball-kai-dublado",
+    name: "Dragon%20Ball%20Kai%202009%20Dublado",
   },
   {
     num: "83",
-    name: "dragon-ball-kai-dublado",
+    name: "Dragon%20Ball%20Kai%202009%20Dublado",
   },
   {
     num: "84",
-    name: "dragon-ball-kai-dublado",
+    name: "Dragon%20Ball%20Kai%202009%20Dublado",
   },
   {
     num: "85",
-    name: "dragon-ball-kai-dublado",
+    name: "Dragon%20Ball%20Kai%202009%20Dublado",
   },
   {
     num: "86",
-    name: "dragon-ball-kai-dublado",
+    name: "Dragon%20Ball%20Kai%202009%20Dublado",
   },
   {
     num: "87",
-    name: "dragon-ball-kai-dublado",
+    name: "Dragon%20Ball%20Kai%202009%20Dublado",
   },
   {
     num: "88",
-    name: "dragon-ball-kai-dublado",
+    name: "Dragon%20Ball%20Kai%202009%20Dublado",
   },
   {
     num: "89",
-    name: "dragon-ball-kai-dublado",
+    name: "Dragon%20Ball%20Kai%202009%20Dublado",
   },
   {
     num: "90",
-    name: "dragon-ball-kai-dublado",
+    name: "Dragon%20Ball%20Kai%202009%20Dublado",
   },
   {
     num: "91",
-    name: "dragon-ball-kai-dublado",
+    name: "Dragon%20Ball%20Kai%202009%20Dublado",
   },
   {
     num: "92",
-    name: "dragon-ball-kai-dublado",
+    name: "Dragon%20Ball%20Kai%202009%20Dublado",
   },
   {
     num: "93",
-    name: "dragon-ball-kai-dublado",
+    name: "Dragon%20Ball%20Kai%202009%20Dublado",
   },
   {
     num: "94",
-    name: "dragon-ball-kai-dublado",
+    name: "Dragon%20Ball%20Kai%202009%20Dublado",
   },
   {
     num: "95",
-    name: "dragon-ball-kai-dublado",
+    name: "Dragon%20Ball%20Kai%202009%20Dublado",
   },
   {
     num: "96",
-    name: "dragon-ball-kai-dublado",
+    name: "Dragon%20Ball%20Kai%202009%20Dublado",
   },
   {
     num: "97",
-    name: "dragon-ball-kai-dublado",
+    name: "Dragon%20Ball%20Kai%202009%20Dublado",
   },
   {
     num: "98",
-    name: "dragon-ball-kai-dublado",
+    name: "Dragon%20Ball%20Kai%202009%20Dublado",
   },
   {
     num: "99",
-    name: "dragon-ball-kai-dublado",
+    name: "Dragon%20Ball%20Kai%202009%20Dublado",
   },
   {
     num: "100",
-    name: "dragon-ball-kai-dublado",
+    name: "Dragon%20Ball%20Kai%202009%20Dublado",
   },
   {
     num: "101",
-    name: "dragon-ball-kai-dublado",
+    name: "Dragon%20Ball%20Kai%202009%20Dublado",
   },
   {
     num: "102",
-    name: "dragon-ball-kai-dublado",
+    name: "Dragon%20Ball%20Kai%202009%20Dublado",
   },
   {
     num: "103",
-    name: "dragon-ball-kai-dublado",
+    name: "Dragon%20Ball%20Kai%202009%20Dublado",
   },
   {
     num: "104",
-    name: "dragon-ball-kai-dublado",
+    name: "Dragon%20Ball%20Kai%202009%20Dublado",
   },
   {
     num: "105",
-    name: "dragon-ball-kai-dublado",
+    name: "Dragon%20Ball%20Kai%202009%20Dublado",
   },
   {
     num: "106",
-    name: "dragon-ball-kai-dublado",
+    name: "Dragon%20Ball%20Kai%202009%20Dublado",
   },
   {
     num: "107",
-    name: "dragon-ball-kai-dublado",
+    name: "Dragon%20Ball%20Kai%202009%20Dublado",
   },
   {
     num: "108",
-    name: "dragon-ball-kai-dublado",
+    name: "Dragon%20Ball%20Kai%202009%20Dublado",
   },
   {
     num: "109",
-    name: "dragon-ball-kai-dublado",
+    name: "Dragon%20Ball%20Kai%202009%20Dublado",
   },
   {
     num: "110",
-    name: "dragon-ball-kai-dublado",
+    name: "Dragon%20Ball%20Kai%202009%20Dublado",
   },
   {
     num: "111",
-    name: "dragon-ball-kai-dublado",
+    name: "Dragon%20Ball%20Kai%202009%20Dublado",
   },
   {
     num: "112",
-    name: "dragon-ball-kai-dublado",
+    name: "Dragon%20Ball%20Kai%202009%20Dublado",
   },
   {
     num: "113",
-    name: "dragon-ball-kai-dublado",
+    name: "Dragon%20Ball%20Kai%202009%20Dublado",
   },
   {
     num: "114",
-    name: "dragon-ball-kai-dublado",
+    name: "Dragon%20Ball%20Kai%202009%20Dublado",
   },
   {
     num: "115",
-    name: "dragon-ball-kai-dublado",
+    name: "Dragon%20Ball%20Kai%202009%20Dublado",
   },
   {
     num: "116",
-    name: "dragon-ball-kai-dublado",
+    name: "Dragon%20Ball%20Kai%202009%20Dublado",
   },
   {
     num: "117",
-    name: "dragon-ball-kai-dublado",
+    name: "Dragon%20Ball%20Kai%202009%20Dublado",
   },
   {
     num: "118",
-    name: "dragon-ball-kai-dublado",
+    name: "Dragon%20Ball%20Kai%202009%20Dublado",
   },
   {
     num: "119",
-    name: "dragon-ball-kai-dublado",
+    name: "Dragon%20Ball%20Kai%202009%20Dublado",
   },
   {
     num: "120",
-    name: "dragon-ball-kai-dublado",
+    name: "Dragon%20Ball%20Kai%202009%20Dublado",
   },
   {
     num: "121",
-    name: "dragon-ball-kai-dublado",
+    name: "Dragon%20Ball%20Kai%202009%20Dublado",
   },
   {
     num: "122",
-    name: "dragon-ball-kai-dublado",
+    name: "Dragon%20Ball%20Kai%202009%20Dublado",
   },
   {
     num: "123",
-    name: "dragon-ball-kai-dublado",
+    name: "Dragon%20Ball%20Kai%202009%20Dublado",
   },
   {
     num: "124",
-    name: "dragon-ball-kai-dublado",
+    name: "Dragon%20Ball%20Kai%202009%20Dublado",
   },
   {
     num: "125",
-    name: "dragon-ball-kai-dublado",
+    name: "Dragon%20Ball%20Kai%202009%20Dublado",
   },
   {
     num: "126",
-    name: "dragon-ball-kai-dublado",
+    name: "Dragon%20Ball%20Kai%202009%20Dublado",
   },
   {
     num: "127",
-    name: "dragon-ball-kai-dublado",
+    name: "Dragon%20Ball%20Kai%202009%20Dublado",
   },
   {
     num: "128",
-    name: "dragon-ball-kai-dublado",
+    name: "Dragon%20Ball%20Kai%202009%20Dublado",
   },
   {
     num: "129",
-    name: "dragon-ball-kai-dublado",
+    name: "Dragon%20Ball%20Kai%202009%20Dublado",
   },
   {
     num: "130",
-    name: "dragon-ball-kai-dublado",
+    name: "Dragon%20Ball%20Kai%202009%20Dublado",
   },
   {
     num: "131",
-    name: "dragon-ball-kai-dublado",
+    name: "Dragon%20Ball%20Kai%202009%20Dublado",
   },
   {
     num: "132",
-    name: "dragon-ball-kai-dublado",
+    name: "Dragon%20Ball%20Kai%202009%20Dublado",
   },
   {
     num: "133",
-    name: "dragon-ball-kai-dublado",
+    name: "Dragon%20Ball%20Kai%202009%20Dublado",
   },
   {
     num: "134",
-    name: "dragon-ball-kai-dublado",
+    name: "Dragon%20Ball%20Kai%202009%20Dublado",
   },
   {
     num: "135",
-    name: "dragon-ball-kai-dublado",
+    name: "Dragon%20Ball%20Kai%202009%20Dublado",
   },
   {
     num: "136",
-    name: "dragon-ball-kai-dublado",
+    name: "Dragon%20Ball%20Kai%202009%20Dublado",
   },
   {
     num: "137",
-    name: "dragon-ball-kai-dublado",
+    name: "Dragon%20Ball%20Kai%202009%20Dublado",
   },
   {
     num: "138",
-    name: "dragon-ball-kai-dublado",
+    name: "Dragon%20Ball%20Kai%202009%20Dublado",
   },
   {
     num: "139",
-    name: "dragon-ball-kai-dublado",
+    name: "Dragon%20Ball%20Kai%202009%20Dublado",
   },
   {
     num: "140",
-    name: "dragon-ball-kai-dublado",
+    name: "Dragon%20Ball%20Kai%202009%20Dublado",
   },
   {
     num: "141",
-    name: "dragon-ball-kai-dublado",
+    name: "Dragon%20Ball%20Kai%202009%20Dublado",
   },
   {
     num: "142",
-    name: "dragon-ball-kai-dublado",
+    name: "Dragon%20Ball%20Kai%202009%20Dublado",
   },
   {
     num: "143",
-    name: "dragon-ball-kai-dublado",
+    name: "Dragon%20Ball%20Kai%202009%20Dublado",
   },
   {
     num: "144",
-    name: "dragon-ball-kai-dublado",
+    name: "Dragon%20Ball%20Kai%202009%20Dublado",
   },
   {
     num: "145",
-    name: "dragon-ball-kai-dublado",
+    name: "Dragon%20Ball%20Kai%202009%20Dublado",
   },
   {
     num: "146",
-    name: "dragon-ball-kai-dublado",
+    name: "Dragon%20Ball%20Kai%202009%20Dublado",
   },
   {
     num: "147",
-    name: "dragon-ball-kai-dublado",
+    name: "Dragon%20Ball%20Kai%202009%20Dublado",
   },
   {
     num: "148",
-    name: "dragon-ball-kai-dublado",
+    name: "Dragon%20Ball%20Kai%202009%20Dublado",
   },
   {
     num: "149",
-    name: "dragon-ball-kai-dublado",
+    name: "Dragon%20Ball%20Kai%202009%20Dublado",
   },
   {
     num: "150",
-    name: "dragon-ball-kai-dublado",
+    name: "Dragon%20Ball%20Kai%202009%20Dublado",
   },
   {
     num: "151",
-    name: "dragon-ball-kai-dublado",
+    name: "Dragon%20Ball%20Kai%202009%20Dublado",
   },
   {
     num: "152",
-    name: "dragon-ball-kai-dublado",
+    name: "Dragon%20Ball%20Kai%202009%20Dublado",
   },
   {
     num: "153",
-    name: "dragon-ball-kai-dublado",
+    name: "Dragon%20Ball%20Kai%202009%20Dublado",
   },
   {
     num: "154",
-    name: "dragon-ball-kai-dublado",
+    name: "Dragon%20Ball%20Kai%202009%20Dublado",
   },
   {
     num: "155",
-    name: "dragon-ball-kai-dublado",
+    name: "Dragon%20Ball%20Kai%202009%20Dublado",
   },
   {
     num: "156",
-    name: "dragon-ball-kai-dublado",
+    name: "Dragon%20Ball%20Kai%202009%20Dublado",
   },
   {
     num: "157",
-    name: "dragon-ball-kai-dublado",
+    name: "Dragon%20Ball%20Kai%202009%20Dublado",
   },
   {
     num: "158",
-    name: "dragon-ball-kai-dublado",
+    name: "Dragon%20Ball%20Kai%202009%20Dublado",
   },
   {
     num: "159",
-    name: "dragon-ball-kai-dublado",
+    name: "Dragon%20Ball%20Kai%202009%20Dublado",
   },
   {
     num: "160",
-    name: "dragon-ball-kai-dublado",
+    name: "Dragon%20Ball%20Kai%202009%20Dublado",
   },
   {
     num: "161",
-    name: "dragon-ball-kai-dublado",
+    name: "Dragon%20Ball%20Kai%202009%20Dublado",
   },
   {
     num: "162",
-    name: "dragon-ball-kai-dublado",
+    name: "Dragon%20Ball%20Kai%202009%20Dublado",
   },
   {
     num: "163",
-    name: "dragon-ball-kai-dublado",
+    name: "Dragon%20Ball%20Kai%202009%20Dublado",
   },
   {
     num: "164",
-    name: "dragon-ball-kai-dublado",
+    name: "Dragon%20Ball%20Kai%202009%20Dublado",
   },
   {
     num: "165",
-    name: "dragon-ball-kai-dublado",
+    name: "Dragon%20Ball%20Kai%202009%20Dublado",
   },
   {
     num: "166",
-    name: "dragon-ball-kai-dublado",
+    name: "Dragon%20Ball%20Kai%202009%20Dublado",
   },
   {
     num: "167",
-    name: "dragon-ball-kai-dublado",
+    name: "Dragon%20Ball%20Kai%202009%20Dublado",
   },
 ];

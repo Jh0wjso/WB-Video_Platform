@@ -3,258 +3,258 @@ import { EpInfo }  from '../EpContent'
 export const GTSeasonOneData : EpInfo[] = [
     {
         num: "01",
-        name: "dragon-ball-gt-dublado-3-temporada-dublado",
+        name: "Dragon%20Ball%20GT%20Dublado",
     },
     {
         num: "02",
-        name: "dragon-ball-gt-dublado-3-temporada-dublado",
+        name: "Dragon%20Ball%20GT%20Dublado",
     },
     {
         num: "03",
-        name: "dragon-ball-gt-dublado-3-temporada-dublado",
+        name: "Dragon%20Ball%20GT%20Dublado",
     },
     {
         num: "04",
-        name: "dragon-ball-gt-dublado-3-temporada-dublado",
+        name: "Dragon%20Ball%20GT%20Dublado",
     },
     {
         num: "05",
-        name: "dragon-ball-gt-dublado-3-temporada-dublado",
+        name: "Dragon%20Ball%20GT%20Dublado",
     },
     {
         num: "06",
-        name: "dragon-ball-gt-dublado-3-temporada-dublado",
+        name: "Dragon%20Ball%20GT%20Dublado",
     },
     {
         num: "07",
-        name: "dragon-ball-gt-dublado-3-temporada-dublado",
+        name: "Dragon%20Ball%20GT%20Dublado",
     },
     {
         num: "08",
-        name: "dragon-ball-gt-dublado-3-temporada-dublado",
+        name: "Dragon%20Ball%20GT%20Dublado",
     },
     {
         num: "09",
-        name: "dragon-ball-gt-dublado-3-temporada-dublado",
+        name: "Dragon%20Ball%20GT%20Dublado",
     },
     {
         num: "10",
-        name: "dragon-ball-gt-dublado-3-temporada-dublado",
+        name: "Dragon%20Ball%20GT%20Dublado",
     },
     {
         num: "11",
-        name: "dragon-ball-gt-dublado-3-temporada-dublado",
+        name: "Dragon%20Ball%20GT%20Dublado",
     },
     {
         num: "12",
-        name: "dragon-ball-gt-dublado-3-temporada-dublado",
+        name: "Dragon%20Ball%20GT%20Dublado",
     },
     {
         num: "13",
-        name: "dragon-ball-gt-dublado-3-temporada-dublado",
+        name: "Dragon%20Ball%20GT%20Dublado",
     },
     {
         num: "14",
-        name: "dragon-ball-gt-dublado-3-temporada-dublado",
+        name: "Dragon%20Ball%20GT%20Dublado",
     },
     {
         num: "15",
-        name: "dragon-ball-gt-dublado-3-temporada-dublado",
+        name: "Dragon%20Ball%20GT%20Dublado",
     },
     {
         num: "16",
-        name: "dragon-ball-gt-dublado-3-temporada-dublado",
+        name: "Dragon%20Ball%20GT%20Dublado",
     },
     {
         num: "17",
-        name: "dragon-ball-gt-dublado-3-temporada-dublado",
+        name: "Dragon%20Ball%20GT%20Dublado",
     },
     {
         num: "18",
-        name: "dragon-ball-gt-dublado-3-temporada-dublado",
+        name: "Dragon%20Ball%20GT%20Dublado",
     },
     {
         num: "19",
-        name: "dragon-ball-gt-dublado-3-temporada-dublado",
+        name: "Dragon%20Ball%20GT%20Dublado",
     },
     {
         num: "20",
-        name: "dragon-ball-gt-dublado-3-temporada-dublado",
+        name: "Dragon%20Ball%20GT%20Dublado",
     },
     {
         num: "21",
-        name: "dragon-ball-gt-dublado-3-temporada-dublado",
+        name: "Dragon%20Ball%20GT%20Dublado",
     },
     {
         num: "22",
-        name: "dragon-ball-gt-dublado-3-temporada-dublado",
+        name: "Dragon%20Ball%20GT%20Dublado",
     },
     {
         num: "23",
-        name: "dragon-ball-gt-dublado-3-temporada-dublado",
+        name: "Dragon%20Ball%20GT%20Dublado",
     },
     {
         num: "24",
-        name: "dragon-ball-gt-dublado-3-temporada-dublado",
+        name: "Dragon%20Ball%20GT%20Dublado",
     },
     {
         num: "25",
-        name: "dragon-ball-gt-dublado-3-temporada-dublado",
+        name: "Dragon%20Ball%20GT%20Dublado",
     },
     {
         num: "26",
-        name: "dragon-ball-gt-dublado-3-temporada-dublado",
+        name: "Dragon%20Ball%20GT%20Dublado",
     },
     {
         num: "27",
-        name: "dragon-ball-gt-dublado-3-temporada-dublado",
+        name: "Dragon%20Ball%20GT%20Dublado",
     },
     {
         num: "28",
-        name: "dragon-ball-gt-dublado-3-temporada-dublado",
+        name: "Dragon%20Ball%20GT%20Dublado",
     },
     {
         num: "29",
-        name: "dragon-ball-gt-dublado-3-temporada-dublado",
+        name: "Dragon%20Ball%20GT%20Dublado",
     },
     {
         num: "30",
-        name: "dragon-ball-gt-dublado-3-temporada-dublado",
+        name: "Dragon%20Ball%20GT%20Dublado",
     },
     {
         num: "31",
-        name: "dragon-ball-gt-dublado-3-temporada-dublado",
+        name: "Dragon%20Ball%20GT%20Dublado",
     },
     {
         num: "32",
-        name: "dragon-ball-gt-dublado-3-temporada-dublado",
+        name: "Dragon%20Ball%20GT%20Dublado",
     },
     {
         num: "33",
-        name: "dragon-ball-gt-dublado-3-temporada-dublado",
+        name: "Dragon%20Ball%20GT%20Dublado",
     },
     {
         num: "34",
-        name: "dragon-ball-gt-dublado-3-temporada-dublado",
+        name: "Dragon%20Ball%20GT%20Dublado",
     },
     {
         num: "35",
-        name: "dragon-ball-gt-dublado-3-temporada-dublado",
+        name: "Dragon%20Ball%20GT%20Dublado",
     },
     {
         num: "36",
-        name: "dragon-ball-gt-dublado-3-temporada-dublado",
+        name: "Dragon%20Ball%20GT%20Dublado",
     },
     {
         num: "37",
-        name: "dragon-ball-gt-dublado-3-temporada-dublado",
+        name: "Dragon%20Ball%20GT%20Dublado",
     },
     {
         num: "38",
-        name: "dragon-ball-gt-dublado-3-temporada-dublado",
+        name: "Dragon%20Ball%20GT%20Dublado",
     },
     {
         num: "39",
-        name: "dragon-ball-gt-dublado-3-temporada-dublado",
+        name: "Dragon%20Ball%20GT%20Dublado",
     },
     {
         num: "40",
-        name: "dragon-ball-gt-dublado-3-temporada-dublado",
+        name: "Dragon%20Ball%20GT%20Dublado",
     },
     {
         num: "41",
-        name: "dragon-ball-gt-dublado-3-temporada-dublado",
+        name: "Dragon%20Ball%20GT%20Dublado",
     },
     {
         num: "42",
-        name: "dragon-ball-gt-dublado-3-temporada-dublado",
+        name: "Dragon%20Ball%20GT%20Dublado",
     },
     {
         num: "43",
-        name: "dragon-ball-gt-dublado-3-temporada-dublado",
+        name: "Dragon%20Ball%20GT%20Dublado",
     },
     {
         num: "44",
-        name: "dragon-ball-gt-dublado-3-temporada-dublado",
+        name: "Dragon%20Ball%20GT%20Dublado",
     },
     {
         num: "45",
-        name: "dragon-ball-gt-dublado-3-temporada-dublado",
+        name: "Dragon%20Ball%20GT%20Dublado",
     },
     {
         num: "46",
-        name: "dragon-ball-gt-dublado-3-temporada-dublado",
+        name: "Dragon%20Ball%20GT%20Dublado",
     },
     {
         num: "47",
-        name: "dragon-ball-gt-dublado-3-temporada-dublado",
+        name: "Dragon%20Ball%20GT%20Dublado",
     },
     {
         num: "48",
-        name: "dragon-ball-gt-dublado-3-temporada-dublado",
+        name: "Dragon%20Ball%20GT%20Dublado",
     },
     {
         num: "49",
-        name: "dragon-ball-gt-dublado-3-temporada-dublado",
+        name: "Dragon%20Ball%20GT%20Dublado",
     },
     {
         num: "50",
-        name: "dragon-ball-gt-dublado-3-temporada-dublado",
+        name: "Dragon%20Ball%20GT%20Dublado",
     },
     {
         num: "51",
-        name: "dragon-ball-gt-dublado-3-temporada-dublado",
+        name: "Dragon%20Ball%20GT%20Dublado",
     },
     {
         num: "52",
-        name: "dragon-ball-gt-dublado-3-temporada-dublado",
+        name: "Dragon%20Ball%20GT%20Dublado",
     },
     {
         num: "53",
-        name: "dragon-ball-gt-dublado-3-temporada-dublado",
+        name: "Dragon%20Ball%20GT%20Dublado",
     },
     {
         num: "54",
-        name: "dragon-ball-gt-dublado-3-temporada-dublado",
+        name: "Dragon%20Ball%20GT%20Dublado",
     },
     {
         num: "55",
-        name: "dragon-ball-gt-dublado-3-temporada-dublado",
+        name: "Dragon%20Ball%20GT%20Dublado",
     },
     {
         num: "56",
-        name: "dragon-ball-gt-dublado-3-temporada-dublado",
+        name: "Dragon%20Ball%20GT%20Dublado",
     },
     {
         num: "57",
-        name: "dragon-ball-gt-dublado-3-temporada-dublado",
+        name: "Dragon%20Ball%20GT%20Dublado",
     },
     {
         num: "58",
-        name: "dragon-ball-gt-dublado-3-temporada-dublado",
+        name: "Dragon%20Ball%20GT%20Dublado",
     },
     {
         num: "59",
-        name: "dragon-ball-gt-dublado-3-temporada-dublado",
+        name: "Dragon%20Ball%20GT%20Dublado",
     },
     {
         num: "60",
-        name: "dragon-ball-gt-dublado-3-temporada-dublado",
+        name: "Dragon%20Ball%20GT%20Dublado",
     },
     {
         num: "61",
-        name: "dragon-ball-gt-dublado-3-temporada-dublado",
+        name: "Dragon%20Ball%20GT%20Dublado",
     },
     {
         num: "62",
-        name: "dragon-ball-gt-dublado-3-temporada-dublado",
+        name: "Dragon%20Ball%20GT%20Dublado",
     },
     {
         num: "63",
-        name: "dragon-ball-gt-dublado-3-temporada-dublado",
+        name: "Dragon%20Ball%20GT%20Dublado",
     },
     {
         num: "64",
-        name: "dragon-ball-gt-dublado-3-temporada-dublado",
+        name: "Dragon%20Ball%20GT%20Dublado",
     },
 ];
