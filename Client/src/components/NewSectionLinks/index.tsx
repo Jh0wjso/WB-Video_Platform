@@ -13,7 +13,7 @@ export default function NewSectionLinks(obj: {name: string, num: string }) {
       to={`/video2/${obj.name}/${obj.num}`}
       className="linkToEpisode"
     >
-      Episodio {parseInt(obj.num) < 10 ? "0"+obj.num : obj.num}
+      Episodio {obj.num}
     </Link>
   );
 }

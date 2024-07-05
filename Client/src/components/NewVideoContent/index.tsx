@@ -12,7 +12,7 @@ export default function NewVideoContent({ number, url }: InfoVideo) {
         Episodio: <br /> {url}
       </h1>
       <iframe
-        src={`https://ns558972.ip-54-39-50.net/Animes/D/${number}/${url}.MP4?nocache`}
+        src={`https://mangas.cloud/Animes/Letra-D/${number}/${url}.mp4`}
         height="100%"
         width="100%"
         allowFullScreen
@@ -21,7 +21,7 @@ export default function NewVideoContent({ number, url }: InfoVideo) {
       <div className="containerHelp">
         <h3 className="helpText">Algum problema com o vídeo?</h3>
         <a
-          href={`https://ns558972.ip-54-39-50.net/Animes/D//${url}.MP4?nocache`}
+          href={`https://mangas.cloud/Animes/Letra-D/${number}/${url}.mp4`}
           target="_blank"
           className="btnHelp"
         >
