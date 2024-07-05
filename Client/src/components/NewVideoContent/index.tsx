@@ -11,7 +11,7 @@ export default function NewVideoContent({ number, url }: InfoVideo) {
         src={`https://mangas.cloud/Animes/Letra-D/${number}/${url}.mp4`}
         height="100%"
         width="100%"
-        className="videoPlayer"
+        className="videoContent"
         controls={true}
         poster={
           "https://i.pinimg.com/736x/76/7b/61/767b61bd84f46d3c458d94ad15a6796d.jpg"
