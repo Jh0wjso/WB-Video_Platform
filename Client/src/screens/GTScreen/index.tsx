@@ -1,5 +1,6 @@
 import DBgtSerie from "../../components/DragonBallGT/MainSerie";
-import SeasonOneGT from "../../components/DragonBallGT/SeasonOne";
+import EpisodesList from "../../components/EpisodesList/EpisodesLists";
+import { GTSeasonOneData } from "../../data/GT/GTSeasonOne.data";
 
 export default function GTScreen() {
   return (
@@ -12,7 +13,7 @@ export default function GTScreen() {
         <h1 className="text-start text-xl text-gray-400">
           Ano de lançamento: 1996
         </h1>
-        <SeasonOneGT />
+        <EpisodesList episodes={GTSeasonOneData} />
       </div>
     </div>
   );

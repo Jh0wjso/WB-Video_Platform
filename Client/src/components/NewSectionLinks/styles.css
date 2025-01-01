@@ -1,17 +1,18 @@
-.linkToEpisode{
-    @apply rounded text-center bg-orange-400 text-white font-bold p-5 text-xl;
-    @apply flex flex-col m-2 w-[30vh];
-    @apply hover:bg-orange-600;
+.linkToEpisode {
+  @apply rounded text-center text-white font-bold p-5 flex justify-center items-start;
+  @apply flex flex-col m-2 w-[30vh] gap-3;
+
+  font-family: "Roboto", sans-serif;
 }
 
-.episodeButtons{
-    @apply flex flex-row my-1;
+.episodeButtons {
+  @apply flex flex-row my-1;
 }
 
 /*1150*/
 
-@media screen and (max-width: 1150px){
-    .episodeButtons{
-        @apply flex flex-col my-5;
-    }
+@media screen and (max-width: 1150px) {
+  .episodeButtons {
+    @apply flex flex-col my-5;
+  }
 }

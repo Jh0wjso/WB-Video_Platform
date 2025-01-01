@@ -1,31 +1,37 @@
-import "../styles.css";
+import "./styles.css";
 import { useState } from "react";
 import styled from "styled-components";
 import { Box, Button } from "@mui/material";
-import { DBHSeasonOneData } from "../../../data/DBH/DBHSeasonOne.data";
-import SectionLinks from "../../SectionLinks";
+import { EpInfo } from "../../data/EpContent";
+import { DBZSeasonOneData } from "../../data/DBZ/DragonBallZSeasonOne.data";
+import NewSectionLinks from "../NewSectionLinks";
 
-const ITEMS_PER_PAGE = 10; // Ajuste conforme necessário
+const ITEMS_PER_PAGE = 54;
 
-export default function SeasonOneHeroes() {
+interface EpisodesListProps {
+  episodes: EpInfo[];
+}
+
+export default function EpisodesList({ episodes }: EpisodesListProps) {
   const [currentPage, setCurrentPage] = useState(1);
-  const totalPages = Math.ceil(DBHSeasonOneData.length / ITEMS_PER_PAGE);
+  const totalPages = Math.ceil(episodes.length / ITEMS_PER_PAGE);
 
   const handlePageChange = (newPage: number) => {
     setCurrentPage(newPage);
   };
 
   const startIndex = (currentPage - 1) * ITEMS_PER_PAGE;
-  const selectedItems = DBHSeasonOneData.slice(
-    startIndex,
-    startIndex + ITEMS_PER_PAGE
-  );
+  const selectedItems = episodes.slice(startIndex, startIndex + ITEMS_PER_PAGE);
 
   return (
     <Box marginTop={8}>
       <Container>
         {selectedItems.map((item) => (
-          <SectionLinks key={item.num} num={`${item.num}`} url={`${item.name}`} />
+          <NewSectionLinks
+            key={item.num}
+            num={`${item.num}`}
+            name={`${item.name}`}
+          />
         ))}
       </Container>
       <Pagination>

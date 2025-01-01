@@ -1,6 +1,7 @@
-import SeasonOne from "../../components/DragonBall/SeasonOne";
 import "./styles.css";
 import DBSerie from "../../components/DragonBall/MainSerie";
+import EpisodesList from "../../components/EpisodesList/EpisodesLists";
+import { DBSeasonOneData } from "../../data/Classic/DBSeasonOne.data";
 
 export default function ClassicScreen() {
   return (
@@ -13,7 +14,7 @@ export default function ClassicScreen() {
         <h1 className="text-start text-xl text-gray-400">
           Ano de lançamento: 1986
         </h1>
-        <SeasonOne />
+        <EpisodesList episodes={DBSeasonOneData} />
       </div>
     </div>
   );

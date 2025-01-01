@@ -1,5 +1,6 @@
 import DBSuperSerie from "../../components/DragonBallSuper/MainSerie";
-import SeasonOneSuper from "../../components/DragonBallSuper/SeasonOne";
+import EpisodesList from "../../components/EpisodesList/EpisodesLists";
+import { DBSSeasonOneData } from "../../data/DBS/DBSSeasonOne.data";
 import "./styles.css";
 
 export default function DBSuperScreen() {
@@ -13,7 +14,7 @@ export default function DBSuperScreen() {
         <h1 className="text-start text-xl text-gray-400">
           Ano de lançamento: 2009
         </h1>
-        <SeasonOneSuper />
+        <EpisodesList episodes={DBSSeasonOneData} />
       </div>
     </div>
   );
