@@ -3,10 +3,9 @@ import { useState } from "react";
 import styled from "styled-components";
 import { Box, Button } from "@mui/material";
 import { EpInfo } from "../../data/EpContent";
-import { DBZSeasonOneData } from "../../data/DBZ/DragonBallZSeasonOne.data";
 import NewSectionLinks from "../NewSectionLinks";
 
-const ITEMS_PER_PAGE = 54;
+const ITEMS_PER_PAGE = 12;
 
 interface EpisodesListProps {
   episodes: EpInfo[];
@@ -31,6 +30,7 @@ export default function EpisodesList({ episodes }: EpisodesListProps) {
             key={item.num}
             num={`${item.num}`}
             name={`${item.name}`}
+            url={`https://mangas.cloud/Animes/Letra-D/${item.name}/${item.num}.mp4`}
           />
         ))}
       </Container>

@@ -1,4 +1,4 @@
 export type EpInfo = {
-    num: string
-    name: string
-}
+  num: string;
+  name: string;
+};

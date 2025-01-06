@@ -1,12 +1,12 @@
-import { useRef, useEffect } from "react";
+import { useRef, useEffect, useState } from "react";
 
-export default function VideoThumbnail() {
-  const videoUrl =
-    "https://mangas.cloud/Animes/Letra-D/Dragon%20Ball%20Classico/001.mp4";
+export default function VideoThumbnail(obj: { url: string }) {
+  const videoUrl = obj.url;
   const videoRef = useRef<HTMLVideoElement>(null);
-  const targetTime = Math.floor(Math.random() * 50);
+  const [targetTime, setTargetTime] = useState(0);
 
   useEffect(() => {
+    setTargetTime(Math.floor(Math.random() * 500));
     const video = videoRef.current;
     if (video) {
       video.addEventListener("loadeddata", () => {

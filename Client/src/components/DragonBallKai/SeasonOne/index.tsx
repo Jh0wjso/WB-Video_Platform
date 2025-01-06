@@ -11,6 +11,7 @@ export default function SeasonOneKai() {
           <NewSectionLinks
             name={`${item.name}`}
             num={`${item.num}`}
+            url={`https://mangas.cloud/Animes/Letra-D/${item.name}/${item.num}`}
           />
         ))}
       </section>
