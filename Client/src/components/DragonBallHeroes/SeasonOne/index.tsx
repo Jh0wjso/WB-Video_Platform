@@ -44,14 +44,28 @@ export default function SeasonOneHeroes() {
 }
 
 const Container = styled.div`
-  max-width: 98vw;
+  min-width: 98vw;
+  max-width: 100%; /* Certifique-se de que o container pode expandir */
   display: flex;
-  justify-content: center;
   flex-wrap: wrap;
+  gap: 10px;
+  justify-content: center;
+  align-items: center;
+
+  > * {
+    flex: 1 1 calc(20% - 10px); /* Ajuste para o número desejado de itens por linha */
+    min-width: 150px; /* Largura mínima */
+    box-sizing: border-box;
+    justify-content: center;
+    align-items: center;
+  }
 `;
+
 
 const Pagination = styled.div`
   display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
   justify-content: center;
   margin-top: 20px;
   margin-bottom: 30px;
