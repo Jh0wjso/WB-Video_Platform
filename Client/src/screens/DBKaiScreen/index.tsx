@@ -1,6 +1,7 @@
 import "./styles.css";
-import SeasonOneKai from "../../components/DragonBallKai/SeasonOne";
 import DBKaiSerie from "../../components/DragonBallKai/MainSerie";
+import EpisodesList from "../../components/EpisodesList/EpisodesLists";
+import { DBKSeasonOneData } from "../../data/DBK/DBKSeasonOne.data";
 
 export default function DBKaiScreen() {
   return (
@@ -13,7 +14,7 @@ export default function DBKaiScreen() {
         <h1 className="text-start text-xl text-gray-400">
           Ano de lançamento: 2009
         </h1>
-        <SeasonOneKai />
+        <EpisodesList episodes={DBKSeasonOneData} />
       </div>
     </div>
   );

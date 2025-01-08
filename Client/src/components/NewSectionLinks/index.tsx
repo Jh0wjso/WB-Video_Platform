@@ -1,19 +1,16 @@
 import { Link } from "react-router-dom";
-import "./styles.css"
+import "./styles.css";
+import VideoThumbnail from "./VideoThumbnail";
 
-interface LinksDB {
+export default function NewSectionLinks(obj: {
   name: string;
-  number: string;
-  obj:object;
-}
-
-export default function NewSectionLinks(obj: {name: string, num: string }) {
+  num: string;
+  url: string;
+}) {
   return (
-    <Link
-      to={`/video2/${obj.name}/${obj.num}`}
-      className="linkToEpisode"
-    >
-      Episodio {obj.num}
+    <Link to={`/video2/${obj.name}/${obj.num}`} className="linkToEpisode">
+      <VideoThumbnail url={obj.url} />
+      Episódio {obj.num}
     </Link>
   );
 }

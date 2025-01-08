@@ -1,6 +1,7 @@
 import "./styles.css";
-import SeasonOneBbz from "../../components/DragonBallZ/SeasonOne";
 import DBZSerie from "../../components/DragonBallZ/MainSerie";
+import { DBZSeasonOneData } from "../../data/DBZ/DragonBallZSeasonOne.data";
+import EpisodesList from "../../components/EpisodesList/EpisodesLists";
 
 export default function DBZScreen() {
   return (
@@ -14,7 +15,7 @@ export default function DBZScreen() {
       <h1 className="text-start text-xl text-gray-400">
         Ano de lançamento: 1989
       </h1>
-      <SeasonOneBbz />
+      <EpisodesList episodes={DBZSeasonOneData} />
     </div>
   </div>
   );
