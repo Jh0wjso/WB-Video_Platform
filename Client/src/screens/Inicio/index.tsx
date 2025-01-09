@@ -1,7 +1,6 @@
 import "./styles.css";
 
 import Home from "../../components/Home";
-import Sidebar from "../../components/SideBar";
 import Header from "../../components/Header";
 
 export default function Inicio() {

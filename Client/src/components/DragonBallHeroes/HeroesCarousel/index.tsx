@@ -1,6 +1,5 @@
 import Carousel from "better-react-carousel";
 import { Link } from "react-router-dom";
-import DbH from "../../../images/capaDBH.jpg";
 import "./styles.css";
 import { HeroesCarouselData } from "../../../data/Carousel/HeroesCarousel.data";
 

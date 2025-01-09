@@ -1,12 +1,6 @@
 import { Link } from "react-router-dom";
 import "./styles.css"
 
-interface LinksDB {
-  name: string;
-  number: string;
-  obj:object;
-}
-
 export default function NewSectionLinksAlternative(obj: {name: string, num: string }) {
   return (
     <Link

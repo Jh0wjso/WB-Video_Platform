@@ -1,7 +1,5 @@
-import DBHeroesAbstract from "../../components/DragonBallHeroes/DBHeroesAbstract";
 import DBHeroesSerie from "../../components/DragonBallHeroes/MainSerie";
 import SeasonOneHeroes from "../../components/DragonBallHeroes/SeasonOne";
-import MovieContentZ from "../../components/DragonBallZ/MovieContentZ";
 import "./styles.css";
 
 export default function DBHeroesScreen() {

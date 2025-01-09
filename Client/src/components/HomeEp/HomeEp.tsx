@@ -1,5 +1,4 @@
 import { Link } from "react-router-dom";
-import { DbzEpData } from "../../data/Carousel/DragonballZEps.data";
 import "./styles.css";
 import { DBSCarouselData } from "../../data/Carousel/DBZCarousel.data";
 

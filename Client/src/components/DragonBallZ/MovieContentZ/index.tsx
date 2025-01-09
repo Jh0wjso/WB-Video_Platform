@@ -1,4 +1,4 @@
-import Carousel, { Item } from "better-react-carousel";
+import Carousel from "better-react-carousel";
 import { Link } from "react-router-dom";
 import "./styles.css";
 import { MovieZData } from "../../../data/Movies/MovieZcontent.data";
