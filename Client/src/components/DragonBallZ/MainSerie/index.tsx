@@ -1,4 +1,3 @@
-import { Link } from "react-router-dom";
 import "./styles.css";
 import Header from "../../Header";
 import { DBZDesc } from "../../../data/DBZ/DBZdesc.data";

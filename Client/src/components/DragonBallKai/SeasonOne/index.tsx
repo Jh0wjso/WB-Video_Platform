@@ -1,6 +1,5 @@
 import "../styles.css";
 import { DBKSeasonOneData } from "../../../data/DBK/DBKSeasonOne.data";
-import NewSectionLinksAlternative from "../../NewSectionLinksAlternative";
 import NewSectionLinks from "../../NewSectionLinks";
 
 export default function SeasonOneKai() {

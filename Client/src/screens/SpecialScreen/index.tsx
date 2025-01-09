@@ -1,8 +1,5 @@
 import { Link } from "react-router-dom";
 
-import Um from "../../images/Special/1.jpeg";
-import Dois from "../../images/Special/2.jpeg";
-import Tres from "../../images/Special/3.jpeg";
 import { SpecialData } from "../../data/Movies/Special.data";
 import { IoIosPlayCircle } from "react-icons/io";
 import Header from "../../components/Header";

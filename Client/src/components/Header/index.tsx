@@ -1,7 +1,6 @@
 import { useState } from "react";
 import { Link } from "react-router-dom"
 import { HeaderContent } from "../../data/Header/HeaderContent.data";
-import SubHeader from "../SubHeader";
 import "./styles.css";
 
 export default function Header() {
