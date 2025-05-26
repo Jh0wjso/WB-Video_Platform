@@ -23,7 +23,15 @@ export default function EpisodesList({ episodes }: EpisodesListProps) {
   const selectedItems = episodes.slice(startIndex, startIndex + ITEMS_PER_PAGE);
 
   return (
-    <Box marginTop={8}>
+    <Box
+      marginTop={8}
+      sx={{
+        display: "flex",
+        flexDirection: "column",
+        alignItems: "center",
+        justifyContent: "center",
+      }}
+    >
       <Container>
         {selectedItems.map((item) => (
           <NewSectionLinks
@@ -67,8 +75,8 @@ const Container = styled.div`
   }
 `;
 
-
 const Pagination = styled.div`
+  width: 60%;
   display: flex;
   flex-wrap: wrap;
   gap: 10px;
@@ -90,5 +98,9 @@ const Pagination = styled.div`
       background-color: #ffffff;
       color: #f16819;
     }
+  }
+
+  @media (max-width: 800px) {
+    width: 90%;
   }
 `;
